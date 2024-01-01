@@ -26747,7 +26747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G Got it!"
                             ]
                         },
                         {
@@ -26993,7 +26993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G I've got it!"
                             ]
                         },
                         {
@@ -27130,7 +27130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -27169,7 +27169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -27606,14 +27606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（先生、嘘付いちゃってごめんなさい）"
+                                "Yui: \"Teacher, I'm sorry for lying.\""
                             ]
                         },
                         {
@@ -27637,14 +27630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（でも……どうしても行かなきゃならないの）"
+                                "Yui: \"But... I really must go.\""
                             ]
                         },
                         {
@@ -28057,14 +28043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何急いでるのかしら守崎のやつ……」"
+                                "???: \"I wonder why Morisaki is in such a hurry...\""
                             ]
                         },
                         {
