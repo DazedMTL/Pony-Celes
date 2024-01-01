@@ -4741,7 +4741,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "着替えの瞬間が鮮明に焼き付いた\\N[6]の記憶",
+    "description": "着替えの瞬間が鮮明に焼き付いたギンガの記憶",
     "effects": [
       {
         "code": 44,
@@ -4754,7 +4754,7 @@
     "iconIndex": 288,
     "itypeId": 2,
     "name": "天沢の記憶",
-    "note": "itemMaxNum:1\n【\\i[288]\\N[6]の記憶】を手に入れた！",
+    "note": "itemMaxNum:1\n【\\i[288]ギンガの記憶】を手に入れた！",
     "occasion": 2,
     "price": 0,
     "repeats": 1,
@@ -4774,7 +4774,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "初めて\\N[6]の手を握った甘い想い出",
+    "description": "初めてギンガの手を握った甘い想い出",
     "effects": [
       {
         "code": 44,
@@ -4807,7 +4807,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "肉マサ屋のコロッケを\\N[6]と二人で食べた時の想い出",
+    "description": "肉マサ屋のコロッケをギンガと二人で食べた時の想い出",
     "effects": [
       {
         "code": 44,
@@ -4840,7 +4840,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "新しく買った水着を\\N[6]に自慢した時の想い出",
+    "description": "新しく買った水着をギンガに自慢した時の想い出",
     "effects": [
       {
         "code": 44,
@@ -4873,7 +4873,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "プールで\\N[6]と遊んだ想い出",
+    "description": "プールでギンガと遊んだ想い出",
     "effects": [
       {
         "code": 44,
@@ -4906,7 +4906,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "\\N[6]と抱き合った想い出",
+    "description": "ギンガと抱き合った想い出",
     "effects": [
       {
         "code": 44,
