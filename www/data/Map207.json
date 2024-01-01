@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園２Ｆ",
+    "displayName": "Shoto Academy 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -24079,14 +24079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西から東へかけて、グルダス地区、フォルス地区、ダイノス地区、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アーバン地区と区分けされている。"
+                                "From west to east, the areas are divided into the Grudas District, the\nForus District, the Dinos District, and the Arban District."
                             ]
                         },
                         {
@@ -26835,14 +26828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメよ、わたしったら！ 非常事態でも男子トイレは……」"
+                                "Pony-Ceres: \"No, I mustn't! Even in an emergency, the boys' restroom\nis...\""
                             ]
                         },
                         {
@@ -26975,14 +26961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠状態の女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス……ここから……先には……行かせない……」"
+                                "Hypnotized female student: \"Pony-Celes... You shall not pass... beyond\nhere...\""
                             ]
                         },
                         {
@@ -27176,21 +27155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女の子を攻撃するわけにもいかないし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　催眠状態を解かないと通れないわね）"
+                                "Pony-Celes: (I can't attack a girl... I need to break her out of\nhypnosis before I can get through.)"
                             ]
                         },
                         {
@@ -27396,7 +27361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -27435,7 +27400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -27955,14 +27920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠状態の女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス……ここから……先には……行かせない……」"
+                                "Hypnotized female student: \"Pony-Celes... you shall not pass... beyond\nhere...\""
                             ]
                         },
                         {
@@ -28156,21 +28114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女の子を攻撃するわけにもいかないし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　催眠状態を解かないと通れないわね）"
+                                "Pony-Celes: (I can't just attack the girl... I need to break her out\nof hypnosis before I can get through.)"
                             ]
                         },
                         {
@@ -28433,14 +28377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見つけたわよ！」"
+                                "Pony-Celest: \"I've found you!\""
                             ]
                         },
                         {
@@ -28538,14 +28475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！？」"
+                                "Principal: \"Pony-Celest!?\""
                             ]
                         },
                         {
@@ -28562,14 +28492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「催眠電波が消えた原因はお前のせいでしたか……」"
+                                "Principal: \"So it was you who caused the hypnotic waves to\ndisappear...\""
                             ]
                         },
                         {
@@ -28586,14 +28509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっかく時間をかけて作った装置をよくも壊してくれましたね」"
+                                "Principal: \"You've done well to destroy the device I spent so much\ntime creating.\""
                             ]
                         },
                         {
@@ -28624,14 +28540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さんから離れなさい！」"
+                                "Pony-Celest: \"Stay away from Saionji-san!\""
                             ]
                         },
                         {
@@ -28648,14 +28557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！」"
+                                "Principal: \"Tch!\""
                             ]
                         },
                         {
@@ -29793,14 +29695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げても無駄よ。絶対に見つけてあげるわ！」"
+                                "Pony-Celest: \"It's useless to run. I will definitely find you!\""
                             ]
                         },
                         {
@@ -30594,21 +30489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は怪しいと……思って……たんだ……理事長……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたが……避難施設を……作ると言い出した時に……」"
+                                "Combatant: \"I had my suspicions... when you... the principal...\nproposed to... build a... shelter...\""
                             ]
                         },
                         {
@@ -30979,14 +30860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっかく……追試……自信あった……のに……」"
+                                "Minion: \"After all that effort... the makeup exam... I was so\nconfident... and yet...\""
                             ]
                         },
                         {
@@ -31074,7 +30948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスは冷水機を使った。"
+                                "Pony-Celes used the water cooler."
                             ]
                         },
                         {
@@ -31114,7 +30988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Throat moisturized! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -31191,7 +31065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#●月●日、新理事長就任"
+                                "●Month●Day, New Chairman's Inauguration"
                             ]
                         },
                         {
@@ -31268,21 +31142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#２年生期末テスト●月●日実施"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#１位：高野ツバメ　２位：天沢Ginga　３位：森藤ヒカリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "～～････　８０位：守崎ユイ　８１位：木頭ワルオ　８２位：福村ヤスオ"
+                                "2nd Year Final Exam conducted on ● Month ● Day 1st Place: Takano\nTsubame 2nd Place: Amasawa Ginga 3rd Place: Moritou Hikari ~ ~ ...\n80th Place: Morisaki Yui 81st Place: Kito Waruo 82nd Place: Fukumura\nYasuo"
                             ]
                         },
                         {
@@ -31369,7 +31229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "消火器が設置させている。"
+                                "A fire extinguisher is installed."
                             ]
                         },
                         {
@@ -31447,7 +31307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#●月●日、新理事長就任"
+                                "●Month ●Day, New Chairman's Inauguration"
                             ]
                         },
                         {
@@ -31524,14 +31384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西から東へかけて、グルダス地区、フォルス地区、ダイノス地区、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アーバン地区と区分けされている。"
+                                "Divided from west to east, there are the Grudas District, the Forus\nDistrict, the Dinos District, and the Arban District."
                             ]
                         },
                         {
@@ -31608,14 +31461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西から東へかけて、グルダス地区、フォルス地区、ダイノス地区、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アーバン地区と区分けされている。"
+                                "From west to east, it's divided into the Grudas District, the Forus\nDistrict, the Dinos District, and the Arban District."
                             ]
                         },
                         {
@@ -31692,7 +31538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "世界地図が飾られている。"
+                                "A world map is on display."
                             ]
                         },
                         {
@@ -31769,7 +31615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "世界地図が飾られている。"
+                                "A world map is on display."
                             ]
                         },
                         {
@@ -31847,21 +31693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#２年生期末テスト●月●日実施"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#１位：高野ツバメ　２位：天沢Ginga　３位：森藤ヒカリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "～～････　８０位：守崎ユイ　８１位：木頭ワルオ　８２位：福村ヤスオ"
+                                "2nd Year Final Exam Results Conducted on ● Month ● Day 1st Place:\nTakano Tsubame 2nd Place: Amasawa Ginga 3rd Place: Moritou Hikari ~ ~\n... 80th Place: Morisaki Yui 81st Place: Kito Waruo 82nd Place:\nFukumura Yasuo"
                             ]
                         },
                         {
@@ -31947,14 +31779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西から東へかけて、グルダス地区、フォルス地区、ダイノス地区、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アーバン地区と区分けされている。"
+                                "From west to east, the areas are divided into the Grudas District, the\nForus District, the Dinos District, and the Arban District."
                             ]
                         },
                         {
@@ -32031,7 +31856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "防犯用のブザーがある。"
+                                "There's a security buzzer."
                             ]
                         },
                         {
@@ -32048,7 +31873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Will you press it?"
                             ]
                         },
                         {
@@ -32056,8 +31881,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -32121,14 +31946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わたしったら何考えてるのよ････ダメに決まってるでしょ！」"
+                                "Yui: \"What am I thinking... Of course, I shouldn't!\""
                             ]
                         },
                         {
@@ -32244,7 +32062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "防犯用のブザーがある。"
+                                "There's a security buzzer."
                             ]
                         },
                         {
@@ -32261,7 +32079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Do you press it?"
                             ]
                         },
                         {
@@ -32269,8 +32087,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -32357,14 +32175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんだ！なんだ！何事だ！？」"
+                                "???: \"What's that! What's that! What's going on!?\""
                             ]
                         },
                         {
@@ -32612,14 +32423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "マスクを被った男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「や、やべえっ！！」"
+                                "Man in a mask: \"Crap, this is bad!!\""
                             ]
                         },
                         {
@@ -32956,7 +32760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "防犯用のブザーがある。"
+                                "There's a security buzzer."
                             ]
                         },
                         {
@@ -32973,7 +32777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Will you press it?"
                             ]
                         },
                         {
@@ -32981,8 +32785,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -33046,14 +32850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わたしったら何考えてるのよ････ダメに決まってるでしょ！」"
+                                "Yui: \"What am I thinking... Of course, I can't do that!\""
                             ]
                         },
                         {

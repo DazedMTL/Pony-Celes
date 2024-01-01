@@ -13061,14 +13061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスのおかげで孫が元気に遊ぶ姿を見る事が出来るんじゃ」"
+                                "Tomozou: \"Thanks to Pony-Celes, I can see my grandchild playing\nenergetically.\""
                             ]
                         },
                         {
@@ -13085,14 +13078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝しかないのぉ～」"
+                                "Tomozou: \"I'm nothing but grateful~\""
                             ]
                         },
                         {
@@ -13169,14 +13155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ～い、わ～い！」"
+                                "Shunsuke: \"Yay, yay!\""
                             ]
                         },
                         {
@@ -13193,21 +13172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスがザイダーグをやっつけてくれたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつまでも公園で遊んでいいんだってさ」"
+                                "Shunsuke: \"Pony-Ceres defeated Zaidar-G, so we can play in the park\nforever!\""
                             ]
                         },
                         {
@@ -13224,14 +13189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ～い、わ～い！」"
+                                "Shunsuke: \"Yay, yay!\""
                             ]
                         },
                         {
@@ -13516,14 +13474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「街はいつもと変わりない･････」"
+                                "Ginga: \"The town is the same as always...\""
                             ]
                         },
                         {
@@ -13540,14 +13491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイはあいつに勝てたんだろうか･･････」"
+                                "Ginga: \"I wonder if Yui was able to beat him...\""
                             ]
                         },
                         {
@@ -13803,14 +13747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの活躍凄かったよね」"
+                                "Takeshi: \"Pony Ceres' performance was amazing, wasn't it?\""
                             ]
                         },
                         {
@@ -13827,21 +13764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区の激闘！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついにザイダーグの幹部をやっつけたんだもん」"
+                                "Takeshi: \"The fierce battle in the Urban District! We finally took\ndown a Zaidarg's executive.\""
                             ]
                         },
                         {
@@ -13858,14 +13781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生中継みてて、興奮したよ！」"
+                                "Takeshi: \"Watching the live broadcast got me so excited!\""
                             ]
                         },
                         {
@@ -13882,14 +13798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグもあれに凝りて当分は悪さしないだろうね」"
+                                "Takeshi: \"After that blow, Zaidarg will probably lay low for a while,\nhuh?\""
                             ]
                         },
                         {
@@ -13966,14 +13875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区を救ったあの男の子、名前はなんだっけ……」"
+                                "サエコ: \"The boy who saved the A-Ban district, what was his name...\""
                             ]
                         },
                         {
@@ -13990,14 +13892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鮫……山？ う～ん、忘れちゃった」"
+                                "サエコ: \"Same...yama? Ugh, I forgot.\""
                             ]
                         },
                         {
@@ -14014,14 +13909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カッコいいし勇敢だし、ちょっと好きになりそうだわ」"
+                                "サエコ: \"He's cool and brave, I might be falling for him a little.\""
                             ]
                         },
                         {
@@ -14260,14 +14148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近はザイダーグも大人しくなったな」"
+                                "Worker: \"Lately, the Zydag have calmed down quite a bit.\""
                             ]
                         },
                         {
@@ -14284,14 +14165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これも全てポニーセレスとあの勇敢な男の子のおかげだ」"
+                                "Worker: \"This is all thanks to Pony-Ceres and that brave boy.\""
                             ]
                         },
                         {
@@ -14368,14 +14242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鍵がかかってる……」"
+                                "Ginga: \"It's locked...\""
                             ]
                         },
                         {
@@ -14392,14 +14259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイはどこに？」"
+                                "Ginga: \"Where is Yui?\""
                             ]
                         },
                         {
@@ -14416,14 +14276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……もしかして学校！？」"
+                                "Ginga: \"...Could it be the school!?\""
                             ]
                         },
                         {
@@ -14440,14 +14293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行ってみるしかないか」"
+                                "Ginga: \"I guess I have no choice but to go there.\""
                             ]
                         },
                         {
@@ -14700,14 +14546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -14724,14 +14563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかここで……」"
+                                "Ginga: \"If I remember correctly, it was right here...\""
                             ]
                         },
                         {
@@ -14971,7 +14803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -15048,7 +14880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -19666,14 +19498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　湘東学園前行き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　"
+                                "Bound for Shoto Academy"
                             ]
                         },
                         {

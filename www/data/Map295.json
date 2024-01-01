@@ -4414,14 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ここが歓楽街･････）"
+                                "Ginga: \"So this is the red-light district...\""
                             ]
                         },
                         {
@@ -4438,14 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こんな街にユイが･････）"
+                                "Ginga: \"Yui is in a place like this...\""
                             ]
                         },
                         {
@@ -4581,14 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フミヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、満席かよ」"
+                                "Fumiya: \"Tch, it's full?\""
                             ]
                         },
                         {
@@ -4605,14 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フミヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「久しぶりにクルミちゃんに会いたかったのに……」"
+                                "Fumiya: \"I wanted to see Kurumi-chan after such a long time...\""
                             ]
                         },
                         {
@@ -4725,14 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[18]（※引き返せないため、別枠でのセーブを推奨します）\\C[0]"
+                                "Would you like to save?\\C[18] (※Since you can't go back, it's\nrecommended to save in a separate slot.)\\C[0]"
                             ]
                         },
                         {
@@ -4740,8 +4705,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -5552,7 +5517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早くタクミのマンションに向かおう。"
+                                "Let's head to Takumi's apartment quickly."
                             ]
                         },
                         {
@@ -6114,14 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから西にいけばグルダス地区だ」"
+                                "Shuu: \"If we go west from here, we'll reach the Grudas district.\""
                             ]
                         },
                         {
@@ -6200,7 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酔っ払いが道を塞いでいる……"
+                                "A drunkard is blocking the way..."
                             ]
                         },
                         {
@@ -6277,14 +6235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マサシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前まだガキのくせにこんな場所うろつくんじゃねーぞ」"
+                                "マサシ: \"You're still a brat, don't loiter around places like this.\""
                             ]
                         },
                         {
@@ -6301,14 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マサシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなにおねーちゃんとイチャイチャしたいのか？」"
+                                "マサシ: \"Do you want to flirt with Onee-chan that badly?\""
                             ]
                         },
                         {
@@ -6385,14 +6329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ スカイハイ？」"
+                                "Gon: \"Hm? Sky High?\""
                             ]
                         },
                         {
@@ -6409,14 +6346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、そのマンションならここを北に行ったところにあるぜ」"
+                                "Gon: \"Ah, if you're looking for that apartment building, it's just\nnorth of here.\""
                             ]
                         },
                         {
@@ -6494,21 +6424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「只今、満席です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　またのご来店お待ちしております」"
+                                "Waiter: \"We are currently full. We look forward to your next visit.\""
                             ]
                         },
                         {
@@ -6585,21 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よぉ、兄ちゃん！ 可愛い女の子好きだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうだ、少しよっていかないか？」"
+                                "Gonzo: \"Hey, bro! You like cute girls, don't you? How about it, why\nnot stop by for a bit?\""
                             ]
                         },
                         {
@@ -6616,14 +6518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急いでいるので、遠慮させてもらいます」"
+                                "Ginga: \"I'm in a hurry, so I'll have to decline.\""
                             ]
                         },
                         {

@@ -5479,7 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監視カメラのスイッチのようだ。"
+                                "It seems to be the switch for the surveillance camera."
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作動させますか？"
+                                "Should I activate it?"
                             ]
                         },
                         {
@@ -5504,8 +5504,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5556,7 +5556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "監視カメラが作動した。"
+                                "The surveillance camera has been activated."
                             ]
                         },
                         {
@@ -5647,14 +5647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監視カメラは作動している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら寝室を映しているようだ。"
+                                "The surveillance camera is operational. It seems to be displaying the\nbedroom."
                             ]
                         },
                         {

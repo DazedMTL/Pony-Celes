@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園１Ｆ",
+    "displayName": "Shoto Academy 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -21079,7 +21079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -21912,7 +21912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この教室はまだ授業中のようだ。"
+                                "This classroom seems to still be in the middle of a lesson."
                             ]
                         },
                         {
@@ -22261,7 +22261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この教室はまだ授業中のようだ。"
+                                "It seems this classroom is still in the middle of a lesson."
                             ]
                         },
                         {
@@ -23384,21 +23384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっき体育館の方で悲鳴が聞こえたような気がしたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかしら」"
+                                "Female Student: \"I thought I heard a scream coming from the gym\nearlier, I wonder if something happened?\""
                             ]
                         },
                         {
@@ -23415,14 +23401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか今は女子柔道部が部活で使っているらしいけど……」"
+                                "Female Student: \"I believe the girls' judo club is using it for their\nclub activities right now...\""
                             ]
                         },
                         {
@@ -23514,21 +23493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「毒島先生が退職になったみたいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女子柔道部は誰が教えるのかしら……」"
+                                "Female Student: \"It seems like Dokushima-sensei has retired. I wonder\nwho will teach the girls' judo club now...\""
                             ]
                         },
                         {
@@ -24280,14 +24245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「廊下に誰もいないわ。完全に遅刻ね……」"
+                                "Yui: \"There's no one in the hallway. I'm completely late...\""
                             ]
                         },
                         {
@@ -24498,14 +24456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ 何してるのかだって？」"
+                                "Male Student: \"Hm? What am I doing, you ask?\""
                             ]
                         },
                         {
@@ -24522,14 +24473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミナミちゃんが出てくるのを待ってるんだ」"
+                                "Male Student: \"I'm waiting for Minami-chan to come out.\""
                             ]
                         },
                         {
@@ -24546,14 +24490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一年後輩だけど、とっても大人っぽくて……ふふふっ」"
+                                "Male Student: \"She's a year younger, but she's very mature-looking...\nhehehe.\""
                             ]
                         },
                         {
@@ -24570,14 +24507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く授業終わってくれないかなぁ」"
+                                "Male Student: \"I wish class would end soon.\""
                             ]
                         },
                         {
@@ -24654,21 +24584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「陸上部、空手部、柔道部、湘東学園の部活は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どれも大会優勝経験があるのよ」"
+                                "Female Student: \"The track and field, karate, and judo clubs at Shoto\nAcademy all have experience winning tournaments.\""
                             ]
                         },
                         {
@@ -24685,14 +24601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「偏差値も高いし文武両道をかかげているだけあるわね」"
+                                "Female Student: \"The deviation value is also high, which is fitting\nfor a school that prides itself on excelling in both academics and\nsports.\""
                             ]
                         },
                         {
@@ -24793,21 +24702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また私の靴箱にラブレター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつも名前書いてないし、一体誰からなのかしら」"
+                                "Female Student: \"Another love letter in my shoe locker. There's never\na name on them, I wonder who they're from.\""
                             ]
                         },
                         {
@@ -24884,21 +24779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今、運動場は使用禁止だ。ザイダーグに襲われた時のための"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　緊急避難所に指定されたからな」"
+                                "Male Student: \"The athletic field is off-limits right now. It's been\ndesignated as an emergency evacuation site in case of a Zaidrag\nattack.\""
                             ]
                         },
                         {
@@ -24915,21 +24796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急な決定で陸上部の奴らは激怒してるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とくにエースの西園寺がな」"
+                                "Male Student: \"The sudden decision has the track team furious.\nEspecially the ace, Saionji.\""
                             ]
                         },
                         {
@@ -25013,14 +24880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学園がザイダーグに襲われてから、理事長が行方不明らしいよ」"
+                                "Male Student: \"Ever since the academy was attacked by Zaidar-G, it\nseems the principal has gone missing.\""
                             ]
                         },
                         {
@@ -25037,14 +24897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生達は理事長の代理を決めるべく、職員会議中だ」"
+                                "Male Student: \"The teachers are in a staff meeting to decide on an\nacting principal.\""
                             ]
                         },
                         {
@@ -25137,21 +24990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねーねー聞いた？ 四越屋にザイダーグが現れたって話。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかもウチの２年のGinga君が襲われたんだって」"
+                                "Female Student A: \"Hey-hey, did you hear? A Zydarg appeared in\nYotsugoya. And I heard that our second-year student, Ginga-kun, was\nattacked.\""
                             ]
                         },
                         {
@@ -25168,14 +25007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え～っ！ うそ！ だからお休みしてたのか……」"
+                                "Female Student B: \"What?! No way! So that's why he was absent...\""
                             ]
                         },
                         {
@@ -25192,21 +25024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスが解決してくれたからいいものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警察は何やってるのかしらね」"
+                                "Female Student A: \"It's all good because Pony Ceres took care of it,\nbut what on earth are the police doing, I wonder.\""
                             ]
                         },
                         {
@@ -25334,21 +25152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねーねー聞いた？ 四越屋にザイダーグが現れたって話。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかもウチの２年のGinga君が襲われたんだって」"
+                                "Female Student A: \"Hey-hey, did you hear? They say a Zygard appeared\nat Yotsugoya. And that our second-year Ginga-kun was attacked.\""
                             ]
                         },
                         {
@@ -25365,14 +25169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え～っ！ うそ！ だからお休みしてたのか……」"
+                                "Female Student B: \"What?! No way! So that's why he was absent...\""
                             ]
                         },
                         {
@@ -25389,21 +25186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスが解決してくれたからいいものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警察は何やってるのかしらね」"
+                                "Female Student A: \"It's all good because Pony Ceres took care of it,\nbut what on earth are the police doing, I wonder.\""
                             ]
                         },
                         {
@@ -25471,14 +25254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一週間も休んだおかげで、まだ休みボケが取れないのよ……困ったわ」"
+                                "Female Student A: \"Thanks to taking a week off, I still can't shake\noff the holiday fog... It's such a hassle.\""
                             ]
                         },
                         {
@@ -25579,14 +25355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、守崎じゃねーか」"
+                                "Male Student: \"Oh, if it isn't Morisaki!\""
                             ]
                         },
                         {
@@ -25603,21 +25372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次の地区大会応援してるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また優勝かさらってくれよな！」"
+                                "Male Student: \"I'm rooting for you in the next district tournament.\nSnag us another victory, will you?\""
                             ]
                         },
                         {
@@ -25668,14 +25423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん！ 任せておいて」"
+                                "Yui: \"Of course! Leave it to me.\""
                             ]
                         },
                         {
@@ -25793,21 +25541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「体育館ならこの先だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は俺たち柔道部の部員が使ってるところだ。へへへっ！」"
+                                "Male Student: \"The gymnasium is just ahead. Right now, it's being used\nby us members of the judo club. Hehehe!\""
                             ]
                         },
                         {
@@ -25884,14 +25618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゆ、許してくれ！ 毒島先生に口止めされてただけなんだ……」"
+                                "Male Student: \"P-Please forgive me! I was just silenced by Dokushima-\nsensei...\""
                             ]
                         },
                         {
@@ -25908,14 +25635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうあんな事しないから。た、頼むよ……」"
+                                "Male Student: \"I won't do such a thing anymore. P-Please, I'm begging\nyou...\""
                             ]
                         },
                         {
@@ -25966,14 +25686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当でしょうね？」"
+                                "Yui: \"You're really telling the truth?\""
                             ]
                         },
                         {
@@ -25990,14 +25703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、毒島に逆らえなかった俺が悪かった。反省している！」"
+                                "Male Student: \"Yeah, it was wrong of me not to stand up to Dokushima.\nI'm reflecting on it!\""
                             ]
                         },
                         {
@@ -26014,14 +25720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかったわ。約束よ！」"
+                                "Yui: \"Alright. I'll hold you to that promise!\""
                             ]
                         },
                         {
@@ -26123,14 +25822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、陸上部の奴らが盗難被害にあってるみたいだぞ」"
+                                "Male Student A: \"It seems like the track team has been having theft\nissues lately.\""
                             ]
                         },
                         {
@@ -26147,14 +25839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ～それな。たしかブルマだろ」"
+                                "Male Student B: \"Ah, that's right. It's the bloomers, isn't it?\""
                             ]
                         },
                         {
@@ -26171,21 +25856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁ、俺達もやってみないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今、陸上部って休部だろ。簡単に更衣室に忍び込めるぜ」"
+                                "Male Student A: \"Hey, why don't we give it a try? The track team is on\nbreak right now, right? We could easily sneak into the locker room.\""
                             ]
                         },
                         {
@@ -26202,14 +25873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいおい、マジで行ってるのか……」"
+                                "Male Student B: \"Hey, hey, are you serious about going...?\""
                             ]
                         },
                         {
@@ -26260,14 +25924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとあんた達！」"
+                                "Yui: \"Hey, you guys!\""
                             ]
                         },
                         {
@@ -26392,14 +26049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメに決まってるでしょ、そんな事！」"
+                                "Yui: \"You know that's absolutely not okay, right?!\""
                             ]
                         },
                         {
@@ -26416,14 +26066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「冗談だよ、冗談！」"
+                                "Male Student A: \"Just kidding, just kidding!\""
                             ]
                         },
                         {
@@ -26440,14 +26083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事やったら一発退学だもん、やるわけないって！」"
+                                "Male Student A: \"If we did that, we'd be expelled on the spot, so\nthere's no way we would!\""
                             ]
                         },
                         {
@@ -26471,21 +26107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁ、守崎……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　肉マサ屋に行ってから、こいつおかしくなったみたいなんだ」"
+                                "Male Student B: \"Hey, Morisaki... ever since he went to that meat\nmassage place, he's been acting weird.\""
                             ]
                         },
                         {
@@ -26502,14 +26124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前はこんな馬鹿な事言う奴じゃなかったんだけどな……」"
+                                "Male Student B: \"He wasn't the type to say such stupid things\nbefore...\""
                             ]
                         },
                         {
@@ -26701,14 +26316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、陸上部の奴らが盗難被害にあってるみたいだぞ」"
+                                "Male Student A: \"It seems like the track team has been having theft\nissues lately.\""
                             ]
                         },
                         {
@@ -26725,14 +26333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ～それな。たしかブルマだろ」"
+                                "Male Student B: \"Ah, that's right. It was bloomers, wasn't it?\""
                             ]
                         },
                         {
@@ -26749,21 +26350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁ、俺達もやってみないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今、陸上部って休部だろ。簡単に更衣室に忍び込めるぜ」"
+                                "Male Student A: \"Hey, why don't we give it a try? The track team is on\nbreak right now, right? We could easily sneak into the locker room.\""
                             ]
                         },
                         {
@@ -26780,14 +26367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいおい、マジで行ってるのか……」"
+                                "Male Student B: \"Whoa whoa, are you serious about going...?\""
                             ]
                         },
                         {
@@ -26838,14 +26418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとあんた達！」"
+                                "Yui: \"Hey you guys!\""
                             ]
                         },
                         {
@@ -26970,14 +26543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメに決まってるでしょ、そんな事！」"
+                                "Yui: \"You know that's absolutely not okay, right?!\""
                             ]
                         },
                         {
@@ -26994,14 +26560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「冗談だよ、冗談！」"
+                                "Male Student A: \"Just kidding, just kidding!\""
                             ]
                         },
                         {
@@ -27018,14 +26577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事やったら一発退学だもん、やるわけないって！」"
+                                "Male Student A: \"If we did that, we'd be expelled on the spot, no way\nwe'd actually do it!\""
                             ]
                         },
                         {
@@ -27049,21 +26601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁ、守崎……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　肉マサ屋に行ってから、こいつおかしくなったみたいなんだ」"
+                                "Male Student B: \"Hey, Morisaki... ever since he went to that meat\nmassage place, he's been acting weird.\""
                             ]
                         },
                         {
@@ -27080,14 +26618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前はこんな馬鹿な事言う奴じゃなかったんだけどな……」"
+                                "Male Student B: \"He wasn't the type to say such stupid things\nbefore...\""
                             ]
                         },
                         {
@@ -27279,14 +26810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大門商店街のアクセサリーショップ知ってる？」"
+                                "Female Student: \"Do you know the accessory shop in Daimon Shopping\nStreet?\""
                             ]
                         },
                         {
@@ -27303,14 +26827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少し高いけど可愛いアクセサリーが沢山置いてあるのよ」"
+                                "Female Student: \"It's a bit pricey, but they have a lot of cute\naccessories.\""
                             ]
                         },
                         {
@@ -27387,14 +26904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は運動場よ。今は使えないけどね」"
+                                "Female Student: \"The athletic field is up ahead. We can't use it right\nnow though.\""
                             ]
                         },
                         {
@@ -27462,14 +26972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は運動場よ。ってそんな事知ってるわよね」"
+                                "Female Student: \"The sports field is up ahead. But you knew that\nalready, right?\""
                             ]
                         },
                         {
@@ -27546,14 +27049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊急時のための防犯用のブザーが設置されたよ」"
+                                "Male Student: \"They've installed emergency security buzzers.\""
                             ]
                         },
                         {
@@ -27570,21 +27066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は女子トイレ前にしかないけど、来月までには学園中に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　設置予定との事だそうだ」"
+                                "Male Student: \"Right now, they're only in front of the girls'\nrestrooms, but apparently, they're planning to install them throughout\nthe school by next month.\""
                             ]
                         },
                         {
@@ -27601,14 +27083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでも、生徒会でアザミちゃんの提案が通ったらしい」"
+                                "Male Student: \"It seems that Azami-chan's proposal was approved by the\nstudent council.\""
                             ]
                         },
                         {
@@ -27757,14 +27232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. If I had the \\C[17]Azure Star Key\\C[0], it seems\nlike it would open."
                             ]
                         },
                         {
@@ -27832,14 +27300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. It looks like it can be opened with the \\C[17]Azure Star\nKey\\C[0]."
                             ]
                         },
                         {
@@ -27856,7 +27317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Would you like to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -27864,8 +27325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27907,7 +27368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -29049,7 +28510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -29057,8 +28518,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29174,7 +28635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -29182,8 +28643,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29303,7 +28764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは冷水機を使った。"
+                                "Yui used the water cooler."
                             ]
                         },
                         {
@@ -29343,7 +28804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Her throat is quenched! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -29420,14 +28881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#女子空手部地区大会優勝！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#エース守崎ユイが大活躍！"
+                                "Girls' Karate Club District Tournament Champions! Ace Morisaki Yui\nshines brightly!"
                             ]
                         },
                         {
@@ -29504,14 +28958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#女子空手部地区大会優勝！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#エース守崎ユイが大活躍！"
+                                "Girls' Karate Club District Tournament Champions! Ace Morisaki Yui\nshines brightly!"
                             ]
                         },
                         {
@@ -29588,14 +29035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#盗難被害多発中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#自己管理しっかりして下さい！"
+                                "Please be vigilant as there is a high incidence of thefts!"
                             ]
                         },
                         {
@@ -29672,7 +29112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは冷水機を使った。"
+                                "Yui used the water cooler."
                             ]
                         },
                         {
@@ -29712,7 +29152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Her throat is quenched! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -30005,7 +29445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -30013,8 +29453,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30130,7 +29570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -30138,8 +29578,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30259,7 +29699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -30267,8 +29707,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30386,14 +29826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「運動場に置いてある奇妙な機械、あれなんだろな？」"
+                                "Male Student: \"What's that strange machine on the sports field, I\nwonder?\""
                             ]
                         },
                         {
@@ -30410,14 +29843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長先生が触ってるの見たけど……」"
+                                "Male Student: \"I saw the principal touching it, but...\""
                             ]
                         },
                         {
@@ -30547,7 +29973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "消火器が設置されている。"
+                                "A fire extinguisher is installed."
                             ]
                         },
                         {
@@ -30624,7 +30050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[220]陸上シューズ】を手に入れた！"
+                                "You've obtained the 【\\i[220]Track Shoes】!"
                             ]
                         },
                         {
@@ -30722,7 +30148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30750,7 +30176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[220]陸上シューズ】を手に入れた！"
+                                "【\\i[220]Track shoes】were obtained!"
                             ]
                         },
                         {
@@ -30857,7 +30283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30874,7 +30300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -30982,7 +30408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30999,7 +30425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -31107,7 +30533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -31124,7 +30550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {

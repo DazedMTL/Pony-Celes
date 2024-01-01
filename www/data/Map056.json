@@ -15967,7 +15967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -16243,7 +16243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "Acquired the 【\\i[94]Tome of Spirit】!"
                             ]
                         },
                         {
@@ -16562,7 +16562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -16589,7 +16589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]医療キット】を手に入れた！"
+                                "【\\i[294]Medical Kit】acquired!"
                             ]
                         },
                         {
@@ -16696,7 +16696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -16713,7 +16713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new."
                             ]
                         },
                         {

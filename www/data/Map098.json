@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は両親の寝室だ。勝手に入るのは止めておこう。"
+                                "The room ahead is my parents' bedroom. I should refrain from entering\nwithout permission."
                             ]
                         },
                         {
@@ -13293,14 +13293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうかな、私の肉じゃが？」"
+                                "Yui: \"How is it, my meat and potatoes?\""
                             ]
                         },
                         {
@@ -13351,14 +13344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、意外と美味しかったよ。前より上達してるね！」"
+                                "Ginga: \"Yeah, surprisingly tasty. You've gotten better than before!\""
                             ]
                         },
                         {
@@ -13391,14 +13377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ 何よ意外とって……」"
+                                "Yui: \"Hm? What do you mean 'surprisingly'...\""
                             ]
                         },
                         {
@@ -13431,14 +13410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まっ、美味しかったならいいけどさ！」"
+                                "Yui: \"Well, as long as it tasted good, that's fine!\""
                             ]
                         },
                         {
@@ -13462,14 +13434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それよりさ、実は今日……」"
+                                "Ginga: \"More importantly, actually today...\""
                             ]
                         },
                         {
@@ -13486,14 +13451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスに助けられたんだ」"
+                                "Ginga: \"I was saved by Pony-Celeste.\""
                             ]
                         },
                         {
@@ -13526,14 +13484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"Eh!? Really?\""
                             ]
                         },
                         {
@@ -13550,21 +13501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイの好きなケーキを買おうと四越屋に行ったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その時にザイダーグに襲われて……」"
+                                "Ginga: \"I went to buy your favorite cake at Yotsugoya. That's when I\nwas attacked by a Zydag...\""
                             ]
                         },
                         {
@@ -13581,14 +13518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「驚かないで聞いてよ！」"
+                                "Ginga: \"Don't be surprised, just listen!\""
                             ]
                         },
                         {
@@ -13605,14 +13535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜだか、ポニーセレスは僕の名前を知ってた」"
+                                "Ginga: \"For some reason, Pony-Celeste knew my name.\""
                             ]
                         },
                         {
@@ -13638,21 +13561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どういう事だと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして彼女の正体って僕の身近な人なのかな」"
+                                "Ginga: \"What do you think that means? Could her true identity be\nsomeone close to me?\""
                             ]
                         },
                         {
@@ -13669,14 +13578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「湘東学園の生徒だったりして……」"
+                                "Ginga: \"Maybe a student from Shoto East Academy...\""
                             ]
                         },
                         {
@@ -13718,14 +13620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わっ、わたしはそんなわけ無いと思うけどなぁ～……」"
+                                "Yui: \"Wha-, I don't think that's possible...\""
                             ]
                         },
                         {
@@ -13742,21 +13637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして？ ほら、ユイも昨日言ってたじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　学校に通いながら正義のお仕事してるかもって」"
+                                "Ginga: \"Why not? Hey, you were saying yesterday, right? That she might\nbe doing her justice work while attending school.\""
                             ]
                         },
                         {
@@ -13800,14 +13681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、えっ、そんな事言ったけなぁ～……」"
+                                "Yui: \"Eh, eh, did I say something like that...?\""
                             ]
                         },
                         {
@@ -13842,14 +13716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「湘東学園で僕の良く知ってる人……」"
+                                "Ginga: \"Someone from Shoto East Academy who I know well...\""
                             ]
                         },
                         {
@@ -13884,14 +13751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの正体は、ずばり……」"
+                                "Ginga: \"The true identity of Pony-Celeste is, undoubtedly...\""
                             ]
                         },
                         {
@@ -13944,14 +13804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイだったりして！！」"
+                                "Ginga: \"Yui, perhaps!!\""
                             ]
                         },
                         {
@@ -13968,14 +13821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっ、そんなっ、そんなわけないでしょ！！」"
+                                "Yui: \"Th-that's... there's no way that's true!!\""
                             ]
                         },
                         {
@@ -14008,21 +13854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な～んて、冗談だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ってか、普通に考えてユイな訳ないしな」"
+                                "Ginga: \"Just kidding! I mean, if you think about it normally, there's\nno way it could be Yui.\""
                             ]
                         },
                         {
@@ -14057,14 +13889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、でしょー！ 冗談もほどほどにしてよね～……」"
+                                "Yui: \"Right?! Don't joke too much, okay?...\""
                             ]
                         },
                         {
@@ -14081,14 +13906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははははははっ。」"
+                                "Ginga: \"Hahahahahaha!\""
                             ]
                         },
                         {
@@ -14105,14 +13923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、ハハハハハッ……」"
+                                "Yui: \"Haha, hahahahaha...\""
                             ]
                         },
                         {

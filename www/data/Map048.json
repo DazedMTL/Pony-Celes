@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "実験フロア",
+    "displayName": "Experiment Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -18716,14 +18716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「開かない……」"
+                                "Pony-Celest: \"It won't open...\""
                             ]
                         },
                         {
@@ -18921,14 +18914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは！？」"
+                                "Pony-Celest: \"Where is this!? \""
                             ]
                         },
                         {
@@ -19102,14 +19088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しまった！」"
+                                "Pony-Celest: \"Damn it!\""
                             ]
                         },
                         {
@@ -19145,14 +19124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ、ひっかかりましたね」"
+                                "Wisdom General Domdora: \"Foh foh foh, you've been caught.\""
                             ]
                         },
                         {
@@ -19291,14 +19263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこにいるの！ 出てきなさい！」"
+                                "Pony-Celest: \"Where are you! Come out!\""
                             ]
                         },
                         {
@@ -19356,21 +19321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は戦闘が苦手でしてね。あなたとまともにやり合うのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　得策ではありません」"
+                                "Wisdom General Domdora: \"I'm not good at combat, you see. It wouldn't\nbe wise to confront you head-on.\""
                             ]
                         },
                         {
@@ -19387,14 +19338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なので……」"
+                                "Wisdom General Domdora: \"Therefore...\""
                             ]
                         },
                         {
@@ -19652,14 +19596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにこれ！ \\|か、身体が痺れて……」"
+                                "Pony-Celest: \"What is this! My body is going numb...\""
                             ]
                         },
                         {
@@ -19683,14 +19620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは私が開発した特殊な毒ガスです」"
+                                "Wisdom General Domdora: \"That is a special poison gas I developed.\""
                             ]
                         },
                         {
@@ -19707,14 +19637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「吸い込んだが最後、数秒もすれば立っていられなくなります」"
+                                "Wisdom General Domdora: \"Once inhaled, it won't take but a few seconds\nbefore you can no longer stand.\""
                             ]
                         },
                         {
@@ -19745,14 +19668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、だめ……意識が……遠のく……」"
+                                "Pony-Celest: \"No, this is bad... My consciousness is... fading...\""
                             ]
                         },
                         {
@@ -19909,14 +19825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぅ……あぁ…………」"
+                                "Pony-Celest: \"...uh...ahh...\""
                             ]
                         },
                         {
@@ -19952,14 +19861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ」"
+                                "Wisdom General Domdora: \"Foh foh foh\""
                             ]
                         },
                         {
@@ -20500,14 +20402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安心しなさい。まだ殺しはしませんよ」"
+                                "Wisdom General Domdora: \"Rest assured. I won't kill you just yet.\""
                             ]
                         },
                         {
@@ -20524,21 +20419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたは私にとって最高の研究材料です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてダーグノアを討つ、切り札になるやもしれませんからね」"
+                                "Wisdom General Domdora: \"You are the finest research material for me.\nAnd you might become the trump card to defeat Dargnoa.\""
                             ]
                         },
                         {
@@ -20555,14 +20436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ」"
+                                "Wisdom General Domdora: \"Foh foh foh\""
                             ]
                         },
                         {
@@ -20620,7 +20494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]※ここから先、ポニーセレスに悲惨な結末が訪れます。\\!"
+                                "\\c[27]From here on, a tragic end awaits Pony-Celest."
                             ]
                         },
                         {
@@ -20653,14 +20527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]ドムドラ戦敗北シーンＢを見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（【いいえ】を選んだ場合はタイトル画面へ移行します。）"
+                                "\\c[27]o you want to see the Domdora defeat scene B? (If you choose\n【No】, the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -20668,8 +20535,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20759,7 +20626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "攻略のヒントをもらいますか？"
+                                "Would you like a hint for the conquest?"
                             ]
                         },
                         {
@@ -20767,8 +20634,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20798,14 +20665,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]罠が仕掛けられた部屋に入るのは危険だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どこかに隠し通路があるかも……"
+                                "\\C[17]t's dangerous to enter a room with traps set. There might be a\nhidden passage somewhere..."
                             ]
                         },
                         {
@@ -21344,14 +21204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこで何をコソコソしているの？」"
+                                "Pony-Celest: \"What are you sneaking around for?\""
                             ]
                         },
                         {
@@ -21442,14 +21295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！」"
+                                "Wisdom General Domudra: \"Tch!\""
                             ]
                         },
                         {
@@ -21617,14 +21463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと！ まだ逃げる気？」"
+                                "Pony-Celest: \"Hey! You're still thinking of running away?\""
                             ]
                         },
                         {
@@ -21675,14 +21514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は戦闘が苦手なんですよ！」"
+                                "Wisdom General Domudra: \"I'm not good at fighting, you know!\""
                             ]
                         },
                         {
@@ -22467,14 +22299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不思議な光が地面から漏れている。光に触れますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（※一度だけＨＰとＳＰを完全回復できます。）\\c[0]"
+                                "A mysterious light is leaking from the ground. Will you touch the\nlight?\\c[17](※You can fully recover HP and SP only once.)\\c[0]"
                             ]
                         },
                         {
@@ -22482,8 +22307,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22554,7 +22379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した。"
+                                "Your HP and SP have been fully recovered."
                             ]
                         },
                         {

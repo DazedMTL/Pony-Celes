@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園３Ｆ",
+    "displayName": "Shoto Academy 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -25682,7 +25682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -26254,7 +26254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -27105,7 +27105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -27413,7 +27413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -27721,7 +27721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -28038,14 +28038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？ 後ろ姿？ これ……鏡じゃない？」"
+                                "Pony-Celest: \"Eh? From behind? Isn't this... a mirror?\""
                             ]
                         },
                         {
@@ -30562,7 +30555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -31530,7 +31523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -32842,7 +32835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の顔が写っている。普通の鏡のようだ･････"
+                                "My face is reflected. It seems like a normal mirror..."
                             ]
                         },
                         {
@@ -36978,14 +36971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニー……セレスを……捕まえ……ろ……」"
+                                "Combatant: \"Pony... Capture... Celest...\""
                             ]
                         },
                         {
@@ -37094,14 +37080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめ、これじゃ運動場に行けないわ」"
+                                "Pony-Celest: \"No good, I can't get to the sports field like this.\""
                             ]
                         },
                         {
@@ -37547,14 +37526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こうなったら！」"
+                                "Pony-Celest: \"If it's come to this!\""
                             ]
                         },
                         {
@@ -38375,21 +38347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長……なんで……\\C[17]女子トイレ\\C[0]……に……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんな……モノを……」"
+                                "Minion: \"Chairman... why... \\C[17]the girls' bathroom\\C[0]... would\nhave... such a... thing...\""
                             ]
                         },
                         {
@@ -38484,14 +38442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不思議な光が地面から漏れている。光に触れますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（※一度だけＨＰとＳＰを完全回復できます。）\\c[0]"
+                                "A mysterious light is leaking from the ground. Will you touch the\nlight?\\c[17](※You can fully recover HP and SP only once.)\\c[0]"
                             ]
                         },
                         {
@@ -38499,8 +38450,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -38571,7 +38522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した。"
+                                "Your HP and SP have been fully recovered."
                             ]
                         },
                         {

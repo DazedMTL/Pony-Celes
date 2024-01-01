@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は両親の寝室だ。勝手に入るのは止めておこう。"
+                                "The room ahead is my parents' bedroom. I should refrain from entering\nwithout permission."
                             ]
                         },
                         {
@@ -13074,14 +13074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（モグモグ……モグモグ……)"
+                                "Yui (Munch munch... Munch munch...)"
                             ]
                         },
                         {
@@ -13098,21 +13091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaは本当に料理が上手だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この卵焼き、甘くて私好み。 う～ん、最高だよ～！」"
+                                "Yui: \"Ginga, you're really good at cooking. This omelette is sweet and\njust to my liking. Mmm, it's the best!\""
                             ]
                         },
                         {
@@ -13163,14 +13142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、それは良かったよ」"
+                                "Ginga: \"Haha, I'm glad you like it.\""
                             ]
                         },
                         {
@@ -13187,14 +13159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかしユイは良く食べるね」"
+                                "Ginga: \"But Yui, you sure eat a lot.\""
                             ]
                         },
                         {
@@ -13227,21 +13192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日だってコロッケ２個でいいって言いながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　結局４個も食べたもんな」"
+                                "Ginga: \"Just yesterday, you said two croquettes would be enough, but\nyou ended up eating four.\""
                             ]
                         },
                         {
@@ -13283,21 +13234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaがお腹いっぱいって言うから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　仕方なく私が食べたんだよ！」"
+                                "Yui: \"It's because you said you were full, so I had no choice but to\neat them!\""
                             ]
                         },
                         {
@@ -13314,14 +13251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「食いしん坊みたいに言わないでよ～もう！」"
+                                "Yui: \"Don't make me sound like a glutton~ Geez!\""
                             ]
                         },
                         {
@@ -13338,14 +13268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、そういう事にしとくよ！」"
+                                "Ginga: \"Haha, let's just go with that!\""
                             ]
                         },
                         {
@@ -13394,21 +13317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうそう……！ \\|来週フォルス地区に新しくプールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オープンするみたいなんだ」"
+                                "Yui: \"Right, right...! Next week, a new pool is opening in the Forus\ndistrict.\""
                             ]
                         },
                         {
@@ -13425,14 +13334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一緒に行かない？」"
+                                "Yui: \"Do you want to go together?\""
                             ]
                         },
                         {
@@ -13449,14 +13351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「プールか！ いいね、行こうか！」"
+                                "Ginga: \"A pool, huh! Sounds good, let's go!\""
                             ]
                         },
                         {
@@ -13473,14 +13368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしっ、決まりね！」"
+                                "Yui: \"Alright, it's settled then!\""
                             ]
                         },
                         {
@@ -13497,21 +13385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、でも……最近少し太ったんだよね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　プールのオープン日までダイエットしておかなきゃ」"
+                                "Yui: \"Ah, but... I've gained a little weight recently... I have to\ndiet before the pool opens.\""
                             ]
                         },
                         {
@@ -13528,14 +13402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「太った？ 全然そんな感じしないけどなぁ……」"
+                                "Ginga: \"Gained weight? I haven't noticed that at all...\""
                             ]
                         },
                         {
@@ -13552,14 +13419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「制服の上からじゃ分からないだけよ……」"
+                                "Yui: \"You can't tell over the uniform...\""
                             ]
                         },
                         {
@@ -13576,14 +13436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -13936,14 +13789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかに少し太ったかも……」"
+                                "Ginga: \"Actually, you might have gained a little weight...\""
                             ]
                         },
                         {
@@ -13994,14 +13840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ……\\|やっぱり太ったよね……」"
+                                "Yui: \"Ugh... I knew it, I did gain weight...\""
                             ]
                         },
                         {
@@ -14018,14 +13857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近部活していないのに、良く食べるからじゃない？」"
+                                "Ginga: \"Isn't it because you've been eating a lot even though you\nhaven't been doing club activities recently?\""
                             ]
                         },
                         {
@@ -14058,14 +13890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのせいで太ったんじゃないかな？」"
+                                "Ginga: \"Maybe that's why you gained weight?\""
                             ]
                         },
                         {
@@ -14112,14 +13937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うぅ、ポニーセレスになってから食欲が凄いのよね……）"
+                                "Yui (Ugh, ever since I became a Pony Ceres, my appetite has been\ncrazy...)"
                             ]
                         },
                         {
@@ -14136,14 +13954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（食べても食べてもお腹が減るし……）"
+                                "Yui (No matter how much I eat, I still get hungry...)"
                             ]
                         },
                         {
@@ -14181,14 +13992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにコロッケの食べすぎでさらに太っちゃったのかな……」"
+                                "Ginga: \"And maybe you gained even more weight from eating too many\ncroquettes...\""
                             ]
                         },
                         {
@@ -14230,14 +14034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぅ！！ 女の子に太った太った言わないでよ！！」"
+                                "Yui: \"Enough!! Don't keep saying I've gained weight to a girl!!\""
                             ]
                         },
                         {
@@ -14254,14 +14051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「めちゃくちゃ気にしてるんだからね！」"
+                                "Yui: \"I'm really self-conscious about it!\""
                             ]
                         },
                         {
@@ -14278,21 +14068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaは普段優しいくせに、たまーにデリカシー無いこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言うんだからっ！」"
+                                "Yui: \"Ginga, you're usually so kind, but sometimes you say such\ninsensitive things!\""
                             ]
                         },
                         {
@@ -14318,14 +14094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、悪かった……ごめんごめん」"
+                                "Ginga: \"Whoa, my bad... sorry, sorry.\""
                             ]
                         },
                         {
@@ -14358,14 +14127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ったく！」"
+                                "Yui: \"...Really!\""
                             ]
                         },
                         {
@@ -14432,14 +14194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶＣＭ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理想の体はすぐそこ！ マッスルジム！」"
+                                "TVCM: \"Your ideal body is just around the corner! Muscle Gym!\""
                             ]
                         },
                         {
@@ -14566,21 +14321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶＣＭ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近体型が気になるあなた！ そんなあなたにピッタリ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　理想の筋肉を付けてお手軽ダイエット！」"
+                                "TVCM: \"For those of you who are concerned about your body shape\nlately! Perfect for you! Get your ideal muscles and an easy diet!\""
                             ]
                         },
                         {
@@ -14597,14 +14338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶＣＭ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頑張れば一週間で理想の体になるのも夢じゃない！」"
+                                "TVCM: \"If you work hard, achieving your ideal body in just one week\nisn't a dream!\""
                             ]
                         },
                         {
@@ -14621,21 +14355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶＣＭ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今ならなんと入会費無料！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして一週間の無料体験コースも！」"
+                                "TVCM: \"Join now and the membership fee is free! Plus, a one-week free\ntrial course!\""
                             ]
                         },
                         {
@@ -14652,14 +14372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶＣＭ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、君も今すぐマッスルジムへ！」"
+                                "TVCM: \"Come on, head to Muscle Gym right now!\""
                             ]
                         },
                         {
@@ -14782,14 +14495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -14815,14 +14521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイお前、まさかこれに……」"
+                                "Ginga: \"Yui, you're not thinking of...\""
                             ]
                         },
                         {
@@ -14904,21 +14603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、プールは一週間後だし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それまでにダイエット頑張る！」"
+                                "Yui: \"Yeah, the pool opens in a week. I'm going to work hard on my\ndiet until then!\""
                             ]
                         },
                         {
@@ -14935,14 +14620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「デリカシーの無いGingaに、太ったって言われないためにね」"
+                                "Yui: \"So I won't be told by the insensitive Ginga that I've gained\nweight.\""
                             ]
                         },
                         {
@@ -14966,21 +14644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう一度言うけど、デリカシーの無いGingaに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　太った太った言われないためにね！」"
+                                "Yui: \"I'll say it again, so I won't be told by the insensitive Ginga\nthat I've gained weight!\""
                             ]
                         },
                         {
@@ -15006,21 +14670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おぅ……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この顔、ユイがかなり怒ってる時の顔だ……）"
+                                "Ginga: \"Oh, okay...\" (That face... Yui makes that face when she's\nreally angry...)"
                             ]
                         },
                         {
@@ -15037,14 +14687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、ダイエット頑張るぞー！」"
+                                "Yui: \"Alright, time to get serious about dieting!\""
                             ]
                         },
                         {
@@ -15070,21 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、応援してるから……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  じゃ、僕は学習塾があるのでこの辺で～～！」"
+                                "Ginga: \"Oh, I'll be cheering you on... Well, I have cram school, so\nI'll be off now~~!\""
                             ]
                         },
                         {

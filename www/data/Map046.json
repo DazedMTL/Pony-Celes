@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "グルダス地区北",
+    "displayName": "Gurdas District North",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15437,14 +15437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（\\c[17]北詰所の鍵\\c[0]があれば開きそうだ）"
+                                "It's locked. (It seems like it would open if I had the \\c[17]North\nGuardhouse Key\\c[0])"
                             ]
                         },
                         {
@@ -15518,14 +15511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鍵を見つけないと先へ進めないわね……）"
+                                "Pony-Ceres: \"I can't proceed unless I find the key...\""
                             ]
                         },
                         {
@@ -15632,7 +15618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -15649,7 +15635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]北詰所の鍵\\C[0]を使用しますか？"
+                                "\\C[17]ould you like to use the key to the north guard station?\\C[0]"
                             ]
                         },
                         {
@@ -15657,8 +15643,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15700,7 +15686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -16443,7 +16429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -17042,7 +17028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -19430,7 +19416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Acquired the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {
@@ -19669,7 +19655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[295]四ツ谷サイダー】を手に入れた！"
+                                "Obtained 【\\i[295]Yotsuya Cider】!"
                             ]
                         },
                         {
@@ -19916,7 +19902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[235]モンスターエンジン】を手に入れた！"
+                                "I've obtained the 【\\i[235]Monster Engine】!"
                             ]
                         },
                         {
@@ -20163,7 +20149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[159]特製あんまん】を手に入れた！"
+                                "Acquired the 【\\i[159]Special Anman】!"
                             ]
                         },
                         {

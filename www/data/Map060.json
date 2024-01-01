@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "亀田家別宅",
+    "displayName": "Kameda Family's Annex",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12110,21 +12110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、腰痛が酷くての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アガースに行くのにも一苦労じゃ」"
+                                "Kenzo: \"Lately, my back pain has been terrible. It's even a struggle\nto go to Agas.\""
                             ]
                         },
                         {
@@ -12148,14 +12134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ アガースは何かって？」"
+                                "Kenzo: \"Hm? What's Agas, you ask?\""
                             ]
                         },
                         {
@@ -12179,21 +12158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはの……可愛い兎が沢山いて、とっても楽しめる場所じゃよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ふぉふぉふぉっ！」"
+                                "Kenzo: \"Well... it's a place filled with lots of cute bunnies, where\nyou can have a lot of fun. Foh foh foh!\""
                             ]
                         },
                         {
@@ -12341,14 +12306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It looks like it would open with the \\C[17]Azure\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -12416,14 +12374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "The lock is engaged. It seems it would open if I use the \\C[17]Azure\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -12440,7 +12391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Would you like to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -12448,8 +12399,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12491,7 +12442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -12994,7 +12945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミ箱の中を調べた。"
+                                "I searched through the trash can."
                             ]
                         },
                         {
@@ -13011,7 +12962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "名刺が破かれて捨てられている。"
+                                "There's a torn-up business card thrown away."
                             ]
                         },
                         {
@@ -13028,14 +12979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーガールキャバクラ店アガース、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュリちゃんの名刺のようだ。"
+                                "It seems to be a business card for Bunny Girl Cabaret Club Agas,\nbelonging to someone named Juli-chan."
                             ]
                         },
                         {
@@ -13133,7 +13077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -13160,7 +13104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]救急セット】を２つ手に入れた！"
+                                "【\\i[294]First Aid Kits】were obtained!"
                             ]
                         },
                         {
@@ -13267,7 +13211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -13284,7 +13228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new."
                             ]
                         },
                         {
@@ -13392,7 +13336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -13409,7 +13353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new or interesting inside."
                             ]
                         },
                         {
@@ -13517,7 +13461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13544,7 +13488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[232]パヤリースオレンジ】を手に入れた！"
+                                "【\\i[232]Payari-Suorange】acquired!"
                             ]
                         },
                         {
@@ -13651,7 +13595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Morisaki Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13668,7 +13612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -13839,7 +13783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied herself up."
                             ]
                         },
                         {
@@ -13916,7 +13860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッチな本が所狭しと並んでいる。"
+                                "Erotic books are crammed onto the shelves."
                             ]
                         },
                         {
@@ -13993,7 +13937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッチな本が所狭しと並んでいる。"
+                                "Erotic books are crammed onto the shelves."
                             ]
                         },
                         {
@@ -14070,7 +14014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッチな本が所狭しと並んでいる。"
+                                "Erotic books are crammed onto the shelves."
                             ]
                         },
                         {
@@ -14267,7 +14211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[160]真っ赤なハイヒール】を手に入れた！"
+                                "I've obtained the 【\\i[160]Bright Red High Heels】!"
                             ]
                         },
                         {

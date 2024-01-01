@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園前",
+    "displayName": "In front of Shoto Academy",
     "encounterList": [],
     "encounterStep": 30,
     "height": 36,
@@ -9785,7 +9785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -9793,8 +9793,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9910,7 +9910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -9918,8 +9918,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10048,7 +10048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【瀬田谷住宅街】行きのバスへ乗車しますか？"
+                                "Will you board the bus to Setadani Residential Area?"
                             ]
                         },
                         {
@@ -10056,8 +10056,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10087,7 +10087,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイはバスに乗車した。"
+                                "Yui boarded the bus."
                             ]
                         },
                         {
@@ -10287,14 +10287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　私立湘東学園"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　"
+                                "Private Shoto Academy"
                             ]
                         },
                         {
@@ -10390,21 +10383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　↓大門商店街"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　"
+                                "↓Daimon Shopping District"
                             ]
                         },
                         {
@@ -10525,14 +10504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -10791,14 +10763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -11057,14 +11022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -11292,7 +11250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しない内に早く湘東学園に向おう。"
+                                "Let's hurry to Shoto Academy before we're late."
                             ]
                         },
                         {
@@ -11527,7 +11485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -12282,7 +12240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポスターに酷い落書きが･････"
+                                "The poster has been defaced with terrible graffiti..."
                             ]
                         },
                         {
@@ -12454,21 +12412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知ってるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大門商店街のはずれに変なモノを売ってるお店があるんだ」"
+                                "Jirou: \"Do you know? There's a shop on the outskirts of Daimon\nShopping Street that sells some weird stuff.\""
                             ]
                         },
                         {
@@ -12485,14 +12429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでも飲むと瀕死になる薬や、中には死亡してしまう薬もあるらしい」"
+                                "Jirou: \"Apparently, they have medicines that can bring you to the\nbrink of death, and some that can even kill you.\""
                             ]
                         },
                         {
@@ -12509,14 +12446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの欲しがる奴いるのかね･･････」"
+                                "Jirou: \"I wonder if there's anyone who actually wants that kind of\nthing...\""
                             ]
                         },
                         {
@@ -12616,21 +12546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここのコンビニ閉店しちまったんだとよ。商店街の中にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　店仕舞いする所が増えてきたし、なんか寂しいよね」"
+                                "Shinya: \"The convenience store here has closed down. The number of\nshops shutting down in the shopping district is increasing too, it's\nkind of sad, isn't it?\""
                             ]
                         },
                         {
@@ -12647,21 +12563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これも全てザイダーグのせいか･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この地区にもあいつらが押し寄せてくると思うと･･････」"
+                                "Shinya: \"Is this all because of Zaid-Gr... Just thinking about those\nguys encroaching on this area...\""
                             ]
                         },
                         {
@@ -12712,14 +12614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫です！ポニーセレスがなんとかしてくれますよ」"
+                                "Yui: \"It's okay! Pony-Ceres will take care of it for us.\""
                             ]
                         },
                         {
@@ -12743,21 +12638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス･････たしかにな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は彼女に頼るしかないのか･･････」"
+                                "Shinya: \"Pony-Ceres... Indeed. Right now, she might be the only one we\ncan rely on...\""
                             ]
                         },
                         {
@@ -12797,14 +12678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待ってて下さい、きっと平和にしてみせますから！」"
+                                "Yui: \"Please wait, I promise to restore peace!\""
                             ]
                         },
                         {
@@ -12837,21 +12711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？おかしな事を言うね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まるで君がポニーセレスのような口調だけど･････」"
+                                "Shinya: \"Huh? You say some funny things. You almost sound like you're\nPony-Ceres...\""
                             ]
                         },
                         {
@@ -12893,14 +12753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いやその･････ポニーセレスならきっとこう言うと思って･･････」"
+                                "Yui: \"Ah, no, that... I just thought that's what Pony-Ceres would\nprobably say...\""
                             ]
                         },
                         {
@@ -12924,14 +12777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「････････変な子」"
+                                "Shinya: \"...Weird kid.\""
                             ]
                         },
                         {
@@ -13088,14 +12934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モモコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポスターや張り紙には悪戯しちゃだめよ」"
+                                "Momoko: \"You mustn't play pranks on posters and notices.\""
                             ]
                         },
                         {
@@ -13204,7 +13043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただのポストだ。"
+                                "It's just a mailbox."
                             ]
                         },
                         {
@@ -13281,7 +13120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "張り紙にはこう書かれている。"
+                                "The notice reads as follows."
                             ]
                         },
                         {
@@ -13298,14 +13137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "長い間ご愛顧いただきまことにありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手ながら、当店は先月を持ちまして閉店となりました。"
+                                "Thank you very much for your patronage over the years. We regret to\ninform you that our shop closed last month."
                             ]
                         },
                         {
@@ -13467,7 +13299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足元に１００円落ちていた！"
+                                "There was 100 yen dropped at my feet!"
                             ]
                         },
                         {
@@ -13612,21 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナオミチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「冷蔵庫やタンス、それに本棚も･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　調べるとアイテムが見つかるかもね！」"
+                                "Naomichi: \"You might find items if you check the fridge, the dresser,\nand even the bookshelves!\""
                             ]
                         },
                         {
@@ -13758,7 +13576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しない内に早く湘東学園に向おう。"
+                                "Let's hurry to Shoto Academy before we're late."
                             ]
                         },
                         {
@@ -13917,7 +13735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しない内に早く湘東学園に向おう。"
+                                "Let's hurry to Shoto Academy before we're late."
                             ]
                         },
                         {
@@ -14076,7 +13894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しない内に早く湘東学園に向おう。"
+                                "Let's hurry to Shoto Academy before we're late."
                             ]
                         },
                         {
@@ -14235,7 +14053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しない内に早く湘東学園に向おう。"
+                                "Let's head to Shoto Academy quickly before we're late."
                             ]
                         },
                         {
@@ -14394,7 +14212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しない内に早く湘東学園に向おう。"
+                                "Let's hurry to Shoto Academy before we're late."
                             ]
                         },
                         {

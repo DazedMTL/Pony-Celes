@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大門二丁目交番",
+    "displayName": "Daimon 2-chome Police Box",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12151,14 +12151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there something troubling you?\""
                             ]
                         },
                         {
@@ -12166,8 +12159,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "湘東学園の場所",
-                                    "何もない"
+                                    "The location of Shoto Academy",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -12197,14 +12190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「湘東学園なら交番を出て北に行けばすぐですよ」"
+                                "Officer: \"If you're looking for Shoto Academy, just head north after\nleaving the police box and you'll be there in no time.\""
                             ]
                         },
                         {
@@ -12295,14 +12281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there anything you're having trouble with?\""
                             ]
                         },
                         {
@@ -12310,8 +12289,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "フォルス地区の場所",
-                                    "何もない"
+                                    "The location of the Fols district?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -12341,14 +12320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「フォルス地区ならこの商店街の南、大門駅から電車に乗って一駅先です」"
+                                "Officer: \"If you're looking for the Fols district, it's south of this\nshopping street. Just take the train from Daimon Station and it's one\nstop away.\""
                             ]
                         },
                         {
@@ -12439,14 +12411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there anything you're having trouble with?\""
                             ]
                         },
                         {
@@ -12454,8 +12419,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "肉マサ屋はどこですか？",
-                                    "何もない"
+                                    "Where is the butcher shop?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -12485,14 +12450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「肉マサ屋ならこの交番から出て大門駅に向う途中にありますよ」"
+                                "Officer: \"If you're looking for the Nikumasa shop, it's on the way to\nDaimon Station when you leave this police box.\""
                             ]
                         },
                         {
@@ -12583,14 +12541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there anything you're having trouble with?\""
                             ]
                         },
                         {
@@ -12598,8 +12549,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "マッスルジムの場所は？",
-                                    "何もない"
+                                    "Where is Muscle Gym?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -12629,21 +12580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「マッスルジム？\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あぁ、最近ＣＭで人気のフィットネスジムですね」"
+                                "Officer: \"Muscle Gym? Ah, that's the fitness gym that's been popular\nin commercials lately.\""
                             ]
                         },
                         {
@@ -12660,14 +12597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「フォルス地区、心宿駅を出てすぐ北の大きなビルの中ですね」"
+                                "Officer: \"It's in the big building just north of Shin-Yado Station in\nthe Fols district.\""
                             ]
                         },
                         {
@@ -12758,14 +12688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there something troubling you?\""
                             ]
                         },
                         {
@@ -12773,8 +12696,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "プールの場所は？",
-                                    "何もない"
+                                    "Where is the pool?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -12804,21 +12727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「プール？\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　フォルス地区に今日オープンしたプールですかね」"
+                                "Officer: \"A pool? Are you referring to the pool that opened today in\nthe Forus district?\""
                             ]
                         },
                         {
@@ -12835,14 +12744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それならフォルス地区の南、川沿いにありますよ」"
+                                "Officer: \"If that's the case, it's located to the south of the Forus\ndistrict, along the river.\""
                             ]
                         },
                         {
@@ -12933,14 +12835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there anything you're having trouble with?\""
                             ]
                         },
                         {
@@ -12948,8 +12843,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "アーバン地区の行き方",
-                                    "何もない"
+                                    "How to get to the Urban district?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -12979,14 +12874,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「アーバン地区行きのバスが大門駅の南から出ています」"
+                                "Officer: \"The bus to the Urban District departs from the south of\nDaimon Station.\""
                             ]
                         },
                         {
@@ -13003,21 +12891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しかし今はアーバン地区が大変な事になっていますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　行かない方がいいかと……」"
+                                "Officer: \"However, the Urban District is in quite a bit of trouble\nright now, so it might be best not to go...\""
                             ]
                         },
                         {
@@ -13108,14 +12982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there anything you're having trouble with?\""
                             ]
                         },
                         {
@@ -13123,8 +12990,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "歓楽街の行き方",
-                                    "何もない"
+                                    "How to get to the entertainment district?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -13154,14 +13021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「フォルス地区を西に行けば歓楽街ですよ」"
+                                "Officer: \"If you go west from the Fols district, you'll find the\nentertainment district.\""
                             ]
                         },
                         {
@@ -13178,14 +13038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも、君みたいな学生にはあまりお勧めしない場所です……」"
+                                "Officer: \"But it's not really a place I'd recommend for students like\nyou...\""
                             ]
                         },
                         {
@@ -13276,14 +13129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か困った事はありますか？」"
+                                "Officer: \"Is there anything you're having trouble with?\""
                             ]
                         },
                         {
@@ -13291,8 +13137,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "グルダス地区の行き方",
-                                    "何もない"
+                                    "How to get to the Grudas district?",
+                                    "Nothing at all"
                                 ],
                                 1,
                                 0,
@@ -13322,21 +13168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「フォルス地区を西に行けば歓楽街、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　そして、そのそらに西がグルダス地区です」"
+                                "Officer: \"If you go west from the Fols district, you'll find the\nentertainment district, and further west of that is the Grudas\ndistrict.\""
                             ]
                         },
                         {
@@ -13353,14 +13185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも、君みたいな学生にはあまりお勧めしない場所です……」"
+                                "Officer: \"But it's not a place I'd recommend for students like you...\""
                             ]
                         },
                         {
@@ -15515,14 +15340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ！ 勝手に入るんじゃない！」"
+                                "Police Officer: \"Hey! Don't just enter on your own!\""
                             ]
                         },
                         {
@@ -15713,21 +15531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ！ 勝手に入るんじゃ……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  あっ、君は痴漢を捕まえてくれたあの時のお嬢さんだね」"
+                                "Officer: \"Hey! You can't just enter as you please... Oh, you're the\nyoung lady who caught the molester that time, aren't you?\""
                             ]
                         },
                         {
@@ -15744,21 +15548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、君なら特別だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　交番内を好きに見て回ってくれ」"
+                                "Officer: \"Hmm, for you it's special! Feel free to look around the\nstation.\""
                             ]
                         },
                         {
@@ -15937,7 +15727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -16173,14 +15963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう！ 君の勇気ある行動で痴漢魔を逮捕する事が出来たよ」"
+                                "Officer: \"Thank you! Your courageous actions allowed us to arrest the\nmolester.\""
                             ]
                         },
                         {
@@ -16197,14 +15980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ、当然の事をしたまでですよ。痴漢は女の敵ですから」"
+                                "Yui: \"No, no, I just did what anyone would do. Molesters are the enemy\nof all women.\""
                             ]
                         },
                         {
@@ -16221,21 +15997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「強いお嬢さんだね。でも、なかなか君みたいに行動出来る子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少ないんだよ」"
+                                "Officer: \"You're a strong young lady. But not many can take action\nlike you did.\""
                             ]
                         },
                         {
@@ -16252,14 +16014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恐怖で声が出せなくなって、されるがままになってしまう……」"
+                                "Officer: \"Overcome with fear, they can't speak out and end up just\nenduring it...\""
                             ]
                         },
                         {
@@ -16276,14 +16031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしてそれがトラウマになって精神的に病んでしまうんだ」"
+                                "Officer: \"And then that becomes a trauma that can mentally break them\ndown.\""
                             ]
                         },
                         {
@@ -16300,14 +16048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「痴漢とは世間が思っている以上に卑劣な犯罪だよ」"
+                                "Officer: \"Molestation is a more despicable crime than society\nrealizes.\""
                             ]
                         },
                         {
@@ -16333,14 +16074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っと……\\|ごめんごめん、説教みたくなっちゃって！」"
+                                "Officer: \"Oops... sorry, sorry, I didn't mean to preach!\""
                             ]
                         },
                         {
@@ -16357,21 +16091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とにかく、本当にありがとうお嬢さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警察官一同、君に感謝するよ！」"
+                                "Officer: \"Anyway, thank you so much, miss! All of us officers are\ngrateful to you!\""
                             ]
                         },
                         {
@@ -16535,7 +16255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -16552,7 +16272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警察官の制服が綺麗に並んでいる。"
+                                "The police officer's uniform is neatly lined up."
                             ]
                         },
                         {
@@ -16648,7 +16368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#交通安全週間　８月１日～８月７日"
+                                "Traffic Safety Week August 1st to August 7th"
                             ]
                         },
                         {

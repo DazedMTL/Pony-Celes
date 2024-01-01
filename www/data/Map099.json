@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "回想部屋",
+    "displayName": "Recollection Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12079,7 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男主人公の名前を変更しますか？"
+                                "Would you like to change the male protagonist's name?"
                             ]
                         },
                         {
@@ -12087,8 +12087,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12138,7 +12138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男主人公の名前を【Ginga】に変更しました。"
+                                "The male protagonist's name has been changed to [Ginga]."
                             ]
                         },
                         {
@@ -12336,7 +12336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは１章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 1."
                             ]
                         },
                         {
@@ -12436,7 +12436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Spider-G battle defeat scene A?"
                             ]
                         },
                         {
@@ -12444,8 +12444,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12602,7 +12602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Spider-G battle defeat scene A?"
                             ]
                         },
                         {
@@ -12610,8 +12610,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12768,7 +12768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Spider-G battle defeat scene A?"
                             ]
                         },
                         {
@@ -12776,8 +12776,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12911,7 +12911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは２章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 2."
                             ]
                         },
                         {
@@ -13011,7 +13011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the defeat scene A from the Ito-Drag battle?"
                             ]
                         },
                         {
@@ -13019,8 +13019,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13050,7 +13050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗北シーン内でポニーセレスの顔を表示させますか？"
+                                "Would you like to display Pony Ceres's face during the defeat scene?"
                             ]
                         },
                         {
@@ -13058,8 +13058,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13246,7 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the defeat scene A from the Ito-Drag battle?"
                             ]
                         },
                         {
@@ -13254,8 +13254,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13285,7 +13285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗北シーン内でポニーセレスの顔を表示させますか？"
+                                "Would you like to display Pony Ceres's face during the defeat scene?"
                             ]
                         },
                         {
@@ -13293,8 +13293,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13481,7 +13481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the defeat scene A from the Ito-Drag battle?"
                             ]
                         },
                         {
@@ -13489,8 +13489,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13520,7 +13520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗北シーン内でポニーセレスの顔を表示させますか？"
+                                "Would you like to display Pony Ceres's face during the defeat scene?"
                             ]
                         },
                         {
@@ -13528,8 +13528,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13693,7 +13693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは６章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 6."
                             ]
                         },
                         {
@@ -13777,7 +13777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Hypno-Dagger defeat scene A?"
                             ]
                         },
                         {
@@ -13785,8 +13785,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13988,7 +13988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Hypno-Dagger defeat scene A?"
                             ]
                         },
                         {
@@ -13996,8 +13996,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14199,7 +14199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Hypno-Dagger defeat scene A?"
                             ]
                         },
                         {
@@ -14207,8 +14207,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14403,7 +14403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは１章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 1."
                             ]
                         },
                         {
@@ -14503,7 +14503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Spider-G defeat scene B?"
                             ]
                         },
                         {
@@ -14511,8 +14511,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14669,7 +14669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Spider-G battle defeat scene B?"
                             ]
                         },
                         {
@@ -14677,8 +14677,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14835,7 +14835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Spider-G battle defeat scene B?"
                             ]
                         },
                         {
@@ -14843,8 +14843,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14978,14 +14978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは寝取られエンド解放コードを入力する事により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閲覧可能となります。"
+                                "This scene can be viewed by entering the NTR (Netorare) End Unlock\nCode."
                             ]
                         },
                         {
@@ -15002,7 +14995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンド解放コードを入力して下さい。"
+                                "Please enter the NTR End Unlock Code."
                             ]
                         },
                         {
@@ -15050,7 +15043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga逆陵辱シ－ンが解放されました！"
+                                "The Ginga Reverse Humiliation Scene has been unlocked!"
                             ]
                         },
                         {
@@ -15086,7 +15079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -15196,7 +15189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逆レイプシーンを見ますか？"
+                                "Would you like to view the reverse rape scene?"
                             ]
                         },
                         {
@@ -15204,8 +15197,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15362,7 +15355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逆レイプシーンを見ますか？"
+                                "Would you like to view the reverse rape scene?"
                             ]
                         },
                         {
@@ -15370,8 +15363,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15528,7 +15521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逆レイプシーンを見ますか？"
+                                "Would you like to view the reverse rape scene?"
                             ]
                         },
                         {
@@ -15536,8 +15529,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15671,14 +15664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは寝取られエンド解放コードを入力する事により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閲覧可能となります。"
+                                "This scene can be viewed by entering the NTR (Netorare) End Unlock\nCode."
                             ]
                         },
                         {
@@ -15695,7 +15681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンド解放コードを入力して下さい。"
+                                "Please enter the NTR End Unlock Code."
                             ]
                         },
                         {
@@ -15743,7 +15729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "寝取られシ－ンＡが解放されました！"
+                                "NTR Scene A has been unlocked!"
                             ]
                         },
                         {
@@ -15779,7 +15765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -15889,7 +15875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＡを見ますか？"
+                                "Would you like to view the NTR ending scene A?"
                             ]
                         },
                         {
@@ -15897,8 +15883,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16055,7 +16041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＡを見ますか？"
+                                "Would you like to view the NTR ending scene A?"
                             ]
                         },
                         {
@@ -16063,8 +16049,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16221,7 +16207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＡを見ますか？"
+                                "Would you like to view the NTR ending scene A?"
                             ]
                         },
                         {
@@ -16229,8 +16215,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16364,14 +16350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは寝取られエンド解放コードを入力する事により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閲覧可能となります。"
+                                "This scene can be viewed by entering the NTR (Netorare) End Unlock\nCode."
                             ]
                         },
                         {
@@ -16388,7 +16367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンド解放コードを入力して下さい。"
+                                "Please enter the NTR End Unlock Code."
                             ]
                         },
                         {
@@ -16436,7 +16415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "寝取られシ－ンＢが解放されました！"
+                                "NTR Scene B has been unlocked!"
                             ]
                         },
                         {
@@ -16472,7 +16451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -16582,7 +16561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＢを見ますか？"
+                                "Would you like to view NTR End Scene B?"
                             ]
                         },
                         {
@@ -16590,8 +16569,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16748,7 +16727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＢを見ますか？"
+                                "Would you like to view NTR Ending Scene B?"
                             ]
                         },
                         {
@@ -16756,8 +16735,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16914,7 +16893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＢを見ますか？"
+                                "Would you like to view NTR End Scene B?"
                             ]
                         },
                         {
@@ -16922,8 +16901,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17057,14 +17036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは寝取られエンド解放コードを入力する事により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閲覧可能となります。"
+                                "This scene can be viewed by entering the NTR (Netorare) End Unlock\nCode."
                             ]
                         },
                         {
@@ -17081,7 +17053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンド解放コードを入力して下さい。"
+                                "Please enter the NTR End Unlock Code."
                             ]
                         },
                         {
@@ -17129,7 +17101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "寝取られシ－ンＣが解放されました！"
+                                "NTR Scene C has been unlocked!"
                             ]
                         },
                         {
@@ -17165,7 +17137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -17275,7 +17247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＣを見ますか？"
+                                "Would you like to view the NTR ending scene C?"
                             ]
                         },
                         {
@@ -17283,8 +17255,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17441,7 +17413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＣを見ますか？"
+                                "Would you like to view the NTR ending scene C?"
                             ]
                         },
                         {
@@ -17449,8 +17421,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17607,7 +17579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンドシーンＣを見ますか？"
+                                "Would you like to view the NTR ending scene C?"
                             ]
                         },
                         {
@@ -17615,8 +17587,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17750,7 +17722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは３章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 3."
                             ]
                         },
                         {
@@ -17834,7 +17806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦、カウンター敗北シーンを見ますか？"
+                                "Would you like to view the Muscle Dog battle, counter-defeat scene?"
                             ]
                         },
                         {
@@ -17842,8 +17814,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18045,7 +18017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦、カウンター敗北シーンを見ますか？"
+                                "Would you like to view the Muscle Dog battle, counter-defeat scene?"
                             ]
                         },
                         {
@@ -18053,8 +18025,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18256,7 +18228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦、カウンター敗北シーンを見ますか？"
+                                "Would you like to view the Muscle Dog battle, counter-defeat scene?"
                             ]
                         },
                         {
@@ -18264,8 +18236,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18460,7 +18432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは３章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 3."
                             ]
                         },
                         {
@@ -18544,7 +18516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦、マッスルタックル敗北シーンを見ますか？"
+                                "Would you like to view the Muscle Dog battle, Muscle Tackle defeat\nscene?"
                             ]
                         },
                         {
@@ -18552,8 +18524,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18755,7 +18727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦、マッスルタックル敗北シーンを見ますか？"
+                                "Would you like to view the Muscle Dog battle, Muscle Tackle defeat\nscene?"
                             ]
                         },
                         {
@@ -18763,8 +18735,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18966,7 +18938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦、マッスルタックル敗北シーンを見ますか？"
+                                "Would you like to view the Muscle Dog battle, Muscle Tackle defeat\nscene?"
                             ]
                         },
                         {
@@ -18974,8 +18946,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19170,7 +19142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは３章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 3."
                             ]
                         },
                         {
@@ -19270,7 +19242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Muscle Dog Battle Defeat Scene A?"
                             ]
                         },
                         {
@@ -19278,8 +19250,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19436,7 +19408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Muscle Dog Battle Defeat Scene A?"
                             ]
                         },
                         {
@@ -19444,8 +19416,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19602,7 +19574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッスルダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Muscle Dog Battle Defeat Scene A?"
                             ]
                         },
                         {
@@ -19610,8 +19582,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19745,7 +19717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは４章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 4."
                             ]
                         },
                         {
@@ -19845,7 +19817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Octodrag Battle Defeat Scene A?"
                             ]
                         },
                         {
@@ -19853,8 +19825,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20011,7 +19983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Octodrag Battle Defeat Scene A?"
                             ]
                         },
                         {
@@ -20019,8 +19991,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20177,7 +20149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Octodrag Battle Defeat Scene A?"
                             ]
                         },
                         {
@@ -20185,8 +20157,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20320,7 +20292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは４章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 4."
                             ]
                         },
                         {
@@ -20420,7 +20392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Octodrag Battle Defeat Scene B?"
                             ]
                         },
                         {
@@ -20428,8 +20400,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20586,7 +20558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Octodrag Battle Defeat Scene B?"
                             ]
                         },
                         {
@@ -20594,8 +20566,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20752,7 +20724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Octodrag Battle Defeat Scene B?"
                             ]
                         },
                         {
@@ -20760,8 +20732,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20895,7 +20867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは５章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 5."
                             ]
                         },
                         {
@@ -20995,7 +20967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Defeat Scene A of the fierce general\nGalvez?"
                             ]
                         },
                         {
@@ -21003,8 +20975,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21161,7 +21133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス戦敗北シーンＡを見ますか？"
+                                "Would you like to view the scene of General Galvez's defeat, Scene A?"
                             ]
                         },
                         {
@@ -21169,8 +21141,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21327,7 +21299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス戦敗北シーンＡを見ますか？"
+                                "Would you like to view the scene of General Galvez's defeat, Scene A?"
                             ]
                         },
                         {
@@ -21335,8 +21307,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21470,7 +21442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは５章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 5."
                             ]
                         },
                         {
@@ -21570,7 +21542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene of General Galvez's defeat B?"
                             ]
                         },
                         {
@@ -21578,8 +21550,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21736,7 +21708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene of the defeat of General Galvez,\nScene B?"
                             ]
                         },
                         {
@@ -21744,8 +21716,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21902,7 +21874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene of the defeat of General Galvez,\nScene B?"
                             ]
                         },
                         {
@@ -21910,8 +21882,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22045,7 +22017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは６章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 6."
                             ]
                         },
                         {
@@ -22145,7 +22117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Hypno-Drag Battle Defeat Scene B?"
                             ]
                         },
                         {
@@ -22153,8 +22125,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22311,7 +22283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Hypno-Dagger Defeat Scene B?"
                             ]
                         },
                         {
@@ -22319,8 +22291,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22477,7 +22449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Hypno-Drag Battle Defeat Scene B?"
                             ]
                         },
                         {
@@ -22485,8 +22457,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22620,14 +22592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンはバッドエンド解放コードを入力する事により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閲覧可能となります。"
+                                "This scene can be viewed by entering the Bad End release code."
                             ]
                         },
                         {
@@ -22644,7 +22609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンド解放コードを入力して下さい。"
+                                "Please enter the Bad End release code."
                             ]
                         },
                         {
@@ -22701,7 +22666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バッドエンドシーンが解放されました！"
+                                "The Bad End scene has been unlocked!"
                             ]
                         },
                         {
@@ -22728,7 +22693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -22822,7 +22787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンドシーンを見ますか？"
+                                "Would you like to view the bad end scene?"
                             ]
                         },
                         {
@@ -22830,8 +22795,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23037,7 +23002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンドシーンを見ますか？"
+                                "Would you like to view the bad end scene?"
                             ]
                         },
                         {
@@ -23045,8 +23010,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23245,7 +23210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは７章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 7."
                             ]
                         },
                         {
@@ -23345,7 +23310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the scene where the Wise General Domudora is\ndefeated in battle A?"
                             ]
                         },
                         {
@@ -23353,8 +23318,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23511,7 +23476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the scene where the Wise General Domudora is\ndefeated in battle A?"
                             ]
                         },
                         {
@@ -23519,8 +23484,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23677,7 +23642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the scene where the Wise General Domudora is\ndefeated in battle A?"
                             ]
                         },
                         {
@@ -23685,8 +23650,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23820,7 +23785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは７章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 7."
                             ]
                         },
                         {
@@ -23920,7 +23885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene where the Wise General Domudora is\ndefeated in battle B?"
                             ]
                         },
                         {
@@ -23928,8 +23893,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24086,7 +24051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene where the Wise General Domudora is\ndefeated in battle B?"
                             ]
                         },
                         {
@@ -24094,8 +24059,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24252,7 +24217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene where the Wise General Domudora is\ndefeated in battle B?"
                             ]
                         },
                         {
@@ -24260,8 +24225,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24395,7 +24360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは８章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 8."
                             ]
                         },
                         {
@@ -24495,7 +24460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the scene where Strategist Karin is defeated in\nbattle A?"
                             ]
                         },
                         {
@@ -24503,8 +24468,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24661,7 +24626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Strategist Carine's Defeat Scene A?"
                             ]
                         },
                         {
@@ -24669,8 +24634,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24827,7 +24792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Strategist Carine's Defeat Scene A?"
                             ]
                         },
                         {
@@ -24835,8 +24800,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24970,7 +24935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは８章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 8."
                             ]
                         },
                         {
@@ -25070,7 +25035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Strategist Karin's Defeat Scene B?"
                             ]
                         },
                         {
@@ -25078,8 +25043,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25236,7 +25201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Strategist Karin's Defeat Scene B?"
                             ]
                         },
                         {
@@ -25244,8 +25209,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25402,7 +25367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the scene where Strategist Karen is defeated in\nbattle B?"
                             ]
                         },
                         {
@@ -25410,8 +25375,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25545,7 +25510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは１０章へ進む事により解放されます。"
+                                "This scene will be unlocked by progressing to Chapter 10."
                             ]
                         },
                         {
@@ -25645,7 +25610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "闇王ダーグノア戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Dark Lord Dargnoa defeat scene A?"
                             ]
                         },
                         {
@@ -25653,8 +25618,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25811,7 +25776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "闇王ダーグノア戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Dark Lord Dargnoa defeat scene A?"
                             ]
                         },
                         {
@@ -25819,8 +25784,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25977,7 +25942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "闇王ダーグノア戦敗北シーンＡを見ますか？"
+                                "Would you like to view the Dark Lord Dargnoa defeat scene A?"
                             ]
                         },
                         {
@@ -25985,8 +25950,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26120,14 +26085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンはトゥルーエンド解放コードを入力する事により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閲覧可能となります。"
+                                "This scene can be viewed by entering the True End release code."
                             ]
                         },
                         {
@@ -26144,7 +26102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トゥルーエンド解放コードを入力して下さい。"
+                                "Please enter the True End release code."
                             ]
                         },
                         {
@@ -26201,7 +26159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "闇王ダーグノア戦敗北シ－ンＢが解放されました！"
+                                "The Dark Lord Dargnoa defeat scene B has been unlocked!"
                             ]
                         },
                         {
@@ -26228,7 +26186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -26338,7 +26296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "闇王ダーグノア戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Dark Lord Dargnoa defeat scene B?"
                             ]
                         },
                         {
@@ -26346,8 +26304,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26504,7 +26462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "闇王ダーグノア戦敗北シーンＢを見ますか？"
+                                "Would you like to view the Dark Lord Dargnoa defeat scene B?"
                             ]
                         },
                         {
@@ -26512,8 +26470,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26647,14 +26605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは戦闘員復讐シーンの解放コードを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入力する事により閲覧可能となります。"
+                                "This scene can be viewed by entering the unlock code for the\nCombatant's Revenge Scene."
                             ]
                         },
                         {
@@ -26671,7 +26622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員復讐シーンの解放コードを入力して下さい。"
+                                "Please enter the unlock code for the Combatant's Revenge Scene."
                             ]
                         },
                         {
@@ -26728,7 +26679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員復讐シーンが解放されました！"
+                                "The Combatant's Revenge Scene has been unlocked!"
                             ]
                         },
                         {
@@ -26755,7 +26706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -26865,7 +26816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員復讐シーンを見ますか？"
+                                "Would you like to view the revenge scene of the combatant?"
                             ]
                         },
                         {
@@ -26873,8 +26824,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27031,7 +26982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員復讐シーンを見ますか？"
+                                "Would you like to view the combatant's revenge scene?"
                             ]
                         },
                         {
@@ -27039,8 +26990,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27174,7 +27125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは２章をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing Chapter 2."
                             ]
                         },
                         {
@@ -27274,7 +27225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the defeat scene B for the Ice Dragon battle?"
                             ]
                         },
                         {
@@ -27282,8 +27233,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27440,7 +27391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the defeat scene B for the Ice Dragon battle?"
                             ]
                         },
                         {
@@ -27448,8 +27399,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27606,7 +27557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ戦敗北シーンＢを見ますか？"
+                                "Would you like to view the defeat scene B for the Ice Dragon battle?"
                             ]
                         },
                         {
@@ -27614,8 +27565,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27749,7 +27700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは６章をクリアする事で解放されます。"
+                                "This scene will be unlocked after clearing Chapter 6."
                             ]
                         },
                         {
@@ -27849,7 +27800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン陵辱シーンＡを見ますか？"
+                                "Would you like to view Karen's humiliation scene A?"
                             ]
                         },
                         {
@@ -27857,8 +27808,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28015,7 +27966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン陵辱シーンＡを見ますか？"
+                                "Would you like to view Karen's humiliation scene A?"
                             ]
                         },
                         {
@@ -28023,8 +27974,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28158,14 +28109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【西園寺カレンの特殊イベント！その４】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【Saionji\nKaren's Special Event! Part 4】\\c[0]."
                             ]
                         },
                         {
@@ -28265,7 +28209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン陵辱シーンＢを見ますか？"
+                                "Would you like to view Karen's humiliation scene B?"
                             ]
                         },
                         {
@@ -28273,8 +28217,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28431,7 +28375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン陵辱シーンＢを見ますか？"
+                                "Would you like to view Karen's humiliation scene B?"
                             ]
                         },
                         {
@@ -28439,8 +28383,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28574,14 +28518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【セクハラ教師、その名は毒島丸男！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【The\nSexual Harassment Teacher, His Name is Dokushima Maruo!】\\c[0]."
                             ]
                         },
                         {
@@ -28681,7 +28618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島戦敗北シーンを見ますか？"
+                                "Would you like to view the defeat scene for Dokushima?"
                             ]
                         },
                         {
@@ -28689,8 +28626,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28847,7 +28784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島戦敗北シーンを見ますか？"
+                                "Would you like to view the defeat scene for Dokushima?"
                             ]
                         },
                         {
@@ -28855,8 +28792,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28990,14 +28927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【悪事を暴け、キャバクラ店への潜入捜査！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【Expose\nthe wrongdoing, infiltrate the cabaret club!】\\c[0]."
                             ]
                         },
                         {
@@ -29097,7 +29027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "潜入捜査失敗シーンを見ますか？"
+                                "Would you like to view the failed undercover investigation scene?"
                             ]
                         },
                         {
@@ -29105,8 +29035,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29263,7 +29193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "潜入捜査失敗シーンを見ますか？"
+                                "Would you like to view the failed undercover investigation scene?"
                             ]
                         },
                         {
@@ -29271,8 +29201,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29406,14 +29336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【女性の天敵、電車内の悪魔！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【A\nWoman's Worst Enemy, The Demon on the Train!】\\c[0]."
                             ]
                         },
                         {
@@ -29513,7 +29436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "満員電車痴漢シーンを見ますか？"
+                                "Would you like to view the crowded train molestation scene?"
                             ]
                         },
                         {
@@ -29521,8 +29444,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29679,7 +29602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "満員電車痴漢シーンを見ますか？"
+                                "Would you like to view the crowded train molestation scene?"
                             ]
                         },
                         {
@@ -29687,8 +29610,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29822,14 +29745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【高架下のアクシデント！エッチな男をぶっとばせ！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement\n\\c[17]【Accident Under the Overpass! Knock the Horny Guy Out!】\\c[0]."
                             ]
                         },
                         {
@@ -29929,7 +29845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁穴シーンを見ますか？"
+                                "Would you like to view the glory hole scene?"
                             ]
                         },
                         {
@@ -29937,8 +29853,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30095,7 +30011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁穴シーンを見ますか？"
+                                "Would you like to view the glory hole scene?"
                             ]
                         },
                         {
@@ -30103,8 +30019,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30238,14 +30154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【 盗まれたブルマの行方！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【The\nCase of the Stolen Bloomers!】\\c[0]."
                             ]
                         },
                         {
@@ -30345,7 +30254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルマ撮影シーンを見ますか？"
+                                "Would you like to view the bloomers photo shoot scene?"
                             ]
                         },
                         {
@@ -30353,8 +30262,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30511,7 +30420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルマ撮影シーンを見ますか？"
+                                "Would you like to view the bloomers photo shoot scene?"
                             ]
                         },
                         {
@@ -30519,8 +30428,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30654,14 +30563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【エッチなお仕事、バニーガールキャバクラ！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【Naughty\nJob, Bunny-Girl Cabaret Club!】\\c[0]."
                             ]
                         },
                         {
@@ -30761,7 +30663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エロバイトシーンを見ますか？"
+                                "Would you like to view the erotic part-time job scene?"
                             ]
                         },
                         {
@@ -30769,8 +30671,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -30927,7 +30829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エロバイトシーンを見ますか？"
+                                "Would you like to view the erotic part-time job scene?"
                             ]
                         },
                         {
@@ -30935,8 +30837,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -31070,14 +30972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのシーンは実績\\c[17]【卑劣な犯行、人身売買犯を取り押さえろ！】\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をクリアする事で解放されます。"
+                                "This scene will be unlocked by clearing the achievement \\c[17]【Capture\nthe vile human trafficker!】\\c[0]."
                             ]
                         },
                         {
@@ -31177,7 +31072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人身売買調教シーンを見ますか？"
+                                "Would you like to view the human trafficking training scene?"
                             ]
                         },
                         {
@@ -31185,8 +31080,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -31343,7 +31238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人身売買調教シーンを見ますか？"
+                                "Would you like to view the human trafficking training scene?"
                             ]
                         },
                         {
@@ -31351,8 +31246,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -31486,7 +31381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コードを入力して下さい。"
+                                "Please enter the code."
                             ]
                         },
                         {
@@ -31641,7 +31536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "★ギベオン★を手に入れた！"
+                                "You've obtained the ★Gibeon★!"
                             ]
                         },
                         {
@@ -31668,7 +31563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems the code is incorrect."
                             ]
                         },
                         {
@@ -31806,7 +31701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コードを入力して下さい。"
+                                "Please enter the code."
                             ]
                         },
                         {
@@ -31961,7 +31856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "★ホーリーピアス★を手に入れた！"
+                                "You've obtained the ★Holy Pierces★!"
                             ]
                         },
                         {
@@ -31988,7 +31883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems the code is incorrect."
                             ]
                         },
                         {
@@ -32126,7 +32021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コードを入力して下さい。"
+                                "Please enter the code."
                             ]
                         },
                         {
@@ -32281,7 +32176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "★女神の指輪★を手に入れた！"
+                                "You've obtained the ★Ring of the Goddess★!"
                             ]
                         },
                         {
@@ -32308,7 +32203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems the code is incorrect."
                             ]
                         },
                         {
@@ -32446,7 +32341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コードを入力して下さい。"
+                                "Please enter the code."
                             ]
                         },
                         {
@@ -32601,7 +32496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "★伝説のセーラー服★を手に入れた！"
+                                "You've obtained the ★Legendary Sailor Uniform★!"
                             ]
                         },
                         {
@@ -32628,7 +32523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems the code is incorrect."
                             ]
                         },
                         {
@@ -32767,14 +32662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トゥルーエンド解放コードを入力して下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※回想部屋の全シーンが解放となります。"
+                                "Please enter the True End unlock code. \\C[17]※This will unlock all\nscenes in the reminiscence room."
                             ]
                         },
                         {
@@ -32831,7 +32719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想部屋の全シーンが解放されました！"
+                                "All scenes in the reminiscence room have been unlocked!"
                             ]
                         },
                         {
@@ -32866,7 +32754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -32944,7 +32832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無いようだ。"
+                                "It seems there's no need to operate it anymore."
                             ]
                         },
                         {
@@ -33021,14 +32909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝取られエンド解放コードを入力して下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※寝取られ３シーンと逆レイプシーンが解放となります。"
+                                "Please enter the code to unlock the NTR ending. \\C[17]※This will\nunlock the 3 NTR scenes and the reverse rape scene."
                             ]
                         },
                         {
@@ -33085,7 +32966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "寝取られ３シーンと逆レイプシーンが解放されました！"
+                                "The 3 NTR scenes and the reverse rape scene have been unlocked!"
                             ]
                         },
                         {
@@ -33120,7 +33001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -33198,7 +33079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無いようだ。"
+                                "It seems there's no need to operate it anymore."
                             ]
                         },
                         {
@@ -33489,21 +33370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノーマルーエンド解放コードを入力して下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※各章のボス戦敗北シーンが解放となります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（解放されないシーンもあります）"
+                                "Please enter the Normal End Unlock Code. \\C[17]※Scenes of defeat in\nboss battles of each chapter will be unlocked. (There are scenes that\nwill not be unlocked)"
                             ]
                         },
                         {
@@ -33560,14 +33427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "各章のボス戦敗北シーンが解放されました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（解放されていないシーンもあります）"
+                                "Scenes of defeat in boss battles of each chapter have been unlocked!\n(There are scenes that have not been unlocked)"
                             ]
                         },
                         {
@@ -33602,7 +33462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -33680,7 +33540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無いようだ。"
+                                "It seems there's no need to operate it anymore."
                             ]
                         },
                         {
@@ -33757,14 +33617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンド解放コードを入力して下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※５章のバッドエンドシーンが解放となります。"
+                                "Please enter the code to unlock the bad ending. \\C[17]※The bad ending\nscene for Chapter 5 will be unlocked."
                             ]
                         },
                         {
@@ -33821,7 +33674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バッドエンドシーンが解放されました！"
+                                "The bad ending scene has been unlocked!"
                             ]
                         },
                         {
@@ -33856,7 +33709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コードが間違っているようだ。"
+                                "It seems that the code is incorrect."
                             ]
                         },
                         {
@@ -33934,7 +33787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無いようだ。"
+                                "It seems there's no need to operate it anymore."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西園寺製薬前",
+    "displayName": "In front of Saionji Pharmaceuticals",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -7130,14 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -7396,14 +7389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -7669,7 +7655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵は反対側からしっかり固定されているようだ。"
+                                "The fence seems to be firmly fixed from the other side."
                             ]
                         },
                         {
@@ -7737,7 +7723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -7745,8 +7731,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8100,14 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湘東学園男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カレンさんはそこの建物の最上階に住んでるらしいよ」"
+                                "Shoutou Academy male student: \"I heard that Karen-san lives on the top\nfloor of that building.\""
                             ]
                         },
                         {
@@ -8124,14 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湘東学園男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一度でいいからカレンさんの部屋に入ってみたいな……」"
+                                "Shoutou Academy male student: \"I'd like to enter Karen-san's room just\nonce...\""
                             ]
                         },
                         {
@@ -8279,14 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユカリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺製薬のおかげでフォルス地区は発展したようなものよ」"
+                                "Yukari: \"Thanks to Saionji Pharmaceuticals, the Fols district might as\nwell have developed.\""
                             ]
                         },
                         {
@@ -8303,14 +8268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユカリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝してもしきれないわ！」"
+                                "Yukari: \"I can't thank them enough!\""
                             ]
                         },
                         {
@@ -8426,7 +8384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは地面を調べた！"
+                                "Yui examined the ground!"
                             ]
                         },
                         {
@@ -8510,7 +8468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを発見した！"
+                                "She discovered a manhole!"
                             ]
                         },
                         {
@@ -8586,7 +8544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを外して中に入りますか？"
+                                "Shall we remove the manhole cover and go inside?"
                             ]
                         },
                         {
@@ -8594,8 +8552,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8723,7 +8681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを外して中に入りますか？"
+                                "Shall we remove the manhole cover and go inside?"
                             ]
                         },
                         {
@@ -8731,8 +8689,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9087,14 +9045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありませんが現在は入館を禁止しております」"
+                                "Security Guard: \"I'm sorry, but entry is currently prohibited.\""
                             ]
                         },
                         {
@@ -9127,14 +9078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？ カレンお嬢様にお渡しした監視カメラの映像？」"
+                                "Security Guard: \"Eh? The surveillance camera footage I handed over to\nMiss Karen?\""
                             ]
                         },
                         {
@@ -9151,14 +9095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんの事でしょうか？」"
+                                "Security Guard: \"What are you talking about?\""
                             ]
                         },
                         {
@@ -9175,21 +9112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより、今はカレンお嬢様が行方不明なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一週間も帰宅されていないとの事で役員達は大騒ぎです」"
+                                "Security Guard: \"More importantly, Miss Karen is currently missing.\nThe executives are in a frenzy because she hasn't returned home for a\nweek now.\""
                             ]
                         },
                         {
@@ -9254,14 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（えっ、西園寺さんが行方不明？）"
+                                "Yui: \"Eh, Saionji-san is missing?\""
                             ]
                         },
                         {
@@ -9278,14 +9194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（湘東学園で会って以来、一度も帰宅してないっていうの……？）"
+                                "Yui: \"You mean she hasn't returned home once since we met at Shoutou\nAcademy...?\""
                             ]
                         },
                         {
@@ -9486,14 +9395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありませんが現在は入館を禁止しております」"
+                                "Security Guard: \"I'm sorry, but entry is currently prohibited.\""
                             ]
                         },
                         {
@@ -9664,14 +9566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は西園寺製薬の敷地内です」"
+                                "Security Guard: \"Beyond this point is the Saionji Pharmaceuticals\nproperty.\""
                             ]
                         },
                         {
@@ -10008,14 +9903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は西園寺製薬の敷地内です」"
+                                "Security Guard: \"Beyond this point is the Saionji Pharmaceuticals\nproperty.\""
                             ]
                         },
                         {
@@ -10556,14 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありませんが現在は入館を禁止しております」"
+                                "Security Guard: \"I'm sorry, but entry is currently prohibited.\""
                             ]
                         },
                         {
@@ -10596,14 +10477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ カレンお嬢様にお渡しした監視カメラの映像？」"
+                                "Security Guard: \"Hm? The surveillance camera footage I handed over to\nMiss Karen?\""
                             ]
                         },
                         {
@@ -10620,14 +10494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんの事でしょうか？」"
+                                "Security Guard: \"What are you referring to?\""
                             ]
                         },
                         {
@@ -10644,21 +10511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより、今はカレンお嬢様が行方不明なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一週間も帰宅されていないとの事で役員達は大騒ぎです」"
+                                "Security Guard: \"More importantly, Miss Karen is currently missing.\nThe executives are in a frenzy because she hasn't returned home for a\nweek now.\""
                             ]
                         },
                         {
@@ -10723,14 +10576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（えっ、西園寺さんが行方不明？）"
+                                "Yui: \"Eh, Saionji-san is missing?\""
                             ]
                         },
                         {
@@ -10747,14 +10593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（湘東学園で会って以来、一度も帰宅してないっていうの……？）"
+                                "Yui: \"You mean to say she hasn't returned home even once since we met\nat Shoutou Academy...?\""
                             ]
                         },
                         {
@@ -10955,14 +10794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありませんが現在は入館を禁止しております」"
+                                "Security Guard: \"I'm sorry, but entry is currently prohibited.\""
                             ]
                         },
                         {
@@ -11177,7 +11009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -12657,14 +12489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれは……西園寺さん……？」"
+                                "Yui: \"Is that... Saionji-san...?\""
                             ]
                         },
                         {
@@ -13194,7 +13019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[219]星のイヤリング】を手に入れた！"
+                                "Acquired the 【\\i[219]Star Earrings】!"
                             ]
                         },
                         {
@@ -14456,7 +14281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飛び降りますか？"
+                                "Will you jump down?"
                             ]
                         },
                         {
@@ -14464,8 +14289,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14766,7 +14591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中身は空っぽだった。"
+                                "The inside was empty."
                             ]
                         },
                         {
@@ -14982,7 +14807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を開けた！"
+                                "I unlocked it!"
                             ]
                         },
                         {
@@ -15122,7 +14947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインパーキングの清算機のようだ。"
+                                "It seems to be a coin parking payment machine."
                             ]
                         },
                         {

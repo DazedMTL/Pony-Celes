@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "教室(２－２)",
+    "displayName": "Classroom (2-2)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12578,21 +12578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来月の……テストも……守崎がいるから……ビリには……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ならない……良かった……ZZZ」"
+                                "Minion: \"With Morisaki... around next month... for the test... I won't\nbe... the last one... thank goodness... ZZZ\""
                             ]
                         },
                         {
@@ -12643,14 +12629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Pony-Ceres: \"...\""
                             ]
                         },
                         {
@@ -12676,14 +12655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのまま一生寝ておきなさいっ！！」"
+                                "Pony-Ceres: \"Just sleep like that for the rest of your life!!\""
                             ]
                         },
                         {

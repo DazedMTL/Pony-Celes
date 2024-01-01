@@ -15058,14 +15058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何をしている！ 早くポニーセレスを捕まえろ！」"
+                                "Saimindar: \"What are you doing! Hurry up and catch Pony Ceres!\""
                             ]
                         },
                         {
@@ -15186,14 +15179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「迷ってる暇はないわ！ 覚悟を決めなさい私！」"
+                                "Pony Ceres: \"There's no time to hesitate! I must make up my mind!\""
                             ]
                         },
                         {
@@ -15999,14 +15985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[18]（※引き返せないため、別枠でのセーブを推奨します）\\C[0]"
+                                "Would you like to save?\\C[18](※Since you can't go back, it is\nrecommended to save in a separate slot.)\\C[0]"
                             ]
                         },
                         {
@@ -16014,8 +15993,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "倉庫室",
+    "displayName": "Storage Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12307,7 +12307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "I've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {

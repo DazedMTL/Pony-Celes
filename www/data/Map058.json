@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "亀田家",
+    "displayName": "Kameda House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -13007,14 +13007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It seems like it would open if I had the\n\\C[17]Crimson Star Key\\C[0]."
                             ]
                         },
                         {
@@ -13082,14 +13075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "The lock is engaged. It seems like it would open if I use the\n\\C[17]Crimson Star Key\\C[0]."
                             ]
                         },
                         {
@@ -13106,7 +13092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -13114,8 +13100,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13157,7 +13143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -13542,14 +13528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「６軒横にウチの実家があるんだ」"
+                                "Tetsuya: \"My family home is six houses down.\""
                             ]
                         },
                         {
@@ -13566,14 +13545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「爺ちゃんと婆ちゃんが二人で暮らしてるぜ」"
+                                "Tetsuya: \"My grandpa and grandma live there together.\""
                             ]
                         },
                         {
@@ -13694,7 +13666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[297]週刊ハメ撮りマガジン】を手に入れた！"
+                                "I've obtained the 【\\i[297]Weekly Fuck Fest Magazine】!"
                             ]
                         },
                         {
@@ -13780,7 +13752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッチな本が所狭しと並んでいる。"
+                                "Erotic books are crammed onto the shelves."
                             ]
                         },
                         {
@@ -13857,7 +13829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッチな本が所狭しと並んでいる。"
+                                "Erotic books are crammed onto the shelves."
                             ]
                         },
                         {
@@ -13934,7 +13906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -14011,7 +13983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -14088,7 +14060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -14165,7 +14137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミ箱の中を調べた。"
+                                "I checked inside the trash can."
                             ]
                         },
                         {
@@ -14182,7 +14154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くしゃくしゃに丸められたティッシュが臭いを放っている。"
+                                "Crumpled tissues are emitting an odor."
                             ]
                         },
                         {

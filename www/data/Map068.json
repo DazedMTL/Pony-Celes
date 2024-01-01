@@ -16592,21 +16592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaの部屋はそっちね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　部屋は好きに使っていいってお母さんが言ってたから」"
+                                "Yui: \"Ginga's room is over there. Mom said you can use the room\nhowever you like.\""
                             ]
                         },
                         {
@@ -16657,14 +16643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがと！ じゃ、おやすみ！」"
+                                "Ginga: \"Thanks! Well, good night!\""
                             ]
                         },
                         {
@@ -16711,14 +16690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、おやすみ！」"
+                                "Yui: \"Yeah, good night!\""
                             ]
                         },
                         {

@@ -9366,14 +9366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと……じゃあここは、この数式でいいのかしら？」"
+                                "Karen: \"So... is this equation correct here, I wonder?\""
                             ]
                         },
                         {
@@ -9390,14 +9383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、さすが西園寺さん。理解が早いね」"
+                                "Ginga: \"Ah, as expected of Saionji-san. You catch on quickly.\""
                             ]
                         },
                         {
@@ -9414,14 +9400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「天沢君が横にいるから頭が冴えているのかも」"
+                                "Karen: \"Maybe my mind is clearer because Amasawa-kun is beside me.\""
                             ]
                         },
                         {
@@ -9438,14 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -9462,14 +9434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、次の問題、そこの回答は間違ってるね」"
+                                "Ginga: \"Oh, the answer for the next problem is wrong.\""
                             ]
                         },
                         {
@@ -9486,14 +9451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、最後の掛け算で計算間違いしてる」"
+                                "Ginga: \"Look, there's a mistake in the final multiplication.\""
                             ]
                         },
                         {
@@ -9510,14 +9468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、うっかりしてたわ」"
+                                "Karen: \"Ah, I was careless.\""
                             ]
                         },
                         {
@@ -9534,14 +9485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これがこうで……これで良しと！」"
+                                "Karen: \"If this goes like this... and with this, it's good!\""
                             ]
                         },
                         {
@@ -9558,14 +9502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、それで完璧だ！」"
+                                "Ginga: \"Yeah, that's perfect!\""
                             ]
                         },
                         {
@@ -9658,14 +9595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがと！ 凄く勉強になったわ」"
+                                "Karen: \"Thanks! It was really educational.\""
                             ]
                         },
                         {
@@ -9713,21 +9643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕にはこれくらいの事しか出来ないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　喜んでもらえたなら良かったよ」"
+                                "Ginga: \"I can't do much else, but I'm glad you're pleased.\""
                             ]
                         },
                         {
@@ -9744,14 +9660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -9768,21 +9677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鮫島の家は、\\C[17]フォルス地区の歓楽街\\C[0]にある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\C[17]スカイハイ\\C[0]ってマンションの５階よ」"
+                                "Karen: \"Samejima's place is on the fifth floor of a mansion called\n\\C[17]Sky High\\C[0] in the \\C[17]Fols district's pleasure\nquarter\\C[0].\""
                             ]
                         },
                         {
@@ -9799,21 +9694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鮫島と一緒にいるのを見かけたって話だけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこにいないかもしれない」"
+                                "Karen: \"It's just a rumor that he was seen with someone there, so he\nmight not be there.\""
                             ]
                         },
                         {
@@ -9830,14 +9711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでもいくの？」"
+                                "Karen: \"Even so, will you go?\""
                             ]
                         },
                         {
@@ -9854,14 +9728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、もちろん」"
+                                "Ginga: \"Yeah, of course.\""
                             ]
                         },
                         {
@@ -9878,14 +9745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう……」"
+                                "Karen: \"I see...\""
                             ]
                         },
                         {
@@ -9902,14 +9762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがと、西園寺さん！ じゃ、行くよ」"
+                                "Ginga: \"Thanks, Saionji-san! Well, I'm off.\""
                             ]
                         },
                         {
@@ -10704,14 +10557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっさとよこしなさい」"
+                                "Karen: \"Hand it over quickly.\""
                             ]
                         },
                         {
@@ -10728,14 +10574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カツヒト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうぞ……」"
+                                "Katsuhiro: \"Here you go...\""
                             ]
                         },
                         {
@@ -10817,14 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カツヒト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鮫島、めんどくさいやつですね……」"
+                                "Katsuhiro: \"Samejima, what a troublesome guy...\""
                             ]
                         },
                         {
@@ -10841,14 +10673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつが欲しいって言うのならなんでも渡すわ」"
+                                "Karen: \"If he says he wants it, I'll give him anything.\""
                             ]
                         },
                         {
@@ -10865,21 +10690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「姑息な手回し……嘘つき、卑怯者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、結果だけは出す男」"
+                                "Karen: \"Sneaky maneuvers... a liar, a coward. But he's a man who\ndelivers results.\""
                             ]
                         },
                         {
@@ -10896,14 +10707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カツヒト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そんなに信用しているんですね」"
+                                "Katsuhiro: \"...You trust him that much?\""
                             ]
                         },
                         {
@@ -10920,14 +10724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「現に、あいつの言ったように天沢が行動している」"
+                                "Karen: \"Indeed, Amasawa is acting just as he said.\""
                             ]
                         },
                         {
@@ -10944,14 +10741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恋愛事については信じられないくらい気転が効くのよ」"
+                                "Karen: \"When it comes to love matters, he's unbelievably quick-\nwitted.\""
                             ]
                         },
                         {
@@ -10968,14 +10758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの状況から守崎を堕とせるなんてあいつくらいよ」"
+                                "Karen: \"Only someone like him could seduce Morisaki from that\nsituation.\""
                             ]
                         },
                         {
@@ -10992,14 +10775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カツヒト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ベタ褒めですね」"
+                                "Katsuhiro: \"...You're really singing his praises.\""
                             ]
                         },
                         {
@@ -11240,14 +11016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -11264,14 +11033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「天沢、あなたにも私と同じ苦しみを味あわさせてあげる」"
+                                "Karen: \"Amasawa, I will make you taste the same suffering as me.\""
                             ]
                         },
                         {
@@ -11288,14 +11050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふふふっ」"
+                                "Karen: \"Fufufufufu...\""
                             ]
                         },
                         {

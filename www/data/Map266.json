@@ -9600,14 +9600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。まずこちらで受付をお願しております」"
+                                "Receptionist: \"I'm sorry. First, please check in here.\""
                             ]
                         },
                         {
@@ -9777,14 +9770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ございません。そちらは男性用となっております」"
+                                "Receptionist: \"I apologize, but that area is for men.\""
                             ]
                         },
                         {
@@ -9801,14 +9787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女性の方は右の扉からお進み下さい」"
+                                "Receptionist: \"Ladies, please proceed through the door on the right.\""
                             ]
                         },
                         {
@@ -9987,14 +9966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。まずこちらで受付をお願しております」"
+                                "Receptionist: \"I'm sorry. First, please check in here.\""
                             ]
                         },
                         {
@@ -10307,7 +10279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -10315,10 +10287,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階：エントランス",
-                                    "２階：トリップストア",
-                                    "３階：どこにも行かない",
-                                    "４階：空き店舗"
+                                    "1st Floor: Entrance",
+                                    "2nd Floor: Trip Store",
+                                    "3rd Floor: Nowhere in particular",
+                                    "4th Floor: Vacant Store"
                                 ],
                                 -2,
                                 0,
@@ -10953,14 +10925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キリコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この店の指圧師、施術がとっても上手なのよ\\i[18]」"
+                                "Kiriko: \"The acupressurist at this shop is really skilled at\ntreatments\\i[18]\""
                             ]
                         },
                         {
@@ -10977,21 +10942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キリコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに加えてイケメンで優しい紳士なの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はぁ～、毎日でも通いたいわ\\i[18]」"
+                                "Kiriko: \"Not to mention he's a handsome and kind gentleman! Ahh~, I\nwant to visit every day\\i[18]\""
                             ]
                         },
                         {
@@ -11093,14 +11044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「足つぼマッサージ、つぼ休へようこそ」"
+                                "Receptionist: \"Welcome to Tsubo Yasumi, the foot pressure point\nmassage parlor.\""
                             ]
                         },
                         {
@@ -11117,14 +11061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご利用料金は２０分で２０００円となっております」"
+                                "Receptionist: \"The fee for our service is 2,000 yen for 20 minutes.\""
                             ]
                         },
                         {
@@ -11141,14 +11078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「施術を受けられますか？」"
+                                "Receptionist: \"Would you like to receive a treatment?\""
                             ]
                         },
                         {
@@ -11156,8 +11086,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お願いします！",
-                                    "結構です……"
+                                    "Yes, please!",
+                                    "No, thank you"
                                 ],
                                 1,
                                 0,
@@ -11224,14 +11154,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「では、右手の通路を進んで施術室へお入り下さい」"
+                                "Receptionist: \"Then, please proceed down the hallway on your right to\nenter the treatment room.\""
                             ]
                         },
                         {
@@ -11267,14 +11190,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「申し訳ありません。お金が足りないようです……」"
+                                "Receptionist: \"I'm sorry, it seems you don't have enough money...\""
                             ]
                         },
                         {
@@ -11375,14 +11291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、右手の通路を進んで施術室へお入り下さい」"
+                                "Receptionist: \"Then, please proceed down the hallway on your right to\nenter the treatment room.\""
                             ]
                         },
                         {

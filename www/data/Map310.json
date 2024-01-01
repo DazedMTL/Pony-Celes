@@ -10579,14 +10579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこは５０３号室、その部屋じゃないわよ……」"
+                                "Karen: \"That's room 503, not that room...\""
                             ]
                         },
                         {
@@ -10663,14 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこは５０２号室、その部屋じゃないわよ……」"
+                                "Karen: \"That's room 502, not the one we're looking for...\""
                             ]
                         },
                         {
@@ -10747,14 +10733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこは５０４号室、その部屋じゃないわよ……」"
+                                "Karen: \"That's room 504, not the one we're looking for...\""
                             ]
                         },
                         {
@@ -11147,14 +11126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやおや、見つかってしまったか･････」"
+                                "Pierrot: \"Oh my, you've found me...\""
                             ]
                         },
                         {
@@ -11171,14 +11143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は探索がとても上手みたいだね」"
+                                "Pierrot: \"It seems you're very good at searching.\""
                             ]
                         },
                         {
@@ -11195,14 +11160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この調子で世界中に散らばったボクを見つけてみてよ！」"
+                                "Pierrot: \"Keep it up and try to find me scattered all around the\nworld!\""
                             ]
                         },
                         {
@@ -11219,14 +11177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエロン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあね～～！」"
+                                "Pierrot: \"See you~~!\""
                             ]
                         },
                         {
@@ -11511,14 +11462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここが鮫島の部屋……」"
+                                "Karen: \"This is Samejima's room...\""
                             ]
                         },
                         {
@@ -11535,14 +11479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、開けるわよ」"
+                                "Karen: \"Okay, I'm going to open it.\""
                             ]
                         },
                         {
@@ -11636,14 +11573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、開いた……\\|えっ！？」"
+                                "Karen: \"Alright, it's open... Huh!?\""
                             ]
                         },
                         {
@@ -11678,14 +11608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうかした？」"
+                                "Ginga: \"What's wrong?\""
                             ]
                         },
                         {
@@ -11733,14 +11656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメよ、入れない……チェーンロックがかかっているわ」"
+                                "Karen: \"No good, we can't get in... There's a chain lock.\""
                             ]
                         },
                         {
@@ -11757,14 +11673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつ用心深いところあるから……」"
+                                "Karen: \"He's always been cautious...\""
                             ]
                         },
                         {
@@ -11781,14 +11690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな……」"
+                                "Ginga: \"You don't say...\""
                             ]
                         },
                         {
@@ -11814,14 +11716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！」"
+                                "Karen: \"That's it!\""
                             ]
                         },
                         {
@@ -11838,14 +11733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか隣の５０４号室が空き部屋よ」"
+                                "Karen: \"If I remember correctly, room 504 next door is vacant.\""
                             ]
                         },
                         {
@@ -11862,21 +11750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隣の部屋からなら、ベランダ越しに５０５号室の中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　様子がわかるかも……」"
+                                "Karen: \"From the next room, we might be able to see inside room 505\nfrom the balcony...\""
                             ]
                         },
                         {
@@ -12124,14 +11998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか隣の５０４号室が空き部屋だったわ」"
+                                "Karen: \"I'm pretty sure the room next door, 504, is vacant.\""
                             ]
                         },
                         {
@@ -12148,21 +12015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隣の部屋からなら、ベランダ越しに５０５号室の中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　様子がわかるかも」"
+                                "Karen: \"From the room next door, we might be able to see inside room\n505 from across the balcony.\""
                             ]
                         },
                         {
@@ -12239,7 +12092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -12247,8 +12100,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "やめる"
+                                    "First floor",
+                                    "Cancel"
                                 ],
                                 -2,
                                 0,
@@ -12730,7 +12583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋をドアを壊して壁を作った痕跡がある。"
+                                "There are traces of a door being broken and a wall being constructed\nin its place."
                             ]
                         },
                         {
@@ -12747,7 +12600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑な作業からか壁が少し剥がれ落ちている。"
+                                "Perhaps due to the shoddy workmanship, part of the wall is peeling\noff."
                             ]
                         },
                         {
@@ -12845,14 +12698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[18]（※引き返せないため、別枠でのセーブを推奨します）\\C[0]"
+                                "Would you like to save?\\C[18] (※Since you can't go back, it is\nrecommended to save in a separate slot.)\\C[0]"
                             ]
                         },
                         {
@@ -12860,8 +12706,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,

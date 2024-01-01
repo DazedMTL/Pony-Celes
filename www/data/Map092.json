@@ -30499,7 +30499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -30507,8 +30507,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "３階"
+                                    "First floor",
+                                    "Third floor"
                                 ],
                                 1,
                                 0,
@@ -30823,7 +30823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３階のボタンを押しても反応が無い。"
+                                "Even when I press the button for the third floor, there's no response."
                             ]
                         },
                         {
@@ -32022,14 +32022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわあああん！ お母さん、たすけてぇ！」"
+                                "Hina: \"Waaaah! Mom, help me!\""
                             ]
                         },
                         {
@@ -32104,21 +32097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっくっ、逃げるんじゃねーぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐに済ませてやるからよ」"
+                                "Spider-G: \"Heh heh heh, don't try to run. I'll make it quick.\""
                             ]
                         },
                         {
@@ -32326,14 +32305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグこっちを向け！ 僕が相手になってやる！」"
+                                "Ginga: \"Spider-G, face me! I'll be your opponent!\""
                             ]
                         },
                         {
@@ -32397,21 +32369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほう、人間の癖に勇気があるじゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいぜ、相手してやるよ」"
+                                "Spider-G: \"Oh? You've got some guts for a human. Fine, I'll take you\non.\""
                             ]
                         },
                         {
@@ -32435,14 +32393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、今の内に逃げるんだ！」"
+                                "Ginga: \"Now's your chance, run away!\""
                             ]
                         },
                         {
@@ -32466,14 +32417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……お兄ちゃんが……」"
+                                "Hina: \"But... Big brother...\""
                             ]
                         },
                         {
@@ -32497,14 +32441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕は大丈夫だから、早く逃げて！」"
+                                "Ginga: \"I'll be fine, so hurry and get away!\""
                             ]
                         },
                         {
@@ -32528,14 +32465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ありがとう、お兄ちゃん……」"
+                                "Hina: \"...Thank you, big brother...\""
                             ]
                         },
                         {
@@ -32827,14 +32757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自己犠牲ってやつか。けっ、虫唾が走る」"
+                                "Spider-G: \"Self-sacrifice, huh? Disgusting.\""
                             ]
                         },
                         {
@@ -32851,14 +32774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「動くんじゃねーぜ！」"
+                                "Spider-G: \"Don't you move!\""
                             ]
                         },
                         {
@@ -33165,14 +33081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「動くなって言ったろ！」"
+                                "Spider-G: \"I said don't move!\""
                             ]
                         },
                         {
@@ -33332,14 +33241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ、うああああぁ……」"
+                                "Ginga: \"Ugh, aaaaargh...\""
                             ]
                         },
                         {
@@ -33356,14 +33258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぁ……ユイ……」"
+                                "Ginga: \"...Ah... Yui...\""
                             ]
                         },
                         {
@@ -33380,14 +33275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、情けねー姿だな。くはははははっ！！！」"
+                                "Spider-G: \"Tsk, what a pathetic sight. Bwahahaha!\""
                             ]
                         },
                         {

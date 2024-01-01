@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "工事現場",
+    "displayName": "Construction Site",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -6803,14 +6803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（誰かに見られている？)"
+                                "Yui: \"Am I being watched by someone?\""
                             ]
                         },
                         {
@@ -6827,14 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（僅かだけど何処からか視線を感じるわ……)"
+                                "Yui: \"It's faint, but I feel a gaze from somewhere...\""
                             ]
                         },
                         {
@@ -6851,21 +6837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（今襲ってこられたらこの方に危害が出るかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここを抜けた方がいいわね)"
+                                "Yui: \"If we're attacked now, this person might be harmed. We should\nget out of here quickly.\""
                             ]
                         },
                         {
@@ -8833,7 +8805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所で待機しますか？"
+                                "Shall we stand by at this location?"
                             ]
                         },
                         {
@@ -8841,8 +8813,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "心の準備はいい。待機する",
-                                    "念のため周囲を調べてみる"
+                                    "I'm mentally prepared Let's wait here",
+                                    "I'll check the surroundings just to be safe"
                                 ],
                                 1,
                                 0,
@@ -8879,14 +8851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（視線を感じたのはこの辺りだけど、襲ってこないわね）"
+                                "Yui: \"I felt someone's gaze around here, but they're not attacking.\""
                             ]
                         },
                         {
@@ -8903,21 +8868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（う～ん、おかしいな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　さっきの視線は気のせいだったのかしら）"
+                                "Yui: \"Hmm, that's strange... I wonder if the gaze I felt earlier was\njust my imagination.\""
                             ]
                         },
                         {
@@ -9039,7 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所で待機しますか？"
+                                "Shall we stand by at this location?"
                             ]
                         },
                         {
@@ -9047,8 +8998,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "心の準備はいい。待機する",
-                                    "念のため周囲を調べてみる"
+                                    "I'm mentally prepared Let's wait here",
+                                    "I'll check the surroundings just to be safe"
                                 ],
                                 1,
                                 0,
@@ -9123,14 +9074,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（私はここよ。早く襲ってきなさい）"
+                                "Yui: \"I'm right here. Come and attack me quickly.\""
                             ]
                         },
                         {
@@ -9660,14 +9604,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちっ！ 気付きやがったか」"
+                                "Takeru: \"Tch! Did you notice me?\""
                             ]
                         },
                         {
@@ -9718,14 +9655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ようやく現れたわね！」"
+                                "Yui: \"You've finally shown up!\""
                             ]
                         },
                         {
@@ -9742,14 +9672,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「その身のこなし……お前何者だ？」"
+                                "Takeru: \"Those moves... who the hell are you?\""
                             ]
                         },
                         {
@@ -9782,14 +9705,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「工事現場が好きな、ただの女子学生よ」"
+                                "Yui: \"Just a female student who likes construction sites.\""
                             ]
                         },
                         {
@@ -9806,21 +9722,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はははっ、この状況で冗談が言えるとはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　余裕ぶってるところがムカつくぜ！」"
+                                "Takeru: \"Hahaha, to be able to joke in this situation... Your\ncomposure is irritating!\""
                             ]
                         },
                         {
@@ -9853,21 +9755,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そうよ、余裕、余裕。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　あなたくらいの男ならちゃちゃっと倒せるわ！」"
+                                "Yui: \"That's right, composure. A guy like you, I can take down\nquickly!\""
                             ]
                         },
                         {
@@ -9884,14 +9772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「クソガキが……」"
+                                "Takeru: \"You little brat...\""
                             ]
                         },
                         {
@@ -9924,14 +9805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「とっ捕まえて今すぐ警察に突き出してあげる！」"
+                                "Yui: \"I'll catch you and hand you over to the police right now!\""
                             ]
                         },
                         {
@@ -9948,14 +9822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「いくわよ！」"
+                                "Yui: \"Here I go!\""
                             ]
                         },
                         {
@@ -10232,14 +10099,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「嘘？ 避けられた！？」"
+                                "Yui: \"No way? You dodged it!?\""
                             ]
                         },
                         {
@@ -10256,14 +10116,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「その動き、格闘技経験者だな……」"
+                                "Takeru: \"That movement, you've got martial arts experience, huh...\""
                             ]
                         },
                         {
@@ -10280,14 +10133,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「それはこっちもだぜ！」"
+                                "Takeru: \"Same goes for me!\""
                             ]
                         },
                         {
@@ -10573,14 +10419,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ぐっ……」"
+                                "Yui: \"Ugh...\""
                             ]
                         },
                         {
@@ -10597,14 +10436,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（この男強い……）"
+                                "Yui: (This guy is strong...)"
                             ]
                         },
                         {
@@ -10621,21 +10453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「お前みたいな生意気な女をいたぶれるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　こりゃなかなか良い仕事だぜ！」"
+                                "Takeru: \"To be able to torment a cheeky girl like you, this is quite a\ngood job!\""
                             ]
                         },
                         {
@@ -10668,14 +10486,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「もう怒ったわよ。はああぁぁぁっ！！！」"
+                                "Yui: \"I'm really angry now. Haaaahhh!!!\""
                             ]
                         },
                         {
@@ -11019,14 +10830,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「相打ちか……やるじゃねーか」"
+                                "Takeru: \"A draw... not bad.\""
                             ]
                         },
                         {
@@ -11043,14 +10847,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「だが、次で仕留めてやるぜ。へへへっ」"
+                                "Takeru: \"But, I'll finish you off next time. Heheheh.\""
                             ]
                         },
                         {
@@ -11083,14 +10880,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「それはこっちの台詞よ！」"
+                                "Yui: \"That's my line!\""
                             ]
                         },
                         {
@@ -11107,14 +10897,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「私は絶対に負けない！」"
+                                "Yui: \"I will never lose!\""
                             ]
                         },
                         {
@@ -11274,14 +11057,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「何だ、どうなってる！？」"
+                                "Iwao: \"What's going on here!?\""
                             ]
                         },
                         {
@@ -11409,14 +11185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おい、俺をここから出せ！ 出せ！」"
+                                "Iwao: \"Hey, let me out of here! Let me out!\""
                             ]
                         },
                         {
@@ -11442,14 +11211,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「イ、イワオさん……ど、どうしました！？」"
+                                "Takeru: \"I-Iwao-san... what happened!?\""
                             ]
                         },
                         {
@@ -11559,14 +11321,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「タケル、なんとかしろ！ ここから出れねーじゃねーか！」"
+                                "Iwao: \"Takeru, do something! I can't get out of here!\""
                             ]
                         },
                         {
@@ -11592,14 +11347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「え、えぇぇぇ！！！」"
+                                "Takeru: \"E-Eeeek!!!\""
                             ]
                         },
                         {
@@ -11644,14 +11392,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「隙を見せたわね！」"
+                                "Yui: \"You showed an opening!\""
                             ]
                         },
                         {
@@ -11668,14 +11409,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はあああぁぁぁぁぁっ！！！」"
+                                "Yui: \"Haaaaahhhhh!!!\""
                             ]
                         },
                         {
@@ -11701,14 +11435,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ま、ま、まてっ！！！」"
+                                "Takeru: \"W-W-Wait!!!\""
                             ]
                         },
                         {
@@ -11904,14 +11631,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ぶぎゃぁぁぁぁぁぁ！！」"
+                                "Takeru: \"Gyaaahhhhh!!\""
                             ]
                         },
                         {
@@ -11937,14 +11657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「え？ お、おい、タ、タケル……何が起こった？」"
+                                "Iwao: \"Huh? Hey, T-Takeru... what happened?\""
                             ]
                         },
                         {
@@ -11961,14 +11674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「もう一人は……」"
+                                "Yui: \"The other one is...\""
                             ]
                         },
                         {
@@ -12148,14 +11854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ふふっ、この中のようね」"
+                                "Yui: \"Hehe, seems like he's inside here.\""
                             ]
                         },
                         {
@@ -12172,14 +11871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おい、出せ！ ここから出せぇぇぇぇ！！！」"
+                                "Iwao: \"Hey, let me out! Get me out of hereee!!!\""
                             ]
                         },
                         {
@@ -12196,14 +11888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「安心しなさい、もちろん出してあげるわよ」"
+                                "Yui: \"Don't worry, of course I'll let you out.\""
                             ]
                         },
                         {
@@ -12236,14 +11921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「でも、それは私じゃないわ。もうすぐここに来る警察官がね」"
+                                "Yui: \"But that won't be me. The police officers coming here soon\nwill.\""
                             ]
                         },
                         {
@@ -12260,14 +11938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ち、ちくしょーーー！！！」"
+                                "Iwao: \"Damn it---!!!\""
                             ]
                         },
                         {
@@ -12364,14 +12035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こうしてユイは女性の拉致事件、人身売買の首謀者である知久内イワオを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "捕まえる事に成功した。"
+                                "And so, Yui successfully captured Iwao Chikunai, the mastermind behind\nthe women's kidnapping and human trafficking case."
                             ]
                         },
                         {
@@ -12388,14 +12052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後、この場所は安全に通行出来るよう防犯カメラが設置される"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はずだったが、土地の所有者である西園寺製薬がこれを拒否した。"
+                                "Afterwards, this place was supposed to be made safe for passage with\nthe installation of security cameras, but Saionji Pharmaceuticals, the\nlandowner, refused to do so."
                             ]
                         },
                         {
@@ -12591,14 +12248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（私はここよ。早く襲ってきなさい）"
+                                "Yui: \"I'm right here. Come and attack me quickly.\""
                             ]
                         },
                         {
@@ -13128,14 +12778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちっ！ 気付きやがったか」"
+                                "Takeru: \"Tch! She noticed, huh?\""
                             ]
                         },
                         {
@@ -13186,14 +12829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ようやく現れたわね！」"
+                                "Yui: \"You finally showed up!\""
                             ]
                         },
                         {
@@ -13210,14 +12846,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「その身のこなし……お前何者だ？」"
+                                "Takeru: \"Those moves... who the hell are you?\""
                             ]
                         },
                         {
@@ -13250,14 +12879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「工事現場が好きな、ただの女子学生よ」"
+                                "Yui: \"Just a girl who likes construction sites.\""
                             ]
                         },
                         {
@@ -13274,21 +12896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はははっ、この状況で冗談が言えるとはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　余裕ぶってるところがムカつくぜ！」"
+                                "Takeru: \"Hahaha, you can joke in this situation? Your composure is\nirritating!\""
                             ]
                         },
                         {
@@ -13321,21 +12929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そうよ、余裕、余裕。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　あなたくらいの男ならちゃちゃっと倒せるわ！」"
+                                "Yui: \"That's right, composure. A guy like you, I can take down\neasily!\""
                             ]
                         },
                         {
@@ -13352,14 +12946,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「クソガキが……」"
+                                "Takeru: \"You little brat...\""
                             ]
                         },
                         {
@@ -13392,14 +12979,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「とっ捕まえて今すぐ警察に突き出してあげる！」"
+                                "Yui: \"I'll catch you and hand you over to the police right now!\""
                             ]
                         },
                         {
@@ -13416,14 +12996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「いくわよ！」"
+                                "Yui: \"Here I go!\""
                             ]
                         },
                         {
@@ -13700,14 +13273,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「嘘？ 避けられた！？」"
+                                "Yui: \"What? He dodged it!?\""
                             ]
                         },
                         {
@@ -13724,14 +13290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「その動き、格闘技経験者だな……」"
+                                "Takeru: \"That movement, you've got martial arts experience...\""
                             ]
                         },
                         {
@@ -13748,14 +13307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「それはこっちもだぜ！」"
+                                "Takeru: \"Same goes for me!\""
                             ]
                         },
                         {
@@ -14041,14 +13593,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ぐっ……」"
+                                "Yui: \"Guh...\""
                             ]
                         },
                         {
@@ -14065,14 +13610,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（この男強い……）"
+                                "Yui: (This guy is strong...)"
                             ]
                         },
                         {
@@ -14089,21 +13627,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「お前みたいな生意気な女をいたぶれるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　こりゃなかなか良い仕事だぜ！」"
+                                "Takeru: \"Getting to torment a cheeky girl like you, this is quite a\nnice job!\""
                             ]
                         },
                         {
@@ -14136,14 +13660,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「もう怒ったわよ。はああぁぁぁっ！！！」"
+                                "Yui: \"Now I'm really angry. Haaaahhhhh!!!\""
                             ]
                         },
                         {
@@ -14487,14 +14004,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「相打ちか……やるじゃねーか」"
+                                "Takeru: \"A mutual hit, huh... not bad.\""
                             ]
                         },
                         {
@@ -14511,14 +14021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「だが、次で仕留めてやるぜ。へへへっ」"
+                                "Takeru: \"But, I'll finish you off next time. Heheheh\""
                             ]
                         },
                         {
@@ -14551,14 +14054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「それはこっちの台詞よ！」"
+                                "Yui: \"That's my line!\""
                             ]
                         },
                         {
@@ -14575,14 +14071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「私は絶対に負けない！」"
+                                "Yui: \"I absolutely will not lose!\""
                             ]
                         },
                         {
@@ -14907,14 +14396,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ！？\\| あっ……あぁ……っ」"
+                                "Yui: \"Eh!? Ah...ahh...ahh\""
                             ]
                         },
                         {
@@ -15048,14 +14530,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちっ、手こずらせやがって……」"
+                                "Iwao: \"Tch, making me go through all this trouble...\""
                             ]
                         },
                         {
@@ -15072,21 +14547,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「仮設トイレなんぞに隠れてたおかげで、マルマーニのスーツに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　しょんべんくせー臭いがついちまったぜ」"
+                                "Iwao: \"Because you hid in a damn portable toilet, now my brand-new\nsuit smells like piss.\""
                             ]
                         },
                         {
@@ -15144,14 +14605,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「スタンガンですか。さすが用意周到ですね」"
+                                "Takeru: \"A stun gun, huh? As expected, you're well-prepared.\""
                             ]
                         },
                         {
@@ -15168,14 +14622,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「お前はバカか……」"
+                                "Iwao: \"Are you an idiot...\""
                             ]
                         },
                         {
@@ -15192,14 +14639,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「商品に傷を付けたら価値が落ちるじゃねーか」"
+                                "Iwao: \"If you damage the merchandise, it loses its value.\""
                             ]
                         },
                         {
@@ -15216,14 +14656,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「すいません……」"
+                                "Takeru: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -15240,21 +14673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「……しかし、こいつなかなかの曲者で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　イワオさんに助けられましたよ！」"
+                                "Takeru: \"...However, this one was quite the tough opponent, Iwao-san.\nYou saved me!\""
                             ]
                         },
                         {
@@ -15343,14 +14762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「で、こいつどうしましょうか？」"
+                                "Takeru: \"So, what shall we do with this one?\""
                             ]
                         },
                         {
@@ -15383,21 +14795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「例の場所へ運んでおけ。クライアントと取引する前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　色々と調べておく必要があるからな」"
+                                "Iwao: \"Take her to that place. We need to check various things before\ndealing with the client.\""
                             ]
                         },
                         {
@@ -15414,14 +14812,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「了解しました」"
+                                "Takeru: \"Understood.\""
                             ]
                         },
                         {
@@ -15454,14 +14845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「しかし、こいつは高値で売れるぞ！」"
+                                "Iwao: \"But this one will sell for a high price!\""
                             ]
                         },
                         {
@@ -15478,14 +14862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「リスクを冒して苦労した甲斐がある。これでまた一儲けだ！！」"
+                                "Iwao: \"The risk and effort were worth it. This will be another big\nscore!!\""
                             ]
                         },
                         {
@@ -16116,7 +15493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仮設トイレのようだ。内側から鍵がかかっており使用できない。"
+                                "It seems to be a portable toilet. It's locked from the inside and\ncan't be used."
                             ]
                         },
                         {
@@ -16254,7 +15631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仮設トイレのようだ。臭いが充満しているため使うのはやめておこう。"
+                                "It seems to be a portable toilet. I'll refrain from using it because\nof the overwhelming smell."
                             ]
                         },
                         {
@@ -16802,7 +16179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[291]紅星の鍵】を手に入れた！"
+                                "I've obtained the 【\\i[291]Crimson Star Key】!"
                             ]
                         },
                         {
@@ -18292,7 +17669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後。"
+                                "Several hours later."
                             ]
                         },
                         {

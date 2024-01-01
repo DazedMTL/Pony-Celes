@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究所Ｃ区画",
+    "displayName": "Underground Research Facility Section C",
     "encounterList": [],
     "encounterStep": 30,
     "height": 62,
@@ -22615,7 +22615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの仕掛けで開く扉のようだ。"
+                                "It seems to be a door that opens with some sort of mechanism."
                             ]
                         },
                         {
@@ -25263,7 +25263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]医療キット】を手に入れた！"
+                                "【\\i[294]Medical Kit】acquired!"
                             ]
                         },
                         {
@@ -25500,7 +25500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中身は空っぽだった。"
+                                "The inside was empty."
                             ]
                         },
                         {
@@ -26023,7 +26023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[234]リアルゴールドン】を手に入れた！"
+                                "I've obtained the 【\\i[234]Real Goldon】!"
                             ]
                         },
                         {

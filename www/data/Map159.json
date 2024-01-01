@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "サンコーポ参番館１Ｆ",
+    "displayName": "SunCorpo Building No. 3, 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -6319,7 +6319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -6610,7 +6610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -6792,14 +6792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先月、１０３号室に変な奴が引っ越して来たんだ」"
+                                "Yousuke: \"Last month, some weirdo moved into room 103.\""
                             ]
                         },
                         {
@@ -6816,21 +6809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの感じは、おそらくオタクだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それも電車オタクってとこか」"
+                                "Yousuke: \"That vibe, probably an otaku. A train otaku, I guess.\""
                             ]
                         },
                         {

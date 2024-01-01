@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "八百八",
+    "displayName": "Eight Hundred and Eight",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -13031,7 +13031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -13300,7 +13300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -13308,8 +13308,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13558,14 +13558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「八百八（ヤオハチ）へようこそ！」"
+                                "Yaohachi Shopkeeper: \"Welcome to Yaohachi!\""
                             ]
                         },
                         {
@@ -13582,21 +13575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウチの野菜は農家直送で仕入れてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　安いし鮮度抜群！ さぁ、見て行ってくれ」"
+                                "Yaohachi Shopkeeper: \"Our vegetables are sourced directly from\nfarmers. They're cheap and super fresh! Go on, take a look.\""
                             ]
                         },
                         {
@@ -13715,14 +13694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「八百八（ヤオハチ）へようこそ！」"
+                                "Shopkeeper: \"Welcome to Yaohachi!\""
                             ]
                         },
                         {
@@ -13748,14 +13720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの時のお嬢ちゃん！」"
+                                "Shopkeeper: \"It's that young lady from before!\""
                             ]
                         },
                         {
@@ -13772,14 +13737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この前はすまないね。突然店を閉めるなんて言い出して……」"
+                                "Shopkeeper: \"I'm sorry about last time. Suddenly saying I was going to\nclose the shop...\""
                             ]
                         },
                         {
@@ -13796,14 +13754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でももう平気だ！」"
+                                "Shopkeeper: \"But it's all good now!\""
                             ]
                         },
                         {
@@ -13820,14 +13771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お得意の農家さんと、もう一度契約を結び直す事になったんだ」"
+                                "Shopkeeper: \"I've renegotiated a contract with our favorite farmer.\""
                             ]
                         },
                         {
@@ -13844,14 +13788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今まで通り新鮮で美味しい野菜をみんなに届ける事が出来るよ」"
+                                "Shopkeeper: \"I can continue to deliver fresh and delicious vegetables\nto everyone just like before.\""
                             ]
                         },
                         {
@@ -13868,14 +13805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これもみんなポニーセレスのおかげ……」"
+                                "Shopkeeper: \"This is all thanks to Pony-Celeste...\""
                             ]
                         },
                         {
@@ -13892,21 +13822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って……こんな話してる場合じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ははっ！」"
+                                "Shopkeeper: \"But... this isn't the time for such stories. Haha!\""
                             ]
                         },
                         {
@@ -13923,14 +13839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、見て行ってくれ。ウチの野菜は安くて新鮮で美味いよ！」"
+                                "Shopkeeper: \"Now, take a look. Our vegetables are cheap, fresh, and\ntasty!\""
                             ]
                         },
                         {
@@ -13995,14 +13904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（店を再開する事になったみたいね)"
+                                "Yui: \"(It seems like the shop is reopening.)\""
                             ]
                         },
                         {
@@ -14019,14 +13921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本当に良かった～♪)"
+                                "Yui: \"(Thank goodness~♪)\""
                             ]
                         },
                         {
@@ -14043,14 +13938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（八百八さんの笑顔を見たら、なんか私まで嬉しくなってきたよ)"
+                                "Yui: \"(Seeing the shopkeeper's smile makes me happy too.)\""
                             ]
                         },
                         {
@@ -14067,14 +13955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ポニーセレスのお仕事も、辛いことばかりじゃないんだってね！)"
+                                "Yui: \"(The work of Pony-Celeste isn't just about the tough times,\nhuh!)\""
                             ]
                         },
                         {
@@ -14139,14 +14020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、そうだ！」"
+                                "Shopkeeper: \"Ah, that's right!\""
                             ]
                         },
                         {
@@ -14163,21 +14037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグに捕まった時に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アジトから盗んできたものがあるんだ……」"
+                                "Shopkeeper: \"When I was caught by Zaid-Grug, I stole something from\ntheir hideout...\""
                             ]
                         },
                         {
@@ -14194,21 +14054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何の役に立つか分からないけど、おじさんが持ってても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意味無さそうだしあげるよ」"
+                                "Shopkeeper: \"I don't know what use it could be, but it seems\nmeaningless for me to keep it, so I'll give it to you.\""
                             ]
                         },
                         {
@@ -14247,7 +14093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]必殺技の極意書十三巻】を手に入れた！"
+                                "【\\i[94]Volume Thirteen of the Secret Techniques of\nAssassination】acquired!"
                             ]
                         },
                         {
@@ -14323,14 +14169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「八百八（ヤオハチ）へようこそ！」"
+                                "Yaohachi Shopkeeper: \"Welcome to Yaohachi!\""
                             ]
                         },
                         {
@@ -14347,21 +14186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウチの野菜は農家直送で仕入れてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　安いし鮮度抜群！ さぁ、見て行ってくれ」"
+                                "Yaohachi Shopkeeper: \"Our vegetables are sourced directly from\nfarmers. They're cheap and incredibly fresh! Go on, take a look.\""
                             ]
                         },
                         {
@@ -14531,7 +14356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいの物は無かった。"
+                                "There was nothing particularly new."
                             ]
                         },
                         {
@@ -14639,7 +14464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいの物は無かった。"
+                                "There was nothing particularly new."
                             ]
                         },
                         {
@@ -14726,7 +14551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真っ赤な完熟したトマトだ。"
+                                "It's a bright red, fully ripened tomato."
                             ]
                         },
                         {
@@ -14803,7 +14628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北海道産のじゃがいもが所狭しと詰め込まれている。"
+                                "Hokkaido potatoes are crammed in every nook and cranny."
                             ]
                         },
                         {
@@ -14880,7 +14705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "白菜が置かれている。"
+                                "There's a Chinese cabbage placed here."
                             ]
                         },
                         {
@@ -15045,14 +14870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\C[17]ダイユースーパー\\C[0]、なんて強引な店なんだ……」"
+                                "Shopkeeper: \"\\C[17]Daiyuu Supermarket\\C[0], what a forceful store...\""
                             ]
                         },
                         {
@@ -15069,14 +14887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の仕入れ先の農家さんを脅して独占契約を結ぶなんて……」"
+                                "Shopkeeper: \"To threaten my suppliers' farms into exclusive\ncontracts...\""
                             ]
                         },
                         {
@@ -15093,14 +14904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな事が許されていいはずがない！」"
+                                "Shopkeeper: \"Such things should never be allowed!\""
                             ]
                         },
                         {
@@ -15171,14 +14975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！」"
+                                "Shopkeeper: \"!!\""
                             ]
                         },
                         {
@@ -15195,14 +14992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客さんかい？」"
+                                "Shopkeeper: \"Is that a customer?\""
                             ]
                         },
                         {
@@ -15219,14 +15009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない、今は野菜を売っている場合じゃないんだ」"
+                                "Shopkeeper: \"I'm sorry, now is not the time to be selling vegetables.\""
                             ]
                         },
                         {
@@ -15243,14 +15026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかすると店を閉める事になるかもしれない……」"
+                                "Shopkeeper: \"I might even have to close up shop...\""
                             ]
                         },
                         {
@@ -15267,14 +15043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっかく来てくれたのにごめんね」"
+                                "Shopkeeper: \"I'm sorry for the inconvenience after you've come all\nthis way.\""
                             ]
                         },
                         {
@@ -15556,14 +15325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（店を閉める……？)"
+                                "Yui: \"(Close the shop...?)\""
                             ]
                         },
                         {
@@ -15580,14 +15342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たしか\\C[17]ダイユースーパー\\C[0]って言ってたわね)"
+                                "Yui: \"(That's right, he mentioned \\C[17]Daiyuu Supermarket\\C[0],\ndidn't he?)\""
                             ]
                         },
                         {
@@ -15604,14 +15359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ザイダーグとは関係無さそうだけど、少し気になるわ……)"
+                                "Yui: \"(It doesn't seem related to Zaidrag, but it's a bit\nconcerning...)\""
                             ]
                         },
                         {
@@ -15919,7 +15667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メールの受信画面が開かれている。"
+                                "The email reception screen is open."
                             ]
                         },
                         {
@@ -15936,14 +15684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "八百八様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつもお取引ありがとうございます！"
+                                "Mr. Yaho, thank you for your continued business!"
                             ]
                         },
                         {
@@ -15960,14 +15701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今月も新鮮で美味しい野菜が沢山とれました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダイノス地区の食卓に届けてあげて下さいね。"
+                                "This month, we've harvested a lot of fresh and delicious vegetables.\nPlease deliver them to the dining tables of the Dynos district."
                             ]
                         },
                         {
@@ -16054,7 +15788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メールの受信画面が開かれている。"
+                                "The email reception screen is open."
                             ]
                         },
                         {
@@ -16071,14 +15805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "八百八様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダイユースーパー様と独占契約を結ぶ事となりました。"
+                                "We have entered into an exclusive contract with Daiyusu Super-sama of\nYayo Hachi-sama."
                             ]
                         },
                         {
@@ -16095,7 +15822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "取り引きしないと農園を潰すと脅され苦汁の決断をしました。"
+                                "We were threatened to destroy our farm if we did not make a deal, so\nwe made this difficult decision."
                             ]
                         },
                         {
@@ -16112,14 +15839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今後、八百八様とのお取り引きは停止とさせて頂きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誠に申し訳ございません。"
+                                "From now on, our transactions with Yayo Hachi-sama will be suspended.\nWe sincerely apologize."
                             ]
                         },
                         {
@@ -16206,7 +15926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メールの受信画面が開かれている。"
+                                "The email reception screen is open."
                             ]
                         },
                         {
@@ -16223,14 +15943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "八百八様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お取引の再開ありがとうございます！"
+                                "Thank you for resuming business with us, Yaoyahachi-sama!"
                             ]
                         },
                         {
@@ -16247,14 +15960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今日も新鮮で美味しい野菜が沢山とれました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダイノス地区の食卓に届けてあげて下さいね。"
+                                "We have harvested a lot of fresh and delicious vegetables today.\nPlease deliver them to the tables in the Dinos district."
                             ]
                         },
                         {

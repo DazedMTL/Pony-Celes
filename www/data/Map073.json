@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "瀬田谷住宅街北",
+    "displayName": "Setadani Residential Area North",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5479,14 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. If I had the \\C[17]Crimson Star Key\\C[0], it looks\nlike it would open."
                             ]
                         },
                         {
@@ -5554,14 +5547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "The lock is engaged. It seems like it would open if I use the\n\\C[17]Crimson Star Key\\C[0]."
                             ]
                         },
                         {
@@ -5578,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Would you like to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -5586,8 +5572,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5629,7 +5615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {

@@ -10651,7 +10651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -10659,10 +10659,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "どこにも行かない",
-                                    "２階：トリップストア",
-                                    "３階：足つぼマッサージ店",
-                                    "４階：空き店舗"
+                                    "I'm not going anywhere",
+                                    "2nd Floor: Trip Store",
+                                    "3rd Floor: Reflexology Massage Shop",
+                                    "4th Floor: Vacant Store"
                                 ],
                                 -2,
                                 0,

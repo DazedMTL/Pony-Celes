@@ -16,7 +16,7 @@
         "volume": 15
     },
     "disableDashing": false,
-    "displayName": "創神教本部跡地",
+    "displayName": "Site of the Creation God Cult Headquarters",
     "encounterList": [],
     "encounterStep": 30,
     "height": 38,
@@ -10423,7 +10423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[240]京華堂の髪紐】を手に入れた！"
+                                "I've obtained the 【\\i[240]Kyokado's Hair Tie】!"
                             ]
                         },
                         {
@@ -10570,7 +10570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瓦礫によって道が塞がれている。"
+                                "The path is blocked by debris."
                             ]
                         },
                         {
@@ -11430,7 +11430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瓦礫によって道が塞がれている。"
+                                "The path is blocked by debris."
                             ]
                         },
                         {
@@ -11507,7 +11507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瓦礫によって道が塞がれている。"
+                                "The path is blocked by debris."
                             ]
                         },
                         {
@@ -11584,7 +11584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瓦礫によって道が塞がれている。"
+                                "The path is blocked by debris."
                             ]
                         },
                         {
@@ -11663,7 +11663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "瓦礫によって道が塞がれている。"
+                                "The path is blocked by debris."
                             ]
                         },
                         {

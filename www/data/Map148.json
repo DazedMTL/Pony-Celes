@@ -4766,14 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、おじさん。足元に鍵を落とちゃってますよ」"
+                                "Yui: \"Ah, mister. You've dropped your keys at your feet.\""
                             ]
                         },
                         {
@@ -4856,21 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……カツヒト、お前が羨ましいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさか西園寺製薬に入社出来るなんてなんてな……」"
+                                "Homeless Man: \"...Katsuhiro, I'm envious of you. To think you could\nget a job at Saionji Pharmaceuticals...\""
                             ]
                         },
                         {
@@ -4887,21 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ、こっちはこんなところで一生惨めに暮らすのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かいい事でもあればな……」"
+                                "Homeless Man: \"Sigh, am I going to live out my life in misery like\nthis? If only something good would happen...\""
                             ]
                         },
                         {
@@ -4982,14 +4947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……独り言？）"
+                                "Yui: \"(...Is he talking to himself?)\""
                             ]
                         },
                         {
@@ -5022,14 +4980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私の話、全く聞いてないみたい……）"
+                                "Yui: \"(It seems like he's not listening to me at all...)\""
                             ]
                         },
                         {
@@ -5322,14 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酔っ払った男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すーぴー……ZZZ」"
+                                "Drunk Man: \"Su-pee...ZZZ\""
                             ]
                         },
                         {
@@ -5527,14 +5471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、壁穴の向こうに猫ちゃんが\\i[18]」"
+                                "Yui: \"Ah, there's a kitty on the other side of the wall\\i[18]\""
                             ]
                         },
                         {
@@ -5567,14 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かわいいなぁ～。ちょっと遊んじゃおっかな\\i[18]」"
+                                "Yui: \"So cute~ Maybe I'll go play with it a bit\\i[18]\""
                             ]
                         },
                         {
@@ -5632,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁穴を通って向こう側へ行きますか？"
+                                "Will you go through the wall hole to the other side?"
                             ]
                         },
                         {
@@ -5640,8 +5570,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -5705,14 +5635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「よ～し！ 待っててね、猫ちゃん！」"
+                                "Yui: \"Alright! Just wait, kitty!\""
                             ]
                         },
                         {
@@ -5729,14 +5652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お姉ちゃんが相手してあげるぞ～！」"
+                                "Yui: \"Onee-san will keep you company~!\""
                             ]
                         },
                         {
@@ -5906,14 +5822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「っ！？」"
+                                "Yui: \"Huh!? \""
                             ]
                         },
                         {
@@ -5930,14 +5839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やだっ、壁に嵌っちゃって……」"
+                                "Yui: \"No way, I'm stuck in the wall...\""
                             ]
                         },
                         {
@@ -5954,7 +5856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは焦って何度も身をよじるが、壁に嵌った身体はびくともしない。"
+                                "Yui frantically twists and turns, but her body won't budge from where\nit's stuck in the wall."
                             ]
                         },
                         {
@@ -5971,14 +5873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「んっ、くぅっ……やだ、全然抜けない。私、そんなに太っちゃったの？」"
+                                "Yui: \"Nngh, kuh... No good, I can't get out at all. Have I really\ngotten that fat?\""
                             ]
                         },
                         {
@@ -6176,14 +6071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ん、なんだこれ？\\|……女の子のお尻か？」"
+                                "Vagrant: \"Hm, what's this?... A girl's ass?\""
                             ]
                         },
                         {
@@ -6216,21 +6104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「えっ？ もしかして誰かいるんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　すいません、助けてもらっていいですか？」"
+                                "Yui: \"Eh? Is someone there? Excuse me, could you help me out?\""
                             ]
                         },
                         {
@@ -6247,14 +6121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ああ？ もしかして動けないのか？」"
+                                "Vagrant: \"Oh? Can't move, can ya?\""
                             ]
                         },
                         {
@@ -6271,21 +6138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうなんです！ 身体が壁の穴にはまってしまって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お願いです、足を引っ張ってもらえませんか？」"
+                                "Yui: \"Yes, that's right! My body is stuck in this wall hole... Please,\ncould you pull on my legs?\""
                             ]
                         },
                         {
@@ -6333,21 +6186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まあ、別にいいけどよ……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それにしても、女の子の尻を見るのは久々だなぁ、ぐへへ」"
+                                "Vagrant: \"Well, I guess it's okay... But man, it's been a while since\nI've seen a girl's ass, hehehe.\""
                             ]
                         },
                         {
@@ -6364,14 +6203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あ、もしかしてこの体勢ってパンツが丸見えになってるんじゃ……）"
+                                "Yui (Oh no, in this position, aren't my panties completely visible...)"
                             ]
                         },
                         {
@@ -6388,7 +6220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自分の姿がどうなっているかにようやく気付き、ユイの顔が熱くなっていく。"
+                                "Realizing how she must look, Yui's face begins to flush with heat."
                             ]
                         },
                         {
@@ -6405,14 +6237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちょ、ちょっと早く助けて下さい！ お願いですから……ひっ！？」"
+                                "Yui: \"Please, hurry up and help me! I'm begging you... Eek!? \""
                             ]
                         },
                         {
@@ -6444,14 +6269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「おじさんムラムラしてきちゃった……」"
+                                "Vagrant: \"Old man's getting all hot and bothered...\""
                             ]
                         },
                         {
@@ -6494,7 +6312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "特注ローションを使いますか？"
+                                "Will you use the special lotion?"
                             ]
                         },
                         {
@@ -6502,8 +6320,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
@@ -6554,14 +6372,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「制服がぬるぬるになるのは嫌だけど、こうするしかないわ！」"
+                                "Yui: \"I hate the idea of getting my uniform all slimy, but there's no\nother way!\""
                             ]
                         },
                         {
@@ -6590,7 +6401,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイは特注ローションを使った！"
+                                "Yui used the special lotion!"
                             ]
                         },
                         {
@@ -6903,14 +6714,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「えっ？ あれっ？」"
+                                "Vagrant: \"Eh? What the...?\""
                             ]
                         },
                         {
@@ -6927,14 +6731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ちっ、せっかくお尻を揉もうと思ってたのに！」"
+                                "Vagrant: \"Tch, and here I was thinking of giving that ass a good\nsqueeze!\""
                             ]
                         },
                         {
@@ -6967,14 +6764,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「動けない女の子にそんな事しようと思ってたわけね！」"
+                                "Yui: \"So you were planning to do such things to a girl who can't\nmove!\""
                             ]
                         },
                         {
@@ -6991,14 +6781,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「あっ……いや……今のは嘘だ……助けようとしてたんだ……」"
+                                "Vagrant: \"Ah... no... I was lying... I was going to help...\""
                             ]
                         },
                         {
@@ -7015,14 +6798,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「言い訳無用！ 警察に突き出してあげるわ！」"
+                                "Yui: \"Excuses are useless! I'm going to turn you in to the police!\""
                             ]
                         },
                         {
@@ -7039,14 +6815,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ぐっ……」"
+                                "Vagrant: \"Guh...\""
                             ]
                         },
                         {
@@ -7063,14 +6832,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「生意気な女め！ ならここで今すぐ犯してやる！！」"
+                                "Vagrant: \"You insolent woman! Then I'll just have to violate you right\nhere and now!!\""
                             ]
                         },
                         {
@@ -7174,14 +6936,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ぬおおおおおおおおお！」"
+                                "Vagrant: \"Nuoohhhhhhhhh!!!\""
                             ]
                         },
                         {
@@ -7346,14 +7101,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "浮浪者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ぶべぇ！！」"
+                                "Vagrant: \"Bleh!!\""
                             ]
                         },
                         {
@@ -7404,14 +7152,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ったく、どうしようもない人ね……」"
+                                "Yui: \"Honestly, what a hopeless person...\""
                             ]
                         },
                         {
@@ -7460,14 +7201,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「うっ、制服がローションまみれ……」"
+                                "Yui: \"Ugh, my uniform is covered in lotion...\""
                             ]
                         },
                         {
@@ -7484,14 +7218,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「洗濯で落ちるといいけど……」"
+                                "Yui: \"I hope it comes out in the wash...\""
                             ]
                         },
                         {
@@ -8325,7 +8052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "穴に挟まるので通り抜けは止めておこう……"
+                                "Let's not go through since we'll get stuck in the hole..."
                             ]
                         },
                         {
@@ -8495,14 +8222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、猫ちゃんだ！かわいいなぁ～\\i[18]」"
+                                "Yui: \"Ah, a kitty! How cute~\\i[18]\""
                             ]
                         },
                         {
@@ -8535,14 +8255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉ちゃんが遊んであげよっか。さぁ、こっちにおいで～」"
+                                "Yui: \"Should Onee-san play with you? Come here~\""
                             ]
                         },
                         {
@@ -8834,14 +8547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うっ、嫌われちゃってるみたいね……）"
+                                "Yui: (Ugh, it seems like I'm being disliked...)"
                             ]
                         },
                         {
@@ -10036,7 +9742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[291]フェイの第二倉庫の鍵】を手に入れた！"
+                                "I've obtained the 【\\i[291]Key to Fei's Second Warehouse】!"
                             ]
                         },
                         {
@@ -10172,7 +9878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかのお店の立て看板が捨てられている。"
+                                "A signboard from some shop has been discarded."
                             ]
                         },
                         {

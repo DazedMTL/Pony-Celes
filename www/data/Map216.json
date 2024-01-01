@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "教室(２－１)",
+    "displayName": "Classroom (2-1)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12578,14 +12578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カレンさん……理事長に……呼び出されて……」"
+                                "Minion: \"Miss Karen... you've been summoned... by the principal...\""
                             ]
                         },
                         {
@@ -12602,14 +12595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「追試なんて……受けるような人じゃ……ないのに……」"
+                                "Minion: \"It's not like you... to have to take... a makeup exam...\""
                             ]
                         },
                         {

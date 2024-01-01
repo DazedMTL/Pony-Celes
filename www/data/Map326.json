@@ -15186,7 +15186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けて……"
+                                "Help me..."
                             ]
                         },
                         {
@@ -15210,7 +15210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga……助けて……"
+                                "Ginga... help me..."
                             ]
                         },
                         {
@@ -15234,14 +15234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……う……っ……」"
+                                "Ginga: \"...ugh...\""
                             ]
                         },
                         {
@@ -15602,14 +15595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイの家？」"
+                                "Ginga: \"Yui's house?\""
                             ]
                         },
                         {
@@ -15626,14 +15612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ、頭が痛い……」"
+                                "Ginga: \"Ugh, my head hurts...\""
                             ]
                         },
                         {
@@ -15650,14 +15629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一体何があったんだ……」"
+                                "Ginga: \"What on earth happened...\""
                             ]
                         },
                         {
@@ -15674,14 +15646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか……ザイダーグを倒すために二人で作戦を考えて」"
+                                "Ginga: \"That's right... we were planning a strategy to defeat Zaida-G\ntogether\""
                             ]
                         },
                         {
@@ -15698,14 +15663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区へ向かうはずだった……」"
+                                "Ginga: \"We were supposed to head to the Urban District...\""
                             ]
                         },
                         {
@@ -15722,14 +15680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして僕はこんなところに？」"
+                                "Ginga: \"Why am I in a place like this?\""
                             ]
                         },
                         {
@@ -15746,14 +15697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「思い出せない……」"
+                                "Ginga: \"I can't remember...\""
                             ]
                         },
                         {
@@ -15779,14 +15723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイはっ！？」"
+                                "Ginga: \"Yui!?\""
                             ]
                         },
                         {
@@ -15810,21 +15747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「意識を失っている中、僅かに聞こえた声は助けを求めてた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\|もしかして、あの声はユイ！？」"
+                                "Ginga: \"While I was unconscious, I faintly heard a voice asking for\nhelp... Could it have been Yui's!?\""
                             ]
                         },
                         {
@@ -15841,14 +15764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか一人で……！？」"
+                                "Ginga: \"Don't tell me she's alone...!?\""
                             ]
                         },
                         {
@@ -16268,7 +16184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚にびっしりと書籍が並べられている。"
+                                "The bookshelf is packed tight with books."
                             ]
                         },
                         {
@@ -16345,7 +16261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚にびっしりと書籍が並べられている。"
+                                "The bookshelf is packed tight with books."
                             ]
                         },
                         {

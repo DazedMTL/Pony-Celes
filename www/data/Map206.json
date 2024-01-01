@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園１Ｆ",
+    "displayName": "Shoto Academy 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -21079,7 +21079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -23625,14 +23625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠状態の女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス……ここから……先には……行かせない……」"
+                                "Hypnotized female student: \"Pony-Celest... you shall not pass...\nbeyond here...\""
                             ]
                         },
                         {
@@ -23826,21 +23819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女の子を攻撃するわけにもいかないし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　催眠状態を解かないと通れないわね）"
+                                "Pony-Celest (I can't just attack a girl... I need to break the\nhypnotic state to get through.)"
                             ]
                         },
                         {
@@ -24148,14 +24127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠状態の女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス……ここから……先には……行かせない……」"
+                                "Hypnotized female student: \"Pony-Celest... You shall not pass...\nbeyond here...\""
                             ]
                         },
                         {
@@ -24349,21 +24321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女の子を攻撃するわけにもいかないし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　催眠状態を解かないと通れないわね）"
+                                "Pony-Celest: (I can't attack a girl... I need to break the hypnosis to\nget through.)"
                             ]
                         },
                         {
@@ -24560,14 +24518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "催眠状態の女子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス……ここから……先には……行かせない……」"
+                                "Hypnotized female student: \"Pony-Celest... you shall not pass...\nbeyond here...\""
                             ]
                         },
                         {
@@ -24761,21 +24712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女の子を攻撃するわけにもいかないし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　催眠状態を解かないと通れないわね）"
+                                "Pony-Celest: (I can't attack a girl... I need to break the hypnotic\nstate to get through.)"
                             ]
                         },
                         {
@@ -25255,14 +25192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長を止めて……くれ……西園寺……さんが……あぶない……」"
+                                "Minion: \"Please... stop the chairman... Saionji-san is... in\ndanger...\""
                             ]
                         },
                         {
@@ -25633,14 +25563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして……理事長……」"
+                                "Combatant: \"Why... Chairman...\""
                             ]
                         },
                         {
@@ -26011,21 +25934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス……ファン……なんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　サインを……くだ…さい……」"
+                                "Minion: \"Pony-Ceres... I'm a fan... please... your autograph...\""
                             ]
                         },
                         {
@@ -26076,14 +25985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな非常事態になに言ってるのよぉ！」"
+                                "Pony-Ceres: \"What are you saying at a time like this?!\""
                             ]
                         },
                         {
@@ -26100,14 +26002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、学園に平和を取り戻したらね……」"
+                                "Pony-Ceres: \"Sheesh, after we restore peace to the academy, okay...\""
                             ]
                         },
                         {
@@ -26124,14 +26019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あざ……ます……」"
+                                "Minion: \"Thank... you...\""
                             ]
                         },
                         {
@@ -26599,21 +26487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長は……排水溝を開けて……\\C[17]地下\\C[0]に入って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　な……して……」"
+                                "Combatant: \"The principal has... opened the drain... and entered the\n\\C[17]underground\\C[0]... doing... something...\""
                             ]
                         },
                         {
@@ -26984,14 +26858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……\\C[17]冷水器\\C[0]…………」"
+                                "Combatant: \"...\\C[17]water cooler\\C[0]...\""
                             ]
                         },
                         {
@@ -27079,7 +26946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスは冷水機を使った。"
+                                "Pony-Celes used the water cooler."
                             ]
                         },
                         {
@@ -27119,7 +26986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Throat moisturized! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -27196,7 +27063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスは冷水機を使った。"
+                                "Pony-Celes used the water cooler."
                             ]
                         },
                         {
@@ -27236,7 +27103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Throat moisturized! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -27313,14 +27180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#女子空手部地区大会優勝！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#エース守崎ユイが大活躍！"
+                                "Girls' Karate Club District Tournament Champions! Ace Morisaki Yui\nshines brightly!"
                             ]
                         },
                         {
@@ -27471,14 +27331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It seems like it would open if I had the\n\\C[17]Azure Star Key\\C[0]."
                             ]
                         },
                         {
@@ -27546,14 +27399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. It seems like it would open if I use the \\C[17]Azure Star\nKey\\C[0]."
                             ]
                         },
                         {
@@ -27570,7 +27416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -27578,8 +27424,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27621,7 +27467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -28763,7 +28609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -28771,8 +28617,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -28888,7 +28734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -28896,8 +28742,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29019,14 +28865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#女子空手部地区大会優勝！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#エース守崎ユイが大活躍！"
+                                "Girls' Karate Club District Tournament Champions! Ace Morisaki Yui\nshines brightly!"
                             ]
                         },
                         {
@@ -29103,14 +28942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#盗難被害多発中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#自己管理しっかりして下さい！"
+                                "Theft incidents are on the rise. Please manage your belongings\ncarefully!"
                             ]
                         },
                         {
@@ -29404,7 +29236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -29412,8 +29244,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29529,7 +29361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -29537,8 +29369,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29770,14 +29602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な形状の装置から催眠電波が発せられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装置を壊しますか？"
+                                "Hypnotic waves are being emitted from a strangely shaped device. Will\nyou destroy the device?"
                             ]
                         },
                         {
@@ -29785,8 +29610,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -29816,14 +29641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でやぁあああああぁぁーーー！！」"
+                                "Pony-Celes: \"Deyaaaaaaaah---!!\""
                             ]
                         },
                         {
@@ -30057,7 +29875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装置は故障している。"
+                                "The device is malfunctioning."
                             ]
                         },
                         {
@@ -30264,7 +30082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "消火器が設置させている。"
+                                "A fire extinguisher is installed."
                             ]
                         },
                         {
@@ -30363,7 +30181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30391,7 +30209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[220]陸上シューズ】を手に入れた！"
+                                "【\\i[220]Track shoes】were obtained!"
                             ]
                         },
                         {
@@ -30498,7 +30316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30515,7 +30333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -30623,7 +30441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30640,7 +30458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -30748,7 +30566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -30765,7 +30583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -31140,14 +30958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「喉が酷く渇く……\\C[17]冷水器\\C[0]で……喉を……潤したい……」"
+                                "Combatant: \"My throat is terribly dry... I want to... quench it with\nthe... \\C[17]water cooler\\C[0]...\""
                             ]
                         },
                         {

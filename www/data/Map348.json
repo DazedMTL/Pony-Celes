@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "コイン交換所最終層",
+    "displayName": "Coin Exchange Final Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -14881,7 +14881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -14889,8 +14889,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14928,7 +14928,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -15067,7 +15067,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[213]★聖光ペンダント★】を手に入れた！"
+                                "【\\i[213]★Holy Light Pendant★】acquired!"
                             ]
                         },
                         {
@@ -15484,7 +15484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -15645,7 +15645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -15653,8 +15653,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15692,7 +15692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -15829,7 +15829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "10000\\G 手に入れた！"
+                                "Acquired 10000\\G!"
                             ]
                         },
                         {
@@ -16246,7 +16246,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -16407,7 +16407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -16415,8 +16415,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16454,7 +16454,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -16593,7 +16593,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[160]パワーストーン】を手に入れた！"
+                                "【\\i[160]Power Stone】acquired!"
                             ]
                         },
                         {
@@ -17010,7 +17010,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -17171,7 +17171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -17179,8 +17179,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17218,7 +17218,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -17355,7 +17355,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "10000\\G 手に入れた！"
+                                "Obtained 10000\\G!"
                             ]
                         },
                         {
@@ -17772,7 +17772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -17933,14 +17933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「箱は１層で１０個、２層で１０個、３層で５個だったよな？」"
+                                "Hiroki: \"There were 10 boxes on the first layer, 10 on the second, and\n5 on the third, right?\""
                             ]
                         },
                         {
@@ -17957,21 +17950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしてここ最終層で４個……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　合わせると全部で２９個だ」"
+                                "Hiroki: \"And then here on the final layer, there are 4... That makes a\ntotal of 29 boxes.\""
                             ]
                         },
                         {
@@ -17988,14 +17967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここが最後のフロアらしいんだが」"
+                                "Hiroki: \"This seems to be the last floor.\""
                             ]
                         },
                         {
@@ -18012,21 +17984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「小さなコインは全部で３０枚発行されたと言われているが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これじゃ全ての箱を空けてもコインが１枚余る……」"
+                                "Hiroki: \"It's said that a total of 30 small coins were issued, but if\nwe open all the boxes, there will be one coin left over...\""
                             ]
                         },
                         {
@@ -18043,21 +18001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いっとくけど俺は一切箱を空けてないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　コインは一枚も見つけれなかったんだし……」"
+                                "Hiroki: \"Ah, just to let you know, I haven't opened any of the boxes.\nI didn't find a single coin...\""
                             ]
                         },
                         {
@@ -18134,14 +18078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ コインが１枚余っただと？」"
+                                "Hiromiki: \"Hm? You're saying there's one coin left over?\""
                             ]
                         },
                         {
@@ -18158,14 +18095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事、俺に言われても……」"
+                                "Hiromiki: \"Even if you tell me something like that...\""
                             ]
                         },
                         {

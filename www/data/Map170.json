@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スカイハイ５Ｆ",
+    "displayName": "Sky High 5F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -10579,7 +10579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０３号室と書かれている。"
+                                "It's labeled as Room 503."
                             ]
                         },
                         {
@@ -10656,7 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０２号室と書かれている。"
+                                "It's labeled Room 502."
                             ]
                         },
                         {
@@ -10733,7 +10733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０４号室と書かれている。"
+                                "It's labeled Room 504."
                             ]
                         },
                         {
@@ -10750,7 +10750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マスターキーを使いますか？"
+                                "Would you like to use the master key?"
                             ]
                         },
                         {
@@ -10758,8 +10758,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10789,7 +10789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはマスターキーを使った！"
+                                "Yui used the master key!"
                             ]
                         },
                         {
@@ -11169,7 +11169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血痕が床に付着している……"
+                                "Bloodstains are adhering to the floor..."
                             ]
                         },
                         {
@@ -11246,7 +11246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０５号室と書かれている。"
+                                "It's labeled Room 505."
                             ]
                         },
                         {
@@ -11263,7 +11263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マスターキーを使いますか？"
+                                "Would you like to use the master key?"
                             ]
                         },
                         {
@@ -11271,8 +11271,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11302,7 +11302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはマスターキーを使った！"
+                                "Yui used the master key!"
                             ]
                         },
                         {
@@ -11556,7 +11556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -11564,8 +11564,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "やめる"
+                                    "First floor",
+                                    "Cancel"
                                 ],
                                 -2,
                                 0,
@@ -12047,7 +12047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今にも壁が剥がれ落ちそうだ。"
+                                "The wall looks like it's about to peel off any moment."
                             ]
                         },
                         {
@@ -12073,7 +12073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁を剥がしてみますか？"
+                                "Shall we try peeling off the wall?"
                             ]
                         },
                         {
@@ -12081,8 +12081,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12206,7 +12206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０１号室と書かれている。"
+                                "It's labeled Room 501."
                             ]
                         },
                         {
@@ -12223,7 +12223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マスターキーを使いますか？"
+                                "Would you like to use the master key?"
                             ]
                         },
                         {
@@ -12231,8 +12231,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12262,7 +12262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはマスターキーを使った！"
+                                "Yui used the master key!"
                             ]
                         },
                         {
@@ -12516,7 +12516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血痕が床に付着している……"
+                                "Bloodstains are adhering to the floor..."
                             ]
                         },
                         {
@@ -12593,7 +12593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the 5th floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -12670,7 +12670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the 5th floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -12747,7 +12747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Is it because it hasn't been cleaned? The 5th floor is terribly messy."
                             ]
                         },
                         {
@@ -12824,7 +12824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps due to a lack of cleaning, the 5th floor is terribly messy."
                             ]
                         },
                         {
@@ -12901,7 +12901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the 5th floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -12978,7 +12978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps due to a lack of cleaning, the 5th floor is terribly messy."
                             ]
                         },
                         {
@@ -13055,7 +13055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the fifth floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -13132,7 +13132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the 5th floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -13210,7 +13210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the 5th floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -13287,7 +13287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the fifth floor is terribly\nmessy."
                             ]
                         },
                         {
@@ -13364,7 +13364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清掃がされていないのか、５階フロアは酷く散らかっている。"
+                                "Perhaps because it hasn't been cleaned, the fifth floor is terribly\nmessy."
                             ]
                         },
                         {

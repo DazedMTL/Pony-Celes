@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ドラッグストア赤丸",
+    "displayName": "Red Circle Drugstore",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12163,7 +12163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -12320,14 +12320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナデ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「困ったわ……アルバイトのメイちゃんがまだ来てないのよ」"
+                                "Kanade: \"This is troubling... Part-timer Mei-chan still hasn't\narrived.\""
                             ]
                         },
                         {
@@ -12344,14 +12337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナデ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「サボるような子じゃないのに……」"
+                                "Kanade: \"She's not the type to slack off...\""
                             ]
                         },
                         {
@@ -12419,14 +12405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カナデ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お薬をお求めなら店舗入り口からどうぞ」"
+                                "Kanade: \"If you're looking for medicine, please come in through the\nstore entrance.\""
                             ]
                         },
                         {
@@ -12503,14 +12482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドラッグストア赤丸にようこそ！」"
+                                "Store Manager: \"Welcome to Drugstore Akamaru!\""
                             ]
                         },
                         {
@@ -12730,21 +12702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、ポニーセレスに助けてもらったことがあるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼女本当にカッコよかったわ！」"
+                                "Mei: \"I was once saved by Pony-Celeste. She was really cool!\""
                             ]
                         },
                         {
@@ -12770,14 +12728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日は気分が良いからあなたに良い事を教えてあげる」"
+                                "Mei: \"I'm in a good mood today, so I'll tell you something nice.\""
                             ]
                         },
                         {
@@ -12794,21 +12745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「和牛焼肉ギュウギュウの看板を見つけたら、そこから南に向かって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　歩いてみなさい。面白いお店を見つける事が出来るわよ」"
+                                "Mei: \"If you find the sign for Wagyu Yakiniku Gyugyu, head south from\nthere. You'll be able to find an interesting shop.\""
                             ]
                         },
                         {
@@ -12825,21 +12762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はその店のおかげで、ザイダーグに連れ去られても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こうやって元気に働けてるの」"
+                                "Mei: \"Thanks to that shop, I can work energetically like this even\nafter being abducted by Zaida-G.\""
                             ]
                         },
                         {
@@ -12916,14 +12839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドラッグストア赤丸にようこそ！」"
+                                "Mei: \"Welcome to Drugstore Akamaru!\""
                             ]
                         },
                         {
@@ -13061,14 +12977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#本日のシフト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#店長：カナデ　アルバイト：メイ　"
+                                "Today's shift manager: Kanade Part-timer: Mei"
                             ]
                         },
                         {
@@ -13145,14 +13054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#本日のシフト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#店長：カナデ　アルバイト：メイ　"
+                                "Today's shift manager: Kanade Part-timer: Mei"
                             ]
                         },
                         {

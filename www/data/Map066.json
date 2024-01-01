@@ -9107,14 +9107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで決めるわ！」"
+                                "Pony Celeste: \"This will settle it!\""
                             ]
                         },
                         {
@@ -9143,14 +9136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「セイントアロー！！」"
+                                "Pony Celeste: \"Saint Arrow!!\""
                             ]
                         },
                         {
@@ -9358,14 +9344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ＆Ｂ＆Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶああああああぁぁぁ！！！」"
+                                "Zyda-G Combatants A&B&C: \"Aaaaarghhhh!!!\""
                             ]
                         },
                         {
@@ -9423,14 +9402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は――」"
+                                "Pony Celeste: \"Justice is--\""
                             ]
                         },
                         {
@@ -9518,14 +9490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！ \\|な～んてね♡」"
+                                "Pony Celeste: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -9873,14 +9838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆さん大丈夫ですか。お怪我はありませんか？」"
+                                "Pony Celeste: \"Is everyone okay? Are you hurt anywhere?\""
                             ]
                         },
                         {
@@ -9938,14 +9896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、大丈夫です！」"
+                                "Woman A: \"Yes, we're fine!\""
                             ]
                         },
                         {
@@ -9962,14 +9913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けてくれてありがとうございます」"
+                                "Woman A: \"Thank you for saving us.\""
                             ]
                         },
                         {
@@ -10027,14 +9971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は……最近噂になっている、あのポニーセレスだよね」"
+                                "Man A: \"You are... the Pony Celeste that's been the talk of the town\nlately, aren't you?\""
                             ]
                         },
                         {
@@ -10051,21 +9988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグから僕らを守ってくれて本当にありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君が来なければあいつらに連れ去られる所だったよ」"
+                                "Man A: \"Thank you so much for protecting us from Zyda-G. If you hadn't\ncome, we would have been taken away by them.\""
                             ]
                         },
                         {
@@ -10112,21 +10035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ、礼には及びません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　街を守るのが私の使命ですから」"
+                                "Pony Celeste: \"Oh no, there's no need for thanks. Protecting the city\nis my mission.\""
                             ]
                         },
                         {
@@ -10150,14 +10059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより皆さんがご無事でなによりです！」"
+                                "Pony Celeste: \"More importantly, I'm glad to see everyone is safe!\""
                             ]
                         },
                         {
@@ -10181,21 +10083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだザイダーグの残党がいるかもしれないので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気を付けて帰って下さいね」"
+                                "Pony Celeste: \"There might still be remnants of Zyda-G around, so\nplease be careful on your way home.\""
                             ]
                         },
                         {
@@ -10253,14 +10141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に助かりました。ありがとうポニーセレス！」"
+                                "Woman B: \"You really saved us. Thank you, Pony Celeste!\""
                             ]
                         },
                         {
@@ -11055,14 +10936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしっ、任務完了っと♪」"
+                                "Pony Celeste: \"Alright, mission complete♪\""
                             ]
                         },
                         {
@@ -11111,21 +10985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いっけない……もうこんな時間！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　Gingaが家に来ちゃう！」"
+                                "Pony Celeste: \"Oh no... look at the time! Ginga is going to come over\nto my house!\""
                             ]
                         },
                         {
@@ -11214,14 +11074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦闘員を蹴散らすとは、なかなかやるじゃないか」"
+                                "???: \"To scatter the combatants like that, you're quite something.\""
                             ]
                         },
                         {
@@ -11391,14 +11244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこを見ているポニーセレス！」"
+                                "???: \"Where are you looking, Pony Celeste!\""
                             ]
                         },
                         {
@@ -12031,14 +11877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだいたのね、ザイダーグの戦闘員！」"
+                                "Pony Celeste: \"You're still here, Zyda-G's combatants!\""
                             ]
                         },
                         {
@@ -12101,14 +11940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いえ、違う！？ 戦闘員より明らかに強大な闇の力を感じる）"
+                                "Pony Celeste: (No, that's not it!? I can feel a dark power far greater\nthan any combatant.)"
                             ]
                         },
                         {
@@ -12162,14 +11994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの戦闘員じゃないわね。あなた達は一体何者！？」"
+                                "Pony Celeste: \"You're not one of Zyda-G's combatants. Who exactly are\nyou!?\""
                             ]
                         },
                         {
@@ -12193,14 +12018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クックックッ、知りたいなら教えてやろう」"
+                                "???: \"Heh heh heh, if you want to know, I'll tell you.\""
                             ]
                         },
                         {
@@ -12251,21 +12069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の名前はガルベス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ザイダーグ幹部、猛将ガルベスだ」"
+                                "Mighty General Galves: \"My name is Galves. I'm one of Zyda-G's\nexecutives, Mighty General Galves.\""
                             ]
                         },
                         {
@@ -12326,14 +12130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ザイダーグの幹部？ 戦闘員の他にもこんな奴がいたわけね）"
+                                "Pony Celeste: (An executive of Zyda-G? So there are others besides the\ncombatants.)"
                             ]
                         },
                         {
@@ -12394,14 +12191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの幹部と聞いたからには、見逃すことは出来ないわよ」"
+                                "Pony Celeste: \"Now that I've heard you're an executive of Zyda-G, I\ncan't let you go.\""
                             ]
                         },
                         {
@@ -12425,14 +12215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベス、あなたを倒させてもらうわ！」"
+                                "Pony Celeste: \"Galves, I will take you down!\""
                             ]
                         },
                         {
@@ -12456,21 +12239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺を倒すか。随分と生意気な小娘じゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁ、嫌いじゃ無いぜお前みたいな活きの良い奴は」"
+                                "Mighty General Galves: \"You think you can defeat me? You're quite the\ncheeky little girl. Well, I don't dislike a lively one like you.\""
                             ]
                         },
                         {
@@ -12517,14 +12286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「覚悟しなさい。さぁ、いくわよ！」"
+                                "Pony Celeste: \"Prepare yourself. Here I come!\""
                             ]
                         },
                         {
@@ -12637,14 +12399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと。そう簡単にガルベス様と戦えると思うなよ小娘」"
+                                "Spider-G: \"Hold on. Don't think you can just fight Lord Galves that\neasily, little girl.\""
                             ]
                         },
                         {
@@ -12661,14 +12416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前の相手はこの俺だ！」"
+                                "Spider-G: \"Your opponent is me!\""
                             ]
                         },
                         {
@@ -12685,21 +12433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベス様、ここは私に任せてくれませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな小娘一分で片付けてやりますよ！」"
+                                "Spider-G: \"Lord Galves, may I handle this? I'll take care of this\nlittle girl in a minute!\""
                             ]
                         },
                         {
@@ -12746,14 +12480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「腕に自信があるようだけど、あなた如きで私の相手が務まるかしら？」"
+                                "Pony Celeste: \"You seem confident in your abilities, but are you\nreally a match for me?\""
                             ]
                         },
                         {
@@ -12777,14 +12504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいおい、言ってくれるじゃねーか」"
+                                "Spider-G: \"Oh boy, listen to you talk.\""
                             ]
                         },
                         {
@@ -12801,14 +12521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その生意気な顔をぐちゃぐちゃに潰してやろうか！」"
+                                "Spider-G: \"I'll crush that smug face of yours into a pulp!\""
                             ]
                         },
                         {
@@ -12855,14 +12568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「できるもんなら、やってみなさい！」"
+                                "Pony Celeste: \"If you think you can, then try it!\""
                             ]
                         },
                         {
@@ -12886,14 +12592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかい！ それじゃあ、地獄を見させてや……」"
+                                "Spider-G: \"Is that so! Then let me show you hell...\""
                             ]
                         },
                         {
@@ -12967,14 +12666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「待て、スパイダーグ！！」"
+                                "Mighty General Galves: \"Wait, Spider-G!!\""
                             ]
                         },
                         {
@@ -13000,14 +12692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はダーグノア様に楯突く小娘がどんな奴か見に来ただけだ」"
+                                "Mighty General Galves: \"I only came today to see what kind of girl\ndares to defy Lord Dargnoa.\""
                             ]
                         },
                         {
@@ -13024,21 +12709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「間近で見ればどの程度の力か察しがついた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  こんな小娘放っておいても問題は無い。いつでも始末できる」"
+                                "Mighty General Galves: \"Having seen her up close, I can tell what\nlevel of power she has. There's no problem leaving such a little girl\nalone. She can be dealt with anytime.\""
                             ]
                         },
                         {
@@ -13085,14 +12756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつでも始末出来るですって……随分と余裕ね」"
+                                "Pony Celeste: \"You say you can deal with me anytime... You're quite\nconfident.\""
                             ]
                         },
                         {
@@ -13116,14 +12780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そろそろひき上げるぞスパイダーグ」"
+                                "Mighty General Galves: \"It's about time we pull out, Spider-G.\""
                             ]
                         },
                         {
@@ -13190,14 +12847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、承知しました！」"
+                                "Spider-G: \"Haha, understood!\""
                             ]
                         },
                         {
@@ -13244,14 +12894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっ、ちょっと！ もしかして逃げる気！？」"
+                                "Pony Celeste: \"Wait, just a minute! Are you planning to run away?!\""
                             ]
                         },
                         {
@@ -13275,14 +12918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「命拾いしたなポニーセレス」"
+                                "Spider-G: \"You've got a lucky break, Pony Celeste.\""
                             ]
                         },
                         {
@@ -13299,14 +12935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前みたいな雌豚が、ヒーロー気取るなんざ百年早いんだよ！」"
+                                "Spider-G: \"A sow like you playing the hero is a hundred years too\nearly!\""
                             ]
                         },
                         {
@@ -13323,21 +12952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義の味方ごっこは公園でお友達とやるんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前にはそれがお似合いだ。ははははっ！」"
+                                "Spider-G: \"Playing the champion of justice is something you should do\nin the park with your friends. That suits you better. Hahahaha!\""
                             ]
                         },
                         {
@@ -13579,14 +13194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「言いたい事、言うだけ言って、何逃げてんのよ～っ！！」"
+                                "Pony Celeste: \"Say what you want to say, but why are you running\naway?!\""
                             ]
                         },
                         {
@@ -13633,14 +13241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんど会ったら、絶対にただじゃおかないんだからっ！」"
+                                "Pony Celeste: \"Next time we meet, I won't let you off so easily!\""
                             ]
                         },
                         {
@@ -14243,14 +13844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで終わりよ。ホーリージャッジメント！！」"
+                                "Pony-Celeste: \"This is the end. Holy Judgment!!\""
                             ]
                         },
                         {
@@ -14433,14 +14027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ＆Ｂ＆Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐわあああああああああああぁぁぁ！！！」"
+                                "Zyda-G Combatants A&B&C: \"Gwaaaaaaaaahhh!!!\""
                             ]
                         },
                         {
@@ -14491,14 +14078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は―」"
+                                "Pony-Celeste: \"Justice is—\""
                             ]
                         },
                         {
@@ -14579,14 +14159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！\\|な～んてね♡」"
+                                "Pony-Celeste: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -14927,14 +14500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆さん大丈夫ですか。お怪我はありませんか？」"
+                                "Pony-Celeste: \"Is everyone okay? Are you hurt anywhere?\""
                             ]
                         },
                         {
@@ -14992,14 +14558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、大丈夫です！」"
+                                "Woman A: \"Yes, we're fine!\""
                             ]
                         },
                         {
@@ -15016,14 +14575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けてくれてありがとうございます。」"
+                                "Woman A: \"Thank you for saving us.\""
                             ]
                         },
                         {
@@ -15081,14 +14633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は････最近噂になっている、あのポニーセレスだよね。」"
+                                "Man A: \"You're... the Pony-Celeste who's been the talk of the town\nlately, aren't you?\""
                             ]
                         },
                         {
@@ -15105,21 +14650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグから僕らを守ってくれて本当にありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君が来なければあいつらに連れ去られるとこだったよ。」"
+                                "Man A: \"Thank you so much for protecting us from Zyda-G. If you hadn't\ncome, we would have been taken away by them.\""
                             ]
                         },
                         {
@@ -15159,21 +14690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ、礼には及びません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　街を守るのが私の使命ですから。」"
+                                "Pony-Celeste: \"Oh no, don't mention it. Protecting the city is my\nmission, after all.\""
                             ]
                         },
                         {
@@ -15190,14 +14707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより皆さんがご無事でなによりです！」"
+                                "Pony-Celeste: \"More importantly, I'm glad to see that everyone is\nsafe!\""
                             ]
                         },
                         {
@@ -15214,21 +14724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだザイダーグの残党がいるかもしれないので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気を付けて帰って下さいね。」"
+                                "Pony-Celeste: \"There might still be remnants of Zyda-G around, so\nplease be careful on your way home.\""
                             ]
                         },
                         {
@@ -15286,14 +14782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に助かりました。ありがとうポニーセレス！」"
+                                "Woman B: \"You really saved us. Thank you, Pony-Celeste!\""
                             ]
                         },
                         {
@@ -16081,14 +15570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしっ、任務完了っと♪」"
+                                "Pony-Celeste: \"Alright, mission complete♪\""
                             ]
                         },
                         {
@@ -16130,21 +15612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いっけない･････もうこんな時間！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　Gingaが家に来ちゃう･････」"
+                                "Pony-Celeste: \"Oh no... look at the time! Ginga is going to come over\nto my house...\""
                             ]
                         },
                         {
@@ -16161,7 +15629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ここまでのデータをセーブしますか？"
+                                "\\C[17]ould you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -16169,8 +15637,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16300,14 +15768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦闘員を蹴散らすとは、なかなかやるじゃないか･････」"
+                                "???: \"To think you'd scatter my combatants, not bad at all...\""
                             ]
                         },
                         {
@@ -16477,14 +15938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこを見ている。ポニーセレス。」"
+                                "???: \"Where are you looking? Pony-Celeste.\""
                             ]
                         },
                         {
@@ -17110,14 +16564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだいたのね、ザイダーグの戦闘員！」"
+                                "Pony-Celeste: \"You're still here, a Zyda-G combatant!\""
                             ]
                         },
                         {
@@ -17173,14 +16620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いえ、違う！？･････戦闘員より明らかに強大な闇の力を感じる･････）"
+                                "Pony-Celeste: \"(No, that's not it!? I can feel a dark power far\ngreater than any combatant...)\""
                             ]
                         },
                         {
@@ -17227,14 +16667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「････ザイダーグの戦闘員じゃないわね。あなた達は一体何者！？」"
+                                "Pony-Celeste: \"...You're not a Zyda-G combatant, are you? Who exactly\nare you!?\""
                             ]
                         },
                         {
@@ -17301,14 +16734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ、知りたいなら教えてやろう。」"
+                                "???: \"Heh heh heh, if you want to know, I'll tell you.\""
                             ]
                         },
                         {
@@ -17346,21 +16772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "豪将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の名前はガルベス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　秘密結社ザイダーグ幹部、豪将ガルベス様だ。」"
+                                "Mighty Leader Galves: \"My name is Galves. I am Mighty Leader Galves,\nan executive of the secret society Zyda-G.\""
                             ]
                         },
                         {
@@ -17414,14 +16826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ザイダーグの幹部･････戦闘員の他にこんな奴がいたわけね。）"
+                                "Pony-Celeste: \"(An executive of Zyda-G... So there are others besides\nthe combatants.)\""
                             ]
                         },
                         {
@@ -17475,14 +16880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「幹部ってことは、あなたを倒せば少しは街に平和が戻りそうね。」"
+                                "Pony-Celeste: \"So you're an executive. If I defeat you, maybe peace\nwill return to the city for a while.\""
                             ]
                         },
                         {
@@ -17506,21 +16904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺を倒すか･････随分と生意気な小娘じゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まぁ、嫌いじゃ無いぜお前みたいな活きの良い奴。」"
+                                "Galves: \"Defeat me...? You're quite the cheeky little girl. Well, I\ndon't dislike a lively one like you.\""
                             ]
                         },
                         {
@@ -17560,21 +16944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも弱っちい奴ばかりで退屈していたところよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ガルベス！さぁ、いつでも相手になってあげるわ！」"
+                                "Pony-Celeste: \"I've been bored with only weaklings around. Galves!\nI'll take you on anytime!\""
                             ]
                         },
                         {
@@ -17696,14 +17066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと。そう簡単にガルベス様と戦えると思うなよ小娘。」"
+                                "Spider-G: \"Hold on. Don't think you can just fight Lord Galves so\neasily, little girl.\""
                             ]
                         },
                         {
@@ -17720,14 +17083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前の相手はこの俺がしてやるよ。」"
+                                "Spider-G: \"I'll be your opponent.\""
                             ]
                         },
                         {
@@ -17753,21 +17109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベス様、ここは私に任せてくれませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな小娘、一分で片付けてやりますよ！」"
+                                "Spider-G: \"Lord Galves, may I handle this? This little girl will be\ntaken care of in a minute!\""
                             ]
                         },
                         {
@@ -17807,14 +17149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一分ですって････」"
+                                "Pony-Celeste: \"In a minute, you say...\""
                             ]
                         },
                         {
@@ -17831,21 +17166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「腕に自身があるようだけど、あなた如きで私の相手が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　務まるかしら？」"
+                                "Pony-Celeste: \"You seem confident in your abilities, but are you sure\nyou can handle me?\""
                             ]
                         },
                         {
@@ -17869,14 +17190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごとき････だと･････言ってくれるじゃねーか。」"
+                                "Spider-G: \"'Handle'...? That's what I'm going to do to you.\""
                             ]
                         },
                         {
@@ -17893,14 +17207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺様の特性粘着糸でその体を縛りあげて、泣き喚かせてやろうかァ！」"
+                                "Spider-G: \"I'll bind your body with my special adhesive silk and make\nyou cry out in despair!\""
                             ]
                         },
                         {
@@ -17940,14 +17247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「できるもんなら、やってみなさい！」"
+                                "Pony-Celeste: \"If you think you can, then try it!\""
                             ]
                         },
                         {
@@ -17971,14 +17271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかい！それじゃあ、地獄を見させてや―」"
+                                "Spider-G: \"Is that so! Then let me show you hell—\""
                             ]
                         },
                         {
@@ -18052,14 +17345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「待て、スパイダーグ！！」"
+                                "Galves: \"Wait, Spider-G!!\""
                             ]
                         },
                         {
@@ -18085,14 +17371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はダーグノア様に楯突く小娘がどんなやつか見に来ただけだ。」"
+                                "Galves: \"I only came here today to see what kind of girl dares to defy\nLord Dargnoa.\""
                             ]
                         },
                         {
@@ -18109,21 +17388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに････間近で見ればどの程度の力か察しがついた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  こんな小娘放っておいても問題は無い。いつでも始末できるわ！」"
+                                "Galves: \"And now that I've seen her up close, I can tell what level of\npower she has. There's no problem leaving this little girl be. We can\nfinish her off anytime!\""
                             ]
                         },
                         {
@@ -18163,14 +17428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつでも始末出来るですって････随分と余裕ね。」"
+                                "Pony-Celeste: \"'Finish off anytime' you say... You seem very\nconfident.\""
                             ]
                         },
                         {
@@ -18194,14 +17452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そろそろひき上げるぞスパイダーグ。」"
+                                "Galves: \"It's about time we pull out, Spider-G.\""
                             ]
                         },
                         {
@@ -18268,14 +17519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、了解しました。」"
+                                "Spider-G: \"Haha, understood.\""
                             ]
                         },
                         {
@@ -18315,14 +17559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとっ････もしかして逃げる気！？」"
+                                "Pony-Celeste: \"Wait a minute... Are you planning to run away!?\""
                             ]
                         },
                         {
@@ -18346,14 +17583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「命拾いしたなポニーセレス。」"
+                                "Spider-G: \"You've dodged a bullet, Pony-Celeste.\""
                             ]
                         },
                         {
@@ -18370,14 +17600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなに俺と戦いたいなら近いうちに勝負してやるよ。」"
+                                "Spider-G: \"If you're so eager to fight me, I'll take you on soon\nenough.\""
                             ]
                         },
                         {
@@ -18394,21 +17617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だが、覚悟しておけ。次はその生意気な顔がぐちゃぐちゃに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　歪むくらい犯し尽くしてやるからな。はははははっ！」"
+                                "Spider-G: \"But be prepared. Next time, I'll ravage you until that smug\nface of yours is twisted beyond recognition. Hahahaha!\""
                             ]
                         },
                         {
@@ -18609,14 +17818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ････あいつら･････」"
+                                "Pony-Celeste: \"Those guys...\""
                             ]
                         },
                         {
@@ -18667,14 +17869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「言いたい事好きなだけ言って、何逃げてんのよ～っ！！」"
+                                "Pony-Celeste: \"Say whatever you want and just run away, why don't\nyou~!!\""
                             ]
                         },
                         {
@@ -18707,14 +17902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんど会ったら、ただじゃおかないんだからっ！」"
+                                "Pony-Celeste: \"Next time we meet, you won't get off so easily!\""
                             ]
                         },
                         {
@@ -19221,14 +18409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐふふっ、やったぜ。大量の人間を確保できたぞ！」"
+                                "Zyda-G Combatant A: \"Gufufu, we did it. We've secured a large number\nof humans!\""
                             ]
                         },
                         {
@@ -19245,14 +18426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これでガルベス様も大喜びだな！」"
+                                "Zyda-G Combatant B: \"With this, Lord Galves will be overjoyed!\""
                             ]
                         },
                         {
@@ -19269,14 +18443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残るはこいつらだけだ、早くを運ぶぞ！」"
+                                "Zyda-G Combatant C: \"These are the only ones left, let's transport\nthem quickly!\""
                             ]
                         },
                         {
@@ -19307,14 +18474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこまでよ！ ザイダーグの戦闘員！」"
+                                "???: \"That's far enough! Zyda-G combatants!\""
                             ]
                         },
                         {
@@ -19924,14 +19084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「げっ！ お前は……！！」"
+                                "Zyda-G Combatant A: \"Gah! You are...!!\""
                             ]
                         },
                         {
@@ -19962,21 +19115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「闇を払う聖なる光、聖光閃姫ポニーセレス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悪の現場に只今見参ッ！」"
+                                "Pony-Celes: \"The holy light that dispels darkness, Holy Flash Princess\nPony-Celes! I have arrived at the scene of evil!\""
                             ]
                         },
                         {
@@ -20192,21 +19331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「平和を乱すザイダーグの戦闘員、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が来たからにはもう好き勝手させないわ！」"
+                                "Pony-Celes: \"Zyda-G combatants who disturb the peace, now that I'm\nhere, I won't let you do as you please anymore!\""
                             ]
                         },
                         {
@@ -20257,14 +19382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぬぬっ……また現れやがったな！」"
+                                "Zyda-G Combatant A: \"Gnununu... You've shown up again!\""
                             ]
                         },
                         {
@@ -20331,21 +19449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも邪魔ばかりしやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前のせいで俺達はガルベス様に！」"
+                                "Zyda-G Combatant B: \"You're always in the way! Because of you, we get\nin trouble with Lord Galves!\""
                             ]
                         },
                         {
@@ -20396,21 +19500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、全くだ！ お前のせいで任務がいつも失敗……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　迷惑きわまりねーんだよ！」"
+                                "Zyda-G Combatant C: \"Ah, exactly! It's always your fault our missions\nfail... You're such a nuisance!\""
                             ]
                         },
                         {
@@ -20457,14 +19547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何が迷惑よ！ それはこっちの台詞だっての！」"
+                                "Pony-Celes: \"What nuisance? That's my line!\""
                             ]
                         },
                         {
@@ -20504,14 +19587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた達がこうやって、街で悪事を働くおかげで……」"
+                                "Pony-Celes: \"Thanks to you guys committing evil deeds in the city...\""
                             ]
                         },
                         {
@@ -20613,14 +19689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（勉強もろくに出来なくて、成績は下がる一方……）"
+                                "Pony-Celes: \"(I can hardly study, and my grades are dropping...)\""
                             ]
                         },
                         {
@@ -20644,14 +19713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかも、居残り補習なんて事に……）"
+                                "Pony-Celes: \"(And on top of that, I end up with detention...)\""
                             ]
                         },
                         {
@@ -20739,14 +19801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん……？ 俺達のせいで何だっつーんだよ！」"
+                                "Zyda-G Combatant A: \"Huh...? What do you mean 'because of us'?\""
                             ]
                         },
                         {
@@ -20793,21 +19848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうもこうも無いわよ！ 今日はとっても機嫌が悪いの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぎったんぎったんにしてあげるから覚悟しなさいよね！」"
+                                "Pony-Celes: \"Never mind that! I'm in a really bad mood today. I'm\ngoing to give you a good thrashing, so brace yourself!\""
                             ]
                         },
                         {
@@ -20831,14 +19872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「毎回そう簡単にやられてたまるかよ！」"
+                                "Zyda-G Combatant B: \"As if we'd let ourselves be beaten so easily\nevery time!\""
                             ]
                         },
                         {
@@ -20871,14 +19905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はこっちの番だ！ 徹底的に痛めつけてやる！」"
+                                "Zyda-G Combatant B: \"Today it's our turn! We'll make sure to hurt you\nthoroughly!\""
                             ]
                         },
                         {
@@ -20925,14 +19952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん、出来るもんならやってみなさい！」"
+                                "Pony-Celes: \"Hmph, if you think you can, then try it!\""
                             ]
                         },
                         {
@@ -20956,14 +19976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、いくわよ！！」"
+                                "Pony-Celes: \"Alright, here I come!!\""
                             ]
                         },
                         {
@@ -20987,14 +20000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前達、気合入れろ！ 今日こそこいつをやっちまうぞ！」"
+                                "Zyda-G Combatant A: \"You guys, get fired up! Today we'll definitely\ntake her down!\""
                             ]
                         },
                         {
@@ -21558,14 +20564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐふふっ、やったぜ。大量の人間を確保できたぞ！」"
+                                "Zyda-G Combatant A: \"Gufufu, we did it. We've secured a large number\nof humans!\""
                             ]
                         },
                         {
@@ -21582,14 +20581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これでガルベス様も大喜びだな！」"
+                                "Zyda-G Combatant B: \"With this, Lord Galves will be overjoyed!\""
                             ]
                         },
                         {
@@ -21606,14 +20598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早くこいつらを運ぶぞ！」"
+                                "Zyda-G Combatant C: \"Let's transport these guys quickly!\""
                             ]
                         },
                         {
@@ -21637,14 +20622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこまでよ！！」"
+                                "???: \"That's far enough!!\""
                             ]
                         },
                         {
@@ -22254,14 +21232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「げっ！！お前は･････！！」"
+                                "Zyda-G Combatant A: \"Gah!! You are...!!\""
                             ]
                         },
                         {
@@ -22285,21 +21256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「闇を払う聖なる光、聖光閃姫ポニーセレス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悪の現場に只今見参ッ！」"
+                                "Pony-Celes: \"The holy light that banishes darkness, Holy Light Flash\nPrincess Pony-Celes! I have arrived at the scene of evil!\""
                             ]
                         },
                         {
@@ -22508,21 +21465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「平和を乱すザイダーグの戦闘員、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が来たからにはもう好き勝手させないわ！」"
+                                "Pony-Celes: \"Zyda-G combatants who disturb the peace, now that I'm\nhere, I won't let you do as you please anymore!\""
                             ]
                         },
                         {
@@ -22573,14 +21516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぬぬっ！また現れやがったな、ポニーセレス！」"
+                                "Zyda-G Combatant A: \"Gnununu! You've shown up again, Pony-Celes!\""
                             ]
                         },
                         {
@@ -22647,21 +21583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつも邪魔ばかりしやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前のせいで俺達は\\C[17]ガルベス様\\C[0]に･････！」"
+                                "Zyda-G Combatant B: \"You're always in the way! Because of you, we are\nin trouble with \\C[17]Lord Galves\\C[0]...!\""
                             ]
                         },
                         {
@@ -22712,21 +21634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、全くだ！お前のせいで任務が台無し。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　迷惑きわまりねーんだよ！」"
+                                "Zyda-G Combatant C: \"Ah, exactly! Our mission is ruined because of\nyou. It's extremely annoying!\""
                             ]
                         },
                         {
@@ -22766,14 +21674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何が迷惑よ！それはこっちの台詞だっての！」"
+                                "Pony-Celes: \"What's so annoying! That's my line!\""
                             ]
                         },
                         {
@@ -22806,14 +21707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた達がこうやって、街で悪事を働くおかげで･････」"
+                                "Pony-Celes: \"Thanks to you guys committing evil deeds in the city like\nthis...\""
                             ]
                         },
                         {
@@ -22908,14 +21802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（勉強もろくに出来なくて、成績は下がる一方･････）"
+                                "Pony-Celes: \"(I can't even study properly, and my grades are just\ngetting worse...)\""
                             ]
                         },
                         {
@@ -22932,14 +21819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかも、居残り補修なんて事に･･････）"
+                                "Pony-Celes: \"(And on top of that, I end up having to stay for remedial\nclasses...)\""
                             ]
                         },
                         {
@@ -23027,14 +21907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん･･････？俺達のせいで何だっつーんだよ！」"
+                                "Zyda-G Combatant A: \"Huh...? What are you blaming us for?!\""
                             ]
                         },
                         {
@@ -23074,21 +21947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうもこうも無いわよ！今日はとっても機嫌が悪いの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぎったんぎったんにしてあげるから覚悟しなさいよね！」"
+                                "Pony-Celes: \"It doesn't matter! I'm in a really bad mood today! I'm\ngoing to beat you up thoroughly, so brace yourself!\""
                             ]
                         },
                         {
@@ -23112,14 +21971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「毎回毎回そう簡単にやられてたまるかよ！」"
+                                "Zyda-G Combatant B: \"We're not going to be defeated so easily every\nsingle time!\""
                             ]
                         },
                         {
@@ -23152,14 +22004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日こそお前をボコボコにして、泣いて謝らせてやるからな！」"
+                                "Zyda-G Combatant B: \"Today, for sure, I'm going to beat you up and\nmake you cry and apologize!\""
                             ]
                         },
                         {
@@ -23199,14 +22044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん、出来るもんならやってみなさい！」"
+                                "Pony-Celes: \"Hmph, if you think you can, then try it!\""
                             ]
                         },
                         {
@@ -23239,14 +22077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、いくわよ！！」"
+                                "Pony-Celes: \"Alright, let's go!!\""
                             ]
                         },
                         {
@@ -23270,14 +22101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前達、いくぞ！今日こそやっちまうぞ！」"
+                                "Zyda-G Combatant A: \"You guys, let's go! Today we'll definitely finish\nher off!\""
                             ]
                         },
                         {

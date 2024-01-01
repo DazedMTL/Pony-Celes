@@ -5299,7 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使い古されたラジオが捨てられている。"
+                                "An old, worn-out radio has been discarded."
                             ]
                         },
                         {
@@ -5491,14 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見つけたわよ」"
+                                "Yui: \"I found you!\""
                             ]
                         },
                         {
@@ -5515,14 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう逃げないでよ～」"
+                                "Yui: \"Don't run away anymore~\""
                             ]
                         },
                         {
@@ -5539,14 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきのお姉ちゃん？」"
+                                "Shingo: \"The sister from before?\""
                             ]
                         },
                         {
@@ -5563,14 +5542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、もしかしてシンゴ君？」"
+                                "Yui: \"Are you perhaps Shingo-kun?\""
                             ]
                         },
                         {
@@ -5587,14 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。そうだけどお姉ちゃんは？」"
+                                "Shingo: \"Yeah. But who are you, sister?\""
                             ]
                         },
                         {
@@ -5611,14 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はユイよ。シンゴ君、あのね……」"
+                                "Yui: \"I'm Yui. Shingo-kun, you see...\""
                             ]
                         },
                         {
@@ -5635,14 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君のお母さん、シンゴ君の事とても心配してたわよ」"
+                                "Yui: \"Your mother is really worried about you, Shingo-kun.\""
                             ]
                         },
                         {
@@ -5659,21 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お母さんのところに帰ってあげて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シンゴ君だって本当はお母さんに心配かけさせたくないでしょ」"
+                                "Yui: \"Please go back to her. You don't really want to make your mother\nworry, do you?\""
                             ]
                         },
                         {
@@ -5690,14 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Shingo: \"...\""
                             ]
                         },
                         {
@@ -5714,14 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん。\\|じゃあお姉ちゃんの……」"
+                                "Shingo: \"...Okay. Then, sister's...\""
                             ]
                         },
                         {
@@ -5738,14 +5661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スカートの中、見せて！！」"
+                                "Shingo: \"Show me what's under your skirt!!\""
                             ]
                         },
                         {
@@ -5814,14 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、えええぇぇっ！？」"
+                                "Yui: \"Eh, eeeehhh!?\""
                             ]
                         },
                         {
@@ -5838,21 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕、勉強は興味無いけど綺麗なお姉ちゃんのスカートの中は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　興味あるんだ～」"
+                                "Shingo: \"I'm not interested in studying, but I am interested in what's\nunder a pretty sister's skirt~\""
                             ]
                         },
                         {
@@ -5869,14 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねっ、いいでしょ！ 見せてくれたら帰るからさ！」"
+                                "Shingo: \"Come on, it's okay, right? If you show me, I'll go home!\""
                             ]
                         },
                         {
@@ -5923,14 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんてませた子なの……）"
+                                "Yui: \"(What a precocious child...)\""
                             ]
                         },
                         {
@@ -5947,21 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こんな小さな子がスカートの中とか興味あるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほんとっ、信じられなんだけど！）"
+                                "Yui: \"(Can such a little boy really be interested in what's under a\nskirt? I can't believe it!)\""
                             ]
                         },
                         {
@@ -5978,14 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ううぅ……どうしよ……）"
+                                "Yui: \"(Ugh... What should I do...)\""
                             ]
                         },
                         {
@@ -6002,14 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……）"
+                                "Yui: \"(...)\""
                             ]
                         },
                         {
@@ -6026,14 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（周りには誰もいなさそうだし……この際、仕方ないか……）"
+                                "Yui: \"(It looks like there's no one around... Maybe this time, it\ncan't be helped...)\""
                             ]
                         },
                         {
@@ -6080,14 +5926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……わかったわ。少しだけよ！」"
+                                "Yui: \"...Alright. Just a little bit!\""
                             ]
                         },
                         {
@@ -6104,14 +5943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ～い！ わ～い！」"
+                                "Shingo: \"Yay! Yay!\""
                             ]
                         },
                         {
@@ -6159,7 +5991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは恥じらいながらスカートをたくし上げた。"
+                                "Yui shyly lifted up her skirt."
                             ]
                         },
                         {
@@ -6204,14 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すご～い♪」"
+                                "Shingo: \"Wow~♪\""
                             ]
                         },
                         {
@@ -6228,14 +6053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スカートの中ってこんな風になってるんだ」"
+                                "Shingo: \"So that's what it looks like under a skirt.\""
                             ]
                         },
                         {
@@ -6252,14 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も、もういいかな……恥ずかしいよ……」"
+                                "Yui: \"Is that enough...? It's embarrassing...\""
                             ]
                         },
                         {
@@ -6276,14 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめ、だめ、もう少しだけ」"
+                                "Shingo: \"No, no, just a little longer.\""
                             ]
                         },
                         {
@@ -6300,14 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅっ……」"
+                                "Yui: \"Ugh...\""
                             ]
                         },
                         {
@@ -6324,14 +6121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わっ、いい香りがするよ」"
+                                "Shingo: \"Wow, it smells nice.\""
                             ]
                         },
                         {
@@ -6348,14 +6138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして？」"
+                                "Shingo: \"Why is that?\""
                             ]
                         },
                         {
@@ -6372,14 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、知らないわよ……」"
+                                "Yui: \"I-I don't know...\""
                             ]
                         },
                         {
@@ -6396,14 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、じゃあ触っていい？」"
+                                "Shingo: \"Hmm, can I touch it?\""
                             ]
                         },
                         {
@@ -6420,21 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはダメ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見るだけって約束なんだからっ！」"
+                                "Yui: \"That's not allowed! We only agreed on looking!\""
                             ]
                         },
                         {
@@ -6451,14 +6206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちぇっ……」"
+                                "Shingo: \"Tch...\""
                             ]
                         },
                         {
@@ -6475,14 +6223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「も、もういいかげんいいでしょ……スカート下ろすわよ」"
+                                "Yui: \"Enough already... I'm going to pull my skirt down now.\""
                             ]
                         },
                         {
@@ -6499,14 +6240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメ！」"
+                                "Shingo: \"No!\""
                             ]
                         },
                         {
@@ -6523,14 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉ちゃん、こんな可愛いパンツ履いて誰かに見せたい人でもいるの？」"
+                                "Shingo: \"Sister, are you wearing such cute panties for someone you\nwant to show them to?\""
                             ]
                         },
                         {
@@ -6547,14 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？ そんな人……い、いないわよっ……」"
+                                "Yui: \"Eh!? There's no such person... I-I'm not!\""
                             ]
                         },
                         {
@@ -6571,14 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ～、うそだぁ！ これって勝負下着ってやつじゃないの～？」"
+                                "Shingo: \"Eeeh, that's a lie! Aren't those what they call 'date\npanties'?\""
                             ]
                         },
                         {
@@ -6595,14 +6308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大好きな人を喜ばすために買ったんでしょ？」"
+                                "Shingo: \"You bought them to please someone you love, right?\""
                             ]
                         },
                         {
@@ -6619,14 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、えぇ！？ な、なわけないでしょっ！！」"
+                                "Yui: \"Eh, eeh!? That's not true at all!!\""
                             ]
                         },
                         {
@@ -6643,14 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！ お姉ちゃん、むっつりスケベでしょ！」"
+                                "Shingo: \"Haha! Sister, you're a closet pervert, aren't you!\""
                             ]
                         },
                         {
@@ -6667,21 +6359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ば、ばかぁ！ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな言葉どこで覚えたのよっ！」"
+                                "Yui: \"Idiot! Where did you learn such words?!\""
                             ]
                         },
                         {
@@ -6698,14 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「照れちゃってさ、可愛いねお姉ちゃん♪」"
+                                "Shingo: \"You're blushing, how cute, Sister♪\""
                             ]
                         },
                         {
@@ -6722,14 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……も、もういいでしょ……スタート下ろすわよ……」"
+                                "Yui: \"Ugh... Fine, I'm going to pull my skirt down now...\""
                             ]
                         },
                         {
@@ -6746,14 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、もういいよ！ これ以上やるとお姉ちゃん可哀そうだし～」"
+                                "Shingo: \"Yeah, that's enough! I don't want to make Sister feel too\nbad~\""
                             ]
                         },
                         {
@@ -6788,14 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうお姉ちゃん。じゃ～ね！」"
+                                "Shingo: \"Thank you, Sister. See ya!\""
                             ]
                         },
                         {
@@ -7117,14 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく、なんて子供なのよっ！）"
+                                "Yui: \"(Really, what a child!)\""
                             ]
                         },
                         {
@@ -7164,14 +6807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（でも、Gingaには可愛い下着だって言われたい……）"
+                                "Yui: \"(But, I do want Ginga to say I'm wearing cute underwear...)\""
                             ]
                         },
                         {
@@ -7188,14 +6824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（それってGingaには見せたってことだよね……）"
+                                "Yui: \"(That means I want to show them to Ginga...)\""
                             ]
                         },
                         {
@@ -7212,14 +6841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（…………）"
+                                "Yui: \"(...)\""
                             ]
                         },
                         {
@@ -7252,14 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……ばか、ばかっ私！ 何変なこと考えてるのよ。もぅ～！）"
+                                "Yui: \"(...Idiot, idiot me! What am I thinking about? Geez!)\""
                             ]
                         },
                         {
@@ -7329,7 +6944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫乱度が５上がった！"
+                                "Lewdness level increased by 5!"
                             ]
                         },
                         {
@@ -7582,7 +7197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[288]シンゴの記憶】を手に入れた！"
+                                "Acquired 【\\i[288]Shingo's Memory】!"
                             ]
                         },
                         {

@@ -11698,14 +11698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「街が･･････」"
+                                "Ginga: \"The city is...\""
                             ]
                         },
                         {
@@ -11722,14 +11715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひどい･･････」"
+                                "Ginga: \"This is terrible...\""
                             ]
                         },
                         {
@@ -11746,14 +11732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ、頼む。無事でいてくれ･････」"
+                                "Ginga: \"Yui, please... be safe...\""
                             ]
                         },
                         {
@@ -11889,7 +11868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員は気絶している。"
+                                "The combatant is unconscious."
                             ]
                         },
                         {
@@ -12894,7 +12873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員は気絶している。"
+                                "The combatant is unconscious."
                             ]
                         },
                         {
@@ -13119,7 +13098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員は気絶している。"
+                                "The combatant is unconscious."
                             ]
                         },
                         {
@@ -13228,7 +13207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員は気絶している。"
+                                "The combatant is unconscious."
                             ]
                         },
                         {
@@ -13397,7 +13376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員は気絶している。"
+                                "The combatant is unconscious."
                             ]
                         },
                         {

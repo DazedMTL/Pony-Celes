@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フェイの第四倉庫地下",
+    "displayName": "Fey's Fourth Warehouse Basement",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12271,7 +12271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]必殺技の極意書十巻】を手に入れた！"
+                                "I've obtained the 【\\i[94]Secret Techniques Volume Ten】!"
                             ]
                         },
                         {
@@ -12385,14 +12385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（う～ん、５つ全ての倉庫を調べたけどセーラー服は無かったわ……)"
+                                "Yui (Hmm, I've checked all five warehouses, but there was no sailor\nuniform...)"
                             ]
                         },
                         {
@@ -12425,14 +12418,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（まいっか！ 一応、戻って報告しとこっと♪)"
+                                "Yui (Oh well! I should at least go back and report.♪)"
                             ]
                         },
                         {
@@ -12555,14 +12541,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（う～ん、セーラー服じゃないみたいね……)"
+                                "Yui (Hmm, it doesn't seem to be a sailor uniform...)"
                             ]
                         },
                         {
@@ -12595,14 +12574,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（まっいっか！ 他の倉庫も調べてみよっと～)"
+                                "Yui (No biggie! Let's check the other warehouses too～)"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "北詰所",
+    "displayName": "North Checkpoint",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -17097,7 +17097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[220]防弾チョッキ】を手に入れた！"
+                                "I've obtained a 【\\i[220]Bulletproof Vest】!"
                             ]
                         },
                         {
@@ -30000,7 +30000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "Acquired the 【\\i[90]Tome of Endurance】!"
                             ]
                         },
                         {
@@ -30239,7 +30239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[148]わた飴】を手に入れた！"
+                                "I've obtained 【Cotton Candy】!"
                             ]
                         },
                         {
@@ -30486,7 +30486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 【\\i[295]コケ・コーラ】を手に入れた！"
+                                "I've obtained a 【\\i[295]Coke-Cola】!"
                             ]
                         },
                         {

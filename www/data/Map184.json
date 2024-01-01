@@ -8543,21 +8543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaが助けに来てくれたおかげで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ザイダーグを倒す事が出来たよ」"
+                                "Yui: \"Thanks to Ginga coming to my rescue, I was able to defeat\nZaida-G.\""
                             ]
                         },
                         {
@@ -8574,14 +8560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当にありがとね！」"
+                                "Yui: \"I'm really grateful!\""
                             ]
                         },
                         {
@@ -8632,14 +8611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感謝なんて……\\|でも間に合って良かった！」"
+                                "Ginga: \"Gratitude... But I'm glad I made it in time!\""
                             ]
                         },
                         {
@@ -8663,21 +8635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういや、Ginga……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんで私がポニーセレスだってわかったの？」"
+                                "Yui: \"By the way, Ginga... how did you know I was Pony-Ceres?\""
                             ]
                         },
                         {
@@ -8701,14 +8659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……それはね」"
+                                "Ginga: \"Ah... that's because\""
                             ]
                         },
                         {
@@ -8725,14 +8676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポルカに教えてもらったんだ」"
+                                "Ginga: \"Polka told me.\""
                             ]
                         },
                         {
@@ -8774,14 +8718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、ポルカに会ったの！？」"
+                                "Yui: \"What, you met Polka!?\""
                             ]
                         },
                         {
@@ -8805,14 +8742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん……」"
+                                "Ginga: \"Yeah...\""
                             ]
                         },
                         {
@@ -8845,14 +8775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったくポルカったら！」"
+                                "Yui: \"Seriously, Polka!\""
                             ]
                         },
                         {
@@ -8869,21 +8792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaまで巻き込んで、もぅ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　帰ったら厳重に注意しないと！」"
+                                "Yui: \"Even involving Ginga, geez! I'll have to give her a serious\nwarning when we get back!\""
                             ]
                         },
                         {
@@ -8907,14 +8816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それよりさ……」"
+                                "Ginga: \"More importantly...\""
                             ]
                         },
                         {
@@ -8947,14 +8849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイは怖くないの？」"
+                                "Ginga: \"Aren't you scared, Yui?\""
                             ]
                         },
                         {
@@ -8978,14 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ 何が？」"
+                                "Yui: \"Hm? Scared of what?\""
                             ]
                         },
                         {
@@ -9009,14 +8897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスとしてザイダーグと一人で戦ってる事……」"
+                                "Ginga: \"Fighting Zaida-G alone as Pony-Ceres...\""
                             ]
                         },
                         {
@@ -9056,14 +8937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、心配してくれてるんだ～」"
+                                "Yui: \"Oh, you're worried about me~\""
                             ]
                         },
                         {
@@ -9087,14 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃ、するよ！ するに決まってる！」"
+                                "Ginga: \"Of course, I am! It's only natural!\""
                             ]
                         },
                         {
@@ -9118,14 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～んとね～」"
+                                "Yui: \"Well, you see~\""
                             ]
                         },
                         {
@@ -9158,21 +9018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怖くないと言えば嘘になるけど、これが私の使命だもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はもう平気だよ！」"
+                                "Yui: \"It would be a lie to say I'm not scared, but this is my mission.\nI'm okay with it now!\""
                             ]
                         },
                         {
@@ -9196,14 +9042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に？」"
+                                "Ginga: \"Really?\""
                             ]
                         },
                         {
@@ -9227,14 +9066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "Yui: \"Yep!\""
                             ]
                         },
                         {
@@ -9258,14 +9090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -9282,14 +9107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕もユイと一緒にザイダーグと戦いたいんだ！」"
+                                "Ginga: \"I want to fight Zaida-G together with Yui!\""
                             ]
                         },
                         {
@@ -9306,14 +9124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイと違って特別な力は授かってないけど……」"
+                                "Ginga: \"Unlike Yui, I haven't been granted any special powers, but...\""
                             ]
                         },
                         {
@@ -9330,14 +9141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイを守りたい！」"
+                                "Ginga: \"I want to protect Yui!\""
                             ]
                         },
                         {
@@ -9377,14 +9181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！？」"
+                                "Yui: \"What!?\""
                             ]
                         },
                         {
@@ -9408,14 +9205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……だめかな？」"
+                                "Ginga: \"...Is that not okay?\""
                             ]
                         },
                         {
@@ -9439,14 +9229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグが怖くないの？」"
+                                "Yui: \"Aren't you scared of Zaida-G?\""
                             ]
                         },
                         {
@@ -9470,14 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怖いよ！ 怖くてしょうがない」"
+                                "Ginga: \"Scared? I'm terrified!\""
                             ]
                         },
                         {
@@ -9517,14 +9293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あははっ！」"
+                                "Yui: \"Ahaha!\""
                             ]
                         },
                         {
@@ -9541,14 +9310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり本当は怖かったんだ！」"
+                                "Yui: \"So you were really scared after all!\""
                             ]
                         },
                         {
@@ -9572,14 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃそうだよ……あんな化け物、考えただけでも怖いよ！」"
+                                "Ginga: \"Of course, I am... Just thinking about that monster is\nfrightening!\""
                             ]
                         },
                         {
@@ -9619,21 +9374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、私を助けてくれたじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　凄くかっこよかったぞ！」"
+                                "Yui: \"But you still came to save me. You were so cool!\""
                             ]
                         },
                         {
@@ -9657,14 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイが大事だから……勝手に体が動いてた」"
+                                "Ginga: \"Because Yui is important to me... My body just moved on its\nown.\""
                             ]
                         },
                         {
@@ -9697,14 +9431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何よそれ～～～っ！」"
+                                "Yui: \"What's with that~~~!\""
                             ]
                         },
                         {
@@ -9721,14 +9448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、嬉しいな！」"
+                                "Yui: \"But, I'm happy about it!\""
                             ]
                         },
                         {
@@ -9752,14 +9472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ユイの事が好きなんだ」"
+                                "Ginga: \"...I like you, Yui.\""
                             ]
                         },
                         {
@@ -9801,14 +9514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええええっ！」"
+                                "Yui: \"Whaaaaat!\""
                             ]
                         },
                         {
@@ -9832,14 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……私も。\\|Gingaの事、好きだよ！」"
+                                "Yui: \"...Me too. I like you, Ginga!\""
                             ]
                         },
                         {
@@ -9865,14 +9564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほ、本当に！？ やった！」"
+                                "Ginga: \"R-really!? Yes!\""
                             ]
                         },
                         {
@@ -9898,14 +9590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう、恥ずかしいよー！」"
+                                "Yui: \"Oh come on, this is embarrassing-!\""
                             ]
                         },
                         {
@@ -9956,7 +9641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはGingaに水をかけた。"
+                                "Yui splashed water on Ginga."
                             ]
                         },
                         {
@@ -9980,14 +9665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、やったな～！ まじめな話してたのに～」"
+                                "Ginga: \"Ah, you did it now~! And we were having a serious\nconversation~\""
                             ]
                         },
                         {
@@ -10004,14 +9682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あははっ！」"
+                                "Yui: \"Ahaha!\""
                             ]
                         },
                         {
@@ -10028,14 +9699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お返しだ～！」"
+                                "Ginga: \"This means war~!\""
                             ]
                         },
                         {
@@ -10059,7 +9723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gingaは照れながらユイに水をかけた。"
+                                "Ginga splashed water on Yui while blushing."
                             ]
                         },
                         {
@@ -10083,14 +9747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わっ、冷たーいっ！」"
+                                "Yui: \"Ah, it's cold!\""
                             ]
                         },
                         {
@@ -10107,14 +9764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！」"
+                                "Ginga: \"Haha!\""
                             ]
                         },
                         {
@@ -10131,14 +9781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お返しだよ！ ほらっ！」"
+                                "Yui: \"It's payback time! Here you go!\""
                             ]
                         },
                         {
@@ -10162,14 +9805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわああっ！」"
+                                "Ginga: \"Woahhh!\""
                             ]
                         },
                         {
@@ -10193,14 +9829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あははっ！」"
+                                "Yui: \"Ahaha!\""
                             ]
                         },
                         {
@@ -10224,14 +9853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははっ！」"
+                                "Ginga: \"Hahahaha!\""
                             ]
                         },
                         {
@@ -10317,14 +9939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ　　　　　　　　　　　　　Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（大好きだよGinga）          （大好きだよユイ）"
+                                "Yui Ginga (I love you, Ginga) (I love you, Yui)"
                             ]
                         },
                         {

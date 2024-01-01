@@ -15899,14 +15899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドムドラ様、報告です！」"
+                                "Zaida-G Combatant: \"Lord Domudora, I have a report!\""
                             ]
                         },
                         {
@@ -15923,14 +15916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベス様の配下イートダーグ様が敗れたとの事」"
+                                "Zaida-G Combatant: \"It seems that Lord Itoda-G, under Lord Galves, has\nbeen defeated.\""
                             ]
                         },
                         {
@@ -15947,14 +15933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スパイダーグ様に続き、またしてもポニーセレスに……」"
+                                "Zaida-G Combatant: \"Following Lord Spaida-G, once again by Pony-\nCeres...\""
                             ]
                         },
                         {
@@ -16029,21 +16008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ、そうですかそうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは大変愉快ですね」"
+                                "Strategist Domudora: \"Foh foh foh, is that so? That is indeed\ndelightful.\""
                             ]
                         },
                         {
@@ -16060,14 +16025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベスの悔しがる顔が目に浮かびますよ」"
+                                "Strategist Domudora: \"I can just picture Galves's frustrated face.\""
                             ]
                         },
                         {
@@ -16084,14 +16042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全ての部下を失って丸裸になった時があなたの最後です」"
+                                "Strategist Domudora: \"The end for you will come when you've lost all\nyour subordinates and are left completely exposed.\""
                             ]
                         },
                         {
@@ -16108,14 +16059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「単細胞の馬鹿は私の計画に邪魔ですからね……」"
+                                "Strategist Domudora: \"Simple-minded fools like you are a hindrance to\nmy plans...\""
                             ]
                         },
                         {
@@ -16141,14 +16085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「失礼ですがそれはどういう意味なのでしょうか？」"
+                                "Zaida-G Combatant: \"Excuse me, but what do you mean by that?\""
                             ]
                         },
                         {
@@ -16172,14 +16109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ あなたにそれを教えて私に何か得がありますか？」"
+                                "Strategist Domudora: \"Hmm? Is there any benefit for me in telling you\nthat?\""
                             ]
                         },
                         {
@@ -16203,14 +16133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは……」"
+                                "Zaida-G Combatant: \"That is...\""
                             ]
                         },
                         {
@@ -16227,21 +16150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……少し興味本位で、口走ってしまいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　出すぎたマネを大変申し訳ありません」"
+                                "Zaida-G Combatant: \"...I spoke out of mere curiosity. I deeply\napologize for overstepping my bounds.\""
                             ]
                         },
                         {
@@ -16265,21 +16174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良いですよ、興味を持つ事は当然の事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして不思議に思う事も当然の事」"
+                                "Strategist Domudora: \"It's fine. It's natural to be curious and to\nwonder about things.\""
                             ]
                         },
                         {
@@ -16296,21 +16191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ですが、あなたにそれを教える事は出来ませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なぜなら……」"
+                                "Strategist Domudora: \"However, I cannot disclose that to you.\nBecause...\""
                             ]
                         },
                         {
@@ -16327,14 +16208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたは……」"
+                                "Strategist Domudora: \"You are...\""
                             ]
                         },
                         {
@@ -16351,14 +16225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベスの犬ですからね！！」"
+                                "Strategist Domudora: \"Galves's dog, after all!!\""
                             ]
                         },
                         {
@@ -16384,14 +16251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！！」"
+                                "Zaida-G Combatant: \"What!!\""
                             ]
                         },
                         {
@@ -16415,21 +16275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「馬鹿は馬鹿なりに頭が働いたのでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ザイボーグを蘇らせた私の行動が怪しいと」"
+                                "Strategist Domudora: \"Even a fool like you must have had a moment of\nclarity. You found my actions in reviving Zaibo-G suspicious.\""
                             ]
                         },
                         {
@@ -16446,21 +16292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「智将の名を持つこの私が、見張りに気付かないとでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思ったのでしょうか」"
+                                "Strategist Domudora: \"Did you really think that I, who bears the name\nof strategist, would not notice a spy?\""
                             ]
                         },
                         {
@@ -16535,21 +16367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いや……私はこんな事したくなかったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　殺すと言われて……し、仕方なく！」"
+                                "Zaida-G Combatant: \"No... I didn't want to do this, but I was told I'd\nbe killed if I didn't... I had no choice!\""
                             ]
                         },
                         {
@@ -16573,14 +16391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたに一つ質問です」"
+                                "Strategist Domudora: \"I have one question for you.\""
                             ]
                         },
                         {
@@ -16597,21 +16408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「現在ポニーセレスにザイダーグの計画を邪魔されています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さて、あの馬鹿と私どちらが無能ですかね？」"
+                                "Strategist Domudora: \"Currently, Pony-Ceres is interfering with\nZaida-G's plans. Now, who do you think is the incompetent one, that\nfool or me?\""
                             ]
                         },
                         {
@@ -16635,21 +16432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それは、もちろん、ガルベス様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　い、いやガルベス、ガルベスが無能でございます！！」"
+                                "Zaida-G Combatant: \"Th-that would be, of course, Lord Galves... no,\nGalves, Galves is the incompetent one!!\""
                             ]
                         },
                         {
@@ -16673,14 +16456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ですよね。私はね……無能な生き物が大嫌いなのですよ」"
+                                "Strategist Domudora: \"Right you are. I... I detest incompetent\ncreatures.\""
                             ]
                         },
                         {
@@ -16697,14 +16473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「力だけが取り得のガルベス、そしてスパイとして無能のあなたもね」"
+                                "Strategist Domudora: \"Galves, who only has strength as his asset, and\nyou, an incompetent spy.\""
                             ]
                         },
                         {
@@ -16721,21 +16490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無能というのは見るだけで吐き気がするんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なので、ふぉふぉふぉっ……死んで下さい」"
+                                "Strategist Domudora: \"Incompetence is something that makes me nauseous\njust by looking at it. So, foh foh foh... please die.\""
                             ]
                         },
                         {
@@ -16752,14 +16507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出てきなさい。私の可愛いペット」"
+                                "Strategist Domudora: \"Come out now. My dear pet.\""
                             ]
                         },
                         {
@@ -17858,14 +17606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こいつは……ガルベス様のおっしゃっていたザイボーグ！！」"
+                                "Zaida-G Combatant: \"This is... the Zaibo-G that Lord Galves\nmentioned!!\""
                             ]
                         },
                         {
@@ -17882,14 +17623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイボーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドムドラサマ、オヨビデショウカ？」"
+                                "Zaibo-G: \"Did you call for me, Lord Domudora?\""
                             ]
                         },
                         {
@@ -17915,21 +17649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイボーグが言葉を……！！ なぜっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こ、こいつは知性を持たぬ魔獣のはずっ！？」"
+                                "Zaida-G Combatant: \"Zaibo-G can speak...!! Why!? This creature is\nsupposed to be a mindless beast!?\""
                             ]
                         },
                         {
@@ -17946,14 +17666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ、私が少し改良を加えればこの程度容易い事ですよ」"
+                                "Strategist Domudora: \"Heheheh, with a little modification from me,\nsuch a feat is trivial.\""
                             ]
                         },
                         {
@@ -17970,21 +17683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、このゴミを始末しなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　跡形も残してはダメですよ」"
+                                "Strategist Domudora: \"Now, dispose of this trash! And make sure\nnothing is left behind.\""
                             ]
                         },
                         {
@@ -18001,14 +17700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイボーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グヘヘヘッ、ショウチシマシタ……」"
+                                "Zaibo-G: \"Gheheheh, understood...\""
                             ]
                         },
                         {
@@ -18501,14 +18193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぎっ、ぎああああぁぁーー！！」"
+                                "Zaida-G Combatant: \"G-gaaaahhhhh--!!\""
                             ]
                         },
                         {
@@ -18640,14 +18325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の計画は誰にも邪魔させませんよ。ふぉふぉふぉっ！」"
+                                "Strategist Domudora: \"No one shall interfere with my plans. Foh foh\nfoh!\""
                             ]
                         },
                         {

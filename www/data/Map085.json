@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アーバン地区Ａ区画",
+    "displayName": "Urban District Block A",
     "encounterList": [
         {
             "regionSet": [],
@@ -11700,7 +11700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイノス地区へ移動しますか？"
+                                "Would you like to move to the Dinos district?"
                             ]
                         },
                         {
@@ -11708,8 +11708,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11980,7 +11980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイノス地区へ移動しますか？"
+                                "Would you like to move to the Dinos district?"
                             ]
                         },
                         {
@@ -11988,8 +11988,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13156,7 +13156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイノス地区へ移動しますか？"
+                                "Would you like to move to the Dinos district?"
                             ]
                         },
                         {
@@ -13164,8 +13164,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13660,7 +13660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイノス地区へ移動しますか？"
+                                "Would you like to move to the Dinos district?"
                             ]
                         },
                         {
@@ -13668,8 +13668,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14283,14 +14283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦闘員が待ち構えているわ……」"
+                                "Yui: \"There are combatants lying in wait...\""
                             ]
                         },
                         {
@@ -14323,14 +14316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「蹴散らしていくしかなさそうね」"
+                                "Yui: \"It looks like we'll have to fight our way through.\""
                             ]
                         },
                         {
@@ -22451,7 +22437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "You've obtained the 【\\i[94]Training Tome】!"
                             ]
                         },
                         {
@@ -22690,7 +22676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[148]わた飴】を手に入れた！"
+                                "I've obtained a 【\\i[148]Cotton Candy】!"
                             ]
                         },
                         {
@@ -22937,7 +22923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[234]リアルゴールドン】を手に入れた！"
+                                "I've obtained the 【\\i[234]Real Goldon】!"
                             ]
                         },
                         {
@@ -23184,7 +23170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[231]大岩井のグレープ】を手に入れた！"
+                                "I've obtained the 【\\i[231]Oiwai's Grape】!"
                             ]
                         },
                         {

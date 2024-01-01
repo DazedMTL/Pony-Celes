@@ -15478,14 +15478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、ポルカったら！」"
+                                "Yui: \"Geez, Polka, really!\""
                             ]
                         },
                         {
@@ -15502,14 +15495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな大事な時に！」"
+                                "Yui: \"At such a critical time!\""
                             ]
                         },
                         {
@@ -15560,14 +15546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ないよ。これからはしばらくは僕ら二人でザイダーグと戦おう」"
+                                "Ginga: \"It can't be helped. For now, let's you and I fight Zaidar-G\ntogether.\""
                             ]
                         },
                         {
@@ -15584,14 +15563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん……」"
+                                "Yui: \"Yeah...\""
                             ]
                         },
                         {
@@ -15624,14 +15596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga、本当にありがとね」"
+                                "Yui: \"Ginga, thank you so much.\""
                             ]
                         },
                         {
@@ -15671,14 +15636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日ね、私……ザイダーグにやられちゃうって思ったの」"
+                                "Yui: \"Today, I thought... I was going to be done for by Zaidar-G.\""
                             ]
                         },
                         {
@@ -15711,14 +15669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、Gingaの事思ったら体中から力が溢れ出してきて」"
+                                "Yui: \"But when I thought of you, Ginga, strength just started flowing\nout from all over my body.\""
                             ]
                         },
                         {
@@ -15751,14 +15702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポルカが言ってた事、覚えてる？」"
+                                "Yui: \"Do you remember what Polka said?\""
                             ]
                         },
                         {
@@ -15775,14 +15719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聖なる力の源、それは愛か……」"
+                                "Ginga: \"The source of the sacred power, is it love...?\""
                             ]
                         },
                         {
@@ -15799,14 +15736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん……」"
+                                "Yui: \"Yes...\""
                             ]
                         },
                         {
@@ -15823,14 +15753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聖なる力の源、それは愛」"
+                                "Yui: \"The source of the sacred power, it's love.\""
                             ]
                         },
                         {
@@ -15929,14 +15852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ……」"
+                                "Ginga: \"Yui...\""
                             ]
                         },
                         {
@@ -15953,14 +15869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga……」"
+                                "Yui: \"Ginga...\""
                             ]
                         },
                         {
@@ -16475,7 +16384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚にびっしりと書籍が並べられている。"
+                                "The bookshelf is packed tight with books."
                             ]
                         },
                         {
@@ -16552,7 +16461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚にびっしりと書籍が並べられている。"
+                                "The bookshelf is packed tight with books."
                             ]
                         },
                         {

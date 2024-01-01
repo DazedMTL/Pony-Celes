@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "食肉運搬用中央通路",
+    "displayName": "Central Passage for Meat Transport",
     "encounterList": [],
     "encounterStep": 1,
     "height": 50,
@@ -16307,7 +16307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこからか不気味な声が聞こえてくる。"
+                                "A creepy voice can be heard from somewhere."
                             ]
                         },
                         {
@@ -16358,14 +16358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「匂うダス、匂うダス！！」"
+                                "???: \"I smell it, I smell it!!\""
                             ]
                         },
                         {
@@ -16382,14 +16375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とんでもなく美味しそうな女が我がアジトに迷い込んでるダスね」"
+                                "???: \"An incredibly delicious-looking woman has wandered into my\nlair.\""
                             ]
                         },
                         {
@@ -16406,14 +16392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前一体……何者ダス？」"
+                                "???: \"Who the hell are you...?\""
                             ]
                         },
                         {
@@ -16579,14 +16558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（声が壁から聞こえてくるわ……）"
+                                "Pony-Ceres (The voice is coming from behind the wall...)"
                             ]
                         },
                         {
@@ -16610,14 +16582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたこそ一体誰なの！？」"
+                                "Pony-Ceres: \"Who are you, exactly!?\""
                             ]
                         },
                         {
@@ -16641,14 +16606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の名前ダスか……」"
+                                "???: \"My name, you ask...?\""
                             ]
                         },
                         {
@@ -16665,14 +16623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺はザイダーグの怪人イートダーグ、このアジトの主ダス」"
+                                "Eat-Dagger: \"I am Eat-Dagger, a monster of Zydag, and the master of\nthis lair.\""
                             ]
                         },
                         {
@@ -16705,14 +16656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの怪人！」"
+                                "Pony-Ceres: \"A monster of Zydag!\""
                             ]
                         },
                         {
@@ -16736,14 +16680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スパイダーグの次はあなたってわけね！」"
+                                "Pony-Ceres: \"So after Spider-Dag, it's you!\""
                             ]
                         },
                         {
@@ -16767,21 +16704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はポニーセレス！ イートダーグとか言ったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたの悪事もこれまでよ！」"
+                                "Pony-Ceres: \"I am Pony-Ceres! You said Eat-Dagger, right? Your evil\ndeeds end here!\""
                             ]
                         },
                         {
@@ -16805,21 +16728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんと、なんと！ \\|お前が噂のポニーセレス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　スパイダーグに勝ったというあの小娘ダスか」"
+                                "Eat-Dagger: \"What, what! You're the rumored Pony-Ceres! The little\ngirl who defeated Spider-Dag?\""
                             ]
                         },
                         {
@@ -16836,14 +16745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「道理で美味しい匂いを撒き散らせているわけダスね」"
+                                "Eat-Dagger: \"No wonder you're spreading such a delicious scent.\""
                             ]
                         },
                         {
@@ -16860,14 +16762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グヘヘヘ、こうなれば貯蔵庫のデザートは後回しダス」"
+                                "Eat-Dagger: \"Guhahaha, in that case, the dessert in the storage can\nwait.\""
                             ]
                         },
                         {
@@ -16884,14 +16779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「メインディッシュをもう一皿頂くとするダス！」"
+                                "Eat-Dagger: \"I shall have another main dish!\""
                             ]
                         },
                         {
@@ -16922,14 +16810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「メインディッシュ……？」"
+                                "Pony-Ceres: \"Main dish...?\""
                             ]
                         },
                         {
@@ -16953,14 +16834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうダス！ 最高の御馳走ダス！」"
+                                "Eat-Dagger: \"Yes! The finest feast!\""
                             ]
                         },
                         {
@@ -16977,21 +16851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、俺はこの先の部屋でお前を待っているダス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く来るダス！」"
+                                "Eat-Dagger: \"Now, I will be waiting for you in the room ahead. Come\nquickly!\""
                             ]
                         },
                         {
@@ -17022,14 +16882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「言われなくてもそうするわ。そこで覚悟して待ってなさい！」"
+                                "Pony-Ceres: \"I was going to do that even without you telling me.\nPrepare yourself and wait!\""
                             ]
                         },
                         {
@@ -17053,21 +16906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「威勢の良い獲物ダスね。これは楽しみが増えたダス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　グヘヘヘヘヘヘッ」"
+                                "Eat-Dagger: \"Such a spirited prey. This just got more exciting.\nGuhahahahaha!\""
                             ]
                         },
                         {
@@ -19107,7 +18946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Acquired the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {

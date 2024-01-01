@@ -12484,7 +12484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は両親の寝室だ。勝手に入るのは止めておこう。"
+                                "The room ahead is my parents' bedroom. I should refrain from entering\nwithout permission."
                             ]
                         },
                         {
@@ -13019,7 +13019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数日後――"
+                                "Several days later--"
                             ]
                         },
                         {
@@ -13170,14 +13170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「るんる～ん。今日は何作ろうかな～♪」"
+                                "Yui: \"Lalala~ What should I make today?♪\""
                             ]
                         },
                         {
@@ -13250,14 +13243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ？ 冷蔵庫が空っぽだわ……」"
+                                "Yui: \"Huh? The fridge is empty...\""
                             ]
                         },
                         {
@@ -13274,14 +13260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんなに材料買ってたのに……」"
+                                "Yui: \"But I bought so many ingredients...\""
                             ]
                         },
                         {
@@ -13657,14 +13636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんね。夕飯の当番だったのに冷蔵庫に何も無くてさ……」"
+                                "Yui: \"I'm sorry. It was my turn to make dinner, but there's nothing in\nthe fridge...\""
                             ]
                         },
                         {
@@ -13724,21 +13696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……！！ あっ、ごめんごめん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユイがダイエット中だっていうからボクが食べておいたんだ」"
+                                "Ginga: \"...!! Ah, sorry, sorry! I heard Yui was on a diet, so I ate it\nall.\""
                             ]
                         },
                         {
@@ -13771,21 +13729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、あれだけの量を？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつからそんなに大食いになったのよ？」"
+                                "Yui: \"All of that? Since when did you start eating so much?\""
                             ]
                         },
                         {
@@ -13811,14 +13755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -13835,14 +13772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、それよりさ。明日のプール楽しみだね！」"
+                                "Ginga: \"Oh, but more importantly. Looking forward to the pool\ntomorrow!\""
                             ]
                         },
                         {
@@ -13884,21 +13814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！ この日のためにダイエットも頑張ったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　新しい水着も買ったんだ～♪」"
+                                "Yui: \"Yeah! I've been working hard on my diet for this day, and I even\nbought a new swimsuit~♪\""
                             ]
                         },
                         {
@@ -13915,14 +13831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、これ！」"
+                                "Yui: \"Look, this one!\""
                             ]
                         },
                         {
@@ -13980,14 +13889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どう……かな？」"
+                                "Yui: \"How is it...?\""
                             ]
                         },
                         {
@@ -14004,14 +13906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいじゃん。可愛いよその水着！」"
+                                "Ginga: \"It's nice. That swimsuit is cute!\""
                             ]
                         },
                         {
@@ -14028,14 +13923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかな、そうかな！」"
+                                "Yui: \"Really? Do you think so?\""
                             ]
                         },
                         {
@@ -14052,14 +13940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「似合うかな～？」"
+                                "Yui: \"Does it suit me~?\""
                             ]
                         },
                         {
@@ -14076,14 +13957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、絶対ユイに似合うよ！」"
+                                "Ginga: \"Yeah, it definitely suits you, Yui!\""
                             ]
                         },
                         {
@@ -14116,14 +13990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんと！？」"
+                                "Yui: \"Really!?\""
                             ]
                         },
                         {
@@ -14140,14 +14007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピンクにして良かった！」"
+                                "Yui: \"I'm glad I chose pink!\""
                             ]
                         },
                         {
@@ -14196,14 +14056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「明日、学校終わったら一番のりで行こうね」"
+                                "Yui: \"Let's be the first ones there after school ends tomorrow!\""
                             ]
                         },
                         {
@@ -14220,14 +14073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんかちょっとデートみたい！ ワクワク、ワクワク♪」"
+                                "Yui: \"It feels a bit like a date! I'm so excited, so excited♪\""
                             ]
                         },
                         {
@@ -14253,14 +14099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\"みたい\"じゃないよ。デートだよ……」"
+                                "Ginga: \"It's not 'like' a date. It is a date...\""
                             ]
                         },
                         {
@@ -14329,14 +14168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"Eh!? Really?\""
                             ]
                         },
                         {
@@ -14369,14 +14201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「デート……？」"
+                                "Yui: \"A date...?\""
                             ]
                         },
                         {
@@ -14416,14 +14241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよね！ これってデートだよね！」"
+                                "Yui: \"That's right! This is a date, isn't it!\""
                             ]
                         },
                         {
@@ -14440,14 +14258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "Ginga: \"Yeah!\""
                             ]
                         },
                         {
@@ -14496,21 +14307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、夕飯！ コンビニで買ってくるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　冷蔵庫空っぽにしちゃったし今日は僕のおごりで」"
+                                "Ginga: \"Ah, dinner! I'll go buy something from the convenience store.\nSince I emptied the fridge, today's on me.\""
                             ]
                         },
                         {
@@ -14894,14 +14691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaとプールデートかぁ。嬉しいなぁ♪」"
+                                "Yui: \"A pool date with Ginga, huh? I'm so happy♪\""
                             ]
                         },
                         {
@@ -14918,14 +14708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして……キスなんかしちゃったり！？」"
+                                "Yui: \"Maybe... we'll even kiss!?\""
                             ]
                         },
                         {

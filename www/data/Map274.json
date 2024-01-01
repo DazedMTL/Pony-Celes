@@ -15541,7 +15541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１号室は使用中のようだ。"
+                                "Room 1 seems to be in use."
                             ]
                         },
                         {
@@ -15832,7 +15832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３号室は使用中のようだ。"
+                                "Room 3 seems to be in use."
                             ]
                         },
                         {
@@ -15909,7 +15909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４号室は使用中のようだ。"
+                                "Room 4 seems to be in use."
                             ]
                         },
                         {
@@ -15986,14 +15986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここはお客様専用の通路だ。スタッフは通り抜け出来ないぞ」"
+                                "Bouncer: \"This is a passage exclusively for guests. Staff members\ncannot pass through here.\""
                             ]
                         },
                         {
@@ -16409,7 +16402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先輩に助言をもらってから接客した方が良さそうだ。"
+                                "It seems better to get advice from my senior before attending to\ncustomers."
                             ]
                         },
                         {
@@ -16549,7 +16542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１号室は使用中のようだ。"
+                                "Room 1 seems to be in use."
                             ]
                         },
                         {
@@ -16626,7 +16619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３号室は使用中のようだ。"
+                                "Room 3 seems to be in use."
                             ]
                         },
                         {
@@ -16703,7 +16696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４号室は使用中のようだ。"
+                                "Room 4 seems to be in use."
                             ]
                         },
                         {
@@ -16780,7 +16773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗証番号で開く扉のようだ。"
+                                "It seems to be a door that opens with a security code."
                             ]
                         },
                         {
@@ -16797,7 +16790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗証番号を入力して下さい。"
+                                "Please enter the security code."
                             ]
                         },
                         {
@@ -16845,7 +16838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "施錠が解除された。"
+                                "The lock has been released."
                             ]
                         },
                         {
@@ -16880,7 +16873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暗証番号が間違っているようだ。"
+                                "It seems the security code is incorrect."
                             ]
                         },
                         {
@@ -16940,14 +16933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この奥が怪しいのに暗証番号が分からないわ」"
+                                "Yui: \"It's suspicious beyond here, but I don't know the security\ncode.\""
                             ]
                         },
                         {
@@ -16964,14 +16950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「\\C[17]四桁の数字\\C[0]････何か思い当たる数字は無いかしら」"
+                                "Yui: \"\\C[17]A four-digit number\\C[0]... Can you think of any numbers\nthat come to mind?\""
                             ]
                         },
                         {
@@ -17492,14 +17471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は現場検証のため立ち入り禁止になっています」"
+                                "Police Officer: \"Access beyond this point is prohibited due to an\nongoing crime scene investigation.\""
                             ]
                         },
                         {
@@ -17576,14 +17548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞いたわよ、シゲキさんの接待するんだって」"
+                                "Rimi: \"I heard you're going to entertain Mr. Shigeki.\""
                             ]
                         },
                         {
@@ -17634,14 +17599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なりゆきでそうなってしまいまして♪」"
+                                "Yui: \"It just turned out that way♪\""
                             ]
                         },
                         {
@@ -17658,14 +17616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ～ん、新人のあなたがね……」"
+                                "Rimi: \"Hmm, you're a newbie, aren't you...\""
                             ]
                         },
                         {
@@ -17682,14 +17633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの人、ここの常連だから満足させるにはハードル高いわよ」"
+                                "Rimi: \"That person is a regular here, so the hurdle to satisfy him is\nquite high.\""
                             ]
                         },
                         {
@@ -17706,14 +17650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、こんなこと初めてなので助言お願していいですか？」"
+                                "Yui: \"This is my first time doing something like this, may I ask for\nyour advice?\""
                             ]
                         },
                         {
@@ -17730,14 +17667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助言ね……」"
+                                "Rimi: \"Advice, huh...\""
                             ]
                         },
                         {
@@ -17754,14 +17684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、いいわ」"
+                                "Rimi: \"Well, alright.\""
                             ]
                         },
                         {
@@ -17778,21 +17701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「接待部屋の使用料は高額だから絶対に手を抜いちゃダメよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お客様が満足するまで何度も奉仕しなさい」"
+                                "Rimi: \"The fee for using the entertainment room is expensive, so you\nabsolutely must not cut corners. Serve the customer until they are\nsatisfied, no matter how many times it takes.\""
                             ]
                         },
                         {
@@ -17809,21 +17718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに新人だからって、たどたどしい言葉使いはダメよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここに呼ばれたからにはプロ意識をもちなさい」"
+                                "Rimi: \"And just because you're a newbie, don't use hesitant language.\nYou've been called here, so have a professional mindset.\""
                             ]
                         },
                         {
@@ -17840,14 +17735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客様の要望を汲み取って自ら進んで奉仕してあげる事ね」"
+                                "Rimi: \"Anticipate the customer's desires and serve them proactively.\""
                             ]
                         },
                         {
@@ -17864,14 +17752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「優しく包み込むように、時には乱暴に激しくね」"
+                                "Rimi: \"Envelop them gently, and sometimes fiercely and roughly.\""
                             ]
                         },
                         {
@@ -17888,21 +17769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、お客様は舌が肥えてるから新人のあなたが満足させられるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思えな――」"
+                                "Rimi: \"Well, the customer has a discerning taste, so I doubt a newbie\nlike you can satisfy him--\""
                             ]
                         },
                         {
@@ -17928,21 +17795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……今気づいてたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなた、良いオッパイしてるじゃない！」"
+                                "Rimi: \"...I just realized. You have nice breasts, don't you!\""
                             ]
                         },
                         {
@@ -17959,14 +17812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへっ、オッパイの大きさだけは大きいんです」"
+                                "Yui: \"Eheh, my breasts are the only thing that's big.\""
                             ]
                         },
                         {
@@ -17983,14 +17829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ～ん、シゲキさんが目を付けたのも分かる気がするわ」"
+                                "Rimi: \"Hmm, I can see why Mr. Shigeki took an interest in you.\""
                             ]
                         },
                         {
@@ -18007,21 +17846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、とにかく。あなたには魅力があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自信をもってやることが一番ね」"
+                                "Rimi: \"Well, anyway. You do have charm. Doing it with confidence is\nthe most important thing.\""
                             ]
                         },
                         {
@@ -18038,14 +17863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自信を持ってですね。わかりました！」"
+                                "Yui: \"With confidence, right? I understand!\""
                             ]
                         },
                         {
@@ -18148,21 +17966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、とにかく。あなたには魅力があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自信をもってやることが一番ね」"
+                                "Rimi: \"Well, anyway. You have charm. Doing things with confidence is\nthe best.\""
                             ]
                         },
                         {
@@ -18341,14 +18145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は現場検証のため立ち入り禁止になっています」"
+                                "Police Officer: \"Access beyond this point is prohibited due to an\nongoing crime scene investigation.\""
                             ]
                         },
                         {
@@ -18476,14 +18273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は現場検証のため立ち入り禁止になっています」"
+                                "Police Officer: \"Access beyond this point is prohibited due to an\nongoing crime scene investigation.\""
                             ]
                         },
                         {
@@ -18611,14 +18401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は現場検証のため立ち入り禁止になっています」"
+                                "Police Officer: \"This area is off-limits due to an ongoing\ninvestigation.\""
                             ]
                         },
                         {
@@ -18704,7 +18487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＶＩＰ客に対する接し方が長々と書かれている。"
+                                "The instructions on how to deal with VIP customers are written at\nlength."
                             ]
                         },
                         {
@@ -18842,14 +18625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は現場検証のため立ち入り禁止になっています」"
+                                "Police Officer: \"This area is off-limits due to an ongoing\ninvestigation.\""
                             ]
                         },
                         {
@@ -18935,7 +18711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＶＩＰ客に対する接し方が長々と書かれている。"
+                                "The instructions on how to deal with VIP customers are written at\nlength."
                             ]
                         },
                         {

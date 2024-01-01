@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ザイダーグ本拠地南区画",
+    "displayName": "Zaidarg Headquarters South Block",
     "encounterList": [],
     "encounterStep": 30,
     "height": 72,
@@ -35631,7 +35631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通気口がある。"
+                                "There's a vent."
                             ]
                         },
                         {
@@ -35648,7 +35648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通気口を空けますか？"
+                                "Should I open the vent?"
                             ]
                         },
                         {
@@ -35656,8 +35656,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -36421,7 +36421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[219]神秘の耳飾り】を手に入れた！"
+                                "Acquired the 【\\i[219]Mysterious Earrings】!"
                             ]
                         },
                         {
@@ -37353,7 +37353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "12000\\G 手に入れた！"
+                                "Obtained 12000\\G!"
                             ]
                         },
                         {
@@ -38286,7 +38286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]不屈の書】を手に入れた！"
+                                "Obtained the 【\\i[92]Indomitable Tome】!"
                             ]
                         },
                         {
@@ -38533,7 +38533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "【\\i[92]Sacred Heart Book】has been obtained!"
                             ]
                         },
                         {
@@ -39123,7 +39123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "I've obtained the 【\\i[94]Training Tome】!"
                             ]
                         },
                         {
@@ -39370,7 +39370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[295]四ツ谷サイダー】を手に入れた！"
+                                "I've obtained the 【\\i[295]Yotsuya Cider】!"
                             ]
                         },
                         {
@@ -39960,7 +39960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[159]特製あんまん】を手に入れた！"
+                                "I've obtained the 【Special Anman】!"
                             ]
                         },
                         {

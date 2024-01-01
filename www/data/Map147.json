@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宝来神社",
+    "displayName": "Hourai Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -3583,7 +3583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "神社の裏口の方で何か物音がした。"
+                                "I heard some noises coming from the back entrance of the shrine."
                             ]
                         },
                         {
@@ -3760,14 +3760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ？ お賽銭箱が無いわ……」"
+                                "Yui: \"Huh? The offering box is missing...\""
                             ]
                         },
                         {
@@ -3844,7 +3837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タコらしき奇妙な像が置かれている。"
+                                "A strange statue resembling an octopus is placed here."
                             ]
                         },
                         {
@@ -4137,14 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この宝来神社は安産祈願の神社なんだ」"
+                                "Daisuke: \"This Houkai Shrine is known for prayers for safe\nchildbirth.\""
                             ]
                         },
                         {
@@ -4161,21 +4147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鳥居のシンボルにタコが描かれていたり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　タコの像が祭られいるのがその証さ」"
+                                "Daisuke: \"The fact that octopuses are drawn on the torii gate symbols\nand there are statues of octopuses enshrined here is proof of that.\""
                             ]
                         },
                         {
@@ -4235,21 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、タコですか……どうしてタコが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　タコに安産……全く関係ないような……」"
+                                "Yui: \"Eh, octopuses? Why octopuses? Octopuses and safe childbirth...\nthey seem totally unrelated...\""
                             ]
                         },
                         {
@@ -4266,21 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、たしかになぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう言われると不思議だな……」"
+                                "Daisuke: \"Hmm, indeed. When you put it that way, it does seem\nstrange...\""
                             ]
                         },
                         {
@@ -4297,14 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、小さい事は気にしないでおこう」"
+                                "Daisuke: \"Well, let's not sweat the small stuff.\""
                             ]
                         },
                         {
@@ -4438,7 +4375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タコらしき奇妙な像が置かれている。"
+                                "A strange statue resembling an octopus is placed here."
                             ]
                         },
                         {
@@ -4515,7 +4452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タコらしき奇妙な像が置かれている。"
+                                "A strange statue resembling an octopus is placed here."
                             ]
                         },
                         {
@@ -4592,7 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タコらしき奇妙な像が置かれている。"
+                                "A strange statue resembling an octopus is placed here."
                             ]
                         },
                         {
@@ -4669,7 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タコらしき奇妙な像が置かれている。"
+                                "A strange statue resembling an octopus is placed here."
                             ]
                         },
                         {
@@ -4828,14 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気のせいかしら。タコの像が私を見つめたような……」"
+                                "Yui: \"Is it just my imagination? It felt like the octopus statue was\nstaring at me...\""
                             ]
                         },
                         {
@@ -4852,14 +4782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タコが苦手過ぎて頭がおかしくなってるんだわ」"
+                                "Yui: \"I must be losing my mind because I dislike octopuses too much.\""
                             ]
                         },
                         {
@@ -5012,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タコらしき奇妙な像が置かれている。"
+                                "A strange statue resembling an octopus is placed here."
                             ]
                         },
                         {
@@ -5089,7 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神社の裏手に扉を発見した！"
+                                "I've discovered a door behind the shrine!"
                             ]
                         },
                         {
@@ -5106,7 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの仕掛けで開く扉のようだ。"
+                                "It seems to be a door that opens with some sort of mechanism."
                             ]
                         },
                         {
@@ -5265,7 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神社の裏口の方で何か物音がした。"
+                                "I heard some noise coming from the back entrance of the shrine."
                             ]
                         },
                         {
@@ -5387,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「裏口の扉が開いてるわ」"
+                                "Yui: \"The back door is open.\""
                             ]
                         },
                         {
@@ -5411,14 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから中に入れそうね」"
+                                "Yui: \"It looks like we can get in from here.\""
                             ]
                         },
                         {
@@ -5554,14 +5463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この神社は安産祈願の神社と言われているがそれは大間違いだ」"
+                                "Jirou: \"This shrine is said to be for prayers for safe childbirth, but\nthat's a big mistake.\""
                             ]
                         },
                         {
@@ -5578,14 +5480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ安産祈願などという噂が広まったのか……」"
+                                "Jirou: \"I wonder why rumors of it being a shrine for safe childbirth\nspread...\""
                             ]
                         },
                         {
@@ -5602,14 +5497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この神社は大昔に邪悪な大蛸を封じた由緒ある神社なのだよ」"
+                                "Jirou: \"This shrine is actually a historic one that sealed away an\nevil giant octopus long ago.\""
                             ]
                         },
                         {
@@ -5626,14 +5514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「神社のどこかに大蛸を封じた宝が眠っているかもね」"
+                                "Jirou: \"There might be a treasure somewhere in the shrine that was\nused to seal the giant octopus.\""
                             ]
                         },
                         {
@@ -5742,14 +5623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メグミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっき\\C[17]タコの像\\C[0]が少し動いたような気がしたの」"
+                                "Megumi: \"I thought the \\C[17]octopus statue\\C[0] moved a little\nearlier.\""
                             ]
                         },
                         {
@@ -5766,21 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メグミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安産祈願とはいえ気味悪いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹の赤ちゃん怖がってないかしら……」"
+                                "Megumi: \"Even if it's for an easy childbirth, it's creepy. I wonder if\nthe baby in my belly is scared...\""
                             ]
                         },
                         {
@@ -5880,14 +5740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メグミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知らない内にタコの像が１体少なくなってるんだけど……」"
+                                "Megumi: \"I didn't notice until now, but there's one less octopus\nstatue...\""
                             ]
                         },
                         {
@@ -5904,21 +5757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メグミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安産祈願とはいえ気味悪いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹の赤ちゃん怖がってないかしら……」"
+                                "Megumi: \"It's supposed to be for an easy childbirth, but it's creepy.\nI wonder if the baby in my belly is scared...\""
                             ]
                         },
                         {
@@ -6039,7 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {

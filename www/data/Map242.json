@@ -37532,14 +37532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ、なんだ？ 今の光は？」"
+                                "Man: \"What's that? What was that light just now?\""
                             ]
                         },
                         {
@@ -37603,14 +37596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ、あれを見て！ \\|何かいるわ！」"
+                                "Woman: \"Hey, look at that! There's something there!\""
                             ]
                         },
                         {
@@ -39641,7 +39627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく聞くがいい、愚かな人間、愚民共よ……"
+                                "Listen well, foolish humans, you ignorant masses..."
                             ]
                         },
                         {
@@ -39658,7 +39644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "余はザイダーグの君主、ダーグノアである。"
+                                "I am the ruler of Zaida-G, Dagna."
                             ]
                         },
                         {
@@ -39675,7 +39661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これより数日でこの日本は余の支配下となる。"
+                                "In a few days, Japan will be under my dominion."
                             ]
                         },
                         {
@@ -39692,7 +39678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死にたくなければザイダーグに忠誠を誓うのだ。"
+                                "If you don't want to die, swear fealty to Zaida-G."
                             ]
                         },
                         {
@@ -39718,14 +39704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「馬鹿を言うな！ 誰がザイダーグの言う事なんか聞くか！」"
+                                "Man: \"Don't be ridiculous! Who would listen to anything Zaida-G has to\nsay!\""
                             ]
                         },
                         {
@@ -39751,21 +39730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうよ、そうよ！ 街の中に堂々と現れるなんて、すぐポニーセレスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　駆けつけてあなたなんか倒しちゃうんだから！」"
+                                "Woman: \"That's right, that's right! To show up so boldly in the middle\nof town, Pony-Ceres will come rushing in and take you down in no\ntime!\""
                             ]
                         },
                         {
@@ -39789,7 +39754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふははははははははっ！！！"
+                                "Mwahahaha! Laughable!"
                             ]
                         },
                         {
@@ -39813,14 +39778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何がおかしい？ 気でも狂ったかザイダーグ！」"
+                                "Man: \"What's so funny? Have you lost your mind, Zaida-G?\""
                             ]
                         },
                         {
@@ -39837,7 +39795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスか、そうか……"
+                                "Pony-Ceres, is it... I see..."
                             ]
                         },
                         {
@@ -39854,7 +39812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前らが期待しているポニーセレスとはこいつの事か？"
+                                "Is this the Pony-Ceres you all have been waiting for?"
                             ]
                         },
                         {
@@ -40010,21 +39968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ、なにあれ……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしてあれってポニーセレス？」"
+                                "Woman: \"Wha-, what's that... Could that be Pony-Ceres?\""
                             ]
                         },
                         {
@@ -40041,21 +39985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポ、ポニーセレスがあいつの体の中に！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一体どうなっているんだ……」"
+                                "Man: \"Po-, Pony-Ceres inside that person's body!? What on earth is\nhappening...\""
                             ]
                         },
                         {
@@ -40072,14 +40002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふはははははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目に焼き付けよ、ポニーセレスの最後を！"
+                                "Mwahahaha! Behold the end of Pony-Ceres!"
                             ]
                         },
                         {
@@ -40896,7 +40819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -40904,8 +40827,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -41176,7 +41099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間近で見ておくがいい。哀れなポニーセレスの姿を。"
+                                "Take a good look up close. The pitiful sight of Pony-Celeste."
                             ]
                         },
                         {
@@ -41683,14 +41606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこに朽ち果てているポニーセレスのようになりたくなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ザイダーグに忠誠を誓うのだ。"
+                                "If you don't want to end up like the decayed Pony-Celeste there, swear\nyour loyalty to Zaidar-G."
                             ]
                         },
                         {
@@ -41707,7 +41623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "審判は一週間後。その日までに覚悟を決める事だな。"
+                                "The judgment is in one week. You'd better be prepared by that day."
                             ]
                         },
                         {
@@ -41798,14 +41714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな。ポニーセレスがこんな姿に……」"
+                                "Woman: \"No way. To think Pony-Celeste has been reduced to this...\""
                             ]
                         },
                         {
@@ -41822,21 +41731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう何もかも終わりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　日本はザイダーグに支配されてしまう……」"
+                                "Man: \"It's all over. Japan will be dominated by Zaidar-G...\""
                             ]
                         },
                         {
@@ -41901,7 +41796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人々の希望であったポニーセレスが敗北してから数日。"
+                                "It's been a few days since Pony-Celeste, the people's hope, was\ndefeated."
                             ]
                         },
                         {
@@ -41918,14 +41813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街の人達は処刑されるのを恐れ、ザイダーグに忠誠を誓い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘員へと志願する者が後を絶たなかった。"
+                                "The townspeople, fearing execution, pledged their loyalty to Zaidar-G\nand the number of those volunteering to become combatants never\nceased."
                             ]
                         },
                         {
@@ -41961,7 +41849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでの記録をセーブしますか？"
+                                "Would you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -41969,8 +41857,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -43428,7 +43316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ふれあい公園"
+                                "Interaction Park"
                             ]
                         },
                         {
@@ -43817,7 +43705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -43825,8 +43713,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

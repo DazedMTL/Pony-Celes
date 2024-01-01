@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "５０１号室",
+    "displayName": "Room 501",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -10082,7 +10082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {

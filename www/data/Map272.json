@@ -19579,21 +19579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はどれ飲もうかな～。うーん、まずはやっぱりビールかな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いやいや、シャンパンいくか！」"
+                                "ワタル: \"What should I drink today~? Hmm, maybe I should start with a\nbeer... No, no, maybe I'll go for champagne!\""
                             ]
                         },
                         {
@@ -19695,14 +19681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お待たせしました。こちらをどうぞ～」"
+                                "Yui: \"Thank you for waiting. Here you go~\""
                             ]
                         },
                         {
@@ -19731,7 +19710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはお酒を渡した。"
+                                "Yui handed over the alcohol."
                             ]
                         },
                         {
@@ -19782,14 +19761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、来たね！シャンパンありがとう！」"
+                                "Wataru: \"Oh, it's here! Thanks for the champagne!\""
                             ]
                         },
                         {
@@ -19806,14 +19778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャンパンはね、マミコちゃんが大好きでよく僕にねだるんだ」"
+                                "Wataru: \"You see, Mamiko-chan loves champagne and often begs me for\nit.\""
                             ]
                         },
                         {
@@ -19837,14 +19802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういや……」"
+                                "Wataru: \"By the way...\""
                             ]
                         },
                         {
@@ -19861,14 +19819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はマミコちゃんいないのかな？」"
+                                "Wataru: \"Is Mamiko-chan not here today?\""
                             ]
                         },
                         {
@@ -19885,14 +19836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの子に接客されるとお酒が美味しいんだよね～」"
+                                "Wataru: \"The alcohol tastes better when she's serving, you know~\""
                             ]
                         },
                         {
@@ -19967,21 +19911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと～、ワタルさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私がお相手してるのにマミコの事なんてどうでもいいでしょ～！」"
+                                "Kurumi: \"Hey~ Wataru-san! I'm the one keeping you company, so who\ncares about Mamiko right now~!\""
                             ]
                         },
                         {
@@ -20029,14 +19959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、悲しくなって泣いちゃうかも……」"
+                                "Kurumi: \"I might get so sad that I'll start crying...\""
                             ]
                         },
                         {
@@ -20062,14 +19985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご、ごめんよクルミちゃ～ん」"
+                                "Wataru: \"So, sorry Kurumi-chan\""
                             ]
                         },
                         {
@@ -20086,14 +20002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君も可愛いよ！ ほら、ワインも一本空けちゃおう！」"
+                                "Wataru: \"You're cute too! Look, let's finish off a bottle of wine!\""
                             ]
                         },
                         {
@@ -20110,14 +20019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、ほんと、嬉しい～！ 大好きワタルさん！」"
+                                "Kurumi: \"Eh, really? I'm so happy~! I love you Wataru-san!\""
                             ]
                         },
                         {
@@ -20157,14 +20059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！ 追加でワインですね。こちらをどうぞ！」"
+                                "Yui: \"Thank you very much! Another wine, is it? Here you go!\""
                             ]
                         },
                         {
@@ -20224,7 +20119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはワインを渡した。"
+                                "Yui handed over the wine."
                             ]
                         },
                         {
@@ -20275,14 +20170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワインも用意していたの？」"
+                                "Wataru: \"You had wine prepared too?\""
                             ]
                         },
                         {
@@ -20299,14 +20187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「飲まれるかなと思って念のために用意しておりました」"
+                                "Yui: \"I thought you might drink it, so I prepared it just in case.\""
                             ]
                         },
                         {
@@ -20323,14 +20204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～、ずいぶん気が利くね」"
+                                "Wataru: \"Wow, you're quite attentive, aren't you?\""
                             ]
                         },
                         {
@@ -20347,14 +20221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワタル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはチップだ。とっておいて！」"
+                                "Wataru: \"This is a tip. Keep it!\""
                             ]
                         },
                         {
@@ -20422,7 +20289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイの胸にお札が入れられた。"
+                                "A bill was slipped into Yui's chest."
                             ]
                         },
                         {
@@ -20439,14 +20306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！」"
+                                "Yui: \"Thank you very much!\""
                             ]
                         },
                         {
@@ -20463,14 +20323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「未来が有望な兎ちゃんだね！ 今度来店した時は指名させてもらうよ」"
+                                "Hajime: \"You're a promising bunny girl! I'll make sure to request you\nnext time I come in.\""
                             ]
                         },
                         {
@@ -20487,14 +20340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「是非。楽しみにお待ちしておりますね！」"
+                                "Yui: \"By all means. I'm looking forward to it!\""
                             ]
                         },
                         {
@@ -20668,7 +20514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "5000\\G 手に入れた！"
+                                "Acquired 5000\\G!"
                             ]
                         },
                         {
@@ -20754,14 +20600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「未来が有望な兎ちゃんだね！ 今度来店した時は指名させてもらうよ」"
+                                "Hajime: \"You're a bunny with a promising future! Next time I come in,\nI'll make sure to request you.\""
                             ]
                         },
                         {
@@ -20929,14 +20768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は接客中よ。話しかけないで！」"
+                                "Kurumi: \"I'm attending to customers right now. Don't talk to me!\""
                             ]
                         },
                         {
@@ -21229,7 +21061,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -21264,7 +21096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっている。"
+                                "The lock is engaged from the other side."
                             ]
                         },
                         {
@@ -21544,14 +21376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が店長からスカウトされた新人か……」"
+                                "Man in Black: \"So you're the new recruit scouted by the manager...\""
                             ]
                         },
                         {
@@ -21568,14 +21393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら、さっさと着替えて仕事の説明を聞いてくれ」"
+                                "Man in Black: \"Then hurry up and change so I can explain your job.\""
                             ]
                         },
                         {
@@ -21643,14 +21461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が店長からスカウトされた新人か……」"
+                                "Man in Black: \"So you're the new recruit scouted by the manager...\""
                             ]
                         },
                         {
@@ -21718,21 +21529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「店長は君が一番の稼ぎ頭になると言ってた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　期待を裏切らないように頑張ってくれ！」"
+                                "Man in Black: \"The manager said you're going to be our top earner.\nMake sure you don't let us down and do your best!\""
                             ]
                         },
                         {
@@ -21860,21 +21657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これからＶＩＰルームを掃除しなきゃならねーんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　新人の相手してる暇はない」"
+                                "Man in Black: \"I have to clean the VIP room now. I don't have time to\ndeal with the newbies.\""
                             ]
                         },
                         {
@@ -22233,21 +22016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日もジュリちゃんのバニーガール姿が拝めて最高だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの綺麗な足がたまんねーんだよ、ふへへへへっ」"
+                                "Man in black: \"Getting to see Juli-chan in her bunny girl outfit today\ntoo is the best. Those beautiful legs of hers are just irresistible,\nfufufufu...\""
                             ]
                         },
                         {
@@ -22273,14 +22042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っと……、いけねーいけねー」"
+                                "Man in black: \"Oops... my bad, my bad.\""
                             ]
                         },
                         {
@@ -22297,14 +22059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前新人だろ？ 更衣室ならその奥だ」"
+                                "Man in black: \"You're the newbie, right? The changing room is further\nback.\""
                             ]
                         },
                         {
@@ -22432,14 +22187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マミコの奴、手間かけさせやがって……捕まえるのに一苦労したぜ」"
+                                "Takeru: \"That Mamiko, making me go through all this trouble... It was\na real pain to catch her.\""
                             ]
                         },
                         {
@@ -22456,14 +22204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？……あっ、今のは忘れてくれ」"
+                                "Takeru: \"Hm?... Ah, forget what I just said.\""
                             ]
                         },
                         {
@@ -22591,14 +22332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっさとお酒を届けてこい。お客を待たせるんじゃない！」"
+                                "Black-suited man: \"Hurry up and deliver the drinks. Don't keep the\ncustomers waiting!\""
                             ]
                         },
                         {
@@ -22666,14 +22400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん……どうした？ 仕事の説明が分かりにくかったか？」"
+                                "Man in black: \"Hmm... What's wrong? Was the job explanation unclear?\""
                             ]
                         },
                         {
@@ -22681,8 +22408,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22712,14 +22439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちっ、仕方ねーな。もう一度説明するから良く聞いておけよ」"
+                                "Man in black: \"Tch, can't be helped. I'll explain it one more time, so\nlisten carefully.\""
                             ]
                         },
                         {
@@ -22768,14 +22488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「テーブルの横に\\C[17]ライト\\C[0]が置いてあるのが分かるか？」"
+                                "Man in black: \"Do you see the \\C[17]light\\C[0] placed next to the\ntable?\""
                             ]
                         },
                         {
@@ -23081,21 +22794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「このライトが\\C[17]青色から赤色\\c[0]に変わると、お客がお酒を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　届けて欲しい合図だ」"
+                                "Man in black: \"When this light changes from \\C[17]blue to red\\c[0],\nit's a signal that a customer wants their drink delivered.\""
                             ]
                         },
                         {
@@ -23121,14 +22820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お客を待たさないように速やかにお酒を届けるんだ」"
+                                "Man in black: \"Make sure to deliver the drinks promptly so as not to\nkeep the customers waiting.\""
                             ]
                         },
                         {
@@ -23145,14 +22837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「以上だ、簡単だろ！」"
+                                "Man in black: \"That's all, it's simple, right?\""
                             ]
                         },
                         {
@@ -23207,14 +22892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なら、こんなところで油売ってないで働け！」"
+                                "Man in black: \"Then, stop slacking off here and get to work!\""
                             ]
                         },
                         {
@@ -23352,14 +23030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンタロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これだけ通ってるんだ。そろそろ僕も秘密の部屋に案内されても……」"
+                                "Shintarou: \"I've been coming here this often. Maybe it's about time I\nget invited to the secret room too...\""
                             ]
                         },
                         {
@@ -23861,21 +23532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この忙しい日にマミコが来てないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　真面目な子だったのにどうしちゃったのかしら」"
+                                "Sae: \"Mamiko isn't here on such a busy day. She was such a serious\ngirl, I wonder what could have happened to her.\""
                             ]
                         },
                         {
@@ -23943,21 +23600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あームカつくわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クルミの奴、マミコの上客を接客してるのよ」"
+                                "Sae: \"Ugh, it's so annoying. Kurumi is servicing Mamiko's top client.\""
                             ]
                         },
                         {
@@ -23974,14 +23617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が相手しようと思ってたのに！」"
+                                "Sae: \"And I was planning to take care of him!\""
                             ]
                         },
                         {
@@ -24007,14 +23643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お酒の追加、頼むよ～！！」"
+                                "???: \"Another round of drinks, please~!!\""
                             ]
                         },
                         {
@@ -24072,14 +23701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この声、噂をすれば……クルミの客が呼んでいるわよ」"
+                                "Sae: \"That voice, speak of the devil... It's Kurumi's client calling.\""
                             ]
                         },
                         {
@@ -24155,21 +23777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この忙しい日にマミコが来てないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　真面目な子だったのにどうしちゃったのかしら」"
+                                "Sae: \"Mamiko isn't here on such a busy day. She was such a serious\ngirl, I wonder what could have happened to her.\""
                             ]
                         },
                         {
@@ -24297,14 +23905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、あなた新人？」"
+                                "Julie: \"Oh, are you the new person?\""
                             ]
                         },
                         {
@@ -24321,14 +23922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日は忙しいから大変よ。頑張ってね！」"
+                                "Julie: \"It's going to be tough today because we're busy. Do your\nbest!\""
                             ]
                         },
                         {
@@ -24419,14 +24013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「新人の仕事は閉店後にホールの掃除もあるから大変よ」"
+                                "Juli: \"Being a newbie is tough, you even have to clean the hall after\nclosing.\""
                             ]
                         },
                         {
@@ -24443,14 +24030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、そうそう」"
+                                "Juli: \"Ah, that's right.\""
                             ]
                         },
                         {
@@ -24467,21 +24047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が新人の頃、ＶＩＰルームの掃除をさせられたんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　床から隙間風が漏れていたのよね」"
+                                "Juli: \"When I was new, I had to clean the VIP room, and there was a\ndraft coming from the floor.\""
                             ]
                         },
                         {
@@ -24498,21 +24064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その事を店長に言ったらＶＩＰ部屋の掃除は黒服連中が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　する事になったの」"
+                                "Juli: \"When I told the manager about it, they decided that the guys in\nblack suits would take over cleaning the VIP room.\""
                             ]
                         },
                         {
@@ -24529,14 +24081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おーーい！！ 酒はまだか早くもってこいっ！！」"
+                                "???: \"Hey!! Where's my drink? Bring it quickly!!\""
                             ]
                         },
                         {
@@ -24578,14 +24123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「酒が足らねーぞ！ 酒がー！！」"
+                                "???: \"We're out of booze! We need more booze--!!\""
                             ]
                         },
                         {
@@ -24627,21 +24165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何してるのあなた、お客さんが怒鳴ってるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くお酒を持っていった方がいいわよ」"
+                                "Juli: \"What are you doing? The customer is shouting. You'd better\nbring the drinks quickly.\""
                             ]
                         },
                         {
@@ -24769,14 +24293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「更衣室はそこを右に曲がって突き当りの部屋だ」"
+                                "Man in black: \"The changing room is right around the corner at the end\nof the hallway.\""
                             ]
                         },
                         {
@@ -24793,14 +24310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日も一日、仕事頑張ってくれよ！」"
+                                "Man in black: \"Work hard again today, all day long!\""
                             ]
                         },
                         {
@@ -24937,14 +24447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！ 君はユイちゃんだね？」"
+                                "Man in Black: \"Oh! You must be Yui-chan, right?\""
                             ]
                         },
                         {
@@ -24992,14 +24495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Yui: \"...Yes.\""
                             ]
                         },
                         {
@@ -25016,14 +24512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「店長から聞いているよ。今日から働く期待の新人なんだって」"
+                                "Man in Black: \"I've heard from the manager. You're the promising new\nrecruit starting today.\""
                             ]
                         },
                         {
@@ -25040,14 +24529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「更衣室はそこを右に曲がって突き当りの部屋だ」"
+                                "Man in Black: \"The changing room is right down that way, turn right\nand it's the room at the end.\""
                             ]
                         },
                         {
@@ -25064,14 +24546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「初日は大変だと思うけど頑張ってくれよ」"
+                                "Man in Black: \"I know the first day can be tough, but do your best.\""
                             ]
                         },
                         {
@@ -25238,14 +24713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ まだ仕事は終わっていないよ」"
+                                "Man in Black: \"Hm? The job isn't finished yet.\""
                             ]
                         },
                         {
@@ -25413,14 +24881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい！ 接客に出るなら衣装に着替えてからだろ！」"
+                                "Man in Black: \"Hey! If you're going out to attend to customers, you\nshould change into your costume first!\""
                             ]
                         },
                         {
@@ -25496,14 +24957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさい……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -25520,14 +24974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、しっかりしてくれよ……」"
+                                "Man in Black: \"Geez, get it together...\""
                             ]
                         },
                         {
@@ -26312,14 +25759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あのクソ上司！ ムカつくぜ！」"
+                                "Shigeki: \"That damn boss! So infuriating!\""
                             ]
                         },
                         {
@@ -26336,14 +25776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺のこと無能扱いしやがって絶対にゆるせねー！」"
+                                "Shigeki: \"Treating me like I'm incompetent, I'll never forgive him!\""
                             ]
                         },
                         {
@@ -26431,14 +25864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アヤネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「落ち着いて、シゲキさん」"
+                                "Ayane: \"Calm down, Shigeki-san.\""
                             ]
                         },
                         {
@@ -26455,14 +25881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アヤネ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「酔っぱらうと暴言吐く癖は直した方がいいですよ……」"
+                                "Ayane: \"You should really work on that habit of spewing insults when\nyou're drunk...\""
                             ]
                         },
                         {
@@ -26510,14 +25929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、うるせーな。説教するなら、チェンジさせるぞ！」"
+                                "Shigeki: \"Tch, shut up. If you're going to preach, I'm changing the\nsubject!\""
                             ]
                         },
                         {
@@ -26696,14 +26108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何してんだ！ 酒持ってくるのおせーぞ！」"
+                                "Shigeki: \"What are you doing! Hurry up with the drinks!\""
                             ]
                         },
                         {
@@ -26720,14 +26125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、これだから新人は嫌いなんだよ。酒がまずくなっちま……」"
+                                "Shigeki: \"Tch, this is why I hate newbies. They make the booze taste\nbad...\""
                             ]
                         },
                         {
@@ -26787,14 +26185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ん？ お前、すげー乳してるな！」"
+                                "Shigeki: \"...Huh? You've got some huge tits!\""
                             ]
                         },
                         {
@@ -26811,14 +26202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客様である俺の機嫌を損ねた罰だ、ちょっと揉ませてみろ！」"
+                                "Shigeki: \"As a customer, it's your punishment for souring my mood. Let\nme feel them a bit!\""
                             ]
                         },
                         {
@@ -26869,14 +26253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！ そ、それは困ります……」"
+                                "Yui: \"Eh! That's... I'm in trouble...\""
                             ]
                         },
                         {
@@ -26893,14 +26270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだなんだ？ お客様に逆らうのか！？」"
+                                "Shigeki: \"What's that? Are you defying a customer?!\""
                             ]
                         },
                         {
@@ -26917,14 +26287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいから、揉ませろ！」"
+                                "Shigeki: \"Just let me do it!\""
                             ]
                         },
                         {
@@ -26995,14 +26358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？\\| きゃああああぁぁぁぁーーーーっ！！！」"
+                                "Yui: \"Eh!? Kyaaaahhhhh!!!\""
                             ]
                         },
                         {
@@ -27026,14 +26382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うひょー！ すげー揉み応えだな！」"
+                                "Shigeki: \"Uhyo! They've got an amazing feel to them!\""
                             ]
                         },
                         {
@@ -27050,14 +26399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マシュマロみたいに柔らかくてフワフワじゃねーか！」"
+                                "Shigeki: \"They're soft and fluffy like marshmallows, aren't they?!\""
                             ]
                         },
                         {
@@ -27128,7 +26470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[25]ユイは淫乱度が5上昇した！"
+                                "\\c[25]ui's lewdness has increased by 5!"
                             ]
                         },
                         {
@@ -27145,14 +26487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、あぁぁっ。そこダメです……」"
+                                "Yui: \"Ah, ah, that's no good there...\""
                             ]
                         },
                         {
@@ -27169,14 +26504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何言ってんだよ、こうされると気持ちいいんだろ！ ほらほら！」"
+                                "Shigeki: \"What are you saying? It feels good when I do this, right?\nCome on, come on!\""
                             ]
                         },
                         {
@@ -27207,8 +26535,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "も、もう止めて下さい",
-                                    "気持ち良くて淫らになりそうです"
+                                    "Please, please stop already",
+                                    "I feel so good I might become indecent"
                                 ],
                                 -1,
                                 -1,
@@ -27238,14 +26566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「も、もう止めてもらえませんか……あっ、あぁぁっ……」"
+                                "Yui: \"Can you please stop now... Ah, ah, ahhh...\""
                             ]
                         },
                         {
@@ -27262,14 +26583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「感じてきてるんだろ、素直になったらどうだ？」"
+                                "Shigeki: \"You're starting to feel it, aren't you? Why not just be\nhonest?\""
                             ]
                         },
                         {
@@ -27286,14 +26600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そんな事……あっ、あんっ、あぁぁぁぁっ！！」"
+                                "Yui: \"That's not it... Ah, ahn, ahhhh!!\""
                             ]
                         },
                         {
@@ -27310,14 +26617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ、いやっ。あぁぁぁぁん、そっ、そこダメです……」"
+                                "Yui: \"Ah, no. Ahhhn, that place is no good...\""
                             ]
                         },
                         {
@@ -27334,14 +26634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何言ってんだよ、こうされると気持ちいいんだろ！ ほらほら！」"
+                                "Shigeki: \"What are you saying? It feels good when I do this, right?\nCome on, come on!\""
                             ]
                         },
                         {
@@ -27385,14 +26678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ、気持ち良くて淫らにになりそうです……あっ、あぁ」"
+                                "Yui: \"Ah, it feels so good... I'm becoming lewd... Ah, ah\""
                             ]
                         },
                         {
@@ -27409,14 +26695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうだろ！ そうだろ！ うへへへっ、なかかな良い子じゃないか！」"
+                                "Shigeki: \"Right?! Right?! Uhehehe, you're such a good girl, aren't\nyou?!\""
                             ]
                         },
                         {
@@ -27433,14 +26712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「乳首を弄られるともっと気持ち良くなるんだぜ」"
+                                "Shigeki: \"When your nipples are played with, it feels even better,\ndoesn't it?\""
                             ]
                         },
                         {
@@ -27457,14 +26729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ、あっ、あぁん……だめ、力が抜けちゃう……」"
+                                "Yui: \"Ah, ah, ahhn... No, I'm losing strength...\""
                             ]
                         },
                         {
@@ -27519,7 +26784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[25]ユイは淫乱度が5上昇した！"
+                                "\\c[25]ui's lewdness has increased by 5!"
                             ]
                         },
                         {
@@ -27536,14 +26801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「だめ、そこだめ……弄られると、変に、変になっちゃう！」"
+                                "Yui: \"No, that place is no good... When it's played with, I start to\nfeel weird...\""
                             ]
                         },
                         {
@@ -27560,14 +26818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「乳首がコリコリになってきたね」"
+                                "Shigeki: \"Your nipples are getting all stiff.\""
                             ]
                         },
                         {
@@ -27610,7 +26861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[25]ユイは淫乱度が5上昇した！"
+                                "\\c[25]ui's lewdness has increased by 5!"
                             ]
                         },
                         {
@@ -27639,14 +26890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁ……はぁ……とっ、とても、気持ちいいです……」"
+                                "Yui: \"Haa... Haa... It's very... pleasurable...\""
                             ]
                         },
                         {
@@ -27663,14 +26907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ははっ、乳首こんなに弱いんだ」"
+                                "Shigeki: \"Haha, your nipples are so sensitive.\""
                             ]
                         },
                         {
@@ -27687,14 +26924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はい、乳首弱くて……弄られると変な声でちゃいます……」"
+                                "Yui: \"Yes, my nipples are sensitive... When they're played with, I\ncan't help but make strange noises...\""
                             ]
                         },
                         {
@@ -27711,14 +26941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「素直になってきたね。じゃあ、この辺で終わりだ」"
+                                "Shigeki: \"You're becoming honest. Well then, let's call it quits\nhere.\""
                             ]
                         },
                         {
@@ -27783,14 +27006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"Eh!? \""
                             ]
                         },
                         {
@@ -27823,14 +27039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「も、もう終わりですか……」"
+                                "Yui: \"Is it over already...?\""
                             ]
                         },
                         {
@@ -27881,14 +27090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……」"
+                                "Shigeki: \"Yeah...\""
                             ]
                         },
                         {
@@ -27905,14 +27107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さっきは怒ってごめんね。酔っぱらうと暴言吐ちゃうんだ」"
+                                "Shigeki: \"Sorry for getting angry earlier. I tend to say nasty things\nwhen I'm drunk.\""
                             ]
                         },
                         {
@@ -27929,14 +27124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも、君の可愛さに気付いて酔いがさめたよ」"
+                                "Shigeki: \"But I sobered up after realizing how cute you are.\""
                             ]
                         },
                         {
@@ -27953,21 +27141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そ、そうですか……それなら良かったです……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも私……体が火照って……」"
+                                "Yui: \"Is that so... That's good then... But my body is still feeling\nhot...\""
                             ]
                         },
                         {
@@ -27984,14 +27158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もっとして欲しかったな……」"
+                                "Yui: \"I wanted more...\""
                             ]
                         },
                         {
@@ -28008,14 +27175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか続きか……僕と仲良くなったら続きをしてあげてもいいよ」"
+                                "Shigeki: \"Oh, you want to continue? If we get along better, maybe I'll\ndo more for you.\""
                             ]
                         },
                         {
@@ -28032,14 +27192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「仲良く？」"
+                                "Yui: \"Get along?\""
                             ]
                         },
                         {
@@ -28056,21 +27209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうだね、その大きくて柔らかいオッパイで一発"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぬいてもらおうかな」"
+                                "Shigeki: \"Yeah, maybe I'll let you use those big, soft tits to get me\noff.\""
                             ]
                         },
                         {
@@ -28087,14 +27226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それって……」"
+                                "Yui: \"You mean...\""
                             ]
                         },
                         {
@@ -28111,14 +27243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「パイズリだよ。俺大好きなんだ」"
+                                "Shigeki: \"A titjob. I really love it.\""
                             ]
                         },
                         {
@@ -28135,14 +27260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっぱり……」"
+                                "Yui: \"I thought so...\""
                             ]
                         },
                         {
@@ -28159,14 +27277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さぁ、善は急げだ。僕について来て」"
+                                "Shigeki: \"Come on, no time like the present. Follow me.\""
                             ]
                         },
                         {
@@ -30714,14 +29825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ここから先は立ち入り禁止だ」"
+                                "Man in Black: \"This area is off-limits.\""
                             ]
                         },
                         {
@@ -30738,14 +29842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それに今は店長の友人であるイワオ様がご来店中だ」"
+                                "Man in Black: \"Besides, Mr. Iwao, a friend of the manager, is\ncurrently visiting.\""
                             ]
                         },
                         {
@@ -30762,14 +29859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「君は自分の仕事をしたまえ」"
+                                "Man in Black: \"You should do your own job.\""
                             ]
                         },
                         {
@@ -30857,14 +29947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は立ち入り禁止だ」"
+                                "The man in black: \"This area is off-limits from here on.\""
                             ]
                         },
                         {
@@ -30932,14 +30015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何している？ お前は今シゲキ様の接待中だろ」"
+                                "Man in Black: \"What are you doing? You're supposed to be entertaining\nShigeki-sama right now, aren't you?\""
                             ]
                         },
                         {
@@ -31742,7 +30818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。この先はＶＩＰルームのようだ。"
+                                "It's locked. It seems to be a VIP room beyond this point."
                             ]
                         },
                         {
@@ -32194,7 +31270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーガールの衣装に着替えますか？"
+                                "Would you like to change into the Bunny Girl outfit?"
                             ]
                         },
                         {
@@ -32202,8 +31278,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -32267,14 +31343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ちょっと恥ずかしいけど……）"
+                                "Yui: (It's a bit embarrassing but...)"
                             ]
                         },
                         {
@@ -32326,14 +31395,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（頑張らなくっちゃ！）"
+                                "Yui: (I've got to do my best!)"
                             ]
                         },
                         {
@@ -32390,14 +31452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あっ、ブラジャーは外さないとダメね……）"
+                                "Yui: (Ah, I have to take off my bra...)"
                             ]
                         },
                         {
@@ -32433,14 +31488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（網タイツなんて初めて……）"
+                                "Yui: (This is my first time wearing fishnet tights...)"
                             ]
                         },
                         {
@@ -32476,14 +31524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（最後にこの兎耳を付けてと……）"
+                                "Yui: (Finally, I put on these bunny ears...)"
                             ]
                         },
                         {
@@ -32505,14 +31546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（よし！ お着換え完了！）"
+                                "Yui: (Alright! I'm all changed!)"
                             ]
                         },
                         {
@@ -32545,14 +31579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（これよこれ！ やっぱりこの衣装可愛いわ）"
+                                "Yui: (This is it! This outfit really is cute)"
                             ]
                         },
                         {
@@ -32832,14 +31859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、なかなか似合ってるじゃねーか！」"
+                                "Man in Black: \"Oh, that suits you quite well!\""
                             ]
                         },
                         {
@@ -32856,14 +31876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、仕事の説明を受けてくれ」"
+                                "Man in Black: \"Now, please listen to the job description.\""
                             ]
                         },
                         {
@@ -33028,14 +32041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、こんな忙しい時に新人の世話か……」"
+                                "Man in black: \"Tch, I have to take care of a newbie at such a busy\ntime...\""
                             ]
                         },
                         {
@@ -33052,21 +32058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……まぁ、仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日はマミコがいなくて人手が足りてねーからな」"
+                                "Man in black: \"...Well, can't be helped. Mamiko isn't here today and\nwe're short on hands.\""
                             ]
                         },
                         {
@@ -33090,14 +32082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいか、簡単だから一回で覚えてくれよ」"
+                                "Man in black: \"Listen up, it's simple so make sure you get it the\nfirst time.\""
                             ]
                         },
                         {
@@ -33114,14 +32099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「新人の仕事はお酒をお客様に届ける仕事だ」"
+                                "Man in black: \"The newbie's job is to deliver drinks to the\ncustomers.\""
                             ]
                         },
                         {
@@ -33161,14 +32139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「テーブルの横に\\C[17]ライト\\C[0]が置いてあるのが分かるか？」"
+                                "Man in black: \"Do you see that \\C[17]light\\C[0] next to the table?\""
                             ]
                         },
                         {
@@ -33474,21 +32445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このライトが\\C[17]青色から赤色\\c[0]に変わると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お客がお酒を届けて欲しいという合図だ」"
+                                "Man in black: \"When this light changes from \\C[17]blue to red\\c[0],\nit's a signal that a customer wants their drink delivered.\""
                             ]
                         },
                         {
@@ -33514,14 +32471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょうど今、青色から赤色に変わっただろ」"
+                                "Man in black: \"Just now, it changed from blue to red, see?\""
                             ]
                         },
                         {
@@ -33538,14 +32488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客を待たさないように速やかにお酒を届けるんだ」"
+                                "Man in black: \"Make sure you deliver the drinks promptly so the\ncustomers aren't kept waiting.\""
                             ]
                         },
                         {
@@ -33562,14 +32505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「以上だ、簡単だろ」"
+                                "Man in black: \"That's all, it's easy, right?\""
                             ]
                         },
                         {
@@ -33586,14 +32522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、お客がお酒を待っているぞ。さっそく届けてこい！」"
+                                "Man in black: \"Now, the customer is waiting for their drink. Go\ndeliver it quickly!\""
                             ]
                         },
                         {
@@ -33674,14 +32603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（な～んだ。このくらいなら朝飯前ね）"
+                                "Yui: \"(Pfft, this is nothing. It's a piece of cake.)\""
                             ]
                         },
                         {
@@ -33714,14 +32636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（楽勝、楽勝～♪）"
+                                "Yui: \"(Easy peasy~♪)\""
                             ]
                         },
                         {
@@ -33981,14 +32896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お待たせしました」"
+                                "Yui: \"Sorry to keep you waiting.\""
                             ]
                         },
                         {
@@ -34021,14 +32929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こちら……えっと、\\|マッカランになります！」"
+                                "Yui: \"Here... um, this is the Macallan!\""
                             ]
                         },
                         {
@@ -34057,7 +32958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはお酒を渡した。"
+                                "Yui handed over the drink."
                             ]
                         },
                         {
@@ -34108,14 +33009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、ありがとう！ この酒は特に美味し――」"
+                                "Hajime: \"Oh, thanks! This liquor is especially delicious--\""
                             ]
                         },
                         {
@@ -34141,14 +33035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ？ 君、見かけない顔だね。新人かい？ 名前は？」"
+                                "Hajime: \"Huh? I haven't seen you around before. Are you new? What's\nyour name?\""
                             ]
                         },
                         {
@@ -34181,14 +33068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、今日からこちらで働かせてもらっています、ユイです！」"
+                                "Yui: \"Yes, I started working here today, my name is Yui!\""
                             ]
                         },
                         {
@@ -34205,14 +33085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ～ユイちゃんか、なかなか可愛いね！」"
+                                "Hajime: \"Heh~ Yui-chan, huh? You're quite cute!\""
                             ]
                         },
                         {
@@ -34229,14 +33102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君ならすぐに指名が入ると思うよ！ なんなら……」"
+                                "Hajime: \"With a face like yours, I bet you'll get nominated in no\ntime! If you ever...\""
                             ]
                         },
                         {
@@ -34300,14 +33166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらっ、マッカラン！ 私の大好きなお酒だわ！」"
+                                "Elina: \"Oh my, Macallan! That's my favorite drink!\""
                             ]
                         },
                         {
@@ -34355,14 +33214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ね～ね～、早く飲みましょうよ！ ハジメさん」"
+                                "Elina: \"Come on, come on, let's drink already! Hajime-san\""
                             ]
                         },
                         {
@@ -34379,21 +33231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、新人のユイさん。お酒運んできてくれてありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう下がっていいわよ！」"
+                                "Elina: \"Ah, Yui-san the newbie. Thanks for bringing the drink. You can\ngo back now!\""
                             ]
                         },
                         {
@@ -34426,14 +33264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（…………）"
+                                "Yui: \"(...)\""
                             ]
                         },
                         {
@@ -34497,14 +33328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハジメさん、今日はエリナさんと楽しんで下さいね！」"
+                                "Yui: \"Please enjoy your time with Elina-san today, Hajime-san!\""
                             ]
                         },
                         {
@@ -34521,21 +33345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は早く新人を卒業して、お客様のお相手が出来るように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お仕事頑張ります！」"
+                                "Yui: \"I'll work hard to graduate from being a newbie quickly so I can\naccompany the customers!\""
                             ]
                         },
                         {
@@ -34586,14 +33396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、まじめで良い子じゃないか。笑顔もとびきり可愛いし！」"
+                                "Hajime: \"You're a good and serious girl, aren't you? And your smile is\nexceptionally cute too!\""
                             ]
                         },
                         {
@@ -34610,14 +33413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはチップだ。とっておきなさい」"
+                                "Hajime: \"This is a tip. Keep it for yourself.\""
                             ]
                         },
                         {
@@ -34685,7 +33481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイの胸にお札が入れられた。"
+                                "A bill was slipped into Yui's chest."
                             ]
                         },
                         {
@@ -34702,14 +33498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！ でも……こんなに貰って……」"
+                                "Yui: \"Thank you very much! But... to receive so much...\""
                             ]
                         },
                         {
@@ -34726,14 +33515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいから、いいから。今日は気分がいいんだ！」"
+                                "Hajime: \"It's fine, it's fine. I'm in a good mood today!\""
                             ]
                         },
                         {
@@ -34766,14 +33548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、頑張ってねユイちゃん！」"
+                                "Hajime: \"Well then, do your best, Yui-chan!\""
                             ]
                         },
                         {
@@ -34947,7 +33722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "3000\\G 手に入れた！"
+                                "Received 3000\\G!"
                             ]
                         },
                         {
@@ -35033,14 +33808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次は君を指名するよ！」"
+                                "Hajime: \"I'll choose you next!\""
                             ]
                         },
                         {
@@ -35057,14 +33825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハジメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お仕事頑張ってねユイちゃん！」"
+                                "Hajime: \"Good luck with your work, Yui-chan!\""
                             ]
                         },
                         {
@@ -35210,14 +33971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また婆さんに内緒で来てしまったわい」"
+                                "Kenzo: \"I've come here again without telling the old lady.\""
                             ]
                         },
                         {
@@ -35234,14 +33988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チエちゃんも良いが、ワシの推しはやはりジュリちゃんじゃ！」"
+                                "Kenzo: \"Chie-chan is nice, but my favorite is still Juli-chan!\""
                             ]
                         },
                         {
@@ -35258,14 +34005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日は指名出来ないみたいで寂しいの～」"
+                                "Kenzo: \"It seems I can't make a nomination today, which is sad~\""
                             ]
                         },
                         {
@@ -35442,21 +34182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この店があるから仕事が頑張れるってもんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　料金はちょっと高いが、リピーターになっちまうんだよな」"
+                                "Gonsuke: \"It's because of this shop that I can keep up with work. The\nprices are a bit high, but I end up becoming a regular anyway.\""
                             ]
                         },
                         {
@@ -35675,7 +34401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。この先はＶＩＰルームのようだ。"
+                                "It's locked. It seems to be a VIP room beyond this point."
                             ]
                         },
                         {
@@ -36004,21 +34730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客様がウチの大事なバニーちゃんに手を出さないか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんと見張ってますよ」"
+                                "Man in Black: \"We're keeping a close eye to make sure none of the\ncustomers lay a hand on our precious Bunny-chan.\""
                             ]
                         },
                         {
@@ -36035,14 +34747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女の子が安心して働けるのも私達がいるからですよ」"
+                                "Man in Black: \"The girls can work with peace of mind because we're\nhere.\""
                             ]
                         },
                         {
@@ -36364,21 +35069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、そこから先は立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勝手に入るんじゃない！」"
+                                "Man in Black: \"Hey, the area beyond here is off-limits. Don't just\nwalk in on your own!\""
                             ]
                         },
                         {
@@ -36672,21 +35363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客様がウチの大事なバニーちゃんに手を出さないか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんと見張ってるんだ」"
+                                "Man in Black: \"We're keeping a close watch to make sure none of the\ncustomers lay a hand on our precious Bunny-chan.\""
                             ]
                         },
                         {
@@ -36703,14 +35380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君達が安心して働けるのも私達がいるからだぜ」"
+                                "Man in Black: \"You can work with peace of mind because we're here.\""
                             ]
                         },
                         {
@@ -37341,7 +36011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。どうやらこの先は店長室のようだ。"
+                                "It's locked. It seems this is the manager's office ahead."
                             ]
                         },
                         {
@@ -37421,7 +36091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長室の鍵を使った。"
+                                "I used the key to the manager's office."
                             ]
                         },
                         {
@@ -41212,14 +39882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに\\C[17]知久内イワオ\\C[0]がいたとの情報がありました」"
+                                "Officer A: \"We have information that \\C[17]Chikunai Iwao\\C[0] was\nhere.\""
                             ]
                         },
                         {
@@ -41236,21 +39899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「彼はフォルス地区郊外で多発している女性の拉致事件。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして人身売買に関与している疑いがあります」"
+                                "Officer A: \"He is suspected of involvement in the frequent abductions\nof women and human trafficking in the outskirts of the Fols district.\""
                             ]
                         },
                         {
@@ -41267,21 +39916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か少しでも彼に繋がる物が見つかればと思ったのですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　抜け目のない男なのでやはり痕跡は残してないですね」"
+                                "Officer A: \"We hoped to find something that might lead us to him,\nbut... he's a careful man, so of course, he hasn't left any traces.\""
                             ]
                         },
                         {
@@ -41298,14 +39933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残念です……」"
+                                "Officer A: \"It's unfortunate...\""
                             ]
                         },
                         {
@@ -41621,21 +40249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、本部から連絡が入った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\C[17]知久内イワオ\\C[0]逮捕に向けた捜査本部を立ち上げるみたいだ」"
+                                "Officer B: \"Hey, we've got a call from headquarters. They seem to be\nsetting up a task force to arrest \\C[17]Chikunai Iwao\\C[0].\""
                             ]
                         },
                         {
@@ -41652,14 +40266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「至急、帰ってこいとのこと！」"
+                                "Officer B: \"They're saying to come back immediately!\""
                             ]
                         },
                         {
@@ -41823,14 +40430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本部も本気になったみたいですね。了解です！」"
+                                "Officer A: \"Looks like headquarters is getting serious. Understood!\""
                             ]
                         },
                         {
@@ -42572,14 +41172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女性を拉致、人身売買、知久内イワオか……）"
+                                "Yui: \"(Kidnapping women, human trafficking, Chikunai Iwao, huh...)\""
                             ]
                         },
                         {
@@ -42596,14 +41189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たしか\\C[17]フォルス地区郊外\\c[0]で多発してるって言ってたわね）"
+                                "Yui: \"(That's right, they said it's been happening frequently in the\n\\C[17]outskirts of the Fols district\\c[0], didn't they?)\""
                             ]
                         },
                         {
@@ -42620,21 +41206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（警察がなんとかしてくれればいいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな奴、野放しには出来ないわ）"
+                                "Yui: \"(I hope the police can handle it, but we can't let someone like\nthat roam free.)\""
                             ]
                         },
                         {
@@ -42688,14 +41260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]進行可能なエリアが拡張されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "■フォルス地区郊外"
+                                "\\C[17]he area you can progress to has been expanded. ■ Outskirts of\nthe Fols District"
                             ]
                         },
                         {
@@ -48080,14 +46645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお！ ユイ君！」"
+                                "Mikio: \"Oh! Yui-kun!\""
                             ]
                         },
                         {
@@ -48104,14 +46662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっそく働いてくれてるんだね！」"
+                                "Mikio: \"You're already hard at work, I see!\""
                             ]
                         },
                         {
@@ -48162,14 +46713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「不慣れでご迷惑かけるかもしれませんが、精一杯頑張るつもりです」"
+                                "Yui: \"I might cause some trouble since I'm not used to this, but I\nintend to do my best.\""
                             ]
                         },
                         {
@@ -48186,14 +46730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし……」"
+                                "Mikio: \"However...\""
                             ]
                         },
                         {
@@ -48226,14 +46763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に良く似合ってるね。惚れてしまいそうだよ」"
+                                "Mikio: \"It really suits you well. I might just fall for you.\""
                             ]
                         },
                         {
@@ -48266,14 +46796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、お世辞が上手ですね。でも、ありがとうございます！」"
+                                "Yui: \"Hehe, you're good at flattery. But thank you!\""
                             ]
                         },
                         {
@@ -48306,14 +46829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、引き続き頑張ってくれたまえ」"
+                                "Mikio: \"Then, please continue to do your best.\""
                             ]
                         },
                         {
@@ -48330,14 +46846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君なら直ぐにでも接待部屋のご指名が入りそうだ」"
+                                "Mikio: \"With you, it seems like you'd get nominated for the reception\nroom right away.\""
                             ]
                         },
                         {
@@ -48693,14 +47202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#２０２３年ランキング"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#１位：ジュリ　２位：マミコ　３位：サエ　４位……"
+                                "2023 Ranking 1st place: Juli 2nd place: Mamiko 3rd place: Sae 4th\nplace..."
                             ]
                         },
                         {
@@ -48796,14 +47298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#２０２３年ランキング"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#１位：ジュリ　２位：マミコ　３位：サエ　４位……"
+                                "2023 Ranking 1st place: Juli 2nd place: Mamiko 3rd place: Sae 4th\nplace..."
                             ]
                         },
                         {

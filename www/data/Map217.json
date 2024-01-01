@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "職員室",
+    "displayName": "Staff Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12578,14 +12578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の……追試に……来てなかったのは……守崎……」"
+                                "Minion: \"The one who... didn't show up for... today's... makeup test\nwas... Morisaki...\""
                             ]
                         },
                         {
@@ -12602,14 +12595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつは……留年……確定……だ……」"
+                                "Minion: \"That means... she's... definitely... repeating a year...\""
                             ]
                         },
                         {
@@ -12669,21 +12655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっ、先生！ 彼女は来てました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、ポニーセレスが保証……しますっ！！」"
+                                "Pony-Celeste: \"W-wait, teacher! She was there! I, Pony-Celeste,\nguarantee it...!!\""
                             ]
                         },
                         {
@@ -12700,14 +12672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ですから、留年だけは……か、勘弁してあげて下さい！」"
+                                "Pony-Celeste: \"So please... just this once... spare her from repeating\nthe year!\""
                             ]
                         },
                         {
@@ -12724,14 +12689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ……あいつ来てた……のか………」"
+                                "Minion: \"What... she was there... after all...\""
                             ]
                         },
                         {
@@ -12748,14 +12706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスが……言う…なら、間違い……ないな……ZZZ」"
+                                "Minion: \"If Pony-Celeste says so... then there's no mistake... ZZZ\""
                             ]
                         },
                         {

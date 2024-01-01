@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園地下",
+    "displayName": "Shoto Academy Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -18356,7 +18356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Acquired the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {
@@ -19157,7 +19157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "I've obtained the 【\\i[90]Tome of Endurance】!"
                             ]
                         },
                         {
@@ -19789,14 +19789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやおや、見つかってしまったか……」"
+                                "Pierre: \"Oh my, you've found me...\""
                             ]
                         },
                         {
@@ -19813,14 +19806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は探索がとても上手みたいだね」"
+                                "Pierre: \"It seems you're very good at searching.\""
                             ]
                         },
                         {
@@ -19837,14 +19823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この調子で各地に散らばったボクを見つけてみてよ」"
+                                "Pierre: \"Keep it up and try to find me scattered around different\nplaces.\""
                             ]
                         },
                         {
@@ -19861,14 +19840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピエル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあね～～！」"
+                                "Pierre: \"See you~~!\""
                             ]
                         },
                         {
@@ -20315,7 +20287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "I've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園３Ｆ",
+    "displayName": "Shoto Academy 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -24079,7 +24079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この教室はまだ授業中のようだ。"
+                                "This classroom seems to still be in the middle of a lesson."
                             ]
                         },
                         {
@@ -24156,7 +24156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この教室はまだ授業中のようだ。"
+                                "This classroom seems to still be in the middle of a lesson."
                             ]
                         },
                         {

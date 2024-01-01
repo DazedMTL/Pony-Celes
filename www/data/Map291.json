@@ -13283,14 +13283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にユイと僕でザイダーグを止めてみせる！」"
+                                "Ginga: \"I swear, Yui and I will stop Zaidar-G together!\""
                             ]
                         },
                         {
@@ -13637,14 +13630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハルヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、Ginga君だよね？」"
+                                "Haruhiko: \"You're Ginga, right?\""
                             ]
                         },
                         {
@@ -13670,14 +13656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですが、あなたは……」"
+                                "Ginga: \"Yes, but who are you...?\""
                             ]
                         },
                         {
@@ -13694,14 +13673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハルヒコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Haruhiko: \"...\""
                             ]
                         },
                         {
@@ -14078,14 +14050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、鮫島？」"
+                                "Ginga: \"Eh, Samejima?\""
                             ]
                         },
                         {
@@ -14998,7 +14963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -15280,7 +15245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -19681,21 +19646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お庭に綺麗なお花を植えようと思ったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\C[17]園芸キット\\c[0]を、そこの\\C[17]排水口\\c[0]に落としちゃった」"
+                                "Saeko: \"I was thinking of planting some beautiful flowers in the\ngarden, but I accidentally dropped the \\C[17]gardening kit\\c[0] into\nthat \\C[17]drain\\c[0] over there.\""
                             ]
                         },
                         {
@@ -19712,14 +19663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしよう･････こまったわ･･････」"
+                                "Saeko: \"What should I do... I'm in trouble...\""
                             ]
                         },
                         {
@@ -19748,14 +19692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]※近くにある排水口を調べて見ましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　地下に降りる事が出来るかもしれません。"
+                                "\\C[17]Take a look at the nearby drain. You might be able to go down\nunderground."
                             ]
                         },
                         {
@@ -19993,21 +19930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お庭に綺麗なお花を植えようと思ったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\C[17]園芸キット\\c[0]を、そこの\\C[17]排水口\\c[0]に落としちゃった」"
+                                "Saeko: \"I was thinking of planting some beautiful flowers in the\ngarden, but I accidentally dropped the \\C[17]gardening kit\\c[0] into\nthat \\C[17]drain\\c[0] over there.\""
                             ]
                         },
                         {
@@ -20024,14 +19947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしよう･････こまったわ･･････」"
+                                "Saeko: \"What should I do... I'm in trouble...\""
                             ]
                         },
                         {
@@ -20060,14 +19976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]※近くにある排水口を調べて見よう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　地下に降りる事が出来るかもしれません。"
+                                "\\C[17]Try examining the nearby drain. You might be able to go down\nunderground."
                             ]
                         },
                         {
@@ -20324,21 +20233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは私の園芸キット！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとう、拾って来てれたのね」"
+                                "Saeko: \"That's my gardening kit! Thank you for picking it up for me.\""
                             ]
                         },
                         {
@@ -20355,14 +20250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはほんのお礼よ。遠慮せずにとっておいて」"
+                                "Saeko: \"This is just a little thank you. Please take it without any\nreservations.\""
                             ]
                         },
                         {
@@ -20401,7 +20289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[98]マシュマロ】を手に入れた！"
+                                "You obtained a 【\\i[98]Marshmallow】!"
                             ]
                         },
                         {
@@ -20639,14 +20527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お花畑って素敵よね。見ているだけで心が洗われるわ」"
+                                "Saeko: \"Flower fields are wonderful, aren't they? Just looking at them\ncleanses the soul.\""
                             ]
                         },
                         {
@@ -21377,14 +21258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　湘東学園前行き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　"
+                                "Bound for Shoto Academy"
                             ]
                         },
                         {
@@ -21607,14 +21481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かを受信しているアンテナのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "守崎家の方角を向いている。"
+                                "It seems like an antenna receiving something. It's facing the\ndirection of the Morisaki household."
                             ]
                         },
                         {

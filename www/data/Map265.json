@@ -5959,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今、忙しいの！ 話かけないでくれる！」"
+                                "Chinami: \"I'm busy right now! Please don't talk to me!\""
                             ]
                         },
                         {
@@ -5983,21 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何回、注意すればいいのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　変な被り物して……」"
+                                "Chinami: \"How many times do I have to tell you! Wearing that weird\nheadgear...\""
                             ]
                         },
                         {
@@ -6048,14 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「被り物？」"
+                                "Yui: \"Headgear?\""
                             ]
                         },
                         {
@@ -6126,14 +6098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Chinami: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -6150,14 +6115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「人違いだったみたい……」"
+                                "Chinami: \"It seems I mistook you for someone else...\""
                             ]
                         },
                         {
@@ -6359,21 +6317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナオコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女性専用のカフェってのが良いよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むさ苦しいサラリーマンがいないってだけで最高だわ！」"
+                                "Naoko: \"A women-only cafe is such a great idea. Just the fact that\nthere are no sweaty salarymen around makes it the best!\""
                             ]
                         },
                         {
@@ -6450,14 +6394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミユキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「美味しいショートケーキには美味しいコーヒーが最高に合うわ」"
+                                "Miyuki: \"Delicious shortcake goes best with delicious coffee.\""
                             ]
                         },
                         {
@@ -6534,14 +6471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の友達がここの常連だったんだけど最近見ないのよね」"
+                                "Kumi: \"My friend used to be a regular here, but I haven't seen her\naround lately.\""
                             ]
                         },
                         {
@@ -6558,14 +6488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マミコ、一体どうしちゃったんだろ……」"
+                                "Kumi: \"Mamiko, what on earth could have happened to you...\""
                             ]
                         },
                         {
@@ -6642,14 +6565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It looks like it would open with the \\C[17]Crimson\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -6717,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "The lock is engaged. It seems like it would open if I use the\n\\C[17]Crimson Star Key\\C[0]."
                             ]
                         },
                         {
@@ -6741,7 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -6749,8 +6658,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6792,7 +6701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -7093,14 +7002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カズエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん……」"
+                                "Kazue: \"Hmm...\""
                             ]
                         },
                         {
@@ -7117,14 +7019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カズエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この店の店長って店に来る女の子を品定めしてるように見えるのよね」"
+                                "Kazue: \"The manager of this shop seems to be sizing up the girls who\ncome in, doesn't he?\""
                             ]
                         },
                         {
@@ -7141,21 +7036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カズエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女性専用のカフェなんて始めて聞くでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何か下心があるのかしら……」"
+                                "Kazue: \"Have you ever heard of a women-only cafe? I wonder if there's\nan ulterior motive...\""
                             ]
                         },
                         {
@@ -7232,14 +7113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "It's locked. If I had the \\C[17]Azure Star Key\\C[0], it looks like it\nwould open."
                             ]
                         },
                         {
@@ -7307,14 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. It looks like it can be opened with the \\C[17]Azure Star\nKey\\C[0]."
                             ]
                         },
                         {
@@ -7331,7 +7198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Would you like to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -7339,8 +7206,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7382,7 +7249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -7996,14 +7863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女性限定カフェ、スターベックスへようこそ！」"
+                                "Mikio: \"Welcome to the women-only cafe, Starbecks!\""
                             ]
                         },
                         {
@@ -8020,14 +7880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご注文は何に……」"
+                                "Mikio: \"What would you like to order...?\""
                             ]
                         },
                         {
@@ -8121,14 +7974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これは！）"
+                                "Mikio: (This is!)"
                             ]
                         },
                         {
@@ -8163,14 +8009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんという素晴らしいスタイル……）"
+                                "Mikio: (What an amazing figure...)"
                             ]
                         },
                         {
@@ -8239,14 +8078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（特にこの巨乳はバニーガールに最適だ……）"
+                                "Mikio: (Especially these huge breasts are perfect for a bunny girl...)"
                             ]
                         },
                         {
@@ -8263,14 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんとしても私の店に欲しい！！）"
+                                "Mikio: (I must have her at my shop at all costs!!)"
                             ]
                         },
                         {
@@ -8344,21 +8169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、素晴らしいスタイルをしてるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それにずば抜けて可愛いよ！」"
+                                "Mikio: \"You have a wonderful figure. And you're exceptionally cute\ntoo!\""
                             ]
                         },
                         {
@@ -8391,21 +8202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？ 可愛い？\\| ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、いきなりなんなんですか……？」"
+                                "Yui: \"Eh!? Cute? Thank you very much. But why are you saying this all\nof a sudden...?\""
                             ]
                         },
                         {
@@ -8422,21 +8219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、すまないね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  あまりにも可愛いので君がお客さんである事を忘れてつい……」"
+                                "Mikio: \"Oops, sorry about that! You're so cute that I forgot you were\na customer for a moment...\""
                             ]
                         },
                         {
@@ -8469,21 +8252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、でも気にしないでください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　可愛いと言われて嬉しくない女の子はいないと思いますので」"
+                                "Yui: \"Ah, but please don't worry about it! I don't think there's a\ngirl who wouldn't be happy to be called cute.\""
                             ]
                         },
                         {
@@ -8500,14 +8269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、その素直さもまた素晴らしい！」"
+                                "Mikio: \"Oh, that honesty is also wonderful!\""
                             ]
                         },
                         {
@@ -8540,14 +8302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実は私……この店の他にアガースというお店を経営しててね」"
+                                "Mikio: \"Actually, I... besides this cafe, I also run a place called\nAgas.\""
                             ]
                         },
                         {
@@ -8564,21 +8319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バニーガールのコスプレをした女の子が接客する居酒屋風の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　店なんだけど、君のような子が欲しかったんだ」"
+                                "Mikio: \"It's a pub-style place where girls dressed as bunny girls\nserve customers, and I've been wanting someone like you.\""
                             ]
                         },
                         {
@@ -8595,14 +8336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の店で働く気はないかい？ 君なら山ほど稼げるよ！」"
+                                "Mikio: \"Would you be interested in working at my shop? You could earn\na ton!\""
                             ]
                         },
                         {
@@ -8631,8 +8365,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ごめんなさい、お断りします！",
-                                    "興味あります(淫乱度５０以上必要)"
+                                    "Sorry, I have to decline!",
+                                    "I'm interested (Requires a lewdness level of 50 or above)"
                                 ],
                                 1,
                                 0,
@@ -8678,14 +8412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それってもしかして、キャバクラ……ですか？」"
+                                "Yui: \"Is that perhaps... a cabaret club?\""
                             ]
                         },
                         {
@@ -8702,14 +8429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……まぁ、世間ではそう言われているね……」"
+                                "Mikio: \"Ah... well, that's what it's called by people, yes...\""
                             ]
                         },
                         {
@@ -8726,14 +8446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、結構です。ごめんなさい」"
+                                "Yui: \"Then, no thank you. I'm sorry.\""
                             ]
                         },
                         {
@@ -8750,21 +8463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうかい、それは残念だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もし気が変わったらまたここへ来てくれ」"
+                                "Mikio: \"Is that so, that's too bad. If you change your mind, come back\nhere again.\""
                             ]
                         },
                         {
@@ -8781,14 +8480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「君なら面接なしで即採用だから！」"
+                                "Mikio: \"If it's you, you'll be hired on the spot without an\ninterview!\""
                             ]
                         },
                         {
@@ -8805,14 +8497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はいはい、わかりました……」"
+                                "Yui: \"Yes, yes, I understand...\""
                             ]
                         },
                         {
@@ -8932,14 +8617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「それってもしかして、キャバクラ……ですか？」"
+                                "Yui: \"Is that perhaps... a cabaret club?\""
                             ]
                         },
                         {
@@ -8956,14 +8634,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あぁ……まぁ、世間ではそう言われているね……」"
+                                "Mikio: \"Ah... well, that's what it's called by people, yes...\""
                             ]
                         },
                         {
@@ -8980,14 +8651,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「バニーガールのコスプレかぁ……少し興味あります……」"
+                                "Yui: \"Dressing up as a bunny girl, huh... I'm a bit interested...\""
                             ]
                         },
                         {
@@ -9004,14 +8668,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ふふっ、それはＯＫって事かい？」"
+                                "Mikio: \"Heh heh, does that mean it's a 'yes'?\""
                             ]
                         },
                         {
@@ -9040,14 +8697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]※こちらのイベントを進めると\\c[18]アガース潜入捜査イベント\\c[17]が消失します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逆に\\c[18]アガース潜入捜査イベント\\c[17]を進めるとこちらのイベントが消失します。"
+                                "\\c[17]Proceeding with this event will cause the \\c[18]Agas\nInfiltration Investigation Event\\c[17] to disappear. Conversely,\nproceeding with the \\c[18]Agas Infiltration Investigation Event\\c[17]\nwill cause this event to disappear."
                             ]
                         },
                         {
@@ -9055,8 +8705,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "少し考えさせて下さい。",
-                                    "興味があるので働いてみます！"
+                                    "Let me think about it for a bit",
+                                    "I'm interested, so I'll give it a try!"
                                 ],
                                 0,
                                 -1,
@@ -9086,14 +8736,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ごめんなさい。少し考えさせて下さい」"
+                                "Yui: \"I'm sorry. Please let me think about it a little.\""
                             ]
                         },
                         {
@@ -9110,14 +8753,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「もちろんだよ。良い返事を期待しているよ」"
+                                "Mikio: \"Of course. I'm looking forward to a positive response.\""
                             ]
                         },
                         {
@@ -9197,14 +8833,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「はい。お願します……」"
+                                "Yui: \"Yes. Please...\""
                             ]
                         },
                         {
@@ -9221,14 +8850,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「おお、そうかそうか。ありがとう！」"
+                                "Mikio: \"Oh, is that so? Thank you!\""
                             ]
                         },
                         {
@@ -9245,14 +8867,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「じゃあ、君の名前教えてくれるかな？」"
+                                "Mikio: \"So, may I have your name?\""
                             ]
                         },
                         {
@@ -9269,14 +8884,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「守崎ユイです……」"
+                                "Yui: \"Morisaki Yui...\""
                             ]
                         },
                         {
@@ -9293,14 +8901,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ユイ君か、良い名前だね」"
+                                "Mikio: \"Yui-kun, that's a nice name.\""
                             ]
                         },
                         {
@@ -9317,21 +8918,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「ではユイ君！君は今日からアガースのスタッフだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　これを持って私の店を訪ねてくれたまえ」"
+                                "Mikio: \"Well then Yui-kun! From today on, you're a staff member at\nAgas! Take this and visit my shop.\""
                             ]
                         },
                         {
@@ -9360,7 +8947,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\i[297]アガース入店許可証】を手に入れた！"
+                                "You've obtained the 【\\i[297]Agas Entry Permit】!"
                             ]
                         },
                         {
@@ -9399,7 +8986,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【\\i[240]バニーガールの衣装】を手に入れた！"
+                                "You've obtained the 【\\i[240]Bunny Girl Outfit】!"
                             ]
                         },
                         {
@@ -9426,14 +9013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「すぐ働けるようスタッフには私から連絡しておくよ」"
+                                "Mikio: \"I'll let the staff know so you can start working right away.\""
                             ]
                         },
                         {
@@ -9450,21 +9030,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「場所は歓楽街のど真ん中にある派手なお店だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　では、頑張ってくれたまえ！」"
+                                "Mikio: \"The place is right in the middle of the pleasure district, in\na flashy shop. Good luck!\""
                             ]
                         },
                         {
@@ -9572,7 +9138,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "淫乱度が５０に満たないため\\c[17]エッチなバイトイベント\\c[0]を開始出来ません。"
+                                "Since your lewdness level is not at 50, you cannot start the\n\\c[17]Naughty Part-time Job Event\\c[0]."
                             ]
                         },
                         {
@@ -9730,21 +9296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「場所は歓楽街のど真ん中にある派手なお店だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　では、頑張ってくれたまえ！」"
+                                "Mikio: \"The place is a flashy shop right in the middle of the pleasure\ndistrict. Now, do your best!\""
                             ]
                         },
                         {
@@ -9844,14 +9396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長代理"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女性限定カフェ。スターベックスへようこそ！」"
+                                "Assistant Manager: \"Welcome to the women-only cafe, Star-Becks!\""
                             ]
                         },
                         {
@@ -9951,14 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長代理"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女性限定カフェ。スターベックスへようこそ！」"
+                                "Acting Manager: \"Welcome to the women-only cafe, Star-Becks!\""
                             ]
                         },
                         {
@@ -10983,7 +10521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -11711,7 +11249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[18]エロ本】を手に入れた！"
+                                "I've obtained an 【\\i[18]Erotic Book】!"
                             ]
                         },
                         {

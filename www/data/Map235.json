@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究所奥",
+    "displayName": "Inner Underground Laboratory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -18130,7 +18130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -19137,14 +19137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バカな！ なぜ扉が閉まる！？」"
+                                "Strategist Domdora: \"Impossible! Why is the door closing!?\""
                             ]
                         },
                         {
@@ -19175,14 +19168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「追い詰めたわよドムドラ！」"
+                                "Pony-Celeste: \"I've cornered you, Domdora!\""
                             ]
                         },
                         {
@@ -19654,21 +19640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう逃げ場はないわ。痛い目に合いたくなかったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　Gingaを渡しなさい！」"
+                                "Pony-Celeste: \"There's no escape now. Hand over Ginga if you don't\nwant to get hurt!\""
                             ]
                         },
                         {
@@ -19719,14 +19691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しつこいですね。訳の分からない事をいつまでも！」"
+                                "Strategist Domdora: \"You're persistent. Still spouting nonsense!\""
                             ]
                         },
                         {
@@ -19750,14 +19715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しらを切るようなら仕方ないわね。覚悟しなさい！」"
+                                "Pony-Celeste: \"If you're going to play dumb, then I have no choice.\nPrepare yourself!\""
                             ]
                         },
                         {
@@ -19781,14 +19739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こうなったら仕方ないですね……」"
+                                "Strategist Domdora: \"It's come to this, huh...\""
                             ]
                         },
                         {
@@ -19805,14 +19756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ私が智将と呼ばれるか、思い知らせてあげますよ！」"
+                                "Strategist Domdora: \"Let me show you why I am called the strategist!\""
                             ]
                         },
                         {
@@ -20051,14 +19995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぉふぉふぉっ」"
+                                "Strategist Domdora: \"Foh foh foh!\""
                             ]
                         },
                         {
@@ -20075,14 +20012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「今です！」"
+                                "Strategist Domdora: \"Now!\""
                             ]
                         },
                         {
@@ -20211,14 +20141,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しまった！！」"
+                                "Pony-Celeste: \"Damn it!!\""
                             ]
                         },
                         {
@@ -20235,14 +20158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「注意を怠りましたね」"
+                                "Strategist Domdora: \"You let your guard down.\""
                             ]
                         },
                         {
@@ -20310,21 +20226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これであなたはもう動けません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　アーバン地区の時と同じ状況ですね」"
+                                "Strategist Domdora: \"Now you can't move. Just like in the Avan\nDistrict.\""
                             ]
                         },
                         {
@@ -20348,14 +20250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「こんな事で、私は負けない！」"
+                                "Pony-Celeste: \"I won't lose just because of this!\""
                             ]
                         },
                         {
@@ -20451,14 +20346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「強がるのは勝手ですが……」"
+                                "Strategist Domdora: \"You can act tough all you want but...\""
                             ]
                         },
                         {
@@ -20713,14 +20601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さて、これがなんだか分かりますかね？」"
+                                "Strategist Domdora: \"Well, do you know what this is?\""
                             ]
                         },
                         {
@@ -20778,14 +20659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「分かるわけないでしょ、知りたくもない！」"
+                                "Pony-Celeste: \"How would I know? I don't even want to know!\""
                             ]
                         },
                         {
@@ -20802,14 +20676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうですか……」"
+                                "Strategist Domdora: \"Is that so...\""
                             ]
                         },
                         {
@@ -20826,14 +20693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「アーバン地区を爆破した際に用いた爆弾です」"
+                                "Strategist Domdora: \"This is the bomb used to blow up the Avan\nDistrict.\""
                             ]
                         },
                         {
@@ -20850,14 +20710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そして、これはその小型化に成功しベルト型にした爆弾です」"
+                                "Strategist Domdora: \"And this is a miniaturized version of that bomb,\nfashioned into a belt.\""
                             ]
                         },
                         {
@@ -20874,14 +20727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「街を吹き飛ばす程の威力はないですが……」"
+                                "Strategist Domdora: \"It may not have the power to blow up a city\nbut...\""
                             ]
                         },
                         {
@@ -20898,14 +20744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あなたを始末するくらいなら」"
+                                "Strategist Domdora: \"It's more than enough to finish you off.\""
                             ]
                         },
                         {
@@ -20931,14 +20770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「！？」"
+                                "Pony-Celeste: \"!?\""
                             ]
                         },
                         {
@@ -20955,14 +20787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうしたんですか？ 顔が青ざめてきましたよ」"
+                                "Strategist Domdora: \"What's wrong? You've gone pale.\""
                             ]
                         },
                         {
@@ -20979,14 +20804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぉふぉふぉっ」"
+                                "Strategist Domdora: \"Foh foh foh!\""
                             ]
                         },
                         {
@@ -21003,14 +20821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さすがのあなたも恐怖を感じているんですかね？」"
+                                "Strategist Domdora: \"Even you must feel fear, right?\""
                             ]
                         },
                         {
@@ -21027,14 +20838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「素直に負けを認めたらどうですか？」"
+                                "Strategist Domdora: \"Why not admit defeat gracefully?\""
                             ]
                         },
                         {
@@ -21058,14 +20862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私は絶対あなたになんかに屈しない！」"
+                                "Pony-Celeste: \"I will never submit to someone like you!\""
                             ]
                         },
                         {
@@ -21089,14 +20886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「正義は必ず勝つのよ！」"
+                                "Pony-Celeste: \"Justice will always prevail!\""
                             ]
                         },
                         {
@@ -21113,14 +20903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「正義ですか……」"
+                                "Strategist Domdora: \"Justice, you say...\""
                             ]
                         },
                         {
@@ -21137,21 +20920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、試してみましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしこの爆弾であなたが生きていれば正義の勝ち」"
+                                "Strategist Domdora: \"Then let's put it to the test. If you survive\nthis bomb, then justice wins.\""
                             ]
                         },
                         {
@@ -21168,14 +20937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「つまり、あなたの勝ちという事にしてあげましょう」"
+                                "Strategist Domdora: \"In other words, it will be your victory.\""
                             ]
                         },
                         {
@@ -21335,14 +21097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ほら、怖いでしょう」"
+                                "Strategist Domdora: \"See, it's scary, isn't it?\""
                             ]
                         },
                         {
@@ -21400,14 +21155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっ……」"
+                                "Pony-Celeste: \"Grr...\""
                             ]
                         },
                         {
@@ -21424,14 +21172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「最後の忠告です」"
+                                "Strategist Domdora: \"This is my last piece of advice.\""
                             ]
                         },
                         {
@@ -21448,21 +21189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「命乞いをしなさい。そうすれば殺しはしません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私の下僕となって生きるのです」"
+                                "Strategist Domdora: \"Beg for your life. If you do, I won't kill you.\nYou'll live as my servant.\""
                             ]
                         },
                         {
@@ -21486,14 +21213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「誰があなたなんかに！」"
+                                "Pony-Celeste: \"Who would ever submit to you!\""
                             ]
                         },
                         {
@@ -21517,14 +21237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ポニーセレスをなめないで！」"
+                                "Pony-Celeste: \"Don't underestimate Pony-Celeste!\""
                             ]
                         },
                         {
@@ -21541,14 +21254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、いきますよ」"
+                                "Strategist Domdora: \"Then, here we go.\""
                             ]
                         },
                         {
@@ -21800,14 +21506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぉふぉっ、あなたの正義とやらは木っ端微塵になりましたね」"
+                                "Strategist Domdora: \"Foh foh foh, your so-called justice has been\nblown to smithereens.\""
                             ]
                         },
                         {
@@ -21890,14 +21589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「…………ぁ……っ……」"
+                                "Pony-Celeste: \"...ah...ahh...\""
                             ]
                         },
                         {
@@ -21923,14 +21615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しかし、あの爆発でまだ死んでいないとは……」"
+                                "Strategist Domdora: \"However, to not be dead after that explosion...\""
                             ]
                         },
                         {
@@ -21947,14 +21632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この爆弾もまだ研究の余地がありますね」"
+                                "Strategist Domdora: \"There's still room for research with this bomb.\""
                             ]
                         },
                         {
@@ -22006,14 +21684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おや？」"
+                                "Strategist Domdora: \"Oh?\""
                             ]
                         },
                         {
@@ -22144,14 +21815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これはこれは、変身を保てなくなったみたいですね」"
+                                "Strategist Domdora: \"Well, well, it seems you can't maintain your\ntransformation.\""
                             ]
                         },
                         {
@@ -22168,21 +21832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あれだけ威勢が良かったのに、敵を前にして正体を晒すとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　なんて無様なんでしょう」"
+                                "Strategist Domdora: \"To think you were so full of vigor, yet now you\nexpose your true form in front of the enemy, how disgraceful.\""
                             ]
                         },
                         {
@@ -22199,14 +21849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私に逆らうからこういう目に合うんです」"
+                                "Strategist Domdora: \"This is what happens when you defy me.\""
                             ]
                         },
                         {
@@ -22223,14 +21866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……ぅ…………ぁ……っ……」"
+                                "Pony-Celeste: \"...uh...ah...h...\""
                             ]
                         },
                         {
@@ -22247,21 +21883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「惨め過ぎて目ざわりですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　見るに耐えれなくなってきました」"
+                                "Strategist Domdora: \"You're so pitiful it's an eyesore. I can hardly\nbear to look at you.\""
                             ]
                         },
                         {
@@ -22278,14 +21900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ひと思いに殺してあげましょう」"
+                                "Strategist Domdora: \"I'll put you out of your misery quickly.\""
                             ]
                         },
                         {
@@ -22682,14 +22297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さようなら。正義の味方、ポニーセレスさん」"
+                                "Strategist Domdora: \"Goodbye. Hero of justice, Pony-Celeste.\""
                             ]
                         },
                         {
@@ -22759,14 +22367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぉふぉふぉっ！」"
+                                "Strategist Domdora: \"Foh foh foh!\""
                             ]
                         },
                         {
@@ -22790,14 +22391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレスがザイダーグに敗北したという情報は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すぐに戦闘員によって日本中に拡散された。"
+                                "The news of Pony-Celeste's defeat by Zaida-G was quickly spread\nthroughout Japan by the combatants."
                             ]
                         },
                         {
@@ -22814,14 +22408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "街は不安と恐怖に支配され、ほどなくして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダーグノアの完全復活は果たされた。"
+                                "The city was dominated by anxiety and fear, and before long, the\ncomplete revival of Dargnoa was accomplished."
                             ]
                         },
                         {
@@ -22838,7 +22425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "次々に戦闘員に変えられていく街の人達。"
+                                "One by one, the townspeople were turned into combatants."
                             ]
                         },
                         {
@@ -22855,14 +22442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最後まで抵抗していた一人の男の子がいたが、その男の子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ポニーセレスの名前を叫び続け――"
+                                "There was a boy who resisted until the end, but that boy continued to\nshout the name of Pony-Celeste--"
                             ]
                         },
                         {
@@ -22879,7 +22459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全国に生放送されながら、見せしめとして公開処刑された。"
+                                "While being broadcast live nationwide, he was publicly executed as an\nexample."
                             ]
                         },
                         {
@@ -22922,7 +22502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "攻略のヒントをもらいますか？"
+                                "Would you like a hint for the conquest?"
                             ]
                         },
                         {
@@ -22930,8 +22510,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22961,14 +22541,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]ドムドラの闇の防御壁を消し去るには聖なる力が必要。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "闇属性の効果を消し去る必殺技さえ使えば……"
+                                "\\C[17]o dispel Domdora's dark defense barrier, holy power is needed.\nIf only you could use a special move that erases the effects of dark\nattributes..."
                             ]
                         },
                         {
@@ -23867,14 +23440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ……」"
+                                "Strategist Domudora: \"Guh...\""
                             ]
                         },
                         {
@@ -23941,14 +23507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたは……\\|西園寺製薬の……」"
+                                "Pony-Ceres: \"You are... from Saionji Pharmaceuticals...\""
                             ]
                         },
                         {
@@ -23965,14 +23524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の計画が野望が……こんな、奴に！」"
+                                "Strategist Domudora: \"My plans, my ambitions... to be thwarted by such\na person!\""
                             ]
                         },
                         {
@@ -24515,14 +24067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、しくじったか！」"
+                                "???: \"Tch, did I mess up?\""
                             ]
                         },
                         {
@@ -24589,14 +24134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの怪人！？」"
+                                "Pony-Ceres: \"A monster from Zaida-G!?\""
                             ]
                         },
                         {
@@ -24647,14 +24185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがポニーセレス、共倒れとはいかなかったみたいね」"
+                                "???: \"As expected of Pony-Ceres, it seems you didn't go down\ntogether.\""
                             ]
                         },
                         {
@@ -24709,14 +24240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう少し頑張ってくれなきゃ。ツケシバ社長」"
+                                "???: \"You need to try a bit harder. President Tsukeshiba.\""
                             ]
                         },
                         {
@@ -24733,14 +24257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、だれだお前は！？」"
+                                "Tsukeshiba: \"Wh-who are you!?\""
                             ]
                         },
                         {
@@ -24757,14 +24274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の名はカリーヌ」"
+                                "Plotting General Carine: \"My name is Carine.\""
                             ]
                         },
                         {
@@ -24781,14 +24291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様から直々にポニーセレスの始末を命令されている」"
+                                "Plotting General Carine: \"I have been directly ordered by Lord Dargnoa\nto dispose of Pony-Ceres.\""
                             ]
                         },
                         {
@@ -24805,21 +24308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カリーヌ？ そんな奴知らんが、助太刀なら助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くポニーセレスを始末しろ！」"
+                                "Tsukeshiba: \"Carine? I don't know anyone by that name, but if you're\nhere to help, I'm grateful. Quickly, finish off Pony-Ceres!\""
                             ]
                         },
                         {
@@ -24867,14 +24356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかったわ……」"
+                                "Plotting General Carine: \"Understood...\""
                             ]
                         },
                         {
@@ -24914,14 +24396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やる気ね。いいわ！ かかってきなさい！」"
+                                "Pony-Ceres: \"So you're eager to fight. Good! Come at me!\""
                             ]
                         },
                         {
@@ -24938,14 +24413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくわよ……」"
+                                "Plotting General Carine: \"Here I come...\""
                             ]
                         },
                         {
@@ -25183,14 +24651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ど、どうし……て……」"
+                                "Tsukeshiba: \"...wh-what are... you...\""
                             ]
                         },
                         {
@@ -25317,14 +24778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ナイフで心臓を一突きだったかしら？ 父さんと同じでしょ」"
+                                "Plotting General Carine: \"Was it a knife through the heart? Just like\nyour father, right?\""
                             ]
                         },
                         {
@@ -25341,14 +24795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか……お、おまえは！？」"
+                                "Tsukeshiba: \"No way... y-you are...!?\""
                             ]
                         },
                         {
@@ -25365,14 +24812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、そのまさかよ」"
+                                "Plotting General Carine: \"Heheh, exactly that.\""
                             ]
                         },
                         {
@@ -25389,14 +24829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ダーグノアめ……こんな小娘を……」"
+                                "Tsukeshiba: \"...Dargnoa damn... such a little girl...\""
                             ]
                         },
                         {
@@ -25413,21 +24846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様は私の才能を開花させて下さったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたじゃ役に立たないからってね」"
+                                "Plotting General Carine: \"Lord Dargnoa has allowed my talents to\nblossom. Unlike you, who are useless.\""
                             ]
                         },
                         {
@@ -25444,14 +24863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よくも、わ……わしを……裏切り……ものめ……」"
+                                "Tsukeshiba: \"How dare you... I... you traitor... wretch...\""
                             ]
                         },
                         {
@@ -25468,21 +24880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どの口が言ってるのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　裏切りはあなたの専売特許でしょ」"
+                                "Plotting General Carine: \"Which mouth is saying that, I wonder?\nBetrayal is your specialty, isn't it?\""
                             ]
                         },
                         {
@@ -25499,14 +24897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぐっ、ぬぬぬぬっ」"
+                                "Tsukeshiba: \"...guh, nnnngh...\""
                             ]
                         },
                         {
@@ -25523,21 +24914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、心臓を一突きされてまだ死なないなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ゴキブリの生命力を甘くみていたわ」"
+                                "Plotting General Carine: \"However, to think that you wouldn't die from\na stab to the heart, I underestimated the vitality of a cockroach.\""
                             ]
                         },
                         {
@@ -25554,14 +24931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっちり始末しないとね」"
+                                "Plotting General Carine: \"I'll have to finish you off properly.\""
                             ]
                         },
                         {
@@ -25578,21 +24948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おい！ や、やっ、やめろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　石なら返す。返すから！ い、命だけは！！」"
+                                "Tsukeshiba: \"Hey, st-stop it! If it's the stone you want, I'll return\nit. I'll give it back! Just spare my life!!\""
                             ]
                         },
                         {
@@ -25609,21 +24965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう石なんて必要ないわ。あんなゴミあなたにあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ダーグノア様からもらったこの体さえあれば私は満足なの」"
+                                "Plotting General Carine: \"I don't need such a stone anymore. You can\nhave that trash. As long as I have this body given to me by Lord\nDargnoa, I am satisfied.\""
                             ]
                         },
                         {
@@ -25640,14 +24982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……助けてくれ……頼む……」"
+                                "Tsukeshiba: \"...help me... please...\""
                             ]
                         },
                         {
@@ -25664,14 +24999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい加減目障りよ。早く私の前から消えて」"
+                                "Plotting General Carine: \"You're such an eyesore. Just disappear from\nmy sight already.\""
                             ]
                         },
                         {
@@ -25688,14 +25016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「や、やっ、やめろぉおおおお！！」"
+                                "Tsukeshiba: \"No, noo, stopppp!!!\""
                             ]
                         },
                         {
@@ -26216,14 +25537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんて人……仲間を……」"
+                                "Pony-Ceres: \"What kind of person... to do this to a comrade...\""
                             ]
                         },
                         {
@@ -26305,21 +25619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたがさっさととどめを刺さないから私が代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やってあげたのよ」"
+                                "Plotting General Carine: \"Since you didn't finish him off quickly\nenough, I did it for you.\""
                             ]
                         },
                         {
@@ -26336,14 +25636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaをさらわれて憎いなら遠慮はいらないはず」"
+                                "Plotting General Carine: \"If you hate Ginga for being kidnapped,\nthere's no need for restraint.\""
                             ]
                         },
                         {
@@ -26376,14 +25669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス、いえ……守崎ユイ！」"
+                                "Plotting General Carine: \"Pony-Ceres, no... Morisaki Yui!\""
                             ]
                         },
                         {
@@ -26416,14 +25702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして私の事……」"
+                                "Pony-Ceres: \"Why do you know about me...\""
                             ]
                         },
                         {
@@ -26456,14 +25735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ、あなたの事はなんでも知ってるわよ」"
+                                "Plotting General Carine: \"Heheheh, I know everything about you.\""
                             ]
                         },
                         {
@@ -26496,21 +25768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「湘東学園空手部のエースでGingaの事をたぶらかす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うっとおしい雌豚」"
+                                "Pony-Ceres: \"The ace of Shoto Academy's karate club and the annoying\nsow who seduced Ginga.\""
                             ]
                         },
                         {
@@ -26527,14 +25785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたさえいなければGingaは私の物になっていたのに……」"
+                                "Plotting General Carine: \"If it weren't for you, Ginga would have been\nmine...\""
                             ]
                         },
                         {
@@ -26567,14 +25818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたまさか……\\|西園寺さん！？」"
+                                "Pony-Ceres: \"Could it be... Saionji-san!?\""
                             ]
                         },
                         {
@@ -26607,14 +25851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今頃気付いたの、相変わらず馬鹿ね」"
+                                "Plotting General Carine: \"You're only realizing now? You're as foolish\nas ever.\""
                             ]
                         },
                         {
@@ -26638,14 +25875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして！ どうしてザイダーグなんかに！？」"
+                                "Pony-Ceres: \"Why! Why would you join Zaidar!?\""
                             ]
                         },
                         {
@@ -26662,14 +25892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「馬鹿なあなたに教えてあげるわ」"
+                                "Plotting General Carine: \"I'll tell you, you fool.\""
                             ]
                         },
                         {
@@ -26686,14 +25909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきのゴミが私の父を殺した張本人」"
+                                "Plotting General Carine: \"That trash from earlier is the very person\nwho killed my father.\""
                             ]
                         },
                         {
@@ -26710,14 +25926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつに復讐するため、ダーグノア様に忠誠を誓い力を得たの」"
+                                "Plotting General Carine: \"To take revenge on him, I swore loyalty to\nLord Darnoa and gained power.\""
                             ]
                         },
                         {
@@ -26734,14 +25943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そして……」"
+                                "Plotting General Carine: \"And...\""
                             ]
                         },
                         {
@@ -26774,14 +25976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大嫌いなあなたを殺すため！」"
+                                "Plotting General Carine: \"To kill you, whom I despise!\""
                             ]
                         },
                         {
@@ -26821,21 +26016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaをだしに邪魔者二人の相打ちを狙ったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　案外あなたって強いのね」"
+                                "Plotting General Carine: \"I aimed for a mutual takedown using Ginga as\nbait, but unexpectedly, you're quite strong.\""
                             ]
                         },
                         {
@@ -26884,14 +26065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaをさらったのはあなただったのね」"
+                                "Pony-Ceres: \"So it was you who kidnapped Ginga.\""
                             ]
                         },
                         {
@@ -26915,14 +26089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんな芝居までして……」"
+                                "Pony-Ceres: \"To think you'd even stage such a drama...\""
                             ]
                         },
                         {
@@ -26939,14 +26106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、騙される方が悪いのよ」"
+                                "Plotting General Carine: \"Heheh, it's your fault for being deceived.\""
                             ]
                         },
                         {
@@ -26970,14 +26130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaを返して。お願いよ、西園寺さん……」"
+                                "Pony-Ceres: \"Please return Ginga. I'm begging you, Saionji-san...\""
                             ]
                         },
                         {
@@ -27019,21 +26172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またそれ……Ginga、Ginga、Ginga……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当に私をイラつかせるのが好きね」"
+                                "Plotting General Carine: \"There it is again... Ginga, Ginga, Ginga...\nYou really love to irritate me, don't you?\""
                             ]
                         },
                         {
@@ -27057,14 +26196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここであなたを殺そうと思ってたけど気が変わったわ」"
+                                "Plotting General Carine: \"I was thinking of killing you right here,\nbut I've changed my mind.\""
                             ]
                         },
                         {
@@ -27097,21 +26229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたをただ殺すだけじゃ私は満たされない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　最高の屈辱を味わってもらわないとね」"
+                                "Plotting General Carine: \"Just killing you won't satisfy me. I need to\nmake you taste the ultimate humiliation.\""
                             ]
                         },
                         {
@@ -27135,14 +26253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何をする気？」"
+                                "Pony-Ceres: \"What are you planning to do?\""
                             ]
                         },
                         {
@@ -27159,14 +26270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グルダス地区で待っているわ。Gingaはそこにいる」"
+                                "Plotting General Carine: \"Wait for me in the Grudas district. Ginga is\nthere.\""
                             ]
                         },
                         {
@@ -27183,14 +26287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaの変わり果てた姿を見ながら、あなたは私にひれ伏すのよ」"
+                                "Plotting General Carine: \"While witnessing Ginga's pitiful state, you\nwill grovel before me.\""
                             ]
                         },
                         {
@@ -27221,14 +26318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん、もうこんな事はやめて」"
+                                "Pony-Ceres: \"Saionji-san, please stop this already.\""
                             ]
                         },
                         {
@@ -27252,21 +26342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今ならまだ間に合うはず、ザイダーグなんかに心を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奪われないで……お願いよ」"
+                                "Pony-Ceres: \"It's not too late to change things, please don't let your\nheart be stolen by Zaidar... I'm begging you.\""
                             ]
                         },
                         {
@@ -27290,14 +26366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はあなたを傷つけたくないの……」"
+                                "Pony-Ceres: \"I don't want to hurt you...\""
                             ]
                         },
                         {
@@ -27337,14 +26406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたの大切な人を奪った私の心配？」"
+                                "Plotting General Carine: \"You're worried about me after I took away\nsomeone important to you?\""
                             ]
                         },
                         {
@@ -27361,14 +26423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お人よしもここまでくると呆れるわね」"
+                                "Plotting General Carine: \"Your naivety is astonishing to the point of\nbeing laughable.\""
                             ]
                         },
                         {
@@ -27392,21 +26447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私のせいで苦しんでるの分からなくて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　西園寺さんの孤独に気付いてあげられなかった」"
+                                "Pony-Ceres: \"I didn't realize how much pain I was causing you... I\nfailed to notice your loneliness, Saionji-san.\""
                             ]
                         },
                         {
@@ -27430,14 +26471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんね……」"
+                                "Pony-Ceres: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -27477,21 +26511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるさい！ もう何もかも遅いのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたを地獄へ落とすまで私は止まらない！」"
+                                "Plotting General Carine: \"Shut up! It's all too late now. I won't stop\nuntil I've cast you into hell!\""
                             ]
                         },
                         {
@@ -27515,14 +26535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん……」"
+                                "Pony-Ceres: \"Saionji-san...\""
                             ]
                         },
                         {
@@ -27539,14 +26552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謀将カリーヌ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さよなら、守崎」"
+                                "Plotting General Carine: \"Goodbye, Morisaki.\""
                             ]
                         },
                         {
@@ -27570,14 +26576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待って！」"
+                                "Pony-Ceres: \"Wait!\""
                             ]
                         },
                         {
@@ -28329,14 +27328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]進行可能なエリアが拡張されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "■グルダス地区"
+                                "\\c[17]he playable area has been expanded. ■ Grudas District"
                             ]
                         },
                         {

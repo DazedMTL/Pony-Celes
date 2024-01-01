@@ -12079,14 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. If I had the \\C[17]Azure Star Key\\C[0], it seems\nlike it would open."
                             ]
                         },
                         {
@@ -12154,14 +12147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Azure Star Key\\C[0], it seems like it\nwould open."
                             ]
                         },
                         {
@@ -12178,7 +12164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -12186,8 +12172,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12229,7 +12215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -12645,14 +12631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チハル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと高いけど、イクラのおにぎりにしよっかな♪」"
+                                "Chiharu: \"It's a bit pricey, but maybe I'll go for the salmon roe\nonigiri♪\""
                             ]
                         },
                         {
@@ -12669,21 +12648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チハル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それとも鮭のおにぎりか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いやいや、今日は梅だ！」"
+                                "Chiharu: \"Or should I choose the salmon onigiri... No, no, today it's\nplum!\""
                             ]
                         },
                         {
@@ -12949,14 +12914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちぇっ！ アルバイトのケンジ君、今日は仕事お休みか……」"
+                                "Yuna: \"Tch! Kenji-kun, the part-timer, is off work today...\""
                             ]
                         },
                         {
@@ -13088,21 +13046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにこれをセットして……予約番号を入れて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お金を入れて……う～ん、ネットプリントって難しい！」"
+                                "Yousuke: \"Set this here... enter the reservation number... insert the\nmoney... hmm, net printing is so complicated!\""
                             ]
                         },
                         {
@@ -13215,14 +13159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃい！」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -13400,7 +13337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＡＴＭが置いてある。"
+                                "There's an ATM here."
                             ]
                         },
                         {
@@ -13417,7 +13354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャッシュカードを持っていないので使用する事が出来ない。"
+                                "I don't have a cash card, so I can't use it."
                             ]
                         },
                         {

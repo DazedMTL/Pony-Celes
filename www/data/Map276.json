@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "工事現場",
+    "displayName": "Construction Site",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -6744,7 +6744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこからか話し声が聞こえてきた。"
+                                "Voices could be heard from somewhere."
                             ]
                         },
                         {
@@ -6804,21 +6804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして実行しなかった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女二人でもお前なら楽勝だろ」"
+                                "Iwao: \"Why didn't you go through with it? You could have easily taken\ndown two women.\""
                             ]
                         },
                         {
@@ -6878,14 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきの女どこかで見たような気がして……」"
+                                "Takeru: \"That woman from before... I feel like I've seen her\nsomewhere...\""
                             ]
                         },
                         {
@@ -6902,14 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにその女、私の気配に気付いたような素振りを……」"
+                                "Takeru: \"Besides, that woman seemed to notice my presence...\""
                             ]
                         },
                         {
@@ -6926,14 +6898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警戒されていたというわけか」"
+                                "Iwao: \"So you were being cautious.\""
                             ]
                         },
                         {
@@ -6950,21 +6915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、あれは普通の女じゃありませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　片方に逃げられると後がやっかいなので見送りました」"
+                                "Takeru: \"Yes, she's not an ordinary woman. It would be troublesome if\none got away, so I let them be.\""
                             ]
                         },
                         {
@@ -6997,14 +6948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よくやった、正解だ。命拾いしたな」"
+                                "Iwao: \"Good job, that was the right decision. You saved your own\nlife.\""
                             ]
                         },
                         {
@@ -7030,14 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？ それはどういう……」"
+                                "Takeru: \"Eh? What do you mean by that...?\""
                             ]
                         },
                         {
@@ -7070,14 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わからんか？」"
+                                "Iwao: \"Don't you get it?\""
                             ]
                         },
                         {
@@ -7094,14 +7024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人組を襲うようなバカならお前を消していたということだ」"
+                                "Iwao: \"If you were foolish enough to attack a pair, I would have had\nto eliminate you.\""
                             ]
                         },
                         {
@@ -7118,14 +7041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺が一番嫌いなもの、それはリスクだ」"
+                                "Iwao: \"The thing I hate the most is risk.\""
                             ]
                         },
                         {
@@ -7142,14 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな俺がなぜリスクのある現場に来ていると思う？」"
+                                "Iwao: \"Why do you think I would come to a risky scene like this?\""
                             ]
                         },
                         {
@@ -7166,14 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……すいません。わかりません」"
+                                "Takeru: \"...I'm sorry. I don't understand.\""
                             ]
                         },
                         {
@@ -7206,21 +7108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リスクを冒してまで現場に来ているのは、女の品定めのためだけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前の行動を監視するためだ」"
+                                "Iwao: \"I'm here taking risks not just to check out the women. It's to\nmonitor your actions.\""
                             ]
                         },
                         {
@@ -7237,21 +7125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前がおとり捜査などという警察の浅知恵にひっかって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　捕まった時、適切に対処するためだ」"
+                                "Iwao: \"It's so I can deal with it appropriately if you get caught in\nsome police sting operation.\""
                             ]
                         },
                         {
@@ -7268,14 +7142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察は俺を捕まえるための証拠集めに必死みたいだからな」"
+                                "Iwao: \"The police seem desperate to gather evidence to catch me.\""
                             ]
                         },
                         {
@@ -7292,14 +7159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安心して下さい。そんな失敗は……」"
+                                "Takeru: \"Please rest assured. I won't make such a mistake...\""
                             ]
                         },
                         {
@@ -7332,21 +7192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだといいんだがな……おそらくさっきの女はまたここに現れるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの女はなにかある。俺の勘がそう言ってる」"
+                                "Iwao: \"I hope that's true... That woman from before will likely show\nup here again. There's something about her. My instincts are telling\nme so.\""
                             ]
                         },
                         {
@@ -7363,14 +7209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはまずいですね。なら撤退しますか？」"
+                                "Takeru: \"That's not good. Should we retreat then?\""
                             ]
                         },
                         {
@@ -7403,21 +7242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本来なら撤退が定石だが、あれはとびっきりの上物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　リスクを冒してでも捕まえる価値はある」"
+                                "Iwao: \"Normally, retreating would be the smart move, but she's an\nexceptional catch. She's worth the risk.\""
                             ]
                         },
                         {
@@ -7434,14 +7259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつがもし警官だとしてもな……」"
+                                "Iwao: \"Even if she turns out to be a cop...\""
                             ]
                         },
                         {
@@ -7458,14 +7276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、警察だとしてもですか？」"
+                                "Takeru: \"Even if she's with the police?\""
                             ]
                         },
                         {
@@ -7498,21 +7309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前をアガースで救ってやった恩を忘れるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺の情報が無ければ今頃お前は豚箱行きだったんだぞ」"
+                                "Iwao: \"Don't forget the favor I did for you at Agas. Without my\ninformation, you'd be behind bars right now.\""
                             ]
                         },
                         {
@@ -7529,21 +7326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……わかってます。イワオさんには感謝しかありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この仕事、本気でやらさせてもらいますよ」"
+                                "Takeru: \"...I understand. I'm nothing but grateful to you, Iwao-san.\nI'll take this job seriously.\""
                             ]
                         },
                         {
@@ -7583,14 +7366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとこっちへ来てみろ」"
+                                "Iwao: \"Come over here for a second.\""
                             ]
                         },
                         {
@@ -8133,14 +7909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺はここに身を潜めておく。お前が万が一捕まった時の対処ためだ」"
+                                "Iwao: \"I'll hide out here. It's to prepare for the off chance that you\nget caught.\""
                             ]
                         },
                         {
@@ -8157,14 +7926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イワオさん……そこって……」"
+                                "Takeru: \"Iwao-san... that place is...\""
                             ]
                         },
                         {
@@ -8181,14 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ？」"
+                                "Iwao: \"What is it?\""
                             ]
                         },
                         {
@@ -8205,14 +7960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その場所は……ふふっ。笑ってしまいました」"
+                                "Takeru: \"That spot is... heh. It made me laugh.\""
                             ]
                         },
                         {
@@ -8229,14 +7977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「状況が状況だけに、ふふふっ」"
+                                "Takeru: \"Given the situation, heh heh heh.\""
                             ]
                         },
                         {
@@ -8253,14 +7994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お前、死にたいのか……」"
+                                "Iwao: \"You... do you have a death wish...?\""
                             ]
                         },
                         {
@@ -8277,21 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すいません……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　顔はクールなのに、実はユーモアなんですね」"
+                                "Takeru: \"Sorry... It's just that you have such a cool face, yet you\nactually have a sense of humor.\""
                             ]
                         },
                         {
@@ -8308,14 +8028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これも全て仕事のためだ」"
+                                "Iwao: \"All of this is for the sake of the job.\""
                             ]
                         },
                         {
@@ -8387,14 +8100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（知久内イワオ……やはりここにいたのね)"
+                                "Yui: (Iwao Chikunai... so he was here after all.)"
                             ]
                         },
                         {
@@ -8411,21 +8117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私の作戦がバレているみたいだったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつらを捕まえる絶好のチャンスね)"
+                                "Yui: (It seems like they've caught on to my strategy, but this is the\nperfect chance to catch them.)"
                             ]
                         },
                         {
@@ -8458,14 +8150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（向こうがその気ならこっちも本気でいくわよ。待ってなさい！)"
+                                "Yui: (If they're up for it, then I'm going all in too. Just you wait!)"
                             ]
                         },
                         {

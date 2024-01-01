@@ -3160,7 +3160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -3199,7 +3199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -3487,14 +3487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイボーグに関する資料が置かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読んでみますか？"
+                                "There are documents related to Zaiborg. Would you like to read them?"
                             ]
                         },
                         {
@@ -3502,8 +3495,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3533,7 +3526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～ザイボーグについて～"
+                                "About Zaiborg"
                             ]
                         },
                         {
@@ -3550,14 +3543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザイボーグに戦闘員を食わせ続けたところ、知能を有するまでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成長させる事が確認できた。"
+                                "By continuously feeding combatants to the Zaiborg, it has been\nconfirmed that they can grow to possess intelligence."
                             ]
                         },
                         {
@@ -3574,14 +3560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘力においても戦闘員を遥かに上回る怪人クラスの個体まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誕生し始めた。"
+                                "In terms of combat power, individuals have begun to emerge that far\nsurpass combatants, reaching the level of monster-class entities."
                             ]
                         },
                         {
@@ -3598,14 +3577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドムドラ様の研究は凄まじいが、私まで戦闘員の餌になっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意味が無い。"
+                                "Lord Domudora's research is tremendous, but it's pointless if I end up\nas mere fodder for the combatants."
                             ]
                         },
                         {
@@ -3622,14 +3594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "万が一のためにドムドラ様に内緒で、地上へ脱出する事が出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "避難用の通路を確保しておくとしよう。"
+                                "In case of an emergency, I shall secure an escape route to the surface\nwithout Lord Domudora's knowledge."
                             ]
                         },
                         {
@@ -3646,7 +3611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "使用するような事態まで発展しなければいいのだが……"
+                                "Hopefully, it won't come to a situation where it needs to be used..."
                             ]
                         },
                         {
@@ -3679,7 +3644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "資料の下に鍵を発見した！"
+                                "I found a key beneath the documents!"
                             ]
                         },
                         {
@@ -3718,7 +3683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[291]緊急脱出口の鍵】を手に入れた！"
+                                "I've obtained the 【\\i[291]Emergency Exit Key】!"
                             ]
                         },
                         {
@@ -3817,14 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイボーグに関する資料が置かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読んでみますか？"
+                                "There are documents about Zaiborg. Would you like to read them?"
                             ]
                         },
                         {
@@ -3832,8 +3790,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3863,7 +3821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～ザイボーグについて～"
+                                "~About Zaiborg~"
                             ]
                         },
                         {
@@ -3880,14 +3838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザイボーグに戦闘員を食わせ続けたところ、知能を有するまでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成長させる事が確認できた。"
+                                "By continuously feeding combatants to the Zaiborg, we have confirmed\nthat they can grow to possess intelligence."
                             ]
                         },
                         {
@@ -3904,14 +3855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘力においても戦闘員を遥かに上回る怪人クラスの個体まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誕生し始めた。"
+                                "In terms of combat power, individuals have begun to emerge that far\nsurpass combatants, reaching the level of monster-class entities."
                             ]
                         },
                         {
@@ -3928,14 +3872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドムドラ様の研究は凄まじいが、私まで戦闘員の餌になっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意味が無い。"
+                                "Lord Domudra's research is tremendous, but it's pointless if I end up\nas mere fodder for the combatants."
                             ]
                         },
                         {
@@ -3952,14 +3889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "万が一のためにドムドラ様に内緒で、地上へ脱出する事が出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "避難用の通路を確保しておくとしよう。"
+                                "Just in case, I'll secure an emergency passage that allows escape to\nthe surface without Lord Domudra knowing."
                             ]
                         },
                         {
@@ -3976,7 +3906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "使用するような事態まで発展しなければいいのだが……"
+                                "I hope we never have to use it, but one can never be too careful..."
                             ]
                         },
                         {
@@ -4076,7 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既にこと切れているようだ……"
+                                "It seems it's already been cut off..."
                             ]
                         },
                         {

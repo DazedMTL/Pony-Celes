@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "美術室",
+    "displayName": "Art Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12650,21 +12650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長が……独り言で……全部で\\C[17]５機\\C[0]……って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言って……」"
+                                "Combatant: \"The chairman was...muttering to himself...a total of\n\\C[17]five units\\C[0]...he said...\""
                             ]
                         },
                         {
@@ -12752,7 +12738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#第三回美術コンクール締め切りせまる。"
+                                "The deadline for the third art contest is approaching."
                             ]
                         },
                         {
@@ -12829,7 +12815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#第三回美術コンクール締め切りせまる。"
+                                "The deadline for the third art contest is approaching."
                             ]
                         },
                         {

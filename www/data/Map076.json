@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "セレクトショップ",
+    "displayName": "Select Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12151,14 +12151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マスクを被った男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへへっ、珍しい品を仕入れてるぜ。見ていくかい？」"
+                                "Masked Man: \"Hehehe, I've got some rare items in stock. Wanna take a\nlook?\""
                             ]
                         },
                         {
@@ -12356,14 +12349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マスクを被った男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！ お前は……」"
+                                "Masked Man: \"Ah! You are...\""
                             ]
                         },
                         {
@@ -12380,14 +12366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マスクを被った男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「め、珍しい品を仕入れてるぜ……」"
+                                "Masked Man: \"Heh, I've got some rare items in stock...\""
                             ]
                         },
                         {

@@ -15340,14 +15340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15364,14 +15357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「寝むれない……」"
+                                "Ginga: \"I can't sleep...\""
                             ]
                         },
                         {
@@ -15388,14 +15374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15412,14 +15391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「結局ユイは帰ってこなかった……」"
+                                "Ginga: \"In the end, Yui didn't come back...\""
                             ]
                         },
                         {
@@ -15436,14 +15408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鮫島の家に泊ったんだろうか……」"
+                                "Ginga: \"I wonder if she stayed at Samejima's house...\""
                             ]
                         },
                         {
@@ -15460,14 +15425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15484,14 +15442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕はどうすれば……」"
+                                "Ginga: \"What should I do...\""
                             ]
                         },
                         {
@@ -15508,14 +15459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15532,14 +15476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめだ……寝れない……\\|気晴らしに公園にでも行こうかな」"
+                                "Ginga: \"No good... I can't sleep... Maybe I'll go to the park for a\ndistraction.\""
                             ]
                         },
                         {
@@ -16016,8 +15953,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "タンスを開ける",
-                                    "Ｈなアイテムをしまう"
+                                    "Open the dresser",
+                                    "Putting away the naughty item"
                                 ],
                                 1,
                                 0,
@@ -16072,10 +16009,10 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "乳首ローターを使う",
-                                    "ハンディーローターを使う",
-                                    "激アナル棒を使う",
-                                    "使用しない"
+                                    "Use the nipple rotor",
+                                    "Use the handheld rotor",
+                                    "Use the intense anal rod",
+                                    "Don't use it"
                                 ],
                                 3,
                                 0,
@@ -16196,9 +16133,9 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "乳首ローターを使う",
-                                    "ハンディーローターを使う",
-                                    "使用しない"
+                                    "Use the nipple rotor",
+                                    "Use the handheld vibrator",
+                                    "Don't use it"
                                 ],
                                 2,
                                 0,
@@ -16313,9 +16250,9 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "乳首ローターを使う",
-                                    "激アナル棒を使う",
-                                    "使用しない"
+                                    "Use the nipple rotor",
+                                    "Use the intense anal rod",
+                                    "Don't use it"
                                 ],
                                 2,
                                 0,
@@ -16411,8 +16348,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "乳首ローターを使う",
-                                    "使用しない"
+                                    "Use the nipple rotor",
+                                    "Don't use it"
                                 ],
                                 1,
                                 0,
@@ -16521,7 +16458,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "タンスには何も入っていない。"
+                                "There's nothing in the dresser."
                             ]
                         },
                         {
@@ -16588,7 +16525,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは【\\i[288]乳首ローター】をタンスにしまった。"
+                                "Yui put the 【\\i[288]Nipple Rotor】 in the dresser."
                             ]
                         },
                         {
@@ -16661,7 +16598,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイは【\\i[288]ハンディーローター】をタンスにしまった。"
+                                "Yui put the 【\\i[288]Handy Rotor】 in the dresser."
                             ]
                         },
                         {
@@ -16734,7 +16671,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ユイは【\\i[288]激アナル棒】をタンスにしまった。"
+                                "Yui put the 【\\i[288]Intense Anal Stick】 in the dresser."
                             ]
                         },
                         {
@@ -16780,7 +16717,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Ｈなアイテムを所持していない。"
+                                "She doesn't have any naughty items on her."
                             ]
                         },
                         {
@@ -16899,7 +16836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローゼットを開ける必要は無さそうだ。"
+                                "There doesn't seem to be a need to open the closet."
                             ]
                         },
                         {
@@ -16976,7 +16913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローゼットを開ける必要は無さそうだ。"
+                                "There doesn't seem to be a need to open the closet."
                             ]
                         },
                         {
@@ -17062,14 +16999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "空手の達人というタイトルの本がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "汚れ折れが酷く、かなり読み込まれた本のようだ。"
+                                "There's a book titled \"Karate Master.\" It's quite worn and tattered,\nindicating it's been read thoroughly."
                             ]
                         },
                         {
@@ -17165,7 +17095,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "美味しいケーキ屋さん巡りというタイトルの本がセットで並べられている。"
+                                "A set of books titled \"Tour of Delicious Cake Shops\" is arranged\ntogether."
                             ]
                         },
                         {
@@ -17259,7 +17189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の渦から光が漏れている。"
+                                "Light is leaking from the red vortex."
                             ]
                         },
                         {
@@ -17383,7 +17313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "光の渦に触れますか？"
+                                "Will you touch the vortex of light?"
                             ]
                         },
                         {
@@ -17391,8 +17321,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17504,7 +17434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -17613,7 +17543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "不思議な力によって今は使用出来ないみたいだ。"
+                                "It seems that it can't be used right now due to some mysterious power."
                             ]
                         },
                         {
@@ -17734,9 +17664,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "乳首",
-                                    "マンコ",
-                                    "アナル"
+                                    "Nipple",
+                                    "[This term is an explicit word for female genitalia and is not appropriate for all audiences]",
+                                    "Anal"
                                 ],
                                 1,
                                 0,

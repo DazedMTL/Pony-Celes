@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "肉マサ屋",
+    "displayName": "Meat Masaya Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12088,14 +12088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「熱々ホクホクのコロッケ！ 食べれば笑顔間違い無し！」"
+                                "Shopkeeper: \"Hot and fluffy croquettes! Guaranteed to bring a smile to\nyour face when you eat them!\""
                             ]
                         },
                         {
@@ -12122,14 +12115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちょっと、お客さん！ そこに入っちゃダメだよ！」"
+                                "Shopkeeper: \"Hey, customer! You can't go in there!\""
                             ]
                         },
                         {
@@ -12237,7 +12223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12264,7 +12250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[296]メロンイエロー】を手に入れた！"
+                                "【\\i[296]Melon Yellow】has been obtained!"
                             ]
                         },
                         {
@@ -12371,7 +12357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the fridge."
                             ]
                         },
                         {
@@ -12388,7 +12374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -12496,7 +12482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12513,7 +12499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -12609,7 +12595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -12705,7 +12691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -12801,7 +12787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -12897,7 +12883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -13065,7 +13051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -13161,7 +13147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -13257,7 +13243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出来立てのコロッケが並べられいる。"
+                                "Freshly made croquettes are lined up."
                             ]
                         },
                         {
@@ -13383,14 +13369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ～、本当に助かったよ！」"
+                                "Butcher Shop Owner: \"Phew~ You really saved me!\""
                             ]
                         },
                         {
@@ -13407,14 +13386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの化け物に店を奪われて一時はどうなるものかと思ったけど」"
+                                "Butcher Shop Owner: \"I thought it was all over when that monster took\nover my shop.\""
                             ]
                         },
                         {
@@ -13431,14 +13403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう勇敢なお嬢ちゃん！ いや……\\|ポニーセレス！」"
+                                "Butcher Shop Owner: \"Thank you, brave young lady! No... Pony-Celes!\""
                             ]
                         },
                         {
@@ -13489,21 +13454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ、街の皆さんを守る―"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これが私の使命ですから！」"
+                                "Pony-Celes: \"No, no, protecting everyone in town - that's my mission!\""
                             ]
                         },
                         {
@@ -13527,14 +13478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「使命か。さすが正義の味方だ！ 頼もしいね～！」"
+                                "Butcher Shop Owner: \"A mission, huh? Just like a true hero! You're so\nreliable!\""
                             ]
                         },
                         {
@@ -13560,21 +13504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！ なら、俺の使命はみんなに美味しいコロッケを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　食べてもらって元気をつけてもらう事だな」"
+                                "Butcher Shop Owner: \"That's right! Then, my mission is to make sure\neveryone gets to eat delicious croquettes and regain their energy!\""
                             ]
                         },
                         {
@@ -13591,21 +13521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうだい？ 肉マサ屋特製の牛肉コロッケ、お土産に持って帰るかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　食べたら今日の疲れが吹き飛ぶぜ！」"
+                                "Butcher Shop Owner: \"How about it? Want to take home some of Butcher\nMasa's special beef croquettes as a souvenir? They'll blow away all\nthe fatigue of today!\""
                             ]
                         },
                         {
@@ -13622,14 +13538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんお代はいらねーよ。助けてもらったお礼だ！」"
+                                "Butcher Shop Owner: \"Of course, there's no charge. It's my way of\nsaying thanks for the help!\""
                             ]
                         },
                         {
@@ -13662,14 +13571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんとですか！」"
+                                "Pony-Celes: \"Really?!\""
                             ]
                         },
                         {
@@ -13695,21 +13597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「肉マサ屋のコロッケ大好きなんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃあ、お言葉に甘えて……」"
+                                "Pony-Celes: \"I love Butcher Masa's croquettes! Well then, I'll gladly\naccept...\""
                             ]
                         },
                         {
@@ -13742,14 +13630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「牛肉コロッケ４つ下さいっ！！」"
+                                "Pony-Celes: \"Please give me four beef croquettes!!\""
                             ]
                         },
                         {
@@ -13775,21 +13656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははっ、４つか！ 随分と食べるんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ポニーセレスは大食いだったか！ あははははっ！」"
+                                "Butcher Shop Owner: \"Hahaha, four of them! You sure can eat. Is Pony-\nCeles a big eater? Ahahahaha!\""
                             ]
                         },
                         {
@@ -13831,21 +13698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、違いますぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　半分は友達の分ですよ、もぅ！」"
+                                "Pony-Celes: \"Tch, that's not it! Half of them are for a friend, geez!\""
                             ]
                         },
                         {
@@ -13862,21 +13715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか、そうか！ それは失礼、あはははっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思う存分、お腹いっぱい食べてくれ！」"
+                                "Butcher Shop Owner: \"Oh, is that so? My apologies, ahahaha. Eat to\nyour heart's content!\""
                             ]
                         },
                         {
@@ -13893,21 +13732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「友達の分と合わせて８つ入れとくぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何も大食いだからって気にする必要ないんだからな、お嬢ちゃん！」"
+                                "Butcher Shop Owner: \"I'll put in eight then! Don't worry about it just\nbecause you're a big eater, young lady!\""
                             ]
                         },
                         {
@@ -13940,21 +13765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、だから～、違うんですって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなに食べませんよ、もぅーーーー！」"
+                                "Pony-Celes: \"No, that's not what I mean! I don't eat that much,\nreally----!\""
                             ]
                         },
                         {
@@ -13971,14 +13782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉マサ屋の店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはははははっ！！」"
+                                "Butcher Shop Owner: \"Ahahahahaha!!\""
                             ]
                         },
                         {
@@ -14175,7 +13979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -14183,8 +13987,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14461,7 +14265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[220]安全靴】を手に入れた！"
+                                "I've obtained the 【\\i[220]Safety Shoes】!"
                             ]
                         },
                         {

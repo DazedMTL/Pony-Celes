@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フェイの第五倉庫",
+    "displayName": "Fey's Fifth Warehouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 62,
@@ -26658,7 +26658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#始まりが私で終わりも私"
+                                "The beginning is me, and the end is also me."
                             ]
                         },
                         {
@@ -27263,7 +27263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっており開かない。"
+                                "The door is locked and won't open."
                             ]
                         },
                         {
@@ -27340,7 +27340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっており開かない。"
+                                "The door is locked and won't open."
                             ]
                         },
                         {
@@ -27417,7 +27417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっており開かない。"
+                                "The door is locked and won't open."
                             ]
                         },
                         {
@@ -27494,7 +27494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっており開かない。"
+                                "The door is locked and won't open."
                             ]
                         },
                         {
@@ -27609,7 +27609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "床下に階段を発見した！"
+                                "I've discovered stairs under the floor!"
                             ]
                         },
                         {

@@ -5959,21 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここはスタッフルームだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君、こんなところまで入ってきちゃ……」"
+                                "Clerk: \"This is the staff room. You shouldn't be coming in here...\""
                             ]
                         },
                         {
@@ -5990,21 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、いっか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっきもピエロの被り物した変な奴が入ってきてたしな……」"
+                                "Clerk: \"Well, whatever! There was also a weirdo wearing a clown mask\nwho came in earlier...\""
                             ]
                         },
                         {
@@ -6021,21 +5993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに俺そろそろクビになりそうだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この店の事なんてもう知ったこっちゃねーし」"
+                                "Clerk: \"Besides, I'm about to be fired soon anyway, so I couldn't care\nless about this place now.\""
                             ]
                         },
                         {

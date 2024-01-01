@@ -12079,7 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gingaを探そう。"
+                                "Let's look for Ginga."
                             ]
                         },
                         {
@@ -12247,14 +12247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「天沢はこの奥だ。さっさと行けよ！」"
+                                "Takumi: \"Amasawa is further inside. Hurry up and go!\""
                             ]
                         },
                         {
@@ -12528,7 +12521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12555,7 +12548,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[296]ＧＧレモン】を手に入れた！"
+                                "【\\i[296]GG Lemon】was obtained!"
                             ]
                         },
                         {
@@ -12662,7 +12655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12679,7 +12672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいの物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -12766,14 +12759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It seems like it would open if I had the\n\\C[17]Crimson Star Key\\C[0]."
                             ]
                         },
                         {
@@ -12841,14 +12827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Crimson Star Key\\C[0], it looks like\nit will open."
                             ]
                         },
                         {
@@ -12865,7 +12844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -12873,8 +12852,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12916,7 +12895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The key has been turned!"
                             ]
                         },
                         {
@@ -13650,14 +13629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga！！」"
+                                "Yui: \"Ginga!!\""
                             ]
                         },
                         {
@@ -13905,14 +13877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga、Ginga！ \\|どうしてこんな……」"
+                                "Yui: \"Ginga, Ginga! Why did this...\""
                             ]
                         },
                         {
@@ -13948,7 +13913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはGingaを部屋に運び、夜が明けるまで傍にいた。"
+                                "Yui carried Ginga to the room and stayed by his side until dawn."
                             ]
                         },
                         {
@@ -14091,7 +14056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gingaを探そう。"
+                                "Let's look for Ginga."
                             ]
                         },
                         {

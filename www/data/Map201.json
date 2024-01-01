@@ -12320,7 +12320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -12397,14 +12397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かを受信しているアンテナのようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "守崎家の方角を向いている･････"
+                                "It seems like an antenna receiving something. It's facing the\ndirection of the Morisaki household..."
                             ]
                         },
                         {
@@ -12908,14 +12901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……タクミ君！？」"
+                                "Yui: \"Takumi-kun!? What are you doing here?\""
                             ]
                         },
                         {
@@ -12978,14 +12964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よっ、守崎！」"
+                                "Takumi: \"Hey, Morisaki!\""
                             ]
                         },
                         {
@@ -13002,14 +12981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ＴＶ見たぜ。お前、アーバン地区へ一人で行くのか？」"
+                                "Takumi: \"I saw it on TV. Are you really going to the Avaran district\nalone?\""
                             ]
                         },
                         {
@@ -13026,14 +12998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"What!? No way!\""
                             ]
                         },
                         {
@@ -13066,14 +13031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、何言ってるのよ。私が行くわけないじゃない……」"
+                                "Yui: \"What are you talking about? There's no way I would go there...\""
                             ]
                         },
                         {
@@ -13106,14 +13064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれは確実に罠だ。行くんじゃない！」"
+                                "Takumi: \"It's definitely a trap. Don't go!\""
                             ]
                         },
                         {
@@ -13146,21 +13097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから、私は行かないって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ポニーセレスがザイダーグをやっつけてくれるはずよ」"
+                                "Yui: \"That's what I'm saying, I'm not going! Pony Ceres will take care\nof Zydag for us.\""
                             ]
                         },
                         {
@@ -13177,14 +13114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ないな……」"
+                                "Takumi: \"Can't be helped then...\""
                             ]
                         },
                         {
@@ -13201,21 +13131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう隠す必要ねーぜ、お前がポニーセレスだって事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分かってるんだからよ」"
+                                "Takumi: \"No need to hide it anymore, I know you're Pony Ceres.\""
                             ]
                         },
                         {
@@ -13248,14 +13164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"What!? How did you...?\""
                             ]
                         },
                         {
@@ -13272,14 +13181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてその事を……」"
+                                "Yui: \"Why would you say that...?\""
                             ]
                         },
                         {
@@ -13296,14 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バレバレなんだよ」"
+                                "Takumi: \"It's pretty obvious.\""
                             ]
                         },
                         {
@@ -13327,14 +13222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんで！？」"
+                                "Yui: \"How so!?\""
                             ]
                         },
                         {
@@ -13351,14 +13239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「簡単さ、お前の事を好きだからだ」"
+                                "Takumi: \"Simple, because I love you.\""
                             ]
                         },
                         {
@@ -13375,14 +13256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくら隠そうと俺にはわかる。好きってのはそういう事だろ」"
+                                "Takumi: \"No matter how much you try to hide it, I can tell. That's\nwhat love is all about, right?\""
                             ]
                         },
                         {
@@ -13399,14 +13273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -13423,14 +13290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……あの時、俺を助けてくれた時の事すげー感謝してる」"
+                                "Takumi: \"...I'm really grateful for that time you saved me.\""
                             ]
                         },
                         {
@@ -13447,14 +13307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は俺の命の恩人だ」"
+                                "Takumi: \"You're my lifesaver.\""
                             ]
                         },
                         {
@@ -13471,14 +13324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから一人で行かせるわけにはいかない」"
+                                "Takumi: \"That's why I can't let you go there alone.\""
                             ]
                         },
                         {
@@ -13495,21 +13341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしようもなくお前の事が好きなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に失いたくない」"
+                                "Takumi: \"I'm hopelessly in love with you. I can't bear to lose you.\""
                             ]
                         },
                         {
@@ -13526,21 +13358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺はお前のためならザイダーグとだって戦える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　命だって惜しくないぜ」"
+                                "Takumi: \"For your sake, I'd even fight Zydag. I wouldn't regret giving\nmy life for it.\""
                             ]
                         },
                         {
@@ -13557,14 +13375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タクミ君……」"
+                                "Yui: \"Takumi-kun...\""
                             ]
                         },
                         {
@@ -13581,14 +13392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなことを今この状況で言うのは間違っているのかもしれないが……」"
+                                "Takumi: \"It might be wrong to say this now, given the situation,\nbut...\""
                             ]
                         },
                         {
@@ -13605,14 +13409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺と付き合ってくれ！」"
+                                "Takumi: \"Will you go out with me?\""
                             ]
                         },
                         {
@@ -13652,14 +13449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タクミ君、変わったね……」"
+                                "Yui: \"Takumi-kun, you've changed...\""
                             ]
                         },
                         {
@@ -13676,14 +13466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少し前とは大違い……」"
+                                "Yui: \"You're so different from before...\""
                             ]
                         },
                         {
@@ -13700,21 +13483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうやって私の事を本気で心配してくれて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はっきりと気持ちを伝えてくれる事は素直に嬉しいよ」"
+                                "Yui: \"It makes me genuinely happy to see you worry about me and\nexpress your feelings so clearly.\""
                             ]
                         },
                         {
@@ -13747,14 +13516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……タクミ君の気持ちに応える事は出来ない」"
+                                "Yui: \"But... I can't return your feelings, Takumi-kun.\""
                             ]
                         },
                         {
@@ -13778,21 +13540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに答えが欲しいわけじゃないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前とは色々あったし、少しづつでいいから仲良くなりたい」"
+                                "Takumi: \"I don't need an answer right away. We've been through a lot\ntogether, and I just want to get closer to you, little by little.\""
                             ]
                         },
                         {
@@ -13809,14 +13557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -13833,14 +13574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん、はっきり言うね」"
+                                "Yui: \"I'm sorry, I have to be clear.\""
                             ]
                         },
                         {
@@ -13873,14 +13607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaのことが好きなの。だから、ごめんなさい……」"
+                                "Yui: \"I like Ginga. So, I'm sorry...\""
                             ]
                         },
                         {
@@ -13913,14 +13640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Takumi: \"...\""
                             ]
                         },
                         {
@@ -13960,14 +13680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そうか、わかった」"
+                                "Takumi: \"...I see, understood.\""
                             ]
                         },
                         {
@@ -13984,21 +13697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前が悲しみむから黙っていようと思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　天沢がどんな奴か教えてやるよ」"
+                                "Takumi: \"I was going to keep quiet because I didn't want to make you\nsad, but I'll tell you what kind of guy Amasawa really is.\""
                             ]
                         },
                         {
@@ -14047,14 +13746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これを見てくれ」"
+                                "Takumi: \"Take a look at this.\""
                             ]
                         },
                         {
@@ -14071,14 +13763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「天沢はお前にいい顔しながら、裏でカレンと付き合ってるぜ」"
+                                "Takumi: \"While Amasawa has been putting on a good face for you, he's\nbeen dating Karen behind your back.\""
                             ]
                         },
                         {
@@ -14095,14 +13780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"What!? No way!\""
                             ]
                         },
                         {
@@ -14220,7 +13898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミはカレンとGingaがキスをしている写真を見せた。"
+                                "Takumi showed her a photo of Karen and Ginga kissing."
                             ]
                         },
                         {
@@ -14331,14 +14009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにこれ……」"
+                                "Yui: \"What is this...?\""
                             ]
                         },
                         {
@@ -14355,14 +14026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこの公園で……どうして……」"
+                                "Yui: \"At that park... why...?\""
                             ]
                         },
                         {
@@ -14413,14 +14077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キスだけじゃないぜ、あの二人はもう体の関係まであるらしいぞ」"
+                                "Takumi: \"It's not just kissing, those two apparently have a physical\nrelationship already.\""
                             ]
                         },
                         {
@@ -14437,14 +14094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カレンから色々のろけ話を聞かされてこっちは困ってるところだ」"
+                                "Takumi: \"I've been troubled by all the lovey-dovey stories Karen's\nbeen telling me.\""
                             ]
                         },
                         {
@@ -14461,14 +14111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの嘘よ……」"
+                                "Yui: \"That can't be true...\""
                             ]
                         },
                         {
@@ -14485,21 +14128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二股かけるような奴なんて信用できない。そうだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前が俺に言った言葉だ」"
+                                "Takumi: \"You can't trust someone who's two-timing. Right? Those are\nthe words you told me.\""
                             ]
                         },
                         {
@@ -14516,21 +14145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今だってあいつはアーバン地区へ行ったふりをして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　西園寺家の屋敷に向かってるらしいぜ」"
+                                "Takumi: \"Even now, he's pretending to go to the Urban District but\nhe's actually heading to the Saionji family mansion.\""
                             ]
                         },
                         {
@@ -14547,21 +14162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前じゃザイダーグに勝てないと見切って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分だけ避難しようとしてるんだろな」"
+                                "Takumi: \"He must have decided you can't beat Zaidarug and is trying to\nescape on his own.\""
                             ]
                         },
                         {
@@ -14578,14 +14179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつはお前を見捨てたんだ」"
+                                "Takumi: \"He's abandoned you.\""
                             ]
                         },
                         {
@@ -14618,21 +14212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺は絶対にそんな事はしない。俺について来い守崎！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺があのガルベスって奴からお前を守ってやる！」"
+                                "Takumi: \"I would never do something like that. Come with me, Morisaki!\nI'll protect you from that guy Galves!\""
                             ]
                         },
                         {
@@ -14656,14 +14236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、お前の答えを聞かせてくれ」"
+                                "Takumi: \"Now, let me hear your answer.\""
                             ]
                         },
                         {
@@ -14763,7 +14336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]選択肢によって寝取られバッドエンドへの強制ルートとなります。"
+                                "\\c[17]epending on your choice, you may be forced into a route leading\nto a cuckoldry bad ending."
                             ]
                         },
                         {
@@ -14771,8 +14344,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "それでもGingaを信じる！",
-                                    "Gingaがこんな事するなんて"
+                                    "I still believe in Ginga!",
+                                    "I can't believe Ginga would do something like this"
                                 ],
                                 -1,
                                 -1,
@@ -14873,14 +14446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何か理由があるはずだわ。私はGingaを信じたい……」"
+                                "Yui: \"There must be some reason. I want to believe in Ginga...\""
                             ]
                         },
                         {
@@ -14931,14 +14497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁ……！？」"
+                                "Takumi: \"Hah...!?\""
                             ]
                         },
                         {
@@ -14955,21 +14514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「天沢はアーバン地区へ偵察になんて行ってないんだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お前を裏切ってカレンの家に避難しようとしている卑怯者だぞ」"
+                                "Takumi: \"Amasawa isn't scouting the Urban District. He's a coward\ntrying to take refuge at Karen's house, betraying you.\""
                             ]
                         },
                         {
@@ -15002,14 +14547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「現実を受け入れろよ、守崎！」"
+                                "Takumi: \"Accept reality, Morisaki!\""
                             ]
                         },
                         {
@@ -15026,14 +14564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「…………」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -15089,14 +14620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうしてその事を知っているの……」"
+                                "Yui: \"How do you know about that...?\""
                             ]
                         },
                         {
@@ -15129,14 +14653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……ん？」"
+                                "Takumi: \"...Huh?\""
                             ]
                         },
                         {
@@ -15153,14 +14670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「たしかにGingaはアーバン地区へ偵察に向かったわ」"
+                                "Yui: \"Ginga definitely went to scout the Urban District.\""
                             ]
                         },
                         {
@@ -15177,14 +14687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも、その事をなんであなたが知っているの？」"
+                                "Yui: \"But how do you know about it?\""
                             ]
                         },
                         {
@@ -15226,14 +14729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……あっ」"
+                                "Takumi: \"...Ah\""
                             ]
                         },
                         {
@@ -15266,14 +14762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この事を知ってるって事は、Gingaに会ったって事よね」"
+                                "Yui: \"Knowing this means you must have met Ginga.\""
                             ]
                         },
                         {
@@ -15290,21 +14779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも、Gingaは絶対あなたにこの事を話すはずがないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　私がポニーセレスだって教えてるようなものだもの！」"
+                                "Yui: \"But Ginga would never tell you about this. It's like telling you\nI'm Pony Ceres!\""
                             ]
                         },
                         {
@@ -15321,14 +14796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「Gingaに何かしたわね！」"
+                                "Yui: \"You did something to Ginga!\""
                             ]
                         },
                         {
@@ -15345,14 +14813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……ぐっ！」"
+                                "Takumi: \"...Guh!\""
                             ]
                         },
                         {
@@ -15369,21 +14830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それにさっきの写真、どこか違和感を感じたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　無理やりキスされたような……」"
+                                "Yui: \"Also, there was something off about that photo earlier. It\nlooked like a forced kiss...\""
                             ]
                         },
                         {
@@ -15400,14 +14847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あなた一体何を企んでいるつもりなの！」"
+                                "Yui: \"What exactly are you planning!?\""
                             ]
                         },
                         {
@@ -15487,14 +14927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ち、ちくしょーー！！」"
+                                "Takumi: \"Damn it...!!\""
                             ]
                         },
                         {
@@ -15511,21 +14944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もう少しだったのによォ！ くそがっ！ 今までの苦労が台無しだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この馬鹿なら騙せると思ったんだがな！」"
+                                "Takumi: \"I was so close! Damn it! All my efforts wasted... I thought I\ncould fool a fool like you!\""
                             ]
                         },
                         {
@@ -15542,14 +14961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「こうなりゃ、力ずくでも……」"
+                                "Takumi: \"If it comes to it, I'll just have to use force...\""
                             ]
                         },
                         {
@@ -15566,14 +14978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「！？」"
+                                "Yui: \"!?\""
                             ]
                         },
                         {
@@ -16001,14 +15406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんて人なの……」"
+                                "Yui: \"What kind of person are you...\""
                             ]
                         },
                         {
@@ -16025,14 +15423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「少しでもあなたの事を信用した私が馬鹿だったわ！」"
+                                "Yui: \"I was foolish to trust you even a little bit!\""
                             ]
                         },
                         {
@@ -16049,14 +15440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さぁ、Gingaに何をしたか言いなさい！」"
+                                "Yui: \"Now, tell me what you did to Ginga!\""
                             ]
                         },
                         {
@@ -16073,14 +15457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっ！」"
+                                "Takumi: \"Guh!\""
                             ]
                         },
                         {
@@ -16097,21 +15474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もっと酷い目に合いたいわけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　さぁ、立ちなさい！ Gingaはどこ！」"
+                                "Yui: \"Do you want things to get worse for you? Come on, get up! Where\nis Ginga?\""
                             ]
                         },
                         {
@@ -16262,14 +15625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっ、しかたねぇ……」"
+                                "Takumi: \"Ugh, can't be helped...\""
                             ]
                         },
                         {
@@ -16286,14 +15642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「付いて来い……」"
+                                "Takumi: \"Follow me...\""
                             ]
                         },
                         {
@@ -17121,14 +16470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（……どうしてハルヒコおじさんの家に？）"
+                                "Yui (Why are we at Uncle Haruhiko's house?)"
                             ]
                         },
                         {
@@ -17274,14 +16616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「本当にあなたを信用していいの？ タクミ君……」"
+                                "Yui: \"Can I really trust you? Takumi-kun...\""
                             ]
                         },
                         {
@@ -17298,14 +16633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ、俺はお前のためなら命をかけれる」"
+                                "Takumi: \"Yeah, I'd risk my life for you.\""
                             ]
                         },
                         {
@@ -17322,14 +16650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「一緒にザイダーグを倒そうぜ」"
+                                "Takumi: \"Let's defeat Zaida-G together.\""
                             ]
                         },
                         {
@@ -17346,14 +16667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ありがとう……」"
+                                "Yui: \"Thank you...\""
                             ]
                         },
                         {
@@ -17370,14 +16684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「よしっ、ついてこい。俺に良い作戦があるんだ」"
+                                "Takumi: \"Alright, follow me. I have a good plan.\""
                             ]
                         },
                         {
@@ -17394,14 +16701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「…………」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -17418,14 +16718,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……わかったわ」"
+                                "Yui: \"...Understood.\""
                             ]
                         },
                         {
@@ -18010,7 +17303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -18027,7 +17320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -18044,7 +17337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -18061,7 +17354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして二週間が経過した――"
+                                "And then two weeks passed--"
                             ]
                         },
                         {
@@ -27459,7 +26752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -27741,7 +27034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -31086,7 +30379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "300\\G 手に入れた！"
+                                "Obtained 300\\G!"
                             ]
                         },
                         {
@@ -31676,14 +30969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「建物の影には要注意じゃ」"
+                                "Toshio: \"Be wary of the shadows of buildings.\""
                             ]
                         },
                         {
@@ -31700,21 +30986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本来、影がある場所に影が無ければ、そこは抜け道の可能性が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　高いということじゃの～」"
+                                "Toshio: \"If there's no shadow where there should be one, it's likely\nthat could be a secret passage, you know~\""
                             ]
                         },
                         {
@@ -31731,21 +31003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこの赤い建物なんかは、ワシから見れば怪しすぎるわい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フォフォフォ」"
+                                "Toshio: \"That red building over there looks suspicious to me! Ho ho\nho\""
                             ]
                         },
                         {
@@ -31774,14 +31032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]※建物の影や壁の影には注意してみるのもいいかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　抜け道や隠し通路が存在している可能性があります。"
+                                "\\C[17]Paying attention to the shadows of buildings and walls might be\na good idea. There could be escape routes or hidden passages."
                             ]
                         },
                         {
@@ -33045,7 +32296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -33053,8 +32304,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -33222,14 +32473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あそこで跳ねてる猫のように昔はワシも元気だったんじゃ」"
+                                "Tomozou: \"Just like that cat jumping over there, I too was full of\nenergy back in the day.\""
                             ]
                         },
                         {
@@ -33246,14 +32490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやはや、歳はとりたくないもんじゃな････」"
+                                "Tomozou: \"Oh dear, getting old is something I wish I could avoid...\""
                             ]
                         },
                         {
@@ -33282,7 +32519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]※猫のマネをして向こう岸へ渡ってみましょう。"
+                                "\\C[17]Try crossing to the other side by imitating the cat."
                             ]
                         },
                         {
@@ -33577,7 +32814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "150\\G 手に入れた！"
+                                "Obtained 150\\G!"
                             ]
                         },
                         {
@@ -33957,7 +33194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足元に１００円落ちていた！"
+                                "There was a 100 yen coin at my feet!"
                             ]
                         },
                         {
@@ -34258,7 +33495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【湘東学園前】行きのバスへ乗車しますか？"
+                                "Do you want to board the bus to Shoto Academy?"
                             ]
                         },
                         {
@@ -34266,8 +33503,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -34297,7 +33534,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイはバスに乗車した。"
+                                "Yui boarded the bus."
                             ]
                         },
                         {
@@ -34497,14 +33734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　湘東学園前行き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　"
+                                "Bound for Shoto Academy"
                             ]
                         },
                         {
@@ -35080,7 +34310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足元に１００円落ちていた！"
+                                "There was a 100 yen coin at my feet!"
                             ]
                         },
                         {

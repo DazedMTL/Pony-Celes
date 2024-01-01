@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォルス地区地下三層",
+    "displayName": "Forus District Underground Third Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 75,
@@ -36205,7 +36205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -36550,7 +36550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターの電源を復旧させますか？"
+                                "Would you like to restore power to the service elevator?"
                             ]
                         },
                         {
@@ -36558,8 +36558,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -36676,7 +36676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下三層の作業用エレベーターが復旧した。"
+                                "The service elevator on the third basement level has been restored."
                             ]
                         },
                         {
@@ -36767,7 +36767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {
@@ -40030,7 +40030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターがある。"
+                                "There's a service elevator here."
                             ]
                         },
                         {
@@ -40047,7 +40047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電源が入っていないようだ。"
+                                "It seems like the power is off."
                             ]
                         },
                         {
@@ -40115,7 +40115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターがある。"
+                                "There's a service elevator here."
                             ]
                         },
                         {
@@ -40132,7 +40132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用しますか？"
+                                "Would you like to use it?"
                             ]
                         },
                         {
@@ -40147,11 +40147,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "地下一層へ移動する",
-                                    "地下二層へ移動する",
-                                    "地下三層へ移動する",
-                                    "地下四層へ移動する",
-                                    "使用しない"
+                                    "Move to the first basement level",
+                                    "Move to the second basement level",
+                                    "Move to the third basement level",
+                                    "Move to the fourth basement level",
+                                    "Do not use"
                                 ],
                                 4,
                                 0,
@@ -40521,14 +40521,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボタンを押しても反応が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "地下二層の作業用エレベーターは現在作動していないようだ。"
+                                "Pressing the button doesn't seem to do anything. The service elevator\nfor the second basement floor appears to be out of operation right\nnow."
                             ]
                         },
                         {
@@ -40575,7 +40568,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在のフロアだ。"
+                                "This is the current floor."
                             ]
                         },
                         {
@@ -40785,14 +40778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボタンを押しても反応が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "地下四層の作業用エレベーターは現在作動していないようだ。"
+                                "Pressing the button doesn't seem to do anything. The service elevator\nfor the fourth basement floor appears to be out of operation right\nnow."
                             ]
                         },
                         {
@@ -41013,7 +40999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -43194,7 +43180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Book of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -43441,7 +43427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Book of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -43688,7 +43674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "I've obtained the 【\\i[90]Tome of Endurance】!"
                             ]
                         },
                         {
@@ -43935,7 +43921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "I've obtained the 【\\i[94]Training Tome】!"
                             ]
                         },
                         {

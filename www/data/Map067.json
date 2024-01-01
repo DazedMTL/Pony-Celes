@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は両親の寝室だ。勝手に入るのは止めておこう。"
+                                "Just ahead is my parents' bedroom. I should refrain from entering\nwithout permission."
                             ]
                         },
                         {
@@ -13288,14 +13288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごちそうさま！」"
+                                "Yui: \"Thank you for the meal!\""
                             ]
                         },
                         {
@@ -13319,14 +13312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaの手料理凄く美味しかったよ」"
+                                "Yui: \"Ginga's cooking was really delicious.\""
                             ]
                         },
                         {
@@ -13350,14 +13336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「明日は私が夕飯作ってあげるね！」"
+                                "Yui: \"Tomorrow, I'll cook dinner for you!\""
                             ]
                         },
                         {
@@ -13408,14 +13387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、ユイの料理……」"
+                                "Ginga: \"Eh, Yui's cooking...\""
                             ]
                         },
                         {
@@ -13464,14 +13436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ……何か不満でも？」"
+                                "Yui: \"Hmm... Is there something wrong?\""
                             ]
                         },
                         {
@@ -13497,21 +13462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、ないけど……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（前に食べたことあるけど、とんでもない味だったな……）"
+                                "Ginga: \"No, it's nothing...\" (But I've had it before, and it was a\ndisaster...)"
                             ]
                         },
                         {
@@ -13585,21 +13536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここで速報です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先ほど入った情報によると――」"
+                                "TV: \"We interrupt for a breaking news update. According to information\njust in--\""
                             ]
                         },
                         {
@@ -13726,21 +13663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本日、アーバン地区に現れたザイダーグはポニーセレスによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　討伐されたとの事です」"
+                                "TV: \"Today, the Zaidarg that appeared in the Urban District was\nsubdued by Pony Ceres.\""
                             ]
                         },
                         {
@@ -13757,14 +13680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「繰り返します」"
+                                "TV: \"I repeat\""
                             ]
                         },
                         {
@@ -13781,21 +13697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本日、アーバン地区に現れたザイダーグはポニーセレスによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　討伐されたとの事です」"
+                                "TV: \"Today, the Zaidarg that appeared in the Urban District was\nsubdued by Pony Ceres.\""
                             ]
                         },
                         {
@@ -13812,21 +13714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊急速報でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　では、次のニュースです」"
+                                "TV: \"That was an emergency news bulletin. Now, onto the next news\nitem.\""
                             ]
                         },
                         {
@@ -13911,14 +13799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグ……」"
+                                "Ginga: \"Zaidarg...\""
                             ]
                         },
                         {
@@ -13935,21 +13816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はアーバン地区に現れたのか。僕らの地区にもいつ現れるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　分からないし下校の時はユイも気を付けろよ」"
+                                "Ginga: \"So it appeared in the Urban District today. We never know when\nit might show up in our district, so be careful on your way home from\nschool, Yui.\""
                             ]
                         },
                         {
@@ -14014,21 +13881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはっ、私は女子空手部のエースよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ザイダーグなんて怖くないんだから」"
+                                "Yui: \"Ahaha, I'm the ace of the girls' karate club. I'm not scared of\nZaidarg at all.\""
                             ]
                         },
                         {
@@ -14123,21 +13976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何言ってんだよ。相手は警察も敵わない相手だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に近寄っちゃダメだ！」"
+                                "Ginga: \"What are you saying? This is an opponent not even the police\ncan handle. You absolutely must not get close!\""
                             ]
                         },
                         {
@@ -14186,21 +14025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な～んだ、珍しく私の心配してくれてるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　むきになっちゃって。ふふふっ、でもありがと！」"
+                                "Yui: \"What's this? Are you worried about me? That's so unlike you.\nHehehe, but thanks!\""
                             ]
                         },
                         {
@@ -14242,14 +14067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当にわかってるのかな……」"
+                                "Ginga: \"Do you really understand...?\""
                             ]
                         },
                         {
@@ -14273,14 +14091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもさ、ポニーセレスって一体誰なんだろ」"
+                                "Ginga: \"But still, who exactly is Pony Ceres?\""
                             ]
                         },
                         {
@@ -14297,21 +14108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつもザイダーグから街を救ってくれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たぶん僕らと同じくらいの歳だと思うんだけど、本当に凄いよ」"
+                                "Ginga: \"Always saving the city from Zaidarg. I think they're probably\nabout our age, but they're really amazing.\""
                             ]
                         },
                         {
@@ -14360,21 +14157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だよね、一体誰なんだろね～。学校に通いながら正義のお仕事だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きっと頑張り屋さんなんだろな～」"
+                                "Yui: \"Right? Who could it be~? Going to school while doing such\nrighteous work. They must be really hardworking~\""
                             ]
                         },
                         {
@@ -14398,21 +14181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなに頑張ってるんだから、少しくらい赤点とったとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　許されるよね～」"
+                                "Yui: \"Since they're working so hard, getting a few red marks here and\nthere should be forgivable, right~?\""
                             ]
                         },
                         {
@@ -14438,14 +14207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよそれ。自分の事みたいに……」"
+                                "Ginga: \"What's that supposed to mean? It sounds like you're talking\nabout yourself...\""
                             ]
                         },
                         {
@@ -14462,21 +14224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイは赤点取らないように勉強頑張れよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　数学ならいつでも教えるからさ」"
+                                "Ginga: \"Yui, make sure you study hard so you don't get any failing\ngrades. I'll always help you with math if you need it.\""
                             ]
                         },
                         {
@@ -14507,14 +14255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふっ、ありがと！」"
+                                "Yui: \"Hehehe, thanks!\""
                             ]
                         },
                         {

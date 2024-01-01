@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スタッフルーム",
+    "displayName": "Staff Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3079,7 +3079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーの隣に注意書きがある。"
+                                "There's a note next to the lever."
                             ]
                         },
                         {
@@ -3096,14 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "緊急時、三階へのエレベーターが自動的に停止となります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尚、エレベーターの復旧にはこのレバーを使用して下さい。"
+                                "In case of emergency, the elevator to the third floor will\nautomatically stop. To restore the elevator, please use this lever."
                             ]
                         },
                         {
@@ -3120,7 +3113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーを操作しますか？"
+                                "Would you like to operate the lever?"
                             ]
                         },
                         {
@@ -3128,8 +3121,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3218,7 +3211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "三階へのエレベーターが復旧した。"
+                                "The elevator to the third floor has been restored."
                             ]
                         },
                         {
@@ -3309,14 +3302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三階へのエレベーターは復旧している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうレバーを操作する必要は無さそうだ。"
+                                "The elevator to the third floor has been restored. It seems there's no\nneed to operate the lever anymore."
                             ]
                         },
                         {
@@ -4806,7 +4792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレスはロッカーを開けた。"
+                                "Pony-Ceres opened the locker."
                             ]
                         },
                         {
@@ -4833,7 +4819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]救急セット】を手に入れた！"
+                                "【\\i[294]First Aid Kit】acquired!"
                             ]
                         },
                         {
@@ -4940,7 +4926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレスはロッカーを開けた。"
+                                "Pony-Ceres opened the locker."
                             ]
                         },
                         {
@@ -4957,7 +4943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -5164,14 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すばしっこいガキめ、ようやく追い詰めたぞ！」"
+                                "Zaida-G Combatant: \"You slippery brat, I've finally cornered you!\""
                             ]
                         },
                         {
@@ -5197,14 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、おじさんと楽しい事を……」"
+                                "Zaida-G Combatant: \"Now, let's have some fun with uncle...\""
                             ]
                         },
                         {
@@ -5414,14 +5386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶひゃああああああぁぁっ！！」"
+                                "Zaida-G Combatant: \"Buhhyaaaaaaaah!!!\""
                             ]
                         },
                         {
@@ -5479,14 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お姉さんが来たからにはもう安心よ」"
+                                "Pony-Celes: \"Now that your big sister is here, you can relax.\""
                             ]
                         },
                         {
@@ -5510,14 +5468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けてくれて、ありがとう……」"
+                                "Girl: \"Thank you for saving me...\""
                             ]
                         },
                         {
@@ -5541,14 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お名前は、なんて言うの？」"
+                                "Pony-Celes: \"What's your name?\""
                             ]
                         },
                         {
@@ -5572,14 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒナ……」"
+                                "Hina: \"Hina...\""
                             ]
                         },
                         {
@@ -5603,21 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怖い思いさせてごめんねヒナちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこも怪我してない？ 大丈夫？」"
+                                "Pony-Celes: \"I'm sorry you were scared, Hina-chan. Are you hurt\nanywhere? Are you okay?\""
                             ]
                         },
                         {
@@ -5641,21 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、ヒナは大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもヒナを助けてくれた知らないお兄ちゃんが……」"
+                                "Hina: \"Yes, Hina is okay. But the unknown big brother who saved\nHina...\""
                             ]
                         },
                         {
@@ -5688,14 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知らないお兄ちゃん？」"
+                                "Pony-Celes: \"Unknown big brother?\""
                             ]
                         },
                         {
@@ -5719,21 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ケーキ屋の前でヒナを助けてくれたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、それで悪い人に捕まって……」"
+                                "Hina: \"He saved Hina in front of the cake shop. But then, the bad\npeople caught him...\""
                             ]
                         },
                         {
@@ -5771,14 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ケーキ屋の前、もしかしてGinga！？）"
+                                "Pony-Celes: \"(In front of the cake shop, could it be Ginga!?)"
                             ]
                         },
                         {
@@ -5825,21 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫よヒナちゃん、悪い奴は私がやっつけるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それにお兄ちゃんも絶対に助けるわ！」"
+                                "Pony-Celes: \"It's okay, Hina-chan. I'll take care of the bad guy. And\nI'll definitely save your big brother too!\""
                             ]
                         },
                         {
@@ -5856,21 +5723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから心配しなくていいのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ヒナちゃんは安全なところで待っててね！」"
+                                "Pony-Celes: \"So don't worry. You just wait somewhere safe, okay?\""
                             ]
                         },
                         {
@@ -5894,14 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、わかった。気をつけてねお姉ちゃん」"
+                                "Hina: \"Okay, I understand. Please be careful, big sister.\""
                             ]
                         },
                         {
@@ -5986,7 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスはヒナを救出した！"
+                                "Pony-Celes has rescued Hina!"
                             ]
                         },
                         {
@@ -6246,14 +6092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暗証番号で開く扉のようだ。"
+                                "The door is locked. It seems to open with a numerical code."
                             ]
                         },
                         {
@@ -6270,7 +6109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗証番号を入力して下さい。"
+                                "Please enter the passcode."
                             ]
                         },
                         {
@@ -6318,7 +6157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "施錠を解除した！"
+                                "The lock has been released!"
                             ]
                         },
                         {
@@ -6353,7 +6192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暗証番号が間違っているようだ。"
+                                "It seems the passcode is incorrect."
                             ]
                         },
                         {
@@ -6753,7 +6592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[194]ブロンズリング】を手に入れた！"
+                                "Obtained the 【\\i[194]Bronze Ring】!"
                             ]
                         },
                         {

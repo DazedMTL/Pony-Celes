@@ -5811,14 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この映像は今日の夜明け前の映像よ……」"
+                                "Karen: \"This footage is from before dawn today...\""
                             ]
                         },
                         {
@@ -5835,14 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「防犯カメラに映ってるの、これってGinga君よね……」"
+                                "Karen: \"The one captured by the security camera, this is Ginga-kun,\nisn't it...\""
                             ]
                         },
                         {
@@ -6319,14 +6305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグがどうしてGingaを……？」"
+                                "Yui: \"Why would Zaidah-G be after Ginga...?\""
                             ]
                         },
                         {
@@ -6740,14 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は西園寺製薬の敷地内です」"
+                                "Security Guard: \"Beyond this point is the Saionji Pharmaceuticals\nproperty.\""
                             ]
                         },
                         {
@@ -7001,14 +6973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は西園寺製薬の敷地内です」"
+                                "Security Guard: \"Beyond this point is the Saionji Pharmaceuticals\nproperty.\""
                             ]
                         },
                         {
@@ -7737,7 +7702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは地面を調べた！"
+                                "Yui examined the ground!"
                             ]
                         },
                         {
@@ -7821,7 +7786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを発見した！"
+                                "She discovered a manhole!"
                             ]
                         },
                         {
@@ -7897,7 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを外して中に入りますか？"
+                                "Shall we remove the manhole cover and go inside?"
                             ]
                         },
                         {
@@ -7905,8 +7870,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

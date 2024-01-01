@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "天晶堂一号店",
+    "displayName": "Tenjoudou First Branch Store",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9151,7 +9151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -9420,7 +9420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -9689,7 +9689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -9958,7 +9958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -10227,7 +10227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -10496,7 +10496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -10765,7 +10765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -11034,7 +11034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -11303,7 +11303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュエリーをお探しですか？"
+                                "Are you looking for jewelry?"
                             ]
                         },
                         {
@@ -11627,14 +11627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#～～ステータスについて～～"
+                                "~~About Status~~"
                             ]
                         },
                         {
@@ -11748,7 +11741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "Obtained the 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -11905,7 +11898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -12154,7 +12147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -12403,7 +12396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -12652,7 +12645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -12901,7 +12894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -13150,7 +13143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -13399,7 +13392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -13648,7 +13641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -13897,7 +13890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指輪をお探しですか？"
+                                "Are you looking for a ring?"
                             ]
                         },
                         {
@@ -14155,7 +14148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -14404,7 +14397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -14653,7 +14646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -14902,7 +14895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -15151,7 +15144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -15400,7 +15393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -15649,7 +15642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -15898,7 +15891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {
@@ -16147,7 +16140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イヤリングをお探しですか？"
+                                "Are you looking for an earring?"
                             ]
                         },
                         {

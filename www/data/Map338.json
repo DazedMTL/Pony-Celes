@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ホストクラブ",
+    "displayName": "Host Club",
     "encounterList": [],
     "encounterStep": 30,
     "height": 55,
@@ -20718,7 +20718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -20726,8 +20726,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20931,14 +20931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは近日オープン予定のホストクラブです」"
+                                "Man in black suit: \"This is a host club that's scheduled to open\nsoon.\""
                             ]
                         },
                         {
@@ -20955,14 +20948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オープンするまで関係者以外は立ち入り禁止となっております」"
+                                "Man in black suit: \"Until it opens, entry is prohibited to anyone who\nisn't staff.\""
                             ]
                         },
                         {
@@ -21193,14 +21179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今、ザイダーグの戦闘員がいたような……」"
+                                "Yui: \"Just now, it seemed like there was a Zaidarg's combatant...\""
                             ]
                         },
                         {
@@ -21226,14 +21205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？ そ、そんなわけないじゃないですか……」"
+                                "Man in black suit: \"Eh? No, no, that can't be possible...\""
                             ]
                         },
                         {
@@ -21250,14 +21222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも今のはたしかに……」"
+                                "Yui: \"But what I saw just now was definitely...\""
                             ]
                         },
                         {
@@ -21274,14 +21239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中を調べさせてもらっていいですか？」"
+                                "Yui: \"May I take a look inside?\""
                             ]
                         },
                         {
@@ -21298,14 +21256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………だめですよ！ オープン前の準備で忙しいんですから！」"
+                                "Man in black suit: \"...No, you can't! We're busy preparing for the\nopening!\""
                             ]
                         },
                         {
@@ -21322,14 +21273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願いします。少しだけでいいので！」"
+                                "Yui: \"Please. I won't take long!\""
                             ]
                         },
                         {
@@ -21346,14 +21290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Man in black suit: \"...\""
                             ]
                         },
                         {
@@ -21370,14 +21307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ちっ！」"
+                                "Man in black suit: \"...Tch!\""
                             ]
                         },
                         {
@@ -21394,14 +21324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………余計な事に首を突っ込んだお前が悪いんだぞ！」"
+                                "Man in black suit: \"...It's your fault for poking your nose into\nthings that don't concern you!\""
                             ]
                         },
                         {
@@ -21538,14 +21461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お望み通り中を見せてやるぜ！ へへへっ！」"
+                                "Zaidarg combatant: \"As you wish, I'll let you see inside! Hehehe!\""
                             ]
                         },
                         {
@@ -21578,14 +21494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「思った通り、ザイダーグのアジトだったってわけね！」"
+                                "Yui: \"Just as I thought, it was a Zaidarg hideout!\""
                             ]
                         },
                         {
@@ -21602,21 +21511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうと分かった以上、見過ごす事は出来ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　覚悟しなさい！」"
+                                "Yui: \"Now that I know, I can't overlook this. Prepare yourself!\""
                             ]
                         },
                         {
@@ -21633,14 +21528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は？ 何が覚悟しなさいだ！ お前、今の状況が分かってんのか？」"
+                                "Zaidarg combatant: \"Huh? What do you mean prepare yourself! Do you\neven understand the situation?\""
                             ]
                         },
                         {
@@ -21673,21 +21561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、分かっているわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっちこそ今の状況を理解出来てないわよ？」"
+                                "Yui: \"Yes, I do understand. It's you who doesn't seem to grasp the\ncurrent situation, isn't it?\""
                             ]
                         },
                         {
@@ -21704,21 +21578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女のくせに度胸あるじゃーねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それとも、恐怖のあまり気でも狂ったか？」"
+                                "Zaidarg combatant: \"For a woman, you've got guts, don't you. Or has\nfear driven you mad?\""
                             ]
                         },
                         {
@@ -21735,14 +21595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「百聞は一見にしかずよ！」"
+                                "Yui: \"Seeing is believing!\""
                             ]
                         },
                         {
@@ -21768,14 +21621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ん？」"
+                                "Zaidarg combatant: \"...Huh?\""
                             ]
                         },
                         {
@@ -21933,14 +21779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポ、ポニーセレス！」"
+                                "Zaidarg combatant: \"Po, Pony-Ceres!\""
                             ]
                         },
                         {
@@ -22008,14 +21847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして……お前が！？」"
+                                "Zaidarg combatant: \"Why... you!?\""
                             ]
                         },
                         {
@@ -22048,14 +21880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようやく状況が理解できたようね！」"
+                                "Pony-Ceres: \"It looks like you've finally understood the situation!\""
                             ]
                         },
                         {
@@ -22072,14 +21897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理解出来た時にはもう遅いけどね！」"
+                                "Pony-Ceres: \"Though by the time you've understood, it's already too\nlate!\""
                             ]
                         },
                         {
@@ -22096,14 +21914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、待て！」"
+                                "Zaidarg combatant: \"Wai-, wait!\""
                             ]
                         },
                         {
@@ -22207,14 +22018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でやああああああぁぁ！！！」"
+                                "Yui Pony-Ceres: \"Take thisssss!!\""
                             ]
                         },
                         {
@@ -22404,14 +22208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶひゃああああああぁぁっ！！」"
+                                "Zaidarg combatant: \"Gahhhhhhh!!\""
                             ]
                         },
                         {
@@ -22462,14 +22259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中にいる戦闘員達、今すぐ出てきなさい！」"
+                                "Pony-Ceres: \"Combatants inside, come out right now!\""
                             ]
                         },
                         {
@@ -22486,14 +22276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が来たからはあなた達、もう終わりよ！」"
+                                "Pony-Ceres: \"Now that I'm here, it's the end for all of you!\""
                             ]
                         },
                         {
@@ -35330,7 +35113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "【\\i[90]The Tome of Endurance】has been obtained!"
                             ]
                         },
                         {
@@ -35577,7 +35360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[93]駿足の書】を手に入れた！"
+                                "Acquired the 【\\i[93]Swiftfoot Scroll】!"
                             ]
                         },
                         {

@@ -16933,14 +16933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんの用だ、ドムドラよ」"
+                                "Darugnoa: \"What do you want, Domudora?\""
                             ]
                         },
                         {
@@ -16957,14 +16950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「余の眠りを邪魔する、それ相応の理由があるのだろうな」"
+                                "Darugnoa: \"You must have a good reason to disturb my slumber.\""
                             ]
                         },
                         {
@@ -16988,21 +16974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはこれは申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし、一応報告にと思いまして……」"
+                                "Wisdom General Domudora: \"My apologies. However, I thought it\nnecessary to report...\""
                             ]
                         },
                         {
@@ -17026,14 +16998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先ほど、ガルベス殿がポニーセレスに敗れ戦死しました」"
+                                "Wisdom General Domudora: \"Just now, Lord Galves was defeated by Pony-\nCeres and has died in battle.\""
                             ]
                         },
                         {
@@ -17050,21 +17015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、さすがガルベス殿。最後の力をふり絞りポニーセレスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　道連れに自爆したとの事です」"
+                                "Wisdom General Domudora: \"But as expected of Lord Galves. With his\nlast strength, he managed to take Pony-Ceres with him in a self-\ndestruct.\""
                             ]
                         },
                         {
@@ -17088,14 +17039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Darugnoa: \"...\""
                             ]
                         },
                         {
@@ -17112,14 +17056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか、報告ご苦労だったな」"
+                                "Darugnoa: \"I see, you've done well to report this.\""
                             ]
                         },
                         {
@@ -17143,14 +17080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……？」"
+                                "Wisdom General Domudora: \"...?\""
                             ]
                         },
                         {
@@ -17167,14 +17097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それだけでございましょうか……」"
+                                "Wisdom General Domudora: \"Is that all there is to say...?\""
                             ]
                         },
                         {
@@ -17191,14 +17114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何が言いたい？」"
+                                "Darugnoa: \"What are you trying to say?\""
                             ]
                         },
                         {
@@ -17215,21 +17131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様が危惧していらっしゃった最大の脅威が消えさったのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なのにその面持ち……いったい？」"
+                                "Wisdom General Domudora: \"The greatest threat that you, Lord Darugnoa,\nwere concerned about has been eliminated. Yet your expression... what\ndoes it mean?\""
                             ]
                         },
                         {
@@ -17253,14 +17155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安堵した余が隙を見せるとでも思ったのか？」"
+                                "Darugnoa: \"Did you think I would show a moment of weakness in relief?\""
                             ]
                         },
                         {
@@ -17277,14 +17172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！？」"
+                                "Wisdom General Domudora: \"!?\""
                             ]
                         },
                         {
@@ -17301,14 +17189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「側近のザイボーグを連れて謁見とはお主らしくないぞ」"
+                                "Darugnoa: \"It's unlike you to bring your close aide Zaibog for an\naudience.\""
                             ]
                         },
                         {
@@ -17325,14 +17206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかとは思うが、この機に余を討とうとしているのではないな？」"
+                                "Darugnoa: \"Surely you're not thinking of taking this opportunity to\nstrike me down?\""
                             ]
                         },
                         {
@@ -17349,14 +17223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ！？」"
+                                "Wisdom General Domudora: \"Ugh!?\""
                             ]
                         },
                         {
@@ -17373,14 +17240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ……！ そのような事は！」"
+                                "Wisdom General Domudora: \"No...! That's not it at all!\""
                             ]
                         },
                         {
@@ -17404,14 +17264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出てきてよいぞ」"
+                                "Darugnoa: \"You may come out now.\""
                             ]
                         },
                         {
@@ -17428,14 +17281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はは！」"
+                                "???: \"Ha ha!\""
                             ]
                         },
                         {
@@ -17594,14 +17440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦闘員？」"
+                                "Wisdom General Domudora: \"A combatant?\""
                             ]
                         },
                         {
@@ -17618,14 +17457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう一度、余に報告するが良い」"
+                                "Darugnoa: \"Report to me once more.\""
                             ]
                         },
                         {
@@ -17658,21 +17490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区でのポニーセレス戦、ドムドラ様の謀反により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ガルベス様は戦死しました」"
+                                "Combatant: \"During the battle with Pony-Ceres in the Aban district,\nLord Galves died due to the treachery of Lord Domudora.\""
                             ]
                         },
                         {
@@ -17689,21 +17507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は身を潜め聞いていました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ガルベス様とドムドラ様の最後の会話を」"
+                                "Combatant: \"I was hiding and listening. I heard the final conversation\nbetween Lord Galves and Lord Domudora.\""
                             ]
                         },
                         {
@@ -17720,14 +17524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこでドムドラ様は、はっきりとおっしゃっておりました」"
+                                "Combatant: \"There, Lord Domudora clearly stated...\""
                             ]
                         },
                         {
@@ -17744,21 +17541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様を抹殺するためには護衛を任されているガルベス様を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先に始末しなければと……」"
+                                "Combatant: \"'In order to assassinate Lord Darugnoa, I must first\ndispose of Lord Galves, who has been entrusted as his guard...'\""
                             ]
                         },
                         {
@@ -17822,21 +17605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは偽りです、ダーグノア様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一端の戦闘員の言う事など！」"
+                                "Wisdom General Domudora: \"That's a lie, Lord Darugnoa! The words of a\nmere combatant...!\""
                             ]
                         },
                         {
@@ -17860,14 +17629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもそうだな」"
+                                "Darugnoa: \"That may be so.\""
                             ]
                         },
                         {
@@ -17884,14 +17646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「面を見せい。鮫島とやら」"
+                                "Darugnoa: \"Show your face. You, who are called Samejima.\""
                             ]
                         },
                         {
@@ -18020,14 +17775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……！！」"
+                                "Wisdom General Domudora: \"...!!\""
                             ]
                         },
                         {
@@ -18044,21 +17792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こやつはまだ戦闘員への改造を受けてはいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦闘員の衣装をまとっただけのただの人間」"
+                                "Darugnoa: \"This one has not yet undergone the transformation into a\ncombatant. He's just a human dressed in a combatant's uniform.\""
                             ]
                         },
                         {
@@ -18113,14 +17847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら！」"
+                                "Wisdom General Domudora: \"Then!\""
                             ]
                         },
                         {
@@ -18137,14 +17864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「尚更、人間の言う事など！」"
+                                "Wisdom General Domudora: \"All the more reason not to trust the words\nof a human!\""
                             ]
                         },
                         {
@@ -18161,14 +17881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふはははっ、お前ともあろう者が理解しておらぬか？」"
+                                "Darugnoa: \"Hahaha, do you not understand, even someone like you?\""
                             ]
                         },
                         {
@@ -18185,14 +17898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こやつは命の危険を冒してまで、余に謁見を申し出たのだ」"
+                                "Darugnoa: \"This man risked his life to seek an audience with me.\""
                             ]
                         },
                         {
@@ -18209,14 +17915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのような嘘を付く意味がどこにある？」"
+                                "Darugnoa: \"Where would be the sense in him telling such lies?\""
                             ]
                         },
                         {
@@ -18233,14 +17932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに、ただの人間風情が見上げた根性ではないか」"
+                                "Darugnoa: \"Besides, it's not common for mere humans to show such\nremarkable courage, is it?\""
                             ]
                         },
                         {
@@ -18257,14 +17949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「種は違えどこの男は役に立つ、そうは思わんか？」"
+                                "Darugnoa: \"Different species though we may be, this man could be\nuseful, don't you think?\""
                             ]
                         },
                         {
@@ -18288,14 +17973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぐっ！」"
+                                "Wisdom General Domudora: \"...Guh!\""
                             ]
                         },
                         {
@@ -18319,14 +17997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さがってよいぞ、鮫島」"
+                                "Darugnoa: \"You may step back now, Samejima.\""
                             ]
                         },
                         {
@@ -18555,14 +18226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、どうする？ まだ余に牙を剥くか？」"
+                                "Darugnoa: \"Now, what will you do? Will you still bare your fangs at\nme?\""
                             ]
                         },
                         {
@@ -18586,14 +18250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぐっ、一分の隙も無い……これでは計画が……）"
+                                "Wisdom General Domudora: \"Guh, not a single opening... This could\njeopardize the plan...\""
                             ]
                         },
                         {
@@ -18617,14 +18274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドムドラよ」"
+                                "Darugnoa: \"Domudora.\""
                             ]
                         },
                         {
@@ -18641,14 +18291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お主にチャンスをやろう」"
+                                "Darugnoa: \"I shall give you a chance.\""
                             ]
                         },
                         {
@@ -18665,14 +18308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ッ！？……生かして下さるのですか……？」"
+                                "Wisdom General Domudora: \"What!?... You will spare my life...?\""
                             ]
                         },
                         {
@@ -18689,14 +18325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わたしはあなたを討とうと計画したのですよ……」"
+                                "Wisdom General Domudora: \"I-I had planned to take you down...\""
                             ]
                         },
                         {
@@ -18713,14 +18342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「余の望みは一つだ」"
+                                "Darugnoa: \"I have but one wish.\""
                             ]
                         },
                         {
@@ -18737,14 +18359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスをこの世から完全に抹殺するのだ」"
+                                "Darugnoa: \"To completely eradicate Pony-Celes from this world.\""
                             ]
                         },
                         {
@@ -18761,14 +18376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それさえ叶えば、今回の謀反は水に流そうではないか」"
+                                "Darugnoa: \"If that is achieved, I shall let this rebellion slide.\""
                             ]
                         },
                         {
@@ -18792,14 +18400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスなら……すでにこの世にはいないはずですが……」"
+                                "Wisdom General Domudora: \"But Pony-Celes should already be gone from\nthis world...\""
                             ]
                         },
                         {
@@ -18823,14 +18424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスはまだ死んでおらん」"
+                                "Darugnoa: \"Pony-Celes is not yet dead.\""
                             ]
                         },
                         {
@@ -18847,21 +18441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「完全体への復活が近い影響か……分かるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　光と闇の均衡がまだ保たれておる……」"
+                                "Darugnoa: \"Perhaps it's the influence of nearing full revival... I can\ntell. The balance between light and darkness is still maintained...\""
                             ]
                         },
                         {
@@ -18885,14 +18465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Wisdom General Domudora: \"...\""
                             ]
                         },
                         {
@@ -18909,14 +18482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうおっしゃるのでしたら、承知しました」"
+                                "Wisdom General Domudora: \"If you say so, then I understand.\""
                             ]
                         },
                         {
@@ -18933,14 +18499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスを見つけ出し、命を賭して必ずや！」"
+                                "Wisdom General Domudora: \"I will find Pony-Celes and, risking my life,\nI will surely—!\""
                             ]
                         },
                         {
@@ -18964,14 +18523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待しているぞ、ドムドラ」"
+                                "Darugnoa: \"I am counting on you, Domudora.\""
                             ]
                         },
                         {
@@ -18988,14 +18540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーグノア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう余を失望させるな」"
+                                "Darugnoa: \"Do not disappoint me again.\""
                             ]
                         },
                         {
@@ -19019,14 +18564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "智将ドムドラ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はは！」"
+                                "Wisdom General Domudora: \"Ha ha!\""
                             ]
                         },
                         {
@@ -19190,7 +18728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでのデータをセーブしますか？"
+                                "Would you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -19198,8 +18736,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

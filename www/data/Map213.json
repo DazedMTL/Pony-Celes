@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "教室（１－１）",
+    "displayName": "Classroom (1-1)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12578,21 +12578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長は……\\C[17]コンピュータ室\\C[0]に入って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なにか……していた……」"
+                                "Minion: \"The principal was... in the \\C[17]computer room\\C[0]... doing\nsomething...\""
                             ]
                         },
                         {

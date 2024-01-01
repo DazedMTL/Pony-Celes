@@ -2692,7 +2692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -2709,14 +2709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タンスの中に日記を発見した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手に取り読んでみますか？"
+                                "She found a diary inside the dresser. Would you like to pick it up and\nread it?"
                             ]
                         },
                         {
@@ -2724,8 +2717,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2767,7 +2760,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "３月４日"
+                                "March 4th"
                             ]
                         },
                         {
@@ -2784,7 +2777,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここに住んではや一年。"
+                                "It's been a year since I started living here."
                             ]
                         },
                         {
@@ -2801,7 +2794,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "誰も信用出来なくなって、この町に来たのは正解だった。"
+                                "Coming to this town was the right decision since I couldn't trust\nanyone anymore."
                             ]
                         },
                         {
@@ -2818,14 +2811,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あれ以来、憎しみにかられていた心が少しづつだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "落ちついてきた。"
+                                "Since that incident, the hatred in my heart has gradually begun to\nsettle, little by little."
                             ]
                         },
                         {
@@ -2842,7 +2828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "でも、またあいつの事を思い出してしまう。"
+                                "But then, I remember that person again."
                             ]
                         },
                         {
@@ -2859,7 +2845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの髪紐を捨てなければあいつは僕の心から永遠に消えないだろう。"
+                                "If I don't throw away that hair tie, they will never disappear from my\nheart forever."
                             ]
                         },
                         {
@@ -2876,7 +2862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今日こそ捨てよう。決心するんだ。"
+                                "Today is the day I will throw it away. I've made up my mind."
                             ]
                         },
                         {
@@ -2893,7 +2879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの場所なら誰にも気付かれないだろう。"
+                                "No one would notice if I did it at that place."
                             ]
                         },
                         {
@@ -2910,7 +2896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "僕と獣の目だけがありかを知っているんだ。"
+                                "Only I and the eyes of the beasts know where it is."
                             ]
                         },
                         {
@@ -2927,7 +2913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "４月８日"
+                                "April 8th"
                             ]
                         },
                         {
@@ -2944,7 +2930,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの男がこの町にやってきた。"
+                                "That man came to this town."
                             ]
                         },
                         {
@@ -2961,7 +2947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "僕を馬鹿にしに来たのだろうか。"
+                                "Did he come to mock me?"
                             ]
                         },
                         {
@@ -2978,7 +2964,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうやって僕の居場所をつきとめたのか分からない。"
+                                "I don't know how he found out where I was."
                             ]
                         },
                         {
@@ -2995,7 +2981,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの男を見るとあいつを思い出してしまう。"
+                                "Seeing that man reminds me of them."
                             ]
                         },
                         {
@@ -3012,7 +2998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "髪紐を捨て忘れかけていたのに、あんまりだ。"
+                                "I almost forgot to throw away the hair tie, how cruel."
                             ]
                         },
                         {
@@ -3029,7 +3015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドアを叩く音がする。"
+                                "There's a knocking at the door."
                             ]
                         },
                         {
@@ -3046,7 +3032,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あいつなのか？ 誰かが来たようだ。"
+                                "Is it them? Someone seems to have come."
                             ]
                         },
                         {
@@ -3068,7 +3054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これを最後に日記は途絶えている。"
+                                "This is where the diary ends abruptly."
                             ]
                         },
                         {
@@ -3178,14 +3164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "食料を入れる小箱のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蓋の隙間から腐った臭いが漏れている。"
+                                "It seems to be a small box for storing food. A rotten smell is leaking\nfrom the gaps in the lid."
                             ]
                         },
                         {
@@ -3262,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "食料を入れる小箱のようだ。中は空っぽだ。"
+                                "It seems to be a small box for storing food. It's empty inside."
                             ]
                         },
                         {
@@ -3399,14 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪臭がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもじゃないが、ここでは寝られない。"
+                                "It smells terrible. There's no way I can sleep here."
                             ]
                         },
                         {
@@ -3483,14 +3455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪臭がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもじゃないが、ここでは寝られない。"
+                                "It smells terrible. There's no way I can sleep here."
                             ]
                         },
                         {

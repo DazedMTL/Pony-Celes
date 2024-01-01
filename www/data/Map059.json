@@ -9722,21 +9722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "難易度を選択して下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]イージーモードは敵からの取得経験値と取得金が２倍になる装備を所持しています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※イージーモードではノーマルモードクリアの実績は獲得出来ません。"
+                                "Please select a difficulty level. \\C[17]Easy Mode includes equipment\nthat doubles the experience points and money obtained from enemies.\n*Achievements for clearing Normal Mode cannot be obtained in Easy\nMode."
                             ]
                         },
                         {
@@ -9744,8 +9730,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ノーマルモード",
-                                    "イージーモード"
+                                    "Normal Mode",
+                                    "Easy Mode"
                                 ],
                                 -1,
                                 0,

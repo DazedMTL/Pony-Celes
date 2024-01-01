@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォルス地区郊外",
+    "displayName": "Forus District Outskirts",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -8320,14 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「北に行くにはそこの工事現場を抜けないといけないの」"
+                                "Chinatsu: \"To go north, we have to get through that construction\nsite.\""
                             ]
                         },
                         {
@@ -8344,21 +8337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、この周辺で女性の拉致事件が起きているみたいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人けの無い場所は通りたくないのよね……」"
+                                "Chinatsu: \"Lately, it seems there have been cases of women being\nabducted around here, so I'd rather not walk through deserted\nplaces...\""
                             ]
                         },
                         {
@@ -8423,21 +8402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（警官が言っていた拉致事件の事ね。たしか知久内イワオって男が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　首謀者の……)"
+                                "Yui: (That must be the abduction case the officer was talking about.\nIf I remember correctly, a man named Chikunai Iwao is the\nringleader...)"
                             ]
                         },
                         {
@@ -8454,14 +8419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（事件が起きてるのって、この辺りだったのね)"
+                                "Yui: (So the incidents have been happening around this area...)"
                             ]
                         },
                         {
@@ -8483,8 +8441,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒に工事現場を抜けましょう！",
-                                    "危険ですので遠回りした方が…"
+                                    "Let's slip through the construction site together!",
+                                    "It's dangerous, so we should take a detour"
                                 ],
                                 1,
                                 0,
@@ -8530,14 +8488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「一緒に工事現場を抜けましょうよ」"
+                                "Yui: \"Let's go through the construction site together.\""
                             ]
                         },
                         {
@@ -8554,14 +8505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「実は私も不安で……でも、二人なら心強いです」"
+                                "Yui: \"Actually, I'm also feeling uneasy... But it'll be reassuring if\nwe're together.\""
                             ]
                         },
                         {
@@ -8585,21 +8529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いいわね。万が一犯人がいたとしても、二人なら狙われる心配は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ないわね……」"
+                                "Chinatsu: \"That sounds good. Even if the culprit is there, we won't\nhave to worry about being targeted if we're together...\""
                             ]
                         },
                         {
@@ -8616,14 +8546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「二人なら私も心強いし、そうしよっか！」"
+                                "Chinatsu: \"It's reassuring to be with someone else, so let's do that!\""
                             ]
                         },
                         {
@@ -8640,14 +8563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「では、行きましょうか」"
+                                "Yui: \"Then, shall we go?\""
                             ]
                         },
                         {
@@ -9064,14 +8980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「万が一の事がありますので、遠回りされた方が……」"
+                                "Yui: \"There could be unforeseen circumstances, so it might be better\nto take a detour...\""
                             ]
                         },
                         {
@@ -9088,14 +8997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうよね。めんどくさいけどそうしようかしら」"
+                                "Chinatsu: \"You're right. It's a hassle, but maybe we should do that.\""
                             ]
                         },
                         {
@@ -9366,14 +9268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこの工事、いつまで経っても完成しないんだ」"
+                                "Tetsuta: \"That construction over there never seems to finish.\""
                             ]
                         },
                         {
@@ -9390,21 +9285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「公園を壊して工場を建設するらしいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　着工して半年も経っているのにあのざまだ」"
+                                "Tetsuta: \"They're supposed to be building a factory after demolishing\nthe park, but it's been half a year since they started and it's still\nin that state.\""
                             ]
                         },
                         {
@@ -9421,14 +9302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺製薬が関わっているみたいだけど、最近は良い噂を聞かないからな」"
+                                "Tetsuta: \"It seems Saionji Pharmaceuticals is involved, but lately, I\nhaven't heard any good rumors about them.\""
                             ]
                         },
                         {
@@ -9445,14 +9319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔は公園があって近隣住民の憩いの場だったのに……」"
+                                "Tetsuta: \"In the past, there was a park there... It was a place of\nrest for the local residents...\""
                             ]
                         },
                         {
@@ -9840,14 +9707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な～んだ。全然平気だったわね」"
+                                "Chinatsu: \"Well, that was anticlimactic. I was totally fine.\""
                             ]
                         },
                         {
@@ -9864,21 +9724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「犯人が隠れている感じもしなかったし、本当に拉致事件なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　起こっているのかしら」"
+                                "Chinatsu: \"I didn't feel like the culprit was hiding anywhere. I\nwonder if there really is a kidnapping case happening.\""
                             ]
                         },
                         {
@@ -9929,14 +9775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何事も無くて良かったです」"
+                                "Yui: \"It's a relief that nothing happened.\""
                             ]
                         },
                         {
@@ -9953,14 +9792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「取り越し苦労でしたね」"
+                                "Yui: \"It was an unnecessary worry, wasn't it?\""
                             ]
                         },
                         {
@@ -9977,14 +9809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんとね！ 心配して損しちゃった。ふふふふっ」"
+                                "Chinatsu: \"Really! I worried for nothing. Hahaha!\""
                             ]
                         },
                         {
@@ -10001,14 +9826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チナツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、私はこれで！」"
+                                "Chinatsu: \"Well then, I'll be off!\""
                             ]
                         },
                         {
@@ -10170,14 +9988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私だけだったようね。たしかに視線を感じたわ……)"
+                                "Yui: \"(It seems it was just me. I definitely felt someone's gaze...)\""
                             ]
                         },
                         {
@@ -10194,14 +10005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ポニーセレスに変身していないのに、感覚が研ぎ澄まされている)"
+                                "Yui: \"(Even without transforming into Pony-Celeste, my senses have\nbecome sharpened.)\""
                             ]
                         },
                         {
@@ -10218,21 +10022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ザイダーグとの度重なる戦闘で、聖なる力が身体に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　馴染んできているのかしら)"
+                                "Yui: \"(Perhaps the repeated battles with Zaida-G have made the holy\npower assimilate into my body.)\""
                             ]
                         },
                         {
@@ -10249,21 +10039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もし、あの視線が犯人のものだとすると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　拉致事件がここで起こっているのは確実ね)"
+                                "Yui: \"(If that gaze was indeed from the culprit, then it's certain\nthat the kidnapping case is happening here.)\""
                             ]
                         },
                         {
@@ -10280,14 +10056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうやってとっ捕まえてやろうかしら)"
+                                "Yui: \"(How shall I catch the perpetrator, I wonder?)\""
                             ]
                         },
                         {
@@ -10320,21 +10089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうだ！ 一人なれば犯人が姿を現すかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おとり作戦ってのは名案ね♪)"
+                                "Yui: \"(That's it! If I'm alone, the culprit might show themselves. A\ndecoy strategy sounds like a brilliant idea♪)\""
                             ]
                         },
                         {
@@ -10351,14 +10106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よし、試してみるか！)"
+                                "Yui: \"(Alright, let's give it a try!)\""
                             ]
                         },
                         {
@@ -10797,7 +10545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -10941,14 +10689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユズル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、弐番館もいいけどやっぱり壱番館かな……」"
+                                "Yuzuru: \"Hmm, Building No. 2 is nice, but I guess Building No. 1 is\nbetter...\""
                             ]
                         },
                         {
@@ -10965,14 +10706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユズル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、参番館もいいからな～。どこに決めようか迷うぜ」"
+                                "Yuzuru: \"No, Building No. 3 is also good... It's tough to decide where\nto settle.\""
                             ]
                         },
                         {
@@ -10989,21 +10723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユズル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「サンコーポって安くて住み心地良くて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここらじゃかなり人気があるアパートなんだ」"
+                                "Yuzuru: \"Sanko-Po is a pretty popular apartment around here because\nit's cheap and comfortable to live in.\""
                             ]
                         },
                         {
@@ -11200,14 +10920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フミアキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、俺は怪しい者じゃないぜ」"
+                                "Fumiaki: \"Whoops, I'm not a suspicious person, you know.\""
                             ]
                         },
                         {
@@ -11224,21 +10937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フミアキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近ここら辺は何かと物騒だろ。昼間にゴーグル付けてるだけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　変な奴に見られて困ってるんだ」"
+                                "Fumiaki: \"Lately, this area has been quite dangerous, huh? Just\nwearing goggles during the day gets me mistaken for some weirdo, it's\ntroubling.\""
                             ]
                         },
                         {
@@ -11255,21 +10954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フミアキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このオシャレわかんないかな～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　時代よ、早く俺に追いつてくれ！ なんてな！」"
+                                "Fumiaki: \"Don't you get this fashion? Oh era, hurry up and catch up to\nme! Just kidding!\""
                             ]
                         },
                         {
@@ -11362,14 +11047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔はこの辺りでもアユが取れたんだぞ」"
+                                "Shigeki: \"In the past, you could even catch sweetfish around here.\""
                             ]
                         },
                         {
@@ -11386,14 +11064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「木の枝に糸と餌を付けて、何匹も捕まえたもんじゃ」"
+                                "Shigeki: \"We used to attach string and bait to tree branches and catch\na lot of them.\""
                             ]
                         },
                         {
@@ -11410,21 +11081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今では開発につぐ開発で川は壊され魚はいなくなり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　寂しいもんじゃ……」"
+                                "Shigeki: \"Now, with one development after another, the river has been\nruined, the fish are gone, and it's become quite lonely...\""
                             ]
                         },
                         {

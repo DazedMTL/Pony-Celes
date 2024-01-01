@@ -6390,7 +6390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "I've obtained the 【\\i[94]Training Tome】!"
                             ]
                         },
                         {
@@ -6637,7 +6637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "Obtained the 【\\i[94]Tome of Spirit】!"
                             ]
                         },
                         {
@@ -6884,7 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Acquired the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {
@@ -7131,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "【\\i[90]The Tome of Endurance】has been obtained!"
                             ]
                         },
                         {
@@ -7378,7 +7378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[93]駿足の書】を手に入れた！"
+                                "Obtained the 【\\i[93]Tome of Swift Feet】!"
                             ]
                         },
                         {
@@ -7625,7 +7625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Book of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -7872,7 +7872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]不屈の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Indomitable Tome】!"
                             ]
                         },
                         {

@@ -15112,7 +15112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -15180,7 +15180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -15462,14 +15462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カツヒト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先はツケシバ社長のお部屋です」"
+                                "Katsuhito: \"Beyond here is President Tsukeshiba's room.\""
                             ]
                         },
                         {
@@ -15486,14 +15479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カツヒト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「用の無い方はお引き取り下さい」"
+                                "Katsuhito: \"If you have no business, please withdraw.\""
                             ]
                         },
                         {
@@ -15653,7 +15639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先に行く必要は無いだろう……"
+                                "There's no need to go any further..."
                             ]
                         },
                         {
@@ -15792,21 +15778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カレンお嬢様に会いに来てくれたのは嬉しいですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おそらく誰ともお会いにならないかと……」"
+                                "Toshie: \"I'm happy you came to see Miss Karen, but she probably won't\nmeet with anyone...\""
                             ]
                         },
                         {
@@ -15823,14 +15795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「長年一緒にいた私さえも……」"
+                                "Toshie: \"Even someone who has been with her for many years like\nmyself...\""
                             ]
                         },
                         {
@@ -16060,21 +16025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、カレンお嬢様にお友達ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　珍しい事もあるもんですね」"
+                                "Toshie: \"Oh, does Lady Karen have a friend? That's quite rare, isn't\nit?\""
                             ]
                         },
                         {
@@ -16136,21 +16087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　友達と言える程、仲は良くないですが……」"
+                                "Yui: \"I'm sorry. I wouldn't say we're close enough to be called\nfriends...\""
                             ]
                         },
                         {
@@ -16167,14 +16104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか……」"
+                                "Toshie: \"Is that so...\""
                             ]
                         },
                         {
@@ -16191,14 +16121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わがままな子ですからね……ごめんなさいね」"
+                                "Toshie: \"She can be quite willful... I apologize for that.\""
                             ]
                         },
                         {
@@ -16215,14 +16138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、そんな事ないですよ……」"
+                                "Yui: \"No, it's not like that at all...\""
                             ]
                         },
                         {
@@ -16239,14 +16155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、あなたはお優しいですね」"
+                                "Toshie: \"Fufu, you're very kind, aren't you?\""
                             ]
                         },
                         {
@@ -16263,21 +16172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信じられないかもしれませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　昔は内気で繊細な子だったんですよ」"
+                                "Toshie: \"You might find it hard to believe, but she used to be a shy\nand delicate child.\""
                             ]
                         },
                         {
@@ -16294,21 +16189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「湘東学園に転校する前は、こうやって毎日ここの花に水をあげたり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　していました」"
+                                "Toshie: \"Before transferring to Shoto Academy, she would water the\nflowers here every day just like this.\""
                             ]
                         },
                         {
@@ -16325,21 +16206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少しおっちょこちょいで、何度も自分の服に水を零したりして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その姿が可愛くてね……」"
+                                "Toshie: \"She was a bit of a klutz, often spilling water on her\nclothes, and it was just so adorable...\""
                             ]
                         },
                         {
@@ -16356,14 +16223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さんが……？」"
+                                "Yui: \"Saionji-san was...?\""
                             ]
                         },
                         {
@@ -16380,21 +16240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お父様を亡くされた後、すぐに湘東学園に転校して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子の中で何かが変わったんでしょうね」"
+                                "Toshie: \"After her father passed away, she transferred to Shoto\nAcademy and something inside her must have changed.\""
                             ]
                         },
                         {
@@ -16411,14 +16257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「珍しくお友達が出来たかと思うと、それが悪そうな友達でね……」"
+                                "Toshie: \"It was rare for her to make friends, but when she did, they\nseemed to be the bad influence type...\""
                             ]
                         },
                         {
@@ -16435,21 +16274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その人の影響なのか、家にいる事は少なく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　夜な夜な遊びに出かけていました」"
+                                "Toshie: \"Whether it was because of that person's influence or not, she\nseldom stayed at home and would go out night after night.\""
                             ]
                         },
                         {
@@ -16466,14 +16291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、部活だけは真面目に頑張っていたみたいですよ」"
+                                "Toshie: \"However, she seemed to be very dedicated to her club\nactivities.\""
                             ]
                         },
                         {
@@ -16490,21 +16308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お父様が学生時代に陸上選手だったからでしょうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それはもうお父様が大好きでしたから」"
+                                "Toshie: \"Perhaps it was because her father was an athlete in his\nstudent days... She loved her father dearly.\""
                             ]
                         },
                         {
@@ -16521,21 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、学園の都合で部活が出来なくなったみたいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今は部屋に籠りっきりに」"
+                                "Toshie: \"But now, due to circumstances at the academy, it seems she\ncan no longer participate in club activities and has been shut away in\nher room.\""
                             ]
                         },
                         {
@@ -16552,21 +16342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「会いに来てくれたのは嬉しいですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おそらく誰ともお会いにならないかと……」"
+                                "Toshie: \"I'm glad you came to visit, but I doubt she'll meet with\nanyone...\""
                             ]
                         },
                         {
@@ -16583,14 +16359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トシエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「長年一緒にいた私さえも……」"
+                                "Toshie: \"Even I, who have been with her for many years...\""
                             ]
                         },
                         {

@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は両親の寝室だ。勝手に入るのは止めておこう。"
+                                "The room ahead is my parents' bedroom. I should refrain from entering\nwithout permission."
                             ]
                         },
                         {
@@ -13114,14 +13114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうかな。卵焼きの出来は？」"
+                                "Yui: \"How is it? How did the tamagoyaki turn out?\""
                             ]
                         },
                         {
@@ -13172,14 +13165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふわふわに焼けてて僕好み、とっても美味しいよ♪」"
+                                "Ginga: \"It's fluffy and cooked just the way I like it, really\ndelicious♪\""
                             ]
                         },
                         {
@@ -13212,21 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaの作る卵焼きには勝てないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私もずいぶん上手くなったでしょ」"
+                                "Yui: \"I can't beat the tamagoyaki you make, Ginga, but I've gotten\npretty good, haven't I?\""
                             ]
                         },
                         {
@@ -13243,21 +13215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに泊りに来た時はどうなるかと思ったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユイの上達の早さに正直驚いてるよ」"
+                                "Ginga: \"When you first stayed over, I wondered how it would go, but\nI'm honestly surprised at how quickly you've improved.\""
                             ]
                         },
                         {
@@ -13274,14 +13232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕が作るのより美味しいかも」"
+                                "Ginga: \"It might even be tastier than the ones I make.\""
                             ]
                         },
                         {
@@ -13298,14 +13249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、見直した？」"
+                                "Yui: \"Hehe, have you changed your mind?\""
                             ]
                         },
                         {
@@ -13322,14 +13266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "Ginga: \"Yeah!\""
                             ]
                         },
                         {
@@ -13362,14 +13299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やったーー♪」"
+                                "Yui: \"Yay--♪\""
                             ]
                         },
                         {
@@ -13553,14 +13483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶニュース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊急ニュースです！」"
+                                "TV News: \"This is an emergency news update!\""
                             ]
                         },
                         {
@@ -13577,14 +13500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶニュース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こちらアーバン地区の現場からお伝えしております」"
+                                "TV News: \"We are reporting live from the Urban District.\""
                             ]
                         },
                         {
@@ -13601,14 +13517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶニュース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうやらザイダーグから声明が発信されるとの事です」"
+                                "TV News: \"It appears that a statement is being issued by Zaidarg.\""
                             ]
                         },
                         {
@@ -13625,21 +13534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＴＶニュース"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグが公共の報道機関を使って声明を発信するのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　初ではないでしょうか」"
+                                "TV News: \"This is perhaps the first time Zaidarg has used a public\nnews organization to broadcast a statement.\""
                             ]
                         },
                         {
@@ -13663,14 +13558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！」"
+                                "Mighty General Galves: \"Pony Ceres!\""
                             ]
                         },
                         {
@@ -13687,14 +13575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞こえているか、ポニーセレス！」"
+                                "Mighty General Galves: \"Can you hear me, Pony Ceres!\""
                             ]
                         },
                         {
@@ -13711,14 +13592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我々の邪魔をする愚か者にもう容赦はしない！」"
+                                "Mighty General Galves: \"We will no longer show mercy to those fools\nwho stand in our way!\""
                             ]
                         },
                         {
@@ -13735,14 +13609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我が軍、全兵力をもってお前の相手をしてやろう！」"
+                                "Mighty General Galves: \"Our army will mobilize its full force to deal\nwith you!\""
                             ]
                         },
                         {
@@ -13759,14 +13626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいかよく聞け！」"
+                                "Mighty General Galves: \"Listen well!\""
                             ]
                         },
                         {
@@ -13783,14 +13643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区へ来い！」"
+                                "Mighty General Galves: \"Come to the Urban District!\""
                             ]
                         },
                         {
@@ -13807,21 +13660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怖気づいてここへ来れないようならこの街を徹底的に破壊する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　車もビルも、そして人間も全てな」"
+                                "Mighty General Galves: \"If you're too scared to come here, we will\ncompletely destroy this city. Cars, buildings, and all humans alike.\""
                             ]
                         },
                         {
@@ -13838,14 +13677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タイムリミットは明日、日が落ちるまでだ！」"
+                                "Mighty General Galves: \"The time limit is until sunset tomorrow!\""
                             ]
                         },
                         {
@@ -13862,21 +13694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし来なければ、臆病者のお前のせいで街が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　消えてなくなると思え！」"
+                                "Mighty General Galves: \"If you don't come, think of the city\ndisappearing because of your cowardice!\""
                             ]
                         },
                         {
@@ -13893,14 +13711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふはははははっ！！」"
+                                "Mighty General Galves: \"Mwahahaha!!\""
                             ]
                         },
                         {
@@ -14007,14 +13818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「臆病者ですって！」"
+                                "Yui: \"Coward, he says!\""
                             ]
                         },
                         {
@@ -14031,21 +13835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が怖気づいて逃げるとでも思ったの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこで待ってなさいガルベス、今すぐ相手してあげるわ！」"
+                                "Yui: \"Does he think I'll get scared and run away? Wait for me, Galves,\nI'll take you on right now!\""
                             ]
                         },
                         {
@@ -14366,14 +14156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメだ、待つんだ！」"
+                                "Ginga: \"No, wait!\""
                             ]
                         },
                         {
@@ -14464,14 +14247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"Huh!? Why?\""
                             ]
                         },
                         {
@@ -14495,14 +14271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは罠だ」"
+                                "Ginga: \"It's a trap.\""
                             ]
                         },
                         {
@@ -14519,14 +14288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「相手の挑発に乗っちゃだめだ！」"
+                                "Ginga: \"You can't fall for their provocation!\""
                             ]
                         },
                         {
@@ -14566,14 +14328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たとえ罠だとしても街が……」"
+                                "Yui: \"Even if it's a trap, the city...\""
                             ]
                         },
                         {
@@ -14590,21 +14345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなの黙って見てられないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　Gingaは平気なの！？」"
+                                "Yui: \"I can't just stand by and watch this. Are you really okay with\nthis, Ginga!?\""
                             ]
                         },
                         {
@@ -14628,14 +14369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「平気なものか！」"
+                                "Ginga: \"Of course not!\""
                             ]
                         },
                         {
@@ -14652,14 +14386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら！」"
+                                "Yui: \"Then...!\""
                             ]
                         },
                         {
@@ -14683,14 +14410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きつい事を言うようだけど……」"
+                                "Ginga: \"As much as it's tough to say...\""
                             ]
                         },
                         {
@@ -14707,14 +14427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「挑発されて冷静さを失ったユイが、あの大軍勢に勝てるとは思えない」"
+                                "Ginga: \"I can't believe that Yui, who has lost her cool due to\nprovocation, can win against that massive army.\""
                             ]
                         },
                         {
@@ -14731,21 +14444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつに負けたらアーバン地区だけでは済まない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この日本全てが危ないんだ」"
+                                "Ginga: \"If we lose to him, it won't just be the Urban District at\nstake. The whole of Japan is in danger.\""
                             ]
                         },
                         {
@@ -14762,14 +14461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから一度冷静になって作戦を考えよう」"
+                                "Ginga: \"So let's calm down once and think of a strategy.\""
                             ]
                         },
                         {
@@ -14802,14 +14494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga……」"
+                                "Yui: \"Ginga...\""
                             ]
                         },
                         {
@@ -14838,14 +14523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕を頼ってくれ。一緒に戦うって約束しただろ！」"
+                                "Ginga: \"Rely on me. We promised to fight together, didn't we?\""
                             ]
                         },
                         {
@@ -14862,14 +14540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にユイを一人で行かせない。死ぬ時は一緒だ！」"
+                                "Ginga: \"I won't let Yui go alone. If we're going to die, we'll do it\ntogether!\""
                             ]
                         },
                         {
@@ -15037,14 +14708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがと、Ginga」"
+                                "Yui: \"Thanks, Ginga.\""
                             ]
                         },
                         {
@@ -15061,14 +14725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかげで目が醒めたよ」"
+                                "Yui: \"Thanks to you, I've come to my senses.\""
                             ]
                         },
                         {
@@ -15126,14 +14783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら……」"
+                                "Ginga: \"Then...\""
                             ]
                         },
                         {
@@ -15150,14 +14800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、作戦を立てよう！」"
+                                "Yui: \"Yeah, let's come up with a strategy!\""
                             ]
                         },
                         {
@@ -15181,14 +14824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしっ！ じゃ、あの大軍勢を相手にするには……」"
+                                "Ginga: \"Alright! So, to take on that massive army...\""
                             ]
                         },
                         {
@@ -15300,14 +14936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんうん、それ良いかも！」"
+                                "Yui: \"Yeah yeah, that might be good!\""
                             ]
                         },
                         {
@@ -15333,14 +14962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに、こういうのはどうかな？」"
+                                "Ginga: \"And how about this idea?\""
                             ]
                         },
                         {
@@ -15459,14 +15081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？ そんなの持ってたの！？」"
+                                "Yui: \"Eh!? You had something like that!?\""
                             ]
                         },
                         {
@@ -15517,21 +15132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイが倒した戦闘員から拝借したんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この先、何かの役に立つかもって」"
+                                "Ginga: \"I borrowed it from a combatant you defeated. Thought it might\ncome in handy later.\""
                             ]
                         },
                         {
@@ -15548,14 +15149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……さすがGinga」"
+                                "Yui: \"...As expected of Ginga.\""
                             ]
                         },
                         {
@@ -15572,14 +15166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これが成功したらユイはガルベスとの一騎打ちに持ち込める」"
+                                "Ginga: \"If this works, Yui can bring it to a one-on-one fight with\nGalves.\""
                             ]
                         },
                         {
@@ -15612,14 +15199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「任せて！ 一騎打ちなら必ず勝ってみせるわ」"
+                                "Yui: \"Leave it to me! If it's a one-on-one fight, I'll definitely\nwin.\""
                             ]
                         },
                         {
@@ -15652,14 +15232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、信じてる！」"
+                                "Ginga: \"Yeah, I believe in you!\""
                             ]
                         },
                         {
@@ -15676,14 +15249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、僕は先にアーバン地区へ」"
+                                "Ginga: \"Then, I'll head to the Urban District first.\""
                             ]
                         },
                         {
@@ -15700,14 +15266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「作戦を必ず成功させるためには現地の地理を把握しておかないと」"
+                                "Ginga: \"We have to understand the local geography to ensure the\nsuccess of the plan.\""
                             ]
                         },
                         {
@@ -15724,21 +15283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイは少しでもオクトダーグ戦の疲れがとれるよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　家で待機していてくれ」"
+                                "Ginga: \"Yui, you stay at home and rest up from the Octodog fight as\nmuch as possible.\""
                             ]
                         },
                         {
@@ -15755,14 +15300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕が戻り次第作戦実行だ」"
+                                "Ginga: \"We'll execute the plan as soon as I get back.\""
                             ]
                         },
                         {
@@ -15795,14 +15333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga……絶対に無理しないでね」"
+                                "Yui: \"Ginga... don't push yourself too hard.\""
                             ]
                         },
                         {
@@ -15819,14 +15350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無理はしないって、約束だよ！」"
+                                "Yui: \"Remember, you promised not to overdo it!\""
                             ]
                         },
                         {
@@ -15843,14 +15367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、わかってるよ！」"
+                                "Ginga: \"Ah, I know!\""
                             ]
                         },
                         {
@@ -16068,7 +15585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -16085,7 +15602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -16102,7 +15619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後。"
+                                "Several hours later."
                             ]
                         },
                         {
@@ -16144,14 +15661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -16168,14 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga……」"
+                                "Yui: \"Ginga...\""
                             ]
                         },
                         {
@@ -16192,14 +15695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう下見を終えて帰ってきてもいいころなのに……」"
+                                "Yui: \"He should have finished scouting and be back by now...\""
                             ]
                         },
                         {
@@ -16232,14 +15728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして、Gingaの身に何か！？」"
+                                "Yui: \"Could something have happened to Ginga!?\""
                             ]
                         },
                         {

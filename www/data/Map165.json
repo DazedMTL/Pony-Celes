@@ -5437,7 +5437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -6213,7 +6213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[291]フェイの第四倉庫の鍵】を手に入れた！"
+                                "I've obtained the 【\\i[291]Key to Fei's Fourth Warehouse】!"
                             ]
                         },
                         {

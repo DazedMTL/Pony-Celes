@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に入るのは止めておこう。"
+                                "Let's not enter without permission."
                             ]
                         },
                         {
@@ -13240,7 +13240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やつれきった自分の顔が写っている。"
+                                "A gaunt reflection of my own face appears."
                             ]
                         },
                         {
@@ -13317,7 +13317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やつれきった自分の顔が写っている。"
+                                "A haggard reflection of my own face is visible."
                             ]
                         },
                         {
@@ -13406,14 +13406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[18]（※引き返せないため、別枠でのセーブを推奨します）\\C[0]"
+                                "Would you like to save?\\C[18] (※Since you cannot go back, saving in a\nseparate slot is recommended.)\\C[0]"
                             ]
                         },
                         {
@@ -13421,8 +13414,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,

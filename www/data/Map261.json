@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "戦闘員本拠地",
+    "displayName": "Combatant Headquarters",
     "encounterList": [],
     "encounterStep": 30,
     "height": 100,
@@ -42277,7 +42277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[93]駿足の書】を手に入れた！"
+                                "You've obtained the 【\\i[93]Tome of Swift Feet】!"
                             ]
                         },
                         {
@@ -42874,14 +42874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「毎日毎日この仕事……」"
+                                "Minion: \"Every single day, this job...\""
                             ]
                         },
                         {
@@ -42898,14 +42891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかーーし！！」"
+                                "Minion: \"But--!!\""
                             ]
                         },
                         {
@@ -42922,14 +42908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうすぐ上級戦闘員へ格上げされるってんだ」"
+                                "Minion: \"I'll be promoted to a higher-ranking officer soon.\""
                             ]
                         },
                         {
@@ -42946,14 +42925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう少しの辛抱。やっとやりたい放題できるぜ！」"
+                                "Minion: \"Just a little more patience. Finally, I'll be able to do\nwhatever I want!\""
                             ]
                         },
                         {
@@ -43191,7 +43163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスは捕らわれた人を救出した！"
+                                "Pony-Celes has rescued the captured person!"
                             ]
                         },
                         {
@@ -43208,7 +43180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値を１０００ポイント手に入れた！"
+                                "Gained 1000 experience points!"
                             ]
                         },
                         {
@@ -43735,14 +43707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隊長見かけなかったか？」"
+                                "Minion: \"Have you seen the captain?\""
                             ]
                         },
                         {
@@ -43750,8 +43715,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見かけていません",
-                                    "隊長って？"
+                                    "I haven't seen them",
+                                    "The captain?"
                                 ],
                                 1,
                                 0,
@@ -43781,14 +43746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか。どこ行っちまったんだろな」"
+                                "Minion: \"I see. Where the hell did he go off to?\""
                             ]
                         },
                         {
@@ -43805,14 +43763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まぁ、いつもの事か……」"
+                                "Minion: \"Well, it's the usual, I guess...\""
                             ]
                         },
                         {
@@ -43842,14 +43793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「は？ 何寝ぼけてるんだよ」"
+                                "Minion: \"Huh? What are you spacing out for?\""
                             ]
                         },
                         {
@@ -43866,14 +43810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「女と一発やるのが大好きで、終わったらすぐタバコ吸いに行くあの人だよ」"
+                                "Minion: \"You know, the guy who loves to have a quickie with a woman\nand then immediately goes out for a smoke.\""
                             ]
                         },
                         {
@@ -43890,14 +43827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうせ、今日も地上に出てなかなか帰ってこないんだろうな」"
+                                "Minion: \"As usual, he probably went up to the surface and isn't coming\nback anytime soon.\""
                             ]
                         },
                         {
@@ -43914,21 +43844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「頭がキレるってだけでここを任されてるみたいだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつもグータラで使えねーんだよ。一体何の仕事をしてるのやら」"
+                                "Minion: \"He seems to be in charge here just because he's smart, but\nhe's always slacking off and useless. Who knows what he's actually\nworking on.\""
                             ]
                         },
                         {
@@ -43945,21 +43861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「上級戦闘員さん達には一目置かられているらしいが、俺ら下っ端には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何が凄いのやら全くだぜ……」"
+                                "Minion: \"The senior minions seem to respect him, but us grunts don't\nsee what's so great about him at all...\""
                             ]
                         },
                         {
@@ -44344,14 +44246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電子ロックがかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]アナウンス室のカードキー\\C[0]を使用すれば開きそうだ。"
+                                "The electronic lock is engaged. It looks like it would open if I use\nthe \\C[17]Announcement Room's card key\\C[0]."
                             ]
                         },
                         {
@@ -44419,14 +44314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電子ロックがかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]アナウンス室のカードキー\\C[0]を使用すれば開きそうだ。"
+                                "The electronic lock is engaged. Using the \\C[17]Announcement Room's\nCard Key\\C[0] seems like it would unlock it."
                             ]
                         },
                         {
@@ -44443,7 +44331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]アナウンス室のカードキー\\C[0]を使用しますか？"
+                                "Would you like to use the \\C[17]Announcement Room's Card Key\\C[0]?"
                             ]
                         },
                         {
@@ -44451,8 +44339,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -44494,7 +44382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "電子ロックが解除された。"
+                                "The electronic lock has been disengaged."
                             ]
                         },
                         {
@@ -46576,7 +46464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "引き出しを開けますか？"
+                                "Would you like to open the drawer?"
                             ]
                         },
                         {
@@ -46584,8 +46472,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -46644,7 +46532,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[297]アナウンス室のカードキー】を手に入れた！"
+                                "I've obtained the 【Announcement Room Card Key】!"
                             ]
                         },
                         {
@@ -46774,7 +46662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new."
                             ]
                         },
                         {
@@ -47742,14 +47630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへっ、最後まで強がっていたが観念したようだな」"
+                                "Minion: \"Heh, you kept up a tough front, but it looks like you've\nfinally resigned yourself.\""
                             ]
                         },
                         {
@@ -47766,14 +47647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前も数時間後には晴れて俺達の仲間入りだ」"
+                                "Minion: \"In a few hours, you'll be proudly joining our ranks.\""
                             ]
                         },
                         {
@@ -47844,14 +47718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何見ている？ さっさと自分の持ち場に帰れ！」"
+                                "Minion: \"What are you looking at? Hurry up and get back to your post!\""
                             ]
                         },
                         {
@@ -47868,14 +47735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の楽しみを邪魔すんじゃねーぞ」"
+                                "Minion: \"Don't you dare interfere with my fun.\""
                             ]
                         },
                         {
@@ -47999,14 +47859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（今すぐにぶっ飛ばしてやりたいけど、ここは抑えなきゃ……)"
+                                "Yui: (I want to knock him out right now, but I have to hold back...)"
                             ]
                         },
                         {
@@ -48023,14 +47876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（すぐに助け出してあげるから！ 少しの間我慢してね……)"
+                                "Yui: (I'll rescue you soon! Just hang in there a little longer...)"
                             ]
                         },
                         {
@@ -48262,7 +48108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスは捕らわれた人を救出した！"
+                                "Pony-Celes has rescued the captured person!"
                             ]
                         },
                         {
@@ -48279,7 +48125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値を１０００ポイント手に入れた！"
+                                "Gained 1000 experience points!"
                             ]
                         },
                         {
@@ -48473,14 +48319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……なにしてるんだ？ 持ち場に帰れ！」"
+                                "Combatant: \"...What are you doing? Return to your post!\""
                             ]
                         },
                         {
@@ -48718,7 +48557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスは捕らわれた人を救出した！"
+                                "Pony-Celes has rescued the captured person!"
                             ]
                         },
                         {
@@ -48735,7 +48574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "経験値を１０００ポイント手に入れた！"
+                                "Gained 1000 experience points!"
                             ]
                         },
                         {
@@ -49046,7 +48885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トイレを使いますか？"
+                                "Would you like to use the toilet?"
                             ]
                         },
                         {
@@ -49054,8 +48893,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -49151,7 +48990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣の部屋から話し声が聞こえてきた。"
+                                "I could hear voices coming from the next room."
                             ]
                         },
                         {
@@ -49184,14 +49023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「先ほど、隊長から連絡があった」"
+                                "Senior Combatant: \"I've just received a message from the captain.\""
                             ]
                         },
                         {
@@ -49208,14 +49040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「\\C[17]プランＤ\\C[0]を実行との事だ！」"
+                                "Senior Combatant: \"\\C[17]Plan D\\C[0] is to be executed!\""
                             ]
                         },
                         {
@@ -49291,14 +49116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ついにこの時が来たぞ！」"
+                                "Senior Combatant: \"The time has finally come!\""
                             ]
                         },
                         {
@@ -49315,14 +49133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何か月も入院した者、精神をやられて鬱になった者もいるだろう」"
+                                "Senior Combatant: \"There must be those among you who have been\nhospitalized for months, those whose spirits have been broken and have\nfallen into depression.\""
                             ]
                         },
                         {
@@ -49426,21 +49237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ここに集まった者は苦汁を舐めた者ばかりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　今までの恨みを存分に晴らしてやれ！」"
+                                "Senior Combatant: \"Everyone gathered here has tasted bitterness. Now\nis the time to fully avenge all the grievances we've endured!\""
                             ]
                         },
                         {
@@ -49516,14 +49313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「気合を入れろよお前ら！」"
+                                "Senior Combatant: \"Put some spirit into it, men!\""
                             ]
                         },
                         {
@@ -49604,14 +49394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（プランＤって何？ 調べてみる必要があるかも……)"
+                                "Yui: (What's Plan D? I might need to look into this...)"
                             ]
                         },
                         {
@@ -49875,14 +49658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん、見回りはもう終わったのか？」"
+                                "Sentry: \"Hmm, have you finished patrolling?\""
                             ]
                         },
                         {
@@ -49933,14 +49709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。ばっちり見回りしてきました。異常なしです！」"
+                                "Yui: \"Yes. I've thoroughly patrolled the area. No anomalies!\""
                             ]
                         },
                         {
@@ -49957,21 +49726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか、なら体を休めておけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつポニーセレスが現れるか分からんからな」"
+                                "Sentry: \"I see, then rest up. We never know when Pony-Celes might show\nup.\""
                             ]
                         },
                         {
@@ -49988,14 +49743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「了解です！」"
+                                "Yui: \"Understood!\""
                             ]
                         },
                         {
@@ -52401,7 +52149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -52440,7 +52188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I've unlocked it."
                             ]
                         },
                         {
@@ -52817,14 +52565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ここから先は着替えた方が良さそうね）"
+                                "Pony-Celestia (It seems better to change clothes from here on out.)"
                             ]
                         },
                         {
@@ -52857,14 +52598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（戦闘員になるなんて死ぬほど嫌だけど仕方ないか……）"
+                                "Pony-Celestia (I hate the idea of becoming a combatant to death, but I\nguess there's no choice...)"
                             ]
                         },
                         {
@@ -52937,7 +52671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは戦闘員の衣装に着替えた。"
+                                "Yui changed into the combatant's outfit."
                             ]
                         },
                         {
@@ -53030,14 +52764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うっ、このスーツ、まとわりついてピチピチ過ぎるわ……)"
+                                "Yui (Ugh, this suit clings too tightly...)"
                             ]
                         },
                         {
@@ -53054,14 +52781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（体のラインがはっきり出てるし恥ずかしいわ)"
+                                "Yui (It clearly shows the lines of my body, how embarrassing.)"
                             ]
                         },
                         {
@@ -53078,14 +52798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（少しの間、我慢しなきゃね……)"
+                                "Yui (I'll have to endure it for a little while...)"
                             ]
                         },
                         {
@@ -53261,14 +52974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ どうした？」"
+                                "Combatant: \"Hm? What's wrong?\""
                             ]
                         },
                         {
@@ -53285,21 +52991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっさと入れ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いつポニーセレスが現れるか分からんから体を休めておけ」"
+                                "Combatant: \"Hurry up and get inside. We don't know when Pony-Celest\nmight show up, so rest your body while you can.\""
                             ]
                         },
                         {
@@ -53458,14 +53150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、かったるいなこの仕事」"
+                                "Minion: \"Tch, this job is such a drag.\""
                             ]
                         },
                         {
@@ -53482,14 +53167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺も街で大暴れしてー！！」"
+                                "Minion: \"I want to go on a rampage in the city too—!!\""
                             ]
                         },
                         {
@@ -53693,14 +53371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アジトに配属される奴はポニーセレスにビクビク怯えてるって話だぜ」"
+                                "Minion: \"I heard that the guys assigned to the hideout are trembling\nin fear of Pony-Ceres.\""
                             ]
                         },
                         {
@@ -53717,21 +53388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、この本拠地なら安全だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さすがの奴でもここは見つけられまい！」"
+                                "Minion: \"But this headquarters is safe. Even that guy won't be able to\nfind this place!\""
                             ]
                         },
                         {
@@ -53935,14 +53592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は上級戦闘員さん達のお楽しみ部屋だ」"
+                                "Minion: \"This area is a pleasure room for the senior combatants.\""
                             ]
                         },
                         {
@@ -53959,14 +53609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前も偉くなったら使え――」"
+                                "Minion: \"Once you get promoted, you can use it--\""
                             ]
                         },
                         {
@@ -53992,14 +53635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って、お前……女か……」"
+                                "Minion: \"Wait, you... are you a woman...?\""
                             ]
                         },
                         {
@@ -54016,14 +53652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどな……」"
+                                "Minion: \"I see...\""
                             ]
                         },
                         {
@@ -54151,14 +53780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ……ポニーセレス……次は、必ず……犯して……」"
+                                "Minion: \"Guh...Pony-Celes...next time, I will definitely...violate...\""
                             ]
                         },
                         {
@@ -54286,14 +53908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちくしょう……こんな筈じゃ……」"
+                                "Combatant: \"Damn it... It wasn't supposed to be like this...\""
                             ]
                         },
                         {
@@ -54421,7 +54036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事が無い。気絶しているようだ。"
+                                "There's no response. It seems like they've fainted."
                             ]
                         },
                         {
@@ -54594,14 +54209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここはポニーレスにぶっ倒された奴らの医務室だ」"
+                                "戦闘員: \"This is the infirmary for those who've been knocked out by Pony-\nless.\""
                             ]
                         },
                         {
@@ -54618,14 +54226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近患者が増える一方でな……」"
+                                "戦闘員: \"The number of patients has been increasing lately...\""
                             ]
                         },
                         {
@@ -54798,21 +54399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「身体が悲鳴を上げてるよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな目に合うなら戦闘員になんか志願しなきゃ良かった……」"
+                                "Minion: \"My body is screaming in pain... If I knew I'd go through\nthis, I should have never volunteered to be a minion...\""
                             ]
                         },
                         {
@@ -55187,14 +54774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は緊急会議の最中だ」"
+                                "Combatant: \"We are in the middle of an emergency meeting right now.\""
                             ]
                         },
                         {
@@ -55211,14 +54791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「上級戦闘員さんの指示でこれ以上誰も入れるなとの事だ」"
+                                "Combatant: \"Per the instructions of the senior combatant, no one else\nis allowed to enter.\""
                             ]
                         },
                         {
@@ -55689,21 +55262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は隊長と上級戦闘員さん達の部屋だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前みたいな下っ端は入れな――」"
+                                "Minion: \"This area is for the captain and the senior combatants.\nUnderlings like you can't enter--\""
                             ]
                         },
                         {
@@ -55729,14 +55288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、すまんすまん……」"
+                                "Minion: \"Ah, sorry, sorry...\""
                             ]
                         },
                         {
@@ -55753,14 +55305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か用事があるんだろ？ さぁ、入れ入れ」"
+                                "Minion: \"You have some business, right? Come on, go ahead.\""
                             ]
                         },
                         {
@@ -56052,14 +55597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か用事があるんだろ？ さぁ、入れ」"
+                                "戦闘員: \"You need something, right? Come on in.\""
                             ]
                         },
                         {
@@ -56355,7 +55893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～戦闘員本拠地緊急プラン～～"
+                                "～～Combatant Headquarters Emergency Plan～～"
                             ]
                         },
                         {
@@ -56372,14 +55910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレスが近辺に出現する可能性大。戦闘の準備をして待機せよ！"
+                                "Plan A: High possibility of Pony-Celest appearing in the vicinity.\nPrepare for battle and stand by!"
                             ]
                         },
                         {
@@ -56396,21 +55927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス地上で発見につき戦闘員は上級戦闘員も含め全て現地に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急出動せよ！"
+                                "Plan B: Pony-Celest spotted on the surface. All combatants, including\nsenior combatants, are to urgently deploy to the location!"
                             ]
                         },
                         {
@@ -56427,14 +55944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＣ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。全員戦闘態勢で迎え撃て！"
+                                "Plan C: Pony-Celest has infiltrated the headquarters. All units,\nprepare for battle and intercept!"
                             ]
                         },
                         {
@@ -56451,21 +55961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。隊長の作戦実行中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隊長からの命令が下るまでポニーセレスに悟られないよう通常業務を実行せよ！"
+                                "Plan D: Pony-Celest has infiltrated the headquarters. The captain is\nexecuting a strategy. Continue normal operations without alerting\nPony-Celest until orders come from the captain!"
                             ]
                         },
                         {
@@ -56530,14 +56026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（プランＤのこの内容って……)"
+                                "Yui: (This content of Plan D...)"
                             ]
                         },
                         {
@@ -56554,14 +56043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私がここに侵入している事がバレてる！)"
+                                "Yui: (It's been discovered that I've infiltrated here!)"
                             ]
                         },
                         {
@@ -56578,14 +56060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（でもどうして……\\|まさか！)"
+                                "Yui: (But why... could it be?!)"
                             ]
                         },
                         {
@@ -56602,14 +56077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（隊長ってもしかして……\\|私に助けを求めたあの戦闘員？)"
+                                "Yui: (Could the captain be... that combatant who asked me for help?)"
                             ]
                         },
                         {
@@ -56626,14 +56094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だとすると、これは私を嵌めるための罠！)"
+                                "Yui: (If that's the case, this is a trap set to ensnare me!)"
                             ]
                         },
                         {
@@ -56659,21 +56120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんて手の込んだ事を……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  まぁいいわ、気付いていないフリをして逆に利用してあげる！)"
+                                "Yui: (What a complicated scheme... Well, fine. I'll pretend I haven't\nnoticed and use it to my advantage!)"
                             ]
                         },
                         {
@@ -56690,14 +56137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（覚悟しておきなさい！)"
+                                "Yui: (Be prepared!)"
                             ]
                         },
                         {
@@ -56820,7 +56260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～戦闘員本拠地緊急プラン～～"
+                                "~~ Emergency Plan for Combatant Headquarters ~~"
                             ]
                         },
                         {
@@ -56837,14 +56277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレスが近辺に出現する可能性大。戦闘の準備をして待機せよ！"
+                                "Plan A: High probability of Pony-Celest appearing nearby. Prepare for\nbattle and stand by!"
                             ]
                         },
                         {
@@ -56861,21 +56294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス地上で発見につき戦闘員は上級戦闘員も含め全て現地に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急出動せよ！"
+                                "Plan B: Pony-Celest spotted on the surface. All combatants, including\nsenior combatants, are to urgently deploy to the location!"
                             ]
                         },
                         {
@@ -56892,14 +56311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。全員戦闘態勢で迎え撃て！"
+                                "Plan C: Pony-Celest has infiltrated the headquarters. All units,\nprepare for battle and engage!"
                             ]
                         },
                         {
@@ -56916,21 +56328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。隊長の作戦実行中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隊長からの命令が下るまでポニーセレスに悟られないよう通常業務を実行せよ！"
+                                "Plan D: Pony-Celest has infiltrated the headquarters. The captain is\nexecuting a strategy. Continue normal operations without alerting\nPony-Celest until orders come from the captain!"
                             ]
                         },
                         {
@@ -57007,7 +56405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～戦闘員本拠地緊急プラン～～"
+                                "~~ Emergency Plan for Combatant Headquarters ~~"
                             ]
                         },
                         {
@@ -57024,14 +56422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレスが近辺に――"
+                                "Plan A: Pony-Celes is in the vicinity--"
                             ]
                         },
                         {
@@ -57048,7 +56439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうやら書きかけのようだ。"
+                                "It seems to be only partially written."
                             ]
                         },
                         {
@@ -57116,7 +56507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～戦闘員本拠地緊急プラン～～"
+                                "～～Combatant Headquarters Emergency Plan～～"
                             ]
                         },
                         {
@@ -57133,14 +56524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレスが近辺に出現する可能性大。戦闘の準備をして待機せよ！"
+                                "Plan A: High probability of Pony-Celeste appearing in the vicinity.\nPrepare for battle and stand by!"
                             ]
                         },
                         {
@@ -57157,21 +56541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス地上で発見につき戦闘員は上級戦闘員も含め全て現地に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急出動せよ！"
+                                "Plan B: Pony-Celeste spotted on the surface. All combatants, including\nsenior combatants, are to urgently deploy to the location!"
                             ]
                         },
                         {
@@ -57188,14 +56558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＣ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。全員戦闘態勢で迎え撃て！"
+                                "Plan C: Pony-Celeste has infiltrated the headquarters. All units,\nprepare for battle and intercept!"
                             ]
                         },
                         {
@@ -57212,21 +56575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プランＤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。隊長の作戦実行中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隊長からの命令が下るまでポニーセレスに悟られないよう通常業務を実行せよ！"
+                                "Plan D: Pony-Celeste has infiltrated the headquarters. The captain is\nexecuting a strategy. Continue normal operations without alerting\nPony-Celeste until orders come from the captain!"
                             ]
                         },
                         {
@@ -57291,14 +56640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（プランＤのこの内容って……)"
+                                "Yui: (This content of Plan D...)"
                             ]
                         },
                         {
@@ -57315,14 +56657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私がここに侵入している事がバレてる！)"
+                                "Yui: (It's been discovered that I've infiltrated here!)"
                             ]
                         },
                         {
@@ -57339,14 +56674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（でもどうして……\\|まさか！)"
+                                "Yui: (But why... could it be?!)"
                             ]
                         },
                         {
@@ -57363,14 +56691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（隊長ってもしかして……\\|私に助けを求めたあの戦闘員？)"
+                                "Yui: (Could the captain possibly be... that combatant who asked me for\nhelp?)"
                             ]
                         },
                         {
@@ -57387,14 +56708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だとすると、これは私を嵌めるための罠！)"
+                                "Yui: (If that's the case, this is a trap to frame me!)"
                             ]
                         },
                         {
@@ -57420,21 +56734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんて手の込んだ事を……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  まぁいいわ、気付いていないフリをして逆に利用してあげる！)"
+                                "Yui: (What a complicated scheme... Well, fine. I'll pretend I haven't\nnoticed and use it to my advantage!)"
                             ]
                         },
                         {
@@ -57451,14 +56751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（覚悟しておきなさい！)"
+                                "Yui: (Be prepared!)"
                             ]
                         },
                         {
@@ -57581,7 +56874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～戦闘員本拠地緊急プラン～～"
+                                "~~ Emergency Plan for Combatant Headquarters ~~"
                             ]
                         },
                         {
@@ -57598,14 +56891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレスが近辺に出現する可能性大。戦闘の準備をして待機せよ！"
+                                "Plan A: High probability of Pony-Ceres appearing in the vicinity.\nPrepare for battle and stand by!"
                             ]
                         },
                         {
@@ -57622,21 +56908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス地上で発見につき戦闘員は上級戦闘員も含め全て現地に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊急出動せよ！"
+                                "Plan B: Pony-Ceres spotted on the ground. All combatants, including\nsenior combatants, are to urgently deploy to the location!"
                             ]
                         },
                         {
@@ -57653,14 +56925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。全員戦闘態勢で迎え撃て！"
+                                "Plan C: Pony-Ceres has infiltrated the headquarters. All units,\nprepare for battle and engage!"
                             ]
                         },
                         {
@@ -57677,21 +56942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラン：Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポニーセレス本拠地へ侵入。隊長の作戦実行中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隊長からの命令が下るまでポニーセレスに悟られないよう通常業務を実行せよ！"
+                                "Plan D: Pony-Ceres has infiltrated the headquarters. The captain is\nexecuting the strategy. Continue normal operations without alerting\nPony-Ceres until orders come from the captain!"
                             ]
                         },
                         {
@@ -57768,14 +57019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隊長が決めたプランをボードに書いてるんだ」"
+                                "Combatant: \"I'm writing the plan decided by the captain on the board.\""
                             ]
                         },
                         {
@@ -57792,14 +57036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと、プランＡが……」"
+                                "Combatant: \"Let's see, Plan A is...\""
                             ]
                         },
                         {
@@ -57816,14 +57053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、めんどくさいな。自分で考えたなら自分で書けよ！」"
+                                "Combatant: \"Tch, what a pain. If you came up with it yourself, write\nit down yourself!\""
                             ]
                         },
                         {
@@ -57891,14 +57121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隊長が決めたプラン、ようやく書き終わったぜ……」"
+                                "Minion: \"Finally finished writing the plan the captain decided on...\""
                             ]
                         },
                         {
@@ -57915,14 +57138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、なげーんだよ！」"
+                                "Minion: \"Geez, what a pain in the ass!\""
                             ]
                         },
                         {
@@ -58252,7 +57468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トイレは使用中のようだ。用を足すなら他のトイレを使おう。"
+                                "The bathroom seems to be occupied. If you need to go, let's use\nanother one."
                             ]
                         },
                         {
@@ -58329,14 +57545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                "Elite Combatant: \"\""
                             ]
                         },
                         {
@@ -58495,14 +57704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベス様もドムドラ様もポニーセレスにやられたみたいだな」"
+                                "Minion: \"It seems Lord Galves and Lord Domudora have been defeated by\nPony-Ceres.\""
                             ]
                         },
                         {
@@ -58519,14 +57721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だが、ダーグノア様がいる限り俺らは安泰だ」"
+                                "Minion: \"But as long as Lord Dargnoa is with us, we are safe.\""
                             ]
                         },
                         {
@@ -58730,14 +57925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アジトに転属されないよう、ここでしっかり働けよ」"
+                                "戦闘員: \"Make sure you work hard here so you don't get transferred to the\nhideout.\""
                             ]
                         },
                         {
@@ -58941,14 +58129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレに行きたいのに仕事が山の様に……」"
+                                "Minion: \"I need to go to the bathroom, but there's a mountain of\nwork...\""
                             ]
                         },
                         {
@@ -59152,14 +58333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近は志願して戦闘員になる奴が減っているらしい」"
+                                "Combatant: \"It seems there are fewer volunteers to become combatants\nthese days.\""
                             ]
                         },
                         {
@@ -59176,14 +58350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグはポニーセレスに押され気味だからな……」"
+                                "Combatant: \"Zaidag is being pushed back by Pony Ceres, after all...\""
                             ]
                         },
                         {
@@ -59200,14 +58367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな時こそ俺らでなんとか踏ん張らねーと！」"
+                                "Combatant: \"This is exactly the time for us to stand firm and do\nsomething about it!\""
                             ]
                         },
                         {
@@ -59462,14 +58622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「明日の昇級試験上手くいくかな……」"
+                                "Combatant: \"I wonder if tomorrow's promotion exam will go well...\""
                             ]
                         },
                         {
@@ -59486,14 +58639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回で３回目、絶対受かって上級戦闘員として認めてもらわなきゃ！」"
+                                "Combatant: \"This is my third time, I absolutely have to pass and be\nrecognized as a senior combatant!\""
                             ]
                         },
                         {
@@ -59717,14 +58863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんなが働いている時にぐーたら出来るって、優越半端ないよな！」"
+                                "Minion: \"Being able to slack off while everyone else is working feels\nincredibly superior!\""
                             ]
                         },
                         {
@@ -59741,14 +58880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「夜勤サイコー！」"
+                                "Minion: \"Night shifts are awesome!\""
                             ]
                         },
                         {
@@ -59876,14 +59008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く日勤に戻りてーぜ……」"
+                                "Combatant: \"I want to get back to my day shift quickly...\""
                             ]
                         },
                         {
@@ -60042,14 +59167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドムドラ様が開発した装置はどれも素晴らしいの一言だ」"
+                                "Minion: \"Every device developed by Lord Domudora is simply marvelous.\""
                             ]
                         },
                         {
@@ -60066,21 +59184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「弟子入りしたかったが、今は亡き人か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　天才ほど早死にするんだよな……」"
+                                "Minion: \"I wanted to become an apprentice, but now he's no more. It's\nalways the geniuses who die young...\""
                             ]
                         },
                         {
@@ -60310,14 +59414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おそらくここが隊長の部屋ね)"
+                                "Yui: \"This is probably the captain's room.\""
                             ]
                         },
                         {
@@ -60334,21 +59431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カードキーはたしか……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  引き出しにしまってあるって言ってたわね)"
+                                "Yui: \"The card key should be... I remember he said it was kept in the\ndrawer.\""
                             ]
                         },
                         {
@@ -60725,14 +59808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、目が覚めちまった」"
+                                "Elite Fighter: \"Tch, I woke up.\""
                             ]
                         },
                         {
@@ -60749,14 +59825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレで鼻歌を歌うバカがいるせいで、熟睡できねー」"
+                                "Elite Fighter: \"Because of some idiot humming in the toilet, I\ncouldn't sleep deeply.\""
                             ]
                         },
                         {
@@ -60773,14 +59842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だいたい\\C[17]トイレの壁が薄すぎる\\C[0]んだよ！\\C[17]隣の部屋の声\\C[0]が丸聞こえじゃねーか」"
+                                "Elite Fighter: \"The main problem is that \\C[17]the toilet walls are\ntoo thin\\C[0]! You can hear \\C[17]the voices from the next room\\C[0]\nclear as day.\""
                             ]
                         },
                         {
@@ -60908,14 +59970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すーぴー。すーぴーzzz」"
+                                "Elite Combatant: \"Suu-pii... Suu-pii...zzz\""
                             ]
                         },
                         {
@@ -61043,14 +60098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すーぴー。すーぴーzzz」"
+                                "Elite Combatant: \"Suu-pii... Suu-pii... zzz\""
                             ]
                         },
                         {
@@ -61280,7 +60328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カードキーを差し込むのはやめておこう。"
+                                "Let's not insert the card key."
                             ]
                         },
                         {
@@ -61357,7 +60405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#隊長以外立ち入り禁止"
+                                "No entry except for the captain"
                             ]
                         },
                         {
@@ -61434,7 +60482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -61442,8 +60490,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -61612,14 +60660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見つけたわ！ ここがアナウンス室ね」"
+                                "Yui: \"Found it! This must be the announcement room.\""
                             ]
                         },
                         {
@@ -61653,7 +60694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは戦闘員の衣装を脱いだ。"
+                                "Yui took off the combatant's outfit."
                             ]
                         },
                         {
@@ -61698,14 +60739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ……もうこの衣装は必要ないわ」"
+                                "Yui: \"Phew... I won't be needing this outfit anymore.\""
                             ]
                         },
                         {
@@ -61990,14 +61024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、戦闘員！？ しまった！！」"
+                                "Pony-Ceres: \"Eh, a combatant!? Darn it!!\""
                             ]
                         },
                         {
@@ -62048,14 +61075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待て、待て！ 俺だよ、俺！ 君にこの任務を託した……」"
+                                "Combatant: \"Wait, wait! It's me, me! I'm the one who entrusted you\nwith this mission...\""
                             ]
                         },
                         {
@@ -62088,14 +61108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ……」"
+                                "Pony-Ceres: \"What...\""
                             ]
                         },
                         {
@@ -62112,14 +61125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「びっくりさせないでよ、もぅ！」"
+                                "Pony-Ceres: \"Don't scare me like that, geez!\""
                             ]
                         },
                         {
@@ -62152,14 +61158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「居ても立っても居られなくなってここまで来てしまった」"
+                                "Combatant: \"I couldn't stand by any longer and had to come here.\""
                             ]
                         },
                         {
@@ -62176,14 +61175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カードキーを手に入れたようだね。よくやってくれた！」"
+                                "Combatant: \"It seems you've got the Card Key. Well done!\""
                             ]
                         },
                         {
@@ -62200,21 +61192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ささっ、カードキーをそこの装置に差し込んで緊急アナウンスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流してくれ！」"
+                                "Combatant: \"Now, quickly, insert the Card Key into that device and\nbroadcast the emergency announcement!\""
                             ]
                         },
                         {
@@ -62247,14 +61225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんよ！」"
+                                "Pony-Ceres: \"Of course!\""
                             ]
                         },
                         {
@@ -62373,14 +61344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしっと！」"
+                                "Pony-Ceres: \"There we go!\""
                             ]
                         },
                         {
@@ -62444,21 +61408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ、本当にこの装置であってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カードキーを差し込んだけど反応が無いわよ……」"
+                                "Pony-Ceres: \"Hey, are you sure this is the right device? I've inserted\nthe Card Key but there's no response...\""
                             ]
                         },
                         {
@@ -62475,14 +61425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、その装置で間違いないぞ」"
+                                "Combatant: \"Ah, that's definitely the right device.\""
                             ]
                         },
                         {
@@ -62506,14 +61449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「地獄への入口がなっ！！」"
+                                "Combatant: \"The entrance to hell is now open!!\""
                             ]
                         },
                         {
@@ -62539,14 +61475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Pony-Ceres: \"What!? \""
                             ]
                         },
                         {
@@ -62625,14 +61554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何これっ！」"
+                                "Pony-Ceres: \"What is this?!\""
                             ]
                         },
                         {
@@ -62649,14 +61571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「体が痺れてっ……動かない……！」"
+                                "Pony-Ceres: \"My body is tingling... I can't move...!\""
                             ]
                         },
                         {
@@ -62747,14 +61662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかこんなに簡単にひっかかるとはな」"
+                                "Combatant: \"I can't believe you fell for it so easily.\""
                             ]
                         },
                         {
@@ -62771,14 +61679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だ、騙したわね……くっ！」"
+                                "Pony-Ceres: \"You... you tricked me...ugh!\""
                             ]
                         },
                         {
@@ -62795,14 +61696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あばよ！ ポニーセレス！」"
+                                "Combatant: \"Farewell! Pony-Ceres!\""
                             ]
                         },
                         {
@@ -62953,14 +61847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふははははははははっ！！！」"
+                                "Combatant: \"Mwahahahahaha!!\""
                             ]
                         },
                         {
@@ -63483,14 +62370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見つけたわ！ ここがアナウンス室ね」"
+                                "Yui: \"Found it! This must be the announcement room.\""
                             ]
                         },
                         {
@@ -63524,7 +62404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは戦闘員の衣装を脱いだ。"
+                                "Yui took off the combatant's outfit."
                             ]
                         },
                         {
@@ -63569,14 +62449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ……もうこの衣装は必要ないわ」"
+                                "Yui: \"Phew... I won't be needing this outfit anymore.\""
                             ]
                         },
                         {
@@ -63861,14 +62734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、戦闘員！？ しまった！！」"
+                                "Pony-Ceres: \"Eh, a combatant!? Oh no!!\""
                             ]
                         },
                         {
@@ -63919,14 +62785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待て、待て！ 俺だよ、俺！ 君にこの任務を託した……」"
+                                "Combatant: \"Wait, wait! It's me, me! I'm the one who entrusted you\nwith this mission...\""
                             ]
                         },
                         {
@@ -63959,14 +62818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ……」"
+                                "Pony-Ceres: \"What the...\""
                             ]
                         },
                         {
@@ -63983,14 +62835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「びっくりさせないでよ、もぅ！」"
+                                "Pony-Ceres: \"Don't startle me like that, geez!\""
                             ]
                         },
                         {
@@ -64023,14 +62868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「居ても立っても居られなくなってここまで来てしまった」"
+                                "Combatant: \"I couldn't stay put and ended up coming all the way here.\""
                             ]
                         },
                         {
@@ -64047,14 +62885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カードキーを手に入れたようだね。よくやってくれた！」"
+                                "Combatant: \"It looks like you've got the Card Key. Well done!\""
                             ]
                         },
                         {
@@ -64071,21 +62902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ささっ、カードキーをそこの装置に差し込んで緊急アナウンスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流してくれ！」"
+                                "Combatant: \"Now, quickly insert the Card Key into that device and\nbroadcast the emergency announcement!\""
                             ]
                         },
                         {
@@ -64148,14 +62965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私が罠にかかるのを見に来たってわけね）"
+                                "Pony-Ceres: (So he came to see me fall into his trap, huh.)"
                             ]
                         },
                         {
@@ -64188,21 +62998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こんな奴を信じて口車にのせられそうになるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私ってなんて馬鹿なの……）"
+                                "Pony-Ceres: (To think I almost believed this guy and got taken for a\nride... How foolish of me...)"
                             ]
                         },
                         {
@@ -64219,14 +63015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ううぅ、恥ずかしい）"
+                                "Pony-Ceres: (Ugh, how embarrassing.)"
                             ]
                         },
                         {
@@ -64273,14 +63062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ どうかしたか？」"
+                                "Combatant: \"Hm? Is something wrong?\""
                             ]
                         },
                         {
@@ -64313,14 +63095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでもないわよ。さっさとアナウンスを流さないとね！」"
+                                "Pony-Ceres: \"It's nothing. Let's get that announcement out quickly!\""
                             ]
                         },
                         {
@@ -64555,21 +63330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ、本当にこの装置であってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カードキーが入らないんだけど」"
+                                "Pony-Ceres: \"Hey, are you sure this is the right device? The Card Key\nwon't fit.\""
                             ]
                         },
                         {
@@ -64629,14 +63390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？ そんなことは無いはずだぞ……」"
+                                "Combatant: \"Eh? That shouldn't be happening...\""
                             ]
                         },
                         {
@@ -64653,14 +63407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、あなたが試してみてよ」"
+                                "Pony-Ceres: \"Then you try it.\""
                             ]
                         },
                         {
@@ -64686,14 +63433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、俺がか……？ それは……ちょっと……」"
+                                "Combatant: \"Me? Well, that's... a bit...\""
                             ]
                         },
                         {
@@ -64710,21 +63450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたの？ あなたの方が装置に詳しいじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたに任せるわ！」"
+                                "Pony-Ceres: \"What's the matter? You know more about this device than I\ndo. I'll leave it to you!\""
                             ]
                         },
                         {
@@ -64741,14 +63467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！ えぇぇ！」"
+                                "Combatant: \"Eh! Eeeeh!\""
                             ]
                         },
                         {
@@ -65023,14 +63742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、さっさとやるのよ！」"
+                                "Pony-Ceres: \"Come on, hurry up and do it!\""
                             ]
                         },
                         {
@@ -65090,21 +63802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは、あのー。君が……やって欲しいかも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら、人々を助けるのは正義の味方である君が……」"
+                                "Combatant: \"That is, well... I was hoping you'd do it... After all,\nsaving people is a job for a hero like you...\""
                             ]
                         },
                         {
@@ -65121,14 +63819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ～、どうして出来ないのかしら？」"
+                                "Pony-Ceres: \"Hmm, why can't it be done, I wonder?\""
                             ]
                         },
                         {
@@ -65145,14 +63836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Combatant: \"Ugh...\""
                             ]
                         },
                         {
@@ -65193,14 +63877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を騙そうったってそうはいかないんだからね」"
+                                "Pony-Ceres: \"You're not going to fool me that easily, you know.\""
                             ]
                         },
                         {
@@ -65217,14 +63894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ、隊長さん！」"
+                                "Pony-Ceres: \"Hey, Captain!\""
                             ]
                         },
                         {
@@ -65250,14 +63920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「！！！」"
+                                "Combatant: \"!!!\""
                             ]
                         },
                         {
@@ -65274,14 +63937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お前、気付いていたのか！！」"
+                                "Combatant: \"You, you realized it?!!\""
                             ]
                         },
                         {
@@ -65314,21 +63970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あったり前じゃない！ そんな罠にポニーセレスがひっかかる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とでも思ったの？」"
+                                "Pony-Ceres: \"Of course! Did you really think Pony-Ceres would fall for\nsuch a trap?\""
                             ]
                         },
                         {
@@ -65345,14 +63987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐ、ぐぐぐ････\\|く、くそぉーー！！」"
+                                "Combatant: \"Guh, guh guh... damn it--!!\""
                             ]
                         },
                         {
@@ -65385,14 +64020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「脳筋馬鹿じゃねーのかよ！」"
+                                "Combatant: \"Aren't you just a muscle-brained idiot?!\""
                             ]
                         },
                         {
@@ -65409,14 +64037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「部下からの報告で、ポニーセレスは単細胞の馬鹿だと聞いていたのに！！」"
+                                "Combatant: \"I heard from my subordinates that Pony-Ceres was a simple-\nminded fool!!\""
                             ]
                         },
                         {
@@ -65449,14 +64070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な、な……\\|何言ってるのよ！」"
+                                "Pony-Ceres: \"Wha-what are you saying?!\""
                             ]
                         },
                         {
@@ -65473,14 +64087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに加えて巨乳は馬鹿と相場が決まってる！」"
+                                "Combatant: \"Besides, everyone knows that big boobs mean a big idiot!\""
                             ]
                         },
                         {
@@ -65497,14 +64104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「馬鹿みたいな顔しやがって、お前は馬鹿であるべきなんだ！！」"
+                                "Combatant: \"With that stupid look on your face, you're supposed to be\nan idiot!!\""
                             ]
                         },
                         {
@@ -65521,14 +64121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「馬鹿みたいな……か、顔……？　私は馬鹿であるべき……？」"
+                                "Pony-Ceres: \"Stupid look... on my face...? I'm supposed to be an\nidiot...?\""
                             ]
                         },
                         {
@@ -65587,14 +64180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「一瞬でぶっ飛ばしてあげるから覚悟しなさい！！」"
+                                "Pony-Ceres: \"Prepare yourself, because I'm going to send you flying in\nan instant!!\""
                             ]
                         },
                         {
@@ -65843,14 +64429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶひゃああああああぁぁっ！！」"
+                                "Combatant: \"Buhyaahhhhhhh!!\""
                             ]
                         },
                         {
@@ -65901,14 +64480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、なんて失礼な戦闘員なの……」"
+                                "Pony-Ceres: \"Honestly, what a rude combatant...\""
                             ]
                         },
                         {
@@ -65925,14 +64497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「年ごろの乙女に向かって馬鹿なんて言う？」"
+                                "Pony-Ceres: \"Calling a maiden of my age stupid?\""
                             ]
                         },
                         {
@@ -65958,14 +64523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頭にきちゃうわ、もぅ！！」"
+                                "Pony-Ceres: \"That really makes me mad, ugh!!\""
                             ]
                         },
                         {
@@ -66359,7 +64917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣の部屋から鼻歌が聞こえてきた。"
+                                "I could hear someone humming from the next room."
                             ]
                         },
                         {
@@ -66376,7 +64934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふふ～ん♪ ふふ～んふん♪ ふふふ～ん♪"
+                                "Hehehe~♪ Hehe~hmm♪ Hehehe~♪"
                             ]
                         },
                         {
@@ -66453,7 +65011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣の部屋から鼻歌が聞こえてきた。"
+                                "I could hear humming from the next room."
                             ]
                         },
                         {
@@ -66470,7 +65028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふふ～ん♪ ふふ～んふん♪ ふふふ～ん♪"
+                                "Hehehe~♪ Hehe~hmm♪ Hehehe~♪"
                             ]
                         },
                         {
@@ -66666,7 +65224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Book of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -66913,7 +65471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]必殺技の極意書十四巻】を手に入れた！"
+                                "I've obtained the 【\\i[94]Secret Tome of Finishing Moves, Volume 14】!"
                             ]
                         },
                         {

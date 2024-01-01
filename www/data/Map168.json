@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "四越屋３Ｆ",
+    "displayName": "Yotsugoya 3F",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -30716,7 +30716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[288]想い出の欠片Ａ】を手に入れた！"
+                                "You've obtained 【\\i[288]Fragment of Memories A】!"
                             ]
                         },
                         {
@@ -31661,14 +31661,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Ceres: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stone!\""
                             ]
                         },
                         {
@@ -33133,14 +33126,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Ceres: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stone!\""
                             ]
                         },
                         {
@@ -34534,14 +34520,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Ceres: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stone!\""
                             ]
                         },
                         {
@@ -35934,14 +35913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Ceres: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stone!\""
                             ]
                         },
                         {
@@ -37254,7 +37226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#ラフォール四越屋店"
+                                "Lafour Yotsugoya Store"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "食肉運搬用南ホール",
+    "displayName": "South Hall for Meat Transport",
     "encounterList": [],
     "encounterStep": 1,
     "height": 40,
@@ -16303,7 +16303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "Obtained the 【\\i[90]Tome of Endurance】!"
                             ]
                         },
                         {
@@ -16550,7 +16550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[296]ＧＧレモン】を手に入れた！"
+                                "Obtained 【\\i[296]GG Lemon】!"
                             ]
                         },
                         {
@@ -16796,7 +16796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "450\\G 手に入れた！"
+                                "450\\G obtained!"
                             ]
                         },
                         {
@@ -17043,7 +17043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[101]クッキーパイ】を手に入れた！"
+                                "I've obtained the 【\\i[101]Cookie Pie】!"
                             ]
                         },
                         {
@@ -17290,7 +17290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[138]ポケットグミ】を３つ手に入れた！"
+                                "I obtained three 【\\i[138]Pocket Gummies】!"
                             ]
                         },
                         {

@@ -3451,14 +3451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It looks like it would open with the \\C[17]Crimson\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -3526,14 +3519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Crimson Star Key\\C[0], it looks like\nit will open."
                             ]
                         },
                         {
@@ -3550,7 +3536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -3558,8 +3544,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3601,7 +3587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -3923,14 +3909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#立ち入り禁止"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#無断で立ち入った者は罰金１００万円"
+                                "No trespassing. Unauthorized entrants will be fined 1,000,000 yen."
                             ]
                         },
                         {
@@ -4026,14 +4005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#立ち入り禁止"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#無断で立ち入った者は罰金１００万円"
+                                "No trespassing. Unauthorized entrants will be fined 1,000,000 yen."
                             ]
                         },
                         {

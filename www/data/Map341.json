@@ -15239,7 +15239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーを下ろしますか？"
+                                "Would you like to pull the lever?"
                             ]
                         },
                         {
@@ -15247,8 +15247,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15306,7 +15306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかで扉が開いた音がした。"
+                                "Somewhere, the sound of a door opening could be heard."
                             ]
                         },
                         {
@@ -15397,7 +15397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {
@@ -15474,7 +15474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの仕掛けで開く扉のようだ。"
+                                "It seems to be a door that opens with some sort of mechanism."
                             ]
                         },
                         {
@@ -15661,14 +15661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなところに戦闘員のアジトが……」"
+                                "Yui: \"A hideout for the combatants in such a place...\""
                             ]
                         },
                         {
@@ -15701,14 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一気に壊滅させてあげるわ！」"
+                                "Yui: \"I'll destroy it all at once!\""
                             ]
                         },
                         {
@@ -18610,7 +18596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[194]聖者の指輪】を手に入れた！"
+                                "You've obtained the 【\\i[194]Ring of the Saint】!"
                             ]
                         },
                         {

@@ -21079,7 +21079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -21707,7 +21707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この教室はまだ授業中のようだ。"
+                                "This classroom seems to still be in the middle of a lesson."
                             ]
                         },
                         {
@@ -22056,7 +22056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この教室はまだ授業中のようだ。"
+                                "This classroom seems to still be in the middle of a lesson."
                             ]
                         },
                         {
@@ -23868,7 +23868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは冷水機を使った。"
+                                "Yui used the water cooler."
                             ]
                         },
                         {
@@ -23908,7 +23908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Her throat is quenched! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -23985,7 +23985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは冷水機を使った。"
+                                "Yui used the water cooler."
                             ]
                         },
                         {
@@ -24025,7 +24025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉が潤った！ ＳＰが１００回復した！"
+                                "Her throat is quenched! SP has been restored by 100!"
                             ]
                         },
                         {
@@ -24107,14 +24107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊急時のための防犯用のブザーが設置されたよ」"
+                                "Male Student: \"They've installed emergency security buzzers.\""
                             ]
                         },
                         {
@@ -24131,21 +24124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は女子トイレ前にしかないけど、来月までには学園中に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　設置予定との事だそうだ」"
+                                "Male Student: \"Right now, they're only in front of the girls'\nrestrooms, but apparently, they're planning to install them throughout\nthe school by next month.\""
                             ]
                         },
                         {
@@ -24162,14 +24141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでも、生徒会でアザミちゃんの提案が通ったらしい」"
+                                "Male Student: \"Apparently, it was Azami-chan's proposal that got\napproved by the student council.\""
                             ]
                         },
                         {
@@ -24318,14 +24290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "It's locked. If I had the \\C[17]Azure Star Key\\C[0], it seems like it\nwould open."
                             ]
                         },
                         {
@@ -24393,14 +24358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Azure Star Key\\C[0], it looks like it\nwill open."
                             ]
                         },
                         {
@@ -24417,7 +24375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -24425,8 +24383,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24468,7 +24426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -25610,7 +25568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -25618,8 +25576,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25735,7 +25693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -25743,8 +25701,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25865,14 +25823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#女子空手部地区大会優勝！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#エース守崎優衣が大活躍！"
+                                "Girls' Karate Club District Tournament Victory! Ace Morisaki Yui\nshines brightly!"
                             ]
                         },
                         {
@@ -25949,14 +25900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#女子空手部地区大会優勝！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#エース守崎優衣が大活躍！"
+                                "Girls' Karate Club District Tournament Victory! Ace Morisaki Yui\nshines brightly!"
                             ]
                         },
                         {
@@ -26033,14 +25977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#盗難被害多発中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#自己管理しっかりして下さい！"
+                                "Please be vigilant as there is a high occurrence of thefts!"
                             ]
                         },
                         {
@@ -26334,7 +26271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -26342,8 +26279,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26459,7 +26396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -26467,8 +26404,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26700,14 +26637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な形状の機械から電波が発せられている･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械を止めますか？"
+                                "Strange waves are being emitted from a machine with an odd shape... Do\nyou stop the machine?"
                             ]
                         },
                         {
@@ -26715,8 +26645,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26840,7 +26770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "電波の発生が停止した。"
+                                "The emission of the waves has stopped."
                             ]
                         },
                         {
@@ -26931,7 +26861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電波の発生が停止している。"
+                                "The transmission has stopped."
                             ]
                         },
                         {
@@ -27068,7 +26998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "消火器が設置されている。"
+                                "A fire extinguisher is installed."
                             ]
                         },
                         {
@@ -27167,7 +27097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -27195,7 +27125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[220]陸上シューズ】を手に入れた！"
+                                "【\\i[220]Track shoes】were obtained!"
                             ]
                         },
                         {
@@ -27302,7 +27232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -27319,7 +27249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -27427,7 +27357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -27444,7 +27374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -27552,7 +27482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -27569,7 +27499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -27907,14 +27837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ、何これ！？」"
+                                "Yui: \"What the... What is this!?\""
                             ]
                         },
                         {
@@ -27938,14 +27861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「耳鳴りがして……頭が割れるように痛い……」"
+                                "Yui: \"My ears are ringing... My head feels like it's splitting...\""
                             ]
                         },
                         {
@@ -27994,14 +27910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なによあなたっ！ 汚らわしい。こっちに来ないで！」"
+                                "Karen: \"What do you think you're doing?! Disgusting. Don't come any\ncloser!\""
                             ]
                         },
                         {
@@ -28227,21 +28136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を誰だと思っているの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それ以上近づいたら、ただじゃ済まないわよ！」"
+                                "Karen: \"Who do you think I am? If you come any closer, I won't let you\noff easy!\""
                             ]
                         },
                         {
@@ -28292,21 +28187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやおや、おかしいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　催眠電波を浴びて正気でいられるとは……」"
+                                "Principal: \"Oh dear, this is strange. To think you could remain sane\nafter being bathed in hypnotic waves...\""
                             ]
                         },
                         {
@@ -28323,21 +28204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっかく開発した催眠装置が、あなたに効果が無いようでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　意味がないじゃないですか……」"
+                                "Principal: \"It's meaningless if the hypnotic device I developed has no\neffect on you...\""
                             ]
                         },
                         {
@@ -28354,21 +28221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何をわけの分からない事を……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　近寄らないでって言ってるでしょ！」"
+                                "Karen: \"What are you talking about... I told you not to come near me!\""
                             ]
                         },
                         {
@@ -28385,14 +28238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「暴れられてはやっかいですからね、少し眠っていて下さい」"
+                                "Principal: \"It's troublesome if you thrash about, so please, take a\nlittle nap.\""
                             ]
                         },
                         {
@@ -28519,14 +28365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……えっ」"
+                                "Karen: \"...Huh?\""
                             ]
                         },
                         {
@@ -28680,14 +28519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん！」"
+                                "Yui: \"Saionji-san!\""
                             ]
                         },
                         {
@@ -29005,14 +28837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長……どうして？」"
+                                "Yui: \"Principal... why?\""
                             ]
                         },
                         {
@@ -29110,14 +28935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むむむ！」"
+                                "Principal: \"Hmmmm!\""
                             ]
                         },
                         {
@@ -29134,14 +28952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか、守崎君にまで催眠電波の効果が無いとは……」"
+                                "Principal: \"I can't believe it, even Morisaki-kun is unaffected by the\nhypnotic waves...\""
                             ]
                         },
                         {
@@ -29158,21 +28969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかしいですね……どこか不具合があるのか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ドムドラ様に報告しておかねば」"
+                                "Principal: \"This is odd... There must be a malfunction somewhere... I\nmust report this to Lord Domudora.\""
                             ]
                         },
                         {
@@ -29251,14 +29048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ドムドラ！？ \\|理事長はザイダーグと関係があるっていうの……？）"
+                                "Yui: (Domudora!? Is the principal involved with Zaida-G...?)"
                             ]
                         },
                         {
@@ -29282,14 +29072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……まさかザイダーグの怪人！？）"
+                                "Yui: (...Could it be a monster from Zaida-G!?)"
                             ]
                         },
                         {
@@ -29313,21 +29096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だとしても、ここでは変身出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんなに正体がバレてしまう……）"
+                                "Yui: (Even so, I can't transform here. Everyone will find out my true\nidentity...)"
                             ]
                         },
                         {
@@ -29351,14 +29120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうすればいいの……）"
+                                "Yui: (What should I do...)"
                             ]
                         },
                         {
@@ -29382,14 +29144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ここは一旦身を潜めるしか……）"
+                                "Yui: (I have no choice but to hide for now...)"
                             ]
                         },
                         {
@@ -29461,14 +29216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎君……」"
+                                "Principal: \"Morisaki-kun...\""
                             ]
                         },
                         {
@@ -29485,21 +29233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたは私のお気に入りの生徒ですから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　傷付けたくは無かったのですが……」"
+                                "Principal: \"You are one of my favorite students, so I didn't want to\nhurt you, but...\""
                             ]
                         },
                         {
@@ -29532,14 +29266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがにこの現場を見られてはしかたないですね！」"
+                                "Principal: \"I can't let you go after seeing this scene, can I!\""
                             ]
                         },
                         {
@@ -29563,14 +29290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……も……りさ……き……」"
+                                "Karen: \"...Mo...risa...ki...\""
                             ]
                         },
                         {
@@ -29617,14 +29337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん待ってて。必ず助けるから！」"
+                                "Yui: \"Wait for me, Saionji-san. I will definitely save you!\""
                             ]
                         },
                         {
@@ -30058,21 +29771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなところに逃げても無駄ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたはもう袋のネズミ」"
+                                "Principal: \"It's futile to run there. You're already like a rat in a\nbag.\""
                             ]
                         },
                         {
@@ -30138,14 +29837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこの出来損ないの生徒、こちらへ来なさい！」"
+                                "Principal: \"You, the failure of a student over there, come here!\""
                             ]
                         },
                         {
@@ -30512,14 +30204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた達は今からザイダーグの戦闘員です」"
+                                "Principal: \"From now on, you are soldiers of Zaida-G.\""
                             ]
                         },
                         {
@@ -30536,14 +30221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、体の底から力が沸いてくるでしょう」"
+                                "Principal: \"Look, can you feel the power surging from the depths of\nyour body?\""
                             ]
                         },
                         {
@@ -30600,14 +30278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生徒達"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぁ……･あ……」"
+                                "Students: \"...Ah...ah...\""
                             ]
                         },
                         {
@@ -30735,14 +30406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学園理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、守崎君を捕まえなさい！」"
+                                "Principal: \"Now, capture Morisaki-kun!\""
                             ]
                         },
                         {
@@ -30759,14 +30423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……か、しこ……まりました……」"
+                                "Zaida-G Soldier: \"...Under...stood...\""
                             ]
                         },
                         {

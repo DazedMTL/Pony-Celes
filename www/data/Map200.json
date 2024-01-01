@@ -15727,14 +15727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしよ。どうしよ」"
+                                "Saki: \"What should I do? What should I do?\""
                             ]
                         },
                         {
@@ -15751,21 +15744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「買い物に来たのに\\C[17]バッグ\\c[0]をどこかに落としちゃったみたいだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　財布も一緒に入れてたし･････」"
+                                "Saki: \"I came to shop but it seems like I've dropped my \\C[17]bag\\c[0]\nsomewhere. My wallet was inside too...\""
                             ]
                         },
                         {
@@ -15782,21 +15761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこに落としたんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　夕飯が買えなくて子供が飢え死にしちゃうわ」"
+                                "Saki: \"Where could I have dropped it? I won't be able to buy dinner\nand the kids will starve to death.\""
                             ]
                         },
                         {
@@ -15847,14 +15812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（飢え死に？　大げさ過ぎじゃないですかね･･････）"
+                                "Yui: (Starve to death? Isn't that a bit of an exaggeration...)"
                             ]
                         },
                         {
@@ -15964,14 +15922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、それ私のバッグじゃない！」"
+                                "Saki: \"Ah, isn't that my bag!\""
                             ]
                         },
                         {
@@ -15988,14 +15939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それ探してたのよ！いったいどこにあったの？」"
+                                "Saki: \"I've been looking for it! Where did you find it?\""
                             ]
                         },
                         {
@@ -16046,14 +15990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこのコンビニのトイレに落ちていましたよ」"
+                                "Yui: \"It was dropped in the restroom of that convenience store over\nthere.\""
                             ]
                         },
                         {
@@ -16070,14 +16007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、トイレに行った時に置き忘れていたのね･････」"
+                                "Saki: \"Ah, I must have forgotten it when I went to the bathroom...\""
                             ]
                         },
                         {
@@ -16104,14 +16034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助かったわ。見つけてくれてありがとね！」"
+                                "Saki: \"You saved me. Thank you for finding it!\""
                             ]
                         },
                         {
@@ -16128,14 +16051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ、どういたしまして」"
+                                "Yui: \"No problem at all, you're welcome.\""
                             ]
                         },
                         {
@@ -16152,14 +16068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはほんのお礼よ。とっておいて」"
+                                "Saki: \"This is just a little token of my thanks. Please take it.\""
                             ]
                         },
                         {
@@ -16188,7 +16097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは【\\i[310]キーピックセット】を手に入れた！"
+                                "Yui has received a 【\\i[310]Key-Pick Set】!"
                             ]
                         },
                         {
@@ -16307,14 +16216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の夕飯何にしよかな･････う～ん決められない」"
+                                "Saki: \"What should I make for dinner tonight... Hmm, I can't decide.\""
                             ]
                         },
                         {
@@ -16331,14 +16233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く買って帰らないと子供が飢え死にしちゃうわ」"
+                                "Saki: \"I need to buy something and get home quickly or the kids will\nstarve to death.\""
                             ]
                         },
                         {
@@ -16648,14 +16543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノリユキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\C[17]懐中電灯\\C[0]さえあれば暗闇の中も安心して歩けるね」"
+                                "ノリユキ: \"With a \\C[17]flashlight\\C[0], even walking in the dark feels\nsafe.\""
                             ]
                         },
                         {
@@ -16764,21 +16652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来週には店を閉める事になってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はもう営業していないんだ」"
+                                "Kousuke: \"We're going to close the shop by next week. We're not in\nbusiness anymore as of now.\""
                             ]
                         },
                         {
@@ -16795,21 +16669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんねお嬢ちゃん。家電をお探しなら一駅先の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フォルス地区にでも行ってくれ」"
+                                "Kousuke: \"Sorry, young lady. If you're looking for appliances, please\ngo to the Forus district one station over.\""
                             ]
                         },
                         {
@@ -16886,14 +16746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酔っ払い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ZZZ･････」"
+                                "Drunkard: \"ZZZ...\""
                             ]
                         },
                         {
@@ -17073,7 +16926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　大衆酒場のんべー"
+                                "Popular Tavern Nonbe-"
                             ]
                         },
                         {
@@ -17150,7 +17003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　中華そばライライ軒"
+                                "Rairai Ramen Shop"
                             ]
                         },
                         {
@@ -17303,14 +17156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#石川書店"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#古書高価買取中！"
+                                "Ishikawa Bookstore: We buy old books at high prices!"
                             ]
                         },
                         {
@@ -17406,14 +17252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#コタケ不動産"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#お住まいをお探しの方は是非当店へ！"
+                                "If you're looking for a place to live, be sure to visit Kotake Real\nEstate!"
                             ]
                         },
                         {
@@ -17509,14 +17348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#コタケ不動産"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#お住まいをお探しの方は是非当店へ！"
+                                "If you're looking for a place to live, be sure to visit Kotake Real\nEstate!"
                             ]
                         },
                         {
@@ -17612,14 +17444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#中華そばライライ軒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#濃厚の中華スープにちじれ麺が最高！"
+                                "Rairai-ken's Chinese soba with its rich Chinese soup and curly noodles\nis the best!"
                             ]
                         },
                         {
@@ -17715,14 +17540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#中華そばライライ軒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#濃厚の中華スープにちじれ麺が最高！"
+                                "The rich Chinese soup with curly noodles at Chuka Soba Rairai-ken is\nthe best!"
                             ]
                         },
                         {
@@ -17818,14 +17636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#定食屋やよい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#魚定食食べるなら！"
+                                "If you're going to eat at the diner, try the fish set meal!"
                             ]
                         },
                         {
@@ -17921,14 +17732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#定食屋やよい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#魚定食食べるなら！"
+                                "If you're going to eat at the diner, you've got to try the fish set\nmeal!"
                             ]
                         },
                         {
@@ -18046,21 +17850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒサエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か探し物があったらそこコンビニに行く事ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大抵の物は揃うわよ」"
+                                "Hisae: \"If you're looking for something, you should go to that\nconvenience store. They usually have everything.\""
                             ]
                         },
                         {
@@ -18525,14 +18315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつのケツ、相当やばかったぜ……」"
+                                "Yasunobu: \"That guy's ass was seriously insane...\""
                             ]
                         },
                         {
@@ -18549,14 +18332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんな上玉触ったら、すげー欲情して来ちまったな……」"
+                                "Yasunobu: \"After touching such a fine piece, I got super horny...\""
                             ]
                         },
                         {
@@ -18573,14 +18349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかたねー、フォルス地区行きの電車で我慢するか……」"
+                                "Yasunobu: \"Can't help it, I guess I'll have to endure it on the train\nto the Forus district...\""
                             ]
                         },
                         {

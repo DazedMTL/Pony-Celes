@@ -15550,7 +15550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -15589,7 +15589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -16139,7 +16139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -16436,7 +16436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -16475,7 +16475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I've unlocked it."
                             ]
                         },
                         {
@@ -16763,14 +16763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はイワオさん以外の使用連絡は聞いていないぞ」"
+                                "Black-suited man: \"Today, I haven't heard of anyone other than Mr.\nIwao using this place.\""
                             ]
                         },
                         {
@@ -16787,14 +16780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「間違って迷い込んだなら引き返す事だな」"
+                                "Black-suited man: \"If you've wandered in here by mistake, you should\nturn back.\""
                             ]
                         },
                         {
@@ -17301,7 +17287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -17378,7 +17364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -17455,7 +17441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -17532,7 +17518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗証番号で開く扉のようだ。"
+                                "It seems to be a door that opens with a security code."
                             ]
                         },
                         {
@@ -17549,7 +17535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗証番号を入力して下さい。"
+                                "Please enter the security code."
                             ]
                         },
                         {
@@ -17597,7 +17583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "施錠が解除された。"
+                                "The lock has been released."
                             ]
                         },
                         {
@@ -17632,7 +17618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暗証番号が間違っているようだ。"
+                                "It seems the security code is incorrect."
                             ]
                         },
                         {
@@ -17692,14 +17678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この奥が怪しいのに暗証番号が分からないわ」"
+                                "Yui: \"It's suspicious beyond here, but I don't know the security\ncode.\""
                             ]
                         },
                         {
@@ -17716,14 +17695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「\\C[17]四桁の数字\\C[0]……何か思い当たる数字は無いかしら」"
+                                "Yui: \"\\C[17]A four-digit number\\C[0]... Can you think of any numbers\nthat come to mind?\""
                             ]
                         },
                         {
@@ -18244,14 +18216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先は現場検証のため立ち入り禁止になっています」"
+                                "Police Officer: \"This area is off-limits due to an ongoing crime scene\ninvestigation.\""
                             ]
                         },
                         {
@@ -18328,14 +18293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見かけない顔ね」"
+                                "Mikiko: \"I haven't seen your face around here before.\""
                             ]
                         },
                         {
@@ -18352,14 +18310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたもこの接待部屋に呼ばれたんだ……ふ～ん」"
+                                "Mikiko: \"So you've been called to this reception room too... Hmm.\""
                             ]
                         },
                         {
@@ -18376,21 +18327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はこれから店長のお知り合いのイワオ様を接待するの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上手く奉仕出来るか緊張するわ」"
+                                "Mikiko: \"I'm about to entertain Mr. Iwao, an acquaintance of the\nmanager. I'm nervous about whether I can serve him well.\""
                             ]
                         },
                         {
@@ -18407,14 +18344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミキコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お互い粗相の無い様に頑張らないとね」"
+                                "Mikiko: \"We both have to do our best to avoid any blunders, don't we?\""
                             ]
                         },
                         {
@@ -20536,14 +20466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（今のはジュリさん？ それにあのＶＩＰ客……）"
+                                "Yui: \"Was that Juli-san? And that VIP customer...\""
                             ]
                         },
                         {
@@ -20560,14 +20483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まさか監禁部屋に？）"
+                                "Yui: \"Could it be... to the confinement room?\""
                             ]
                         },
                         {
@@ -20760,7 +20676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＶＩＰ客に対する接し方が長々と書かれている。"
+                                "The instructions on how to deal with VIP customers are written at\nlength."
                             ]
                         },
                         {
@@ -20856,7 +20772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＶＩＰ客に対する接し方が長々と書かれている。"
+                                "The instructions on how to interact with VIP guests are written at\nlength."
                             ]
                         },
                         {

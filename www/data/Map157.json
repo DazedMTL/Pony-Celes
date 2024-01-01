@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１０１号室",
+    "displayName": "Room 101",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12160,14 +12160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……困ったわ……」"
+                                "Aki: \"Ah... I'm in trouble...\""
                             ]
                         },
                         {
@@ -12218,14 +12211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの、どうかされましたか？」"
+                                "Yui: \"Excuse me, is something the matter?\""
                             ]
                         },
                         {
@@ -12296,14 +12282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「子供が家を飛び出しったきり帰ってこないの……」"
+                                "Aki: \"My child has run away from home and hasn't come back...\""
                             ]
                         },
                         {
@@ -12336,21 +12315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勉強しろ勉強しろってしつこく言ったのが悪かったかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が馬鹿だったわ……」"
+                                "Aki: \"Maybe I was too persistent telling them to study, study, study.\nI was such a fool...\""
                             ]
                         },
                         {
@@ -12367,14 +12332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなに遠くへ行ってないと思うんだけど、心配で心配で……」"
+                                "Aki: \"I don't think they've gone very far, but I'm so worried...\""
                             ]
                         },
                         {
@@ -12389,8 +12347,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お子さんの特徴を教えて下さい",
-                                    "そうなんですか……"
+                                    "Could you tell me about your child's characteristics?",
+                                    "Is that so"
                                 ],
                                 1,
                                 0,
@@ -12436,21 +12394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お子さんの特徴を教えてもらっていいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　探してお家へ帰るよう説得してみます」"
+                                "Yui: \"Could you tell me what your child looks like? I'll try to find\nthem and persuade them to come home.\""
                             ]
                         },
                         {
@@ -12467,14 +12411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「本当ですか！ 助かります！」"
+                                "Aki: \"Really? That would be such a help!\""
                             ]
                         },
                         {
@@ -12491,21 +12428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ええと……\\C[17]緑色のシャツに赤い髪の毛、名前はシンゴ\\C[0]です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もし見かけたらよろしくお願いします」"
+                                "Aki: \"Let's see... \\C[17]They're wearing a green shirt and have red\nhair, and their name is Shingo\\C[0]. If you see them, please let me\nknow.\""
                             ]
                         },
                         {
@@ -12538,14 +12461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わかりました。シンゴ君ですね！」"
+                                "Yui: \"Understood. Shingo-kun, right?\""
                             ]
                         },
                         {
@@ -12562,14 +12478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「心配はいりませんよ。必ず見つけてみせますから」"
+                                "Yui: \"Please don't worry. I'll make sure to find them.\""
                             ]
                         },
                         {
@@ -12586,14 +12495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ありがとうございます！」"
+                                "Aki: \"Thank you so much!\""
                             ]
                         },
                         {
@@ -12673,14 +12575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうなんですか……」"
+                                "Yui: \"Is that so...\""
                             ]
                         },
                         {
@@ -12697,14 +12592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ごめんなさい。こんな事あなたに言ってもしょうがないわね」"
+                                "Aki: \"I'm sorry. There's no point in telling you all this.\""
                             ]
                         },
                         {
@@ -12876,21 +12764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「特徴は\\C[17]緑色のシャツに赤い髪の毛、名前はシンゴ\\C[0]です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし見かけたら私の元へ帰ってくるよう伝えてくれますか」"
+                                "Aki: \"The features are a \\C[17]green shirt and red hair, and the name\nis Shingo\\C[0]. If you see him, could you tell him to come back to\nme?\""
                             ]
                         },
                         {
@@ -12982,14 +12856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シンゴが無事帰ってきました。ありがとうございます！」"
+                                "Aki: \"Shingo has safely returned. Thank you so much!\""
                             ]
                         },
                         {
@@ -13006,14 +12873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、あの頑固なシンゴをどうやって説得したんですか？」"
+                                "Aki: \"But how did you manage to persuade that stubborn Shingo?\""
                             ]
                         },
                         {
@@ -13064,14 +12924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは……\\|あの～……」"
+                                "Yui: \"Well... umm...\""
                             ]
                         },
                         {
@@ -13102,14 +12955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うぅ……スカートの中を見せたなんて絶対に言えないわ）"
+                                "Yui: (Ugh... I can't possibly tell her that I showed him what's under\nmy skirt...)"
                             ]
                         },
                         {
@@ -13165,14 +13011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お母さんがとても心配してるって伝えたら、走って帰りましたよ」"
+                                "Yui: \"When I told him his mother was really worried, he ran straight\nhome.\""
                             ]
                         },
                         {
@@ -13189,14 +13028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだかんだ言って、お母さんが大好きなんですね」"
+                                "Yui: \"Despite everything, he really loves his mother, doesn't he?\""
                             ]
                         },
                         {
@@ -13213,21 +13045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか……シンゴが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当にありがとうございます」"
+                                "Aki: \"Is that so... Shingo. I truly appreciate it.\""
                             ]
                         },
                         {
@@ -13244,14 +13062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはほんの気持ちです。受け取って下さい！」"
+                                "Aki: \"This is just a token of my gratitude. Please accept it!\""
                             ]
                         },
                         {
@@ -13290,7 +13101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[291]フェイの第三倉庫の鍵】を手に入れた！"
+                                "You have obtained the 【\\i[291]Fey's Third Warehouse Key】!"
                             ]
                         },
                         {
@@ -13422,14 +13233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シンゴが無事帰ってきました。ありがとうございます！」"
+                                "Aki: \"Shingo has returned safely. Thank you so much!\""
                             ]
                         },
                         {
@@ -13446,21 +13250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お渡しした鍵は、私の思い出の……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いや、もう私には必要の無いもので自由に使って下さい」"
+                                "Aki: \"The key I gave you is part of my memories... no, it's something\nI no longer need, so please feel free to use it as you wish.\""
                             ]
                         },
                         {
@@ -13582,7 +13372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13609,7 +13399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[230]すっきりリンゴ】を手に入れた！"
+                                "【\\i[230]Refreshing Apple】acquired!"
                             ]
                         },
                         {
@@ -13716,7 +13506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13733,7 +13523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -13820,14 +13610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、あの時のお姉ちゃん」"
+                                "Shingo: \"Ah, it's that Onee-san from that time\""
                             ]
                         },
                         {
@@ -13844,14 +13627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ね～ね～、またスカートの中見せてよ！」"
+                                "Shingo: \"Hey, hey, show me what's under your skirt again!\""
                             ]
                         },
                         {
@@ -13902,14 +13678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～？ 見せるわけないでしょ！」"
+                                "Yui: \"Hah? There's no way I'd show you!\""
                             ]
                         },
                         {
@@ -13926,14 +13695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより、もうお母さんを困らせちゃダメよ」"
+                                "Yui: \"More importantly, you shouldn't trouble your mother anymore\""
                             ]
                         },
                         {
@@ -13950,14 +13712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンゴ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちぇ～……ケチッ！」"
+                                "Shingo: \"Tch... Stingy!\""
                             ]
                         },
                         {
@@ -14112,7 +13867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14129,14 +13884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タンスの中に手紙を発見した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手に取り読んでみますか？"
+                                "She found a letter inside the dresser. Would you like to pick it up\nand read it?"
                             ]
                         },
                         {
@@ -14144,8 +13892,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14175,7 +13923,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アキへ"
+                                "To Aki,"
                             ]
                         },
                         {
@@ -14192,7 +13940,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "突然のこんな手紙を書いてすまない。"
+                                "I'm sorry for writing such a sudden letter."
                             ]
                         },
                         {
@@ -14209,14 +13957,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あれから色々考えたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前とヨリを戻したい。"
+                                "I've thought a lot since then. I want to get back together with you."
                             ]
                         },
                         {
@@ -14233,7 +13974,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シンゴにも会いたい。"
+                                "I also want to see Shingo."
                             ]
                         },
                         {
@@ -14250,14 +13991,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうか考え直してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺は必ずお前たちを幸せにする。"
+                                "Please reconsider. I promise I will make you both happy."
                             ]
                         },
                         {
@@ -14274,14 +14008,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "決心がついたら、お前の誕生日にあの秘密基地へ来てくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこの鍵を同封しておく。"
+                                "If you've made up your mind, come to that secret base on your\nbirthday. I've enclosed the key."
                             ]
                         },
                         {
@@ -14298,7 +14025,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "覚えているだろ？ ガキの頃、お前とよく忍び込んで遊んだあの倉庫だ。"
+                                "You remember, right? That warehouse we used to sneak into and play in\nwhen we were kids."
                             ]
                         },
                         {
@@ -14315,14 +14042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あそこでかくれんぼをよくしたよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前はいつもあの小さな小部屋に隠れてさ。"
+                                "We used to play hide-and-seek there a lot. You always hid in that\nsmall room."
                             ]
                         },
                         {
@@ -14339,7 +14059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの場所からもう一度やり直したい！"
+                                "I want to start over again from that place!"
                             ]
                         },
                         {
@@ -14356,7 +14076,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "頼むアキ、俺にもう一度チャンスをくれ。"
+                                "Please Aki, give me another chance."
                             ]
                         },
                         {
@@ -14373,7 +14093,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コウスケより"
+                                "From Kousuke"
                             ]
                         },
                         {
@@ -14504,7 +14224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14521,14 +14241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タンスの中に手紙を発見した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手に取り読んでみますか？"
+                                "She found a letter inside the dresser. Would you like to pick it up\nand read it?"
                             ]
                         },
                         {
@@ -14536,8 +14249,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14567,7 +14280,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アキへ"
+                                "To Aki,"
                             ]
                         },
                         {
@@ -14584,7 +14297,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "突然のこんな手紙を書いてすまない。"
+                                "I'm sorry for writing such a sudden letter."
                             ]
                         },
                         {
@@ -14601,14 +14314,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あれから色々考えたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前とヨリを戻したい。"
+                                "I've thought a lot since then. I want to get back together with you."
                             ]
                         },
                         {
@@ -14625,7 +14331,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シンゴにも会いたい。"
+                                "I want to see Shingo too."
                             ]
                         },
                         {
@@ -14642,14 +14348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうか考え直してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺は必ずお前たちを幸せにする。"
+                                "Please reconsider. I promise I will make you both happy."
                             ]
                         },
                         {
@@ -14666,14 +14365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "決心がついたら、お前の誕生日にあの秘密基地へ来てくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこの鍵を同封しておく。"
+                                "If you've made up your mind, come to that secret base on your\nbirthday. I've enclosed the key."
                             ]
                         },
                         {
@@ -14690,7 +14382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "覚えているだろ？ ガキの頃、お前とよく忍び込んで遊んだあの倉庫だ。"
+                                "You remember, right? That warehouse we used to sneak into and play in\nwhen we were kids."
                             ]
                         },
                         {
@@ -14707,14 +14399,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あそこでかくれんぼをよくしたよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前はいつもあの小さな小部屋に隠れてさ。"
+                                "We used to play hide-and-seek there a lot. You always hid in that\nsmall room."
                             ]
                         },
                         {
@@ -14731,7 +14416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの場所からもう一度やり直したい！"
+                                "I want to start over again from that place!"
                             ]
                         },
                         {
@@ -14748,7 +14433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "頼むアキ、俺にもう一度チャンスをくれ。"
+                                "Please Aki, give me another chance."
                             ]
                         },
                         {
@@ -14765,7 +14450,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コウスケより"
+                                "From Kousuke"
                             ]
                         },
                         {
@@ -14876,7 +14561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはさっさっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {

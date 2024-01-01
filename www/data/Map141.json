@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大門駅バス停",
+    "displayName": "Daimon Station Bus Stop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3391,7 +3391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#大門駅"
+                                "Daimon Station"
                             ]
                         },
                         {
@@ -3487,7 +3487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#アーバン地区行き"
+                                "Bound for the Urban District"
                             ]
                         },
                         {
@@ -3609,7 +3609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "５章のメインストーリーを進めますか？"
+                                "Would you like to proceed with Chapter 5's main story?"
                             ]
                         },
                         {
@@ -3617,8 +3617,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -3662,7 +3662,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【アーバン地区】行きのバスへ乗車しますか？"
+                                "Would you like to board the bus to the Urban District?"
                             ]
                         },
                         {
@@ -3670,8 +3670,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3701,7 +3701,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ユイはバスに乗車した。"
+                                "Yui boarded the bus."
                             ]
                         },
                         {
@@ -3932,7 +3932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アーバン地区】行きのバスへ乗車しますか？"
+                                "Would you like to board the bus to the Urban District?"
                             ]
                         },
                         {
@@ -3940,8 +3940,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3971,7 +3971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはバスに乗車した。"
+                                "Yui boarded the bus."
                             ]
                         },
                         {
@@ -4133,7 +4133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アーバン地区】行きのバスへ乗車しますか？"
+                                "Would you like to board the bus to the Urban District?"
                             ]
                         },
                         {
@@ -4141,8 +4141,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4172,7 +4172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはバスに乗車した。"
+                                "Yui boarded the bus."
                             ]
                         },
                         {
@@ -4401,21 +4401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サチエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区行きの電車が止まっているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　バスでしか行けないの」"
+                                "Sachie: \"The train to the Urban district is stopped, so we can only go\nby bus.\""
                             ]
                         },
                         {
@@ -4432,14 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サチエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホント不便よね……」"
+                                "Sachie: \"It's really inconvenient...\""
                             ]
                         },
                         {
@@ -4549,14 +4528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰だよ！ 俺の自転車のカゴに空き缶入れたやつは！」"
+                                "Monta: \"Who did it?! Who put an empty can in my bike basket?!\""
                             ]
                         },
                         {

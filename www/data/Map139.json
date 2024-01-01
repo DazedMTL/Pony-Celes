@@ -15165,14 +15165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一発ぬいたし、タバコでも吸いにいくか……」"
+                                "Minion: \"I've taken a shot, maybe I'll go have a smoke...\""
                             ]
                         },
                         {
@@ -15291,14 +15284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポ、ポニーセレス！！」"
+                                "Minion: \"Po, Pony-Ceres!!\""
                             ]
                         },
                         {
@@ -15349,14 +15335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お勤めご苦労さん。さぁ、ぶっ飛ばしてあげるわ！」"
+                                "Pony-Ceres: \"Good work on your duty. Now, I'll blow you away!\""
                             ]
                         },
                         {
@@ -15573,14 +15552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まっ、待ってくれ！ 俺の話を聞いてくれ！」"
+                                "Minion: \"Wait, wait! Listen to me!\""
                             ]
                         },
                         {
@@ -15606,14 +15578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんなを助けてくれないか？」"
+                                "Minion: \"Can you help everyone?\""
                             ]
                         },
                         {
@@ -15664,14 +15629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんなを助ける？」"
+                                "Pony-Ceres: \"Help everyone?\""
                             ]
                         },
                         {
@@ -15688,14 +15646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せ、戦闘員への改造手術を受けている人達を助けて欲しい」"
+                                "Minion: \"I want you to help the people who are being forced to undergo\nsurgery to become combatants.\""
                             ]
                         },
                         {
@@ -15712,14 +15663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕一人の力では無理なんだ……」"
+                                "Minion: \"I can't do it alone...\""
                             ]
                         },
                         {
@@ -15752,14 +15696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それって････ザイダーグを裏切るってことじゃない」"
+                                "Pony-Ceres: \"You mean... betray Zaida-G?\""
                             ]
                         },
                         {
@@ -15776,21 +15713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、俺はもうこんな事したくない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君が助けに来てくれるのを待っていたんだ」"
+                                "Minion: \"Yeah, I don't want to do this anymore. I've been waiting for\nyou to come and help.\""
                             ]
                         },
                         {
@@ -15807,14 +15730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼む、ポニーセレス……」"
+                                "Minion: \"Please, Pony-Ceres...\""
                             ]
                         },
                         {
@@ -15831,14 +15747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Pony-Ceres: \"...\""
                             ]
                         },
                         {
@@ -15855,21 +15764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無理やり戦闘員にされたんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　みんなを苦しめる事なんてしたくない……」"
+                                "Minion: \"I was forced to become a combatant... I don't want to make\neveryone suffer...\""
                             ]
                         },
                         {
@@ -15886,14 +15781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Pony-Ceres: \"...\""
                             ]
                         },
                         {
@@ -15926,14 +15814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった。あなたの言う事を信じるわ」"
+                                "Pony-Ceres: \"Alright. I'll trust what you're saying.\""
                             ]
                         },
                         {
@@ -15950,14 +15831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんとか！」"
+                                "Minion: \"Really?!\""
                             ]
                         },
                         {
@@ -15974,14 +15848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう、ポニーセレス！」"
+                                "Minion: \"Thank you, Pony-Ceres!\""
                             ]
                         },
                         {
@@ -16014,14 +15881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、どうすればいいの？」"
+                                "Pony-Ceres: \"So, what should I do?\""
                             ]
                         },
                         {
@@ -16069,21 +15929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこの排水溝に地下へ通じる階段がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　君はそこから戦闘員の本拠地へ侵入してくれ」"
+                                "Minion: \"There's a staircase leading underground in that drain. You\ncan infiltrate the combatants' headquarters from there.\""
                             ]
                         },
                         {
@@ -16131,14 +15977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は本拠地の全ての戦闘員が出動命令のアナウンスを待っている状態だ」"
+                                "Minion: \"Right now, all the combatants in the headquarters are waiting\nfor the announcement to deploy.\""
                             ]
                         },
                         {
@@ -16155,21 +15994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくら君が強かろうが、ここの戦闘員達全てを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相手するのは無理だろう……」"
+                                "Minion: \"No matter how strong you are, it's impossible to take on all\nthe combatants here...\""
                             ]
                         },
                         {
@@ -16202,14 +16027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、そんな事言ってられないわ。なんとかしないと！」"
+                                "Pony-Ceres: \"But I can't just stand by and do nothing. I have to do\nsomething!\""
                             ]
                         },
                         {
@@ -16226,14 +16044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「焦らないでくれ。俺に作戦があるんだ」"
+                                "Minion: \"Don't rush. I have a plan.\""
                             ]
                         },
                         {
@@ -16250,14 +16061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これを使ってくれ！」"
+                                "Minion: \"Use this!\""
                             ]
                         },
                         {
@@ -16324,7 +16128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[170]戦闘員スーツ】を手に入れた！"
+                                "You obtained the 【\\i[170]Combatant Suit】!"
                             ]
                         },
                         {
@@ -16341,14 +16145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦闘員の衣装？」"
+                                "Pony-Ceres: \"A combatant's outfit?\""
                             ]
                         },
                         {
@@ -16365,14 +16162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、その通りだ」"
+                                "Minion: \"Yes, exactly.\""
                             ]
                         },
                         {
@@ -16389,21 +16179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その衣装を身にまとえば、君がポニーセレスだとバレずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　潜入出来るはずだ」"
+                                "Minion: \"If you wear that outfit, you should be able to infiltrate\nwithout being recognized as Pony-Ceres.\""
                             ]
                         },
                         {
@@ -16420,14 +16196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「潜入したら最奥の部屋を目指してくれ」"
+                                "Minion: \"Once you've infiltrated, head for the innermost room.\""
                             ]
                         },
                         {
@@ -16444,21 +16213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこはアナウンス室になっていて、戦闘員の緊急出動を全館へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナウンスする事が出来る」"
+                                "Minion: \"That's the announcement room, where you can broadcast an\nemergency deployment announcement to the entire facility.\""
                             ]
                         },
                         {
@@ -16475,14 +16230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アナウンスさえ流れれば、全ての戦闘員は地上に繰り出されるはずだ」"
+                                "Minion: \"Once the announcement is made, all combatants should head to\nthe surface.\""
                             ]
                         },
                         {
@@ -16499,14 +16247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぬけの殻になった本拠地なら確実にみんなを助けだせる！」"
+                                "Minion: \"With the headquarters empty, you can definitely rescue\neveryone!\""
                             ]
                         },
                         {
@@ -16539,14 +16280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど。良い作戦ね！」"
+                                "Pony-Ceres: \"I see. That's a good plan!\""
                             ]
                         },
                         {
@@ -16563,14 +16297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただ……一つ問題がある」"
+                                "Minion: \"But... there's one problem.\""
                             ]
                         },
                         {
@@ -16587,21 +16314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アナウンス室を使うには隊長のカードキーが必要になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　隊長以外は緊急出動のアナウンスが出来ないようになっているんだ」"
+                                "Minion: \"You need the captain's card key to use the announcement room.\nOnly the captain can make an emergency deployment announcement.\""
                             ]
                         },
                         {
@@ -16634,14 +16347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それを隊長から奪えってことね」"
+                                "Pony-Ceres: \"So I need to steal it from the captain.\""
                             ]
                         },
                         {
@@ -16658,14 +16364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのくらいのリスクは承知ってわけか」"
+                                "Minion: \"You're aware of the risk involved.\""
                             ]
                         },
                         {
@@ -16682,14 +16381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本拠地全ての戦闘員を相手にするよりは断然簡単ね」　"
+                                "Pony-Ceres: \"It's definitely easier than taking on all the combatants\nin the headquarters.\""
                             ]
                         },
                         {
@@ -16706,14 +16398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼もしいな……だが、おそらく隊長から奪う必要は無いだろう」"
+                                "Minion: \"You're reliable... But you probably won't need to steal it\nfrom the captain.\""
                             ]
                         },
                         {
@@ -16730,21 +16415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カードキーは隊長専用部屋の引き出しに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しまってあると聞いた事がある」"
+                                "Minion: \"I've heard that the card key is kept in a drawer in the\ncaptain's private room.\""
                             ]
                         },
                         {
@@ -16761,14 +16432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今、隊長は不在だ。部屋に入ったら探して見つけてくれ」"
+                                "Minion: \"The captain is currently out. Once you're in the room, search\nfor it and find it.\""
                             ]
                         },
                         {
@@ -16785,14 +16449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隊長の部屋ね。わかったわ！」　"
+                                "Pony-Ceres: \"The captain's room, got it!\""
                             ]
                         },
                         {
@@ -16809,14 +16466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君がここに来てくれて本当に助かったよ。感謝する！」"
+                                "Minion: \"It's really a relief that you came here. I'm grateful!\""
                             ]
                         },
                         {
@@ -16849,14 +16499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、お礼を言うのはまだ早いわよ。全て上手くいってからね」　"
+                                "Pony-Ceres: \"Hehe, it's too early to thank me. Let's wait until\neverything goes smoothly.\""
                             ]
                         },
                         {
@@ -17125,7 +16768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -17133,8 +16776,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17269,7 +16912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -17277,8 +16920,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17420,7 +17063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -17428,8 +17071,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17756,14 +17399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「侵入したら最奥の部屋を目指してくれ」"
+                                "Combatant: \"Once you've infiltrated, head for the innermost room.\""
                             ]
                         },
                         {
@@ -17780,21 +17416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこはアナウンス室になっていて、戦闘員の緊急出動を全館へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アナウンスする事が出来る」"
+                                "Combatant: \"That's the announcement room, where you can broadcast an\nemergency deployment to all combatants throughout the facility.\""
                             ]
                         },
                         {
@@ -17811,14 +17433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アナウンス室を使うにはカードキーが必要になる」"
+                                "Combatant: \"You'll need a card key to use the announcement room.\""
                             ]
                         },
                         {
@@ -17835,21 +17450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カードキーは隊長が使用している部屋の引き出しに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しまってあると聞いた事がある」"
+                                "Combatant: \"I've heard that the card key is kept in a drawer in the\nroom the captain uses.\""
                             ]
                         },
                         {
@@ -17866,14 +17467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隊長は今不在だ。部屋に入ったら探して見つけてくれ」"
+                                "Combatant: \"The captain is currently away. Once you enter the room,\nsearch for it and find it.\""
                             ]
                         },
                         {

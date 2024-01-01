@@ -16,7 +16,7 @@
         "volume": 15
     },
     "disableDashing": false,
-    "displayName": "宗善町奥道",
+    "displayName": "Sozen Town Backstreet",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -6079,14 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉が壊れていて開かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら空家になっているようだ。"
+                                "The door is broken and won't open. It seems to have become an\nabandoned house."
                             ]
                         },
                         {
@@ -6676,7 +6669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【フォルス地区郊外】行きのバスへ乗車しますか？"
+                                "Do you want to board the bus to the outskirts of the Fols District?"
                             ]
                         },
                         {
@@ -6684,8 +6677,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6715,7 +6708,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイはバスに乗車した。"
+                                "Yui boarded the bus."
                             ]
                         },
                         {
@@ -6915,7 +6908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#フォルス地区郊外行き"
+                                "Bound for the outskirts of Fols District"
                             ]
                         },
                         {
@@ -7216,14 +7209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "徒歩で帰るのは止めておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バスを使おう。"
+                                "Let's not walk home. We'll use the bus."
                             ]
                         },
                         {
@@ -7526,14 +7512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "徒歩で帰るのは止めておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バスを使おう。"
+                                "Let's not walk back. We'll use the bus."
                             ]
                         },
                         {
@@ -7641,14 +7620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "徒歩で帰るのは止めておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バスを使おう。"
+                                "Let's not walk home. We'll use the bus."
                             ]
                         },
                         {
@@ -7756,14 +7728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "徒歩で帰るのは止めておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バスを使おう。"
+                                "Let's not walk home. We'll use the bus."
                             ]
                         },
                         {
@@ -7871,14 +7836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "徒歩で帰るのは止めておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バスを使おう。"
+                                "Let's not walk home. We'll take the bus instead."
                             ]
                         },
                         {
@@ -7986,14 +7944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "徒歩で帰るのは止めておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バスを使おう。"
+                                "Let's not walk home. We'll take the bus instead."
                             ]
                         },
                         {

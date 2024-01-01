@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "コンビニ",
+    "displayName": "Convenience Store",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12079,7 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -12087,8 +12087,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12606,14 +12606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チョコにクッキーに、そうだ！ グミにキャンディーも買っちゃえ！」"
+                                "Kouya: \"Chocolate and cookies, that's right! Let's also buy gummies\nand candies!\""
                             ]
                         },
                         {
@@ -12738,7 +12731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[290]エルベスのバッグ】を手に入れた！"
+                                "I've obtained the 【\\i[290]Elves' Bag】!"
                             ]
                         },
                         {
@@ -12884,7 +12877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ＡＴＭが置いてある。"
+                                "There's an ATM here."
                             ]
                         },
                         {
@@ -12901,7 +12894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャッシュカードを持っていないので使用する事が出来ない。"
+                                "I don't have a cash card, so I can't use it."
                             ]
                         },
                         {
@@ -12978,14 +12971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カイト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっき女性が慌ててトイレから出てきたけどなんかあったのかな……」"
+                                "Kaito: \"A woman rushed out of the bathroom just now... I wonder if\nsomething happened...\""
                             ]
                         },
                         {
@@ -13170,7 +13156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しそうな肉まんが並んでいる。"
+                                "Delicious-looking meat buns are lined up."
                             ]
                         },
                         {
@@ -13247,14 +13233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃい！」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -13452,7 +13431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {

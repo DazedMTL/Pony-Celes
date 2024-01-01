@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "心宿駅地下",
+    "displayName": "Shinshuku Station Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -11167,7 +11167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイノス地区行きの電車に乗りますか？"
+                                "Will you take the train to the Dinos District?"
                             ]
                         },
                         {
@@ -11175,8 +11175,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11254,7 +11254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダイノス地区、大門駅に着きました。"
+                                "We have arrived at Daimon Station in the Dinos District."
                             ]
                         },
                         {
@@ -11354,7 +11354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイノス地区行きは反対側プラットフォームだ。"
+                                "The platform for Dinos District is on the opposite side."
                             ]
                         },
                         {
@@ -11706,7 +11706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路線図の案内板だ。"
+                                "It's a route map information board."
                             ]
                         },
                         {
@@ -11723,7 +11723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一駅東がダイノス地区のようだ。"
+                                "It seems that one station east from here is the Dinos district."
                             ]
                         },
                         {
@@ -11800,7 +11800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路線図の案内板だ。"
+                                "It's a route map information board."
                             ]
                         },
                         {
@@ -11817,7 +11817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一駅東がダイノス地区のようだ。"
+                                "It seems that one station east from here is the Dynos district."
                             ]
                         },
                         {
@@ -11894,21 +11894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サブロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……失恋て思ってたより辛いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　電車に揺られてどこか遠くまで行きたい気分だ」"
+                                "Saburou: \"Haa... Unrequited love is harder than I thought. I feel like\ntaking a train and going far away.\""
                             ]
                         },
                         {
@@ -12017,14 +12003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ガスのトラブル　水のトラブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#そして鍵のトラブルはイガスまでお電話を！"
+                                "For troubles with gas, water, and locks, please call Igasu!"
                             ]
                         },
                         {
@@ -12120,14 +12099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ガスのトラブル　水のトラブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#そして鍵のトラブルはイガスまでお電話を！"
+                                "For troubles with gas, water, and locks, please call Igasu!"
                             ]
                         },
                         {
@@ -12223,7 +12195,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#しみそばかすのお悩みは平田美容外科へ"
+                                "For concerns about spots and freckles, visit Hirata Cosmetic Surgery"
                             ]
                         },
                         {
@@ -12319,7 +12291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#しみそばかすのお悩みは平田美容外科へ"
+                                "If you're worried about spots and freckles, go to Hirata Cosmetic\nSurgery."
                             ]
                         },
                         {

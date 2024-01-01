@@ -8767,14 +8767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不思議な光が地面から漏れている。光に触れますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（※一度だけＨＰとＳＰを完全回復できます。）\\c[0]"
+                                "A mysterious light is leaking from the ground. Will you touch the\nlight?\\c[17](※You can fully recover HP and SP only once.)\\c[0]"
                             ]
                         },
                         {
@@ -8782,8 +8775,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8854,7 +8847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した。"
+                                "HP and SP have been fully recovered."
                             ]
                         },
                         {
@@ -9568,14 +9561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待ってたよ。僕と君の愛の巣へようこそ！」"
+                                "Octodrag: \"I've been waiting. Welcome to our love nest!\""
                             ]
                         },
                         {
@@ -9633,14 +9619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ……」"
+                                "Pony Celeste: \"Ugh...\""
                             ]
                         },
                         {
@@ -9657,14 +9636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに来たって事は、僕の妻になる決心がついたみたいだね」"
+                                "Octodrag: \"Since you've come here, it seems you've made up your mind\nto become my wife.\""
                             ]
                         },
                         {
@@ -9711,14 +9683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まじまじ見るとやっぱり無理だわ……）"
+                                "Pony Celeste: (When I look closely, it's definitely impossible...)"
                             ]
                         },
                         {
@@ -9742,14 +9707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（力が抜けていく……私こいつと戦えるの？）"
+                                "Pony Celeste: (My strength is draining... Can I even fight this guy?)"
                             ]
                         },
                         {
@@ -9810,14 +9768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（だめ、だめ、だめ！ しっかりしなさい私！）"
+                                "Pony Celeste: (No, no, no! Pull yourself together, me!)"
                             ]
                         },
                         {
@@ -9841,21 +9792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こいつはタコじゃない。弱っちいただの怪人よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　タコじゃない！ タコじゃない！）"
+                                "Pony Celeste: (He's not an octopus. He's just a weak, pathetic\nmonster. Not an octopus! Not an octopus!)"
                             ]
                         },
                         {
@@ -9886,14 +9823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ 何ぶつぶつ言ってるんだ？」"
+                                "Octodrag: \"Hm? What are you muttering about?\""
                             ]
                         },
                         {
@@ -9933,14 +9863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この場所はみんなが楽しむ場所よ！」"
+                                "Pony Celeste: \"This place is for everyone to enjoy!\""
                             ]
                         },
                         {
@@ -9964,14 +9887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたがいていい場所じゃない！」"
+                                "Pony Celeste: \"It's not a place for you to be!\""
                             ]
                         },
                         {
@@ -9995,14 +9911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっさとここから出ていきなさい！」"
+                                "Pony Celeste: \"Get out of here right now!\""
                             ]
                         },
                         {
@@ -10026,14 +9935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違う！ 違う！ ここは僕らの愛の巣なんだ！」"
+                                "Octodrag: \"No! No! This is our love nest!\""
                             ]
                         },
                         {
@@ -10050,14 +9952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が僕の子供を産む神聖な場所なんだよ！」"
+                                "Octodrag: \"It's a sacred place where you will bear my children!\""
                             ]
                         },
                         {
@@ -10088,14 +9983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふざけないで。誰があなたの子供なんて産むものですか！」"
+                                "Pony Celeste: \"Don't joke with me. Who would bear your children?!\""
                             ]
                         },
                         {
@@ -10119,14 +10007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に気持ち悪いのよ！」"
+                                "Pony Celeste: \"You're truly disgusting!\""
                             ]
                         },
                         {
@@ -10150,14 +10031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「き、き、気持ち悪い！？」"
+                                "Octodrag: \"Di-disgusting?!\""
                             ]
                         },
                         {
@@ -10174,14 +10048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むきーーーっ！ 超イケメンの僕のどこが気持ち悪いって言うんだ！」"
+                                "Octodrag: \"Muki---! How can you say such a super handsome guy like me\nis disgusting?!\""
                             ]
                         },
                         {
@@ -10198,14 +10065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなイケメンの妻になれるなんて世界一の幸せものだってのにー！」"
+                                "Octodrag: \"To think you could become the wife of such a handsome man,\nyou should feel like the luckiest person in the world!\""
                             ]
                         },
                         {
@@ -10252,14 +10112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきからイケメン、イケメンって……」"
+                                "Pony Celeste: \"You keep saying 'handsome, handsome' but...\""
                             ]
                         },
                         {
@@ -10283,21 +10136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこをどう見たらイケメンなのよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鏡で自分の顔を見たことないんじゃないの」"
+                                "Pony Celeste: \"Where do you see handsome... Have you never looked at\nyour own face in the mirror?\""
                             ]
                         },
                         {
@@ -10321,14 +10160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\C[17]鏡\\C[0]！？」"
+                                "Octodrag: \"\\C[17]Mirror\\C[0]?!\""
                             ]
                         },
                         {
@@ -10352,14 +10184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Octodrag: \"...\""
                             ]
                         },
                         {
@@ -10406,21 +10231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とにかく……気持ち悪いの！ 言葉遣いも態度も、そして顔も！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぜーーーんぶよ！」"
+                                "Pony Celeste: \"Anyway... You're disgusting! Your speech, your\nattitude, and your face! Everything!\""
                             ]
                         },
                         {
@@ -10444,14 +10255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むきーーーーーーーーっ！！！！」"
+                                "Octodrag: \"Muki--------!!\""
                             ]
                         },
                         {
@@ -10468,14 +10272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくら君だからって言っていい事と悪い事がある！」"
+                                "Octodrag: \"Even if it's you, there are things that are okay to say and\nthings that are not!\""
                             ]
                         },
                         {
@@ -10492,21 +10289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかたない……君が心を入れ替えるまで少しお仕置きが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必要みたいだね」"
+                                "Octodrag: \"It can't be helped... It seems you need a little punishment\nuntil you change your heart.\""
                             ]
                         },
                         {
@@ -10752,14 +10535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Octodrag: \"Hm?\""
                             ]
                         },
                         {
@@ -10817,14 +10593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ……」"
+                                "Pony Celeste: \"Ugh...\""
                             ]
                         },
                         {
@@ -10848,14 +10617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめ、近寄られると力が抜けちゃう……」"
+                                "Pony Celeste: \"No good, when he gets close, my strength fades...\""
                             ]
                         },
                         {
@@ -10902,14 +10664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり……だ、だめ……」"
+                                "Pony Celeste: \"After all... No, no good...\""
                             ]
                         },
                         {
@@ -10933,14 +10688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すきあり！！」"
+                                "Octodrag: \"An opening!!\""
                             ]
                         },
                         {
@@ -11253,14 +11001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……あ……ぁ……」"
+                                "Pony Celeste: \"...Ah...ah...\""
                             ]
                         },
                         {
@@ -11499,14 +11240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しくしていれば良いものを、僕を怒らすからこうなるんだよ」"
+                                "Octodrag: \"If only you had behaved yourself, none of this would have\nhappened. You made me angry, and this is what happens.\""
                             ]
                         },
                         {
@@ -11523,14 +11257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、二人で愛を育もうね」"
+                                "Octodrag: \"Now, let's cultivate our love together.\""
                             ]
                         },
                         {
@@ -11575,14 +11302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ！ しっかりするんだ！」"
+                                "Ginga: \"Yui! Pull yourself together!\""
                             ]
                         },
                         {
@@ -12000,14 +11720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰だ、君は！」"
+                                "Octodrag: \"Who are you?!\""
                             ]
                         },
                         {
@@ -12024,14 +11737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「愛の巣に無断で入ってきやがって、邪魔するなら許さないぞ！！」"
+                                "Octodrag: \"If you've come to interfere in our love nest without\npermission, I won't forgive you!!\""
                             ]
                         },
                         {
@@ -12048,14 +11754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「許さないのはこっちの方だ！」"
+                                "Ginga: \"The one who won't be forgiven is you!\""
                             ]
                         },
                         {
@@ -12634,14 +12333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目を覚ますんだ、ユイ！」"
+                                "Ginga: \"Wake up, Yui!\""
                             ]
                         },
                         {
@@ -12672,14 +12364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……う……ぅ……この声……）"
+                                "Pony Celeste: (...Uh...uh...this voice...)"
                             ]
                         },
                         {
@@ -12696,14 +12381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（Ginga……？）"
+                                "Pony Celeste (Ginga...?)"
                             ]
                         },
                         {
@@ -12720,14 +12398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ！！」"
+                                "Ginga: \"Yui!!\""
                             ]
                         },
                         {
@@ -12744,14 +12415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕がついている！ 一緒に戦おう！」"
+                                "Ginga: \"I'm with you! Let's fight together!\""
                             ]
                         },
                         {
@@ -12768,14 +12432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……Ginga！！）"
+                                "Pony Celeste (...Ginga!!)"
                             ]
                         },
                         {
@@ -12928,14 +12585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして私がポニーセレスだって……」"
+                                "Pony Celeste: \"Why do I have to be Pony Celeste...\""
                             ]
                         },
                         {
@@ -12952,14 +12602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは後！」"
+                                "Ginga: \"That's for later!\""
                             ]
                         },
                         {
@@ -12976,14 +12619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今はザイダーグを倒すのが先だ！」"
+                                "Ginga: \"Right now, defeating Zydagr is our priority!\""
                             ]
                         },
                         {
@@ -13007,14 +12643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかったわ。でも……」"
+                                "Pony Celeste: \"Understood. But...\""
                             ]
                         },
                         {
@@ -13052,14 +12681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（Gingaの手、震えてる……\\|恐怖を堪えて助けに来てくれたんだ）"
+                                "Pony Celeste (Ginga's hands are trembling... He's enduring his fear to\ncome to my aid.)"
                             ]
                         },
                         {
@@ -13083,21 +12705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（Gingaが勇気を出して助けてくれたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　肝心の私が弱音を吐くなんて……）"
+                                "Pony Celeste (Ginga mustered up the courage to help me, and here I am\nabout to whine...)"
                             ]
                         },
                         {
@@ -13128,14 +12736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（バカ、バカ、バカ！ しっかりしろ私！）"
+                                "Pony Celeste (Stupid, stupid, stupid! Pull yourself together, me!)"
                             ]
                         },
                         {
@@ -13159,14 +12760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私がこんなんじゃGingaまでやられちゃう！）"
+                                "Pony Celeste (If I'm like this, Ginga will be in danger too!)"
                             ]
                         },
                         {
@@ -13190,14 +12784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（大切な人を守れなくて何が正義の味方よ！）"
+                                "Pony Celeste (What kind of hero am I if I can't protect the people\nimportant to me!)"
                             ]
                         },
                         {
@@ -13263,14 +12850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga、ありがとう。おかげで目が醒めたよ！」"
+                                "Pony Celeste: \"Ginga, thank you. You've helped me snap out of it!\""
                             ]
                         },
                         {
@@ -13310,21 +12890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はポニーセレス。街を守る正義の味方。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんな奴に負けないわ！」"
+                                "Pony Celeste: \"I am Pony Celeste. The hero who protects the city. I\nwon't lose to someone like this!\""
                             ]
                         },
                         {
@@ -13341,14 +12907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ……」"
+                                "Ginga: \"Yui...\""
                             ]
                         },
                         {
@@ -13433,14 +12992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オクトダーグ覚悟しなさい！」"
+                                "Pony Celeste: \"Octodrag, prepare yourself!\""
                             ]
                         },
                         {
@@ -13464,14 +13016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タコ焼きにして食べてやるんだから！」"
+                                "Pony Celeste: \"I'll turn you into takoyaki and eat you up!\""
                             ]
                         },
                         {
@@ -13518,14 +13063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、今のは撤回！ 私タコ焼き苦手なんだった！」"
+                                "Pony Celeste: \"Ah, I take that back! I forgot I'm not good with\ntakoyaki!\""
                             ]
                         },
                         {
@@ -13551,14 +13089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、いつもの調子が戻ってきたね」"
+                                "Ginga: \"Haha, you're getting back to your usual self.\""
                             ]
                         },
                         {
@@ -13622,14 +13153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、一緒に戦おう！」"
+                                "Ginga: \"Alright, let's fight together!\""
                             ]
                         },
                         {
@@ -13689,21 +13213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……生意気なガキめ！ ポニーセレスにくっつきやがって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前は真っ先に殺してやるからなーー！」"
+                                "Octodrag: \"...You insolent brat! Since you're sticking with Pony\nCeleste, I'll kill you first--!\""
                             ]
                         },
                         {
@@ -13821,21 +13331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaは奥で囚われている人達を救出して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここは私一人で戦うわ！」"
+                                "Pony Celeste: \"Ginga, go rescue the people who are trapped in the\nback. I'll handle this fight on my own!\""
                             ]
                         },
                         {
@@ -13852,14 +13348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……」"
+                                "Ginga: \"But...\""
                             ]
                         },
                         {
@@ -13883,21 +13372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaから勇気をもらったからもう大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私一人でもこいつをぶっ飛ばせるわ！」"
+                                "Pony Celeste: \"I've received courage from Ginga, so I'm fine now. I\ncan blow this guy away all by myself!\""
                             ]
                         },
                         {
@@ -13921,21 +13396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「平和になったら一緒にプールで楽しもう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日のデート、まだ忘れてないんだからねっ！」"
+                                "Pony Celeste: \"Once peace is restored, let's enjoy the pool together!\nDon't forget we have a date today!\""
                             ]
                         },
                         {
@@ -13959,21 +13420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そうだね。今日はデートの日だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ささっと片づけて一緒にプールを楽しもう！」"
+                                "Ginga: \"...That's right. Today is our date! Let's wrap this up quickly\nand enjoy the pool together!\""
                             ]
                         },
                         {
@@ -13990,14 +13437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にユイが勝つって信じてるよ！」"
+                                "Ginga: \"I believe in you, Yui! You're going to win for sure!\""
                             ]
                         },
                         {
@@ -14304,14 +13744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な～に二人でいちゃいちゃしてんのー！！」"
+                                "Octodrag: \"What are you two doing getting all lovey-dovey?!\""
                             ]
                         },
                         {
@@ -14328,14 +13761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「浮気なんて許さないぞ！！」"
+                                "Octodrag: \"I won't allow any cheating!!\""
                             ]
                         },
                         {
@@ -14375,14 +13801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勝手に言ってなさい！」"
+                                "Pony Celeste: \"Say whatever you want!\""
                             ]
                         },
                         {
@@ -14406,14 +13825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、いくわよ！」"
+                                "Pony Celeste: \"Let's go!\""
                             ]
                         },
                         {
@@ -14610,14 +14022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もう、だめ……」"
+                                "Pony Celeste: \"I can't... anymore...\""
                             ]
                         },
                         {
@@ -14634,21 +14039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっと大人しくなったみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それじゃあ！」"
+                                "Octodrag: \"Looks like you've finally calmed down. Then, here I come!\""
                             ]
                         },
                         {
@@ -14737,14 +14128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、こないで……」"
+                                "Pony Celeste: \"No, don't come...\""
                             ]
                         },
                         {
@@ -14770,14 +14154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「恐がる君の顔も可愛いかも～」"
+                                "Octodrag: \"Your scared face might also be cute~\""
                             ]
                         },
                         {
@@ -14794,14 +14171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ポニーセレス大好きだよ～！」"
+                                "Octodrag: \"I love Pony Celeste~!\""
                             ]
                         },
                         {
@@ -14957,7 +14327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]※ここから先、ポニーセレスに悲惨な結末が訪れます。\\!"
+                                "\\c[27]From here on, a tragic end awaits Pony Celeste."
                             ]
                         },
                         {
@@ -14990,14 +14360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]オクトダーグ戦敗北シーンＡを見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（【いいえ】を選んだ場合はタイトル画面へ移行します。）"
+                                "\\c[27]o you want to see Octodrag Battle Defeat Scene A? (If you choose\n【No】, the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -15005,8 +14368,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15082,14 +14445,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]オクトダーグ戦敗北シーンＢを見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（【いいえ】を選んだ場合はタイトル画面へ移行します。）"
+                                "\\c[27]o you want to see Octodrag Battle Defeat Scene B? (If you choose\n【No】, the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -15097,8 +14453,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15135,7 +14491,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "数時間後――"
+                                "Several hours later--"
                             ]
                         },
                         {
@@ -15257,7 +14613,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "オクトダーグ攻略のヒントをもらいますか？"
+                                "Would you like to receive a hint for defeating Octodrag?"
                             ]
                         },
                         {
@@ -15265,8 +14621,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15296,7 +14652,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[17]※フォルス地区内にある宝来神社のお宝を探してみよう。"
+                                "\\C[17]Try searching for the treasure at the Hourai Shrine located in\nthe Forus district."
                             ]
                         },
                         {
@@ -15313,7 +14669,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[17]※お宝を所持していればオクトダーグの様子が……"
+                                "\\C[17]If you have the treasure, something about Octodrag will..."
                             ]
                         },
                         {
@@ -15452,7 +14808,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "オクトダーグ攻略のヒントをもらいますか？"
+                                "Would you like to receive a hint for defeating Octodrag?"
                             ]
                         },
                         {
@@ -15460,8 +14816,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15491,7 +14847,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[17]※フォルス地区内にある宝来神社のお宝を探してみよう。"
+                                "\\C[17]Try searching for the treasure at the Hourai Shrine located in\nthe Forus district."
                             ]
                         },
                         {
@@ -15508,7 +14864,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[17]※お宝を所持していればオクトダーグの様子が……"
+                                "\\C[17]If you have the treasure, something about Octodrag will..."
                             ]
                         },
                         {
@@ -15860,14 +15216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！」"
+                                "Officer: \"Pony-Celest!\""
                             ]
                         },
                         {
@@ -15884,14 +15233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「警察の方……？」"
+                                "Pony-Celest: \"An officer...?\""
                             ]
                         },
                         {
@@ -15908,14 +15250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、そうなんだが……」"
+                                "Officer: \"Ah, yes, that's right but...\""
                             ]
                         },
                         {
@@ -15932,14 +15267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここまで来れたって事は、あのタコの化け物を見たのかい？」"
+                                "Officer: \"If you've made it this far, does that mean you've seen that\noctopus monster?\""
                             ]
                         },
                         {
@@ -15956,14 +15284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい……」"
+                                "Pony-Celest: \"Yes...\""
                             ]
                         },
                         {
@@ -15980,14 +15301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか……」"
+                                "Officer: \"I see...\""
                             ]
                         },
                         {
@@ -16004,21 +15318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「情けない話だが、俺はあの化け物を倒す事は出来なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　拳銃さえ通用しなかったんだ」"
+                                "Officer: \"It's a shameful story, but I couldn't defeat that monster.\nEven my gun was useless against it.\""
                             ]
                         },
                         {
@@ -16035,21 +15335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう、こうやって隠れて仲間の応援を待つ事しかできない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　警官なのに情けないよ」"
+                                "Officer: \"Now, all I can do is hide here and wait for backup from my\ncolleagues... It's embarrassing for an officer.\""
                             ]
                         },
                         {
@@ -16082,14 +15368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫です！」"
+                                "Pony-Celest: \"It's okay!\""
                             ]
                         },
                         {
@@ -16106,14 +15385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安心して下さい。必ず私がなんとかしますから」"
+                                "Pony-Celest: \"Please don't worry. I will definitely take care of it.\""
                             ]
                         },
                         {
@@ -16130,14 +15402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない、警察はいつも君に頼よってばかりで……」"
+                                "Officer: \"I'm sorry, the police are always relying on you...\""
                             ]
                         },
                         {
@@ -16154,14 +15419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……ありがとう。頼んだよポニーセレス！」"
+                                "Officer: \"But... thank you. I'm counting on you, Pony-Celest!\""
                             ]
                         },
                         {
@@ -16340,21 +15598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういや、あのタコの化け物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　以前どこかで見た記憶があるんだ」"
+                                "Officer: \"Now that I think about it, that octopus monster... I have a\nmemory of seeing it somewhere before.\""
                             ]
                         },
                         {
@@ -16371,14 +15615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか妻の出産時に安産祈願で訪れた神社だったような……」"
+                                "Officer: \"If I remember correctly, it was at a shrine my wife and I\nvisited for a safe childbirth prayer...\""
                             ]
                         },
                         {
@@ -16395,21 +15632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「名前は……えっと\\|宝来神社だったかな……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ。間違いない！ フォルス地区内にある安産祈願の宝来神社だ！」"
+                                "Officer: \"The name was... um, Takarai Shrine, I think... Yes, that's\nit! No doubt about it! It's the Takarai Shrine known for safe\nchildbirth prayers, located in the Fols district!\""
                             ]
                         },
                         {
@@ -16426,14 +15649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これが役に立つ情報かどうかは分からないが……」"
+                                "Officer: \"I'm not sure if this information will be useful but...\""
                             ]
                         },
                         {
@@ -16641,14 +15857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（とは言ったもののタコを見ると震えが止まらないし力が出ない……）"
+                                "Pony-Celestia (But when I see that octopus, I can't stop trembling and\nI feel so weak...)"
                             ]
                         },
                         {
@@ -16665,14 +15874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうすればいいの……）"
+                                "Pony-Celestia (What should I do...)"
                             ]
                         },
                         {
@@ -16728,14 +15930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！」"
+                                "Officer: \"Pony-Celestia!\""
                             ]
                         },
                         {
@@ -16872,21 +16067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういや、あのタコの化け物……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　以前どこかで見た記憶があるんだ」"
+                                "Officer: \"Come to think of it, that octopus monster... I remember\nseeing it somewhere before.\""
                             ]
                         },
                         {
@@ -16937,14 +16118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？」"
+                                "Pony-Celestia: \"Eh?\""
                             ]
                         },
                         {
@@ -16961,14 +16135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか妻の出産時に安産祈願で訪れた神社だったような……」"
+                                "Officer: \"I think it was at the shrine we visited for a safe\nchildbirth prayer when my wife was giving birth...\""
                             ]
                         },
                         {
@@ -16985,21 +16152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「名前は……えっと\\|宝来神社だったかな……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ。間違いない！ フォルス地区内にある安産祈願の宝来神社だ！」"
+                                "Officer: \"The name was... um, Takarai Shrine, I believe... Yes, that's\nit! The Takarai Shrine in the Fols district known for safe childbirth\nprayers!\""
                             ]
                         },
                         {
@@ -17016,14 +16169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これが役に立つ情報かどうかは分からないが……」"
+                                "Officer: \"I don't know if this information will be of any use but...\""
                             ]
                         },
                         {
@@ -17056,14 +16202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴重な情報ありがとうございます！」"
+                                "Pony-Celestia: \"Thank you for the valuable information!\""
                             ]
                         },
                         {
@@ -17080,14 +16219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見ていて下さい。必ずあの化け物を倒して街を平和にしますから！」"
+                                "Pony-Celestia: \"Please watch. I will definitely defeat that monster\nand bring peace back to the city!\""
                             ]
                         },
                         {
@@ -17552,14 +16684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、追い詰めたわよ。覚悟しなさい！」"
+                                "Pony-Celeste: \"Now, I've got you cornered. Prepare yourself!\""
                             ]
                         },
                         {
@@ -17610,14 +16735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ……まだ僕は諦めてないぞ！」"
+                                "Octo-Darg: \"Guh... I haven't given up yet!\""
                             ]
                         },
                         {
@@ -17942,14 +17060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やああああぁーーっ！！」"
+                                "Pony-Celeste: \"Yaaaaaah--!!\""
                             ]
                         },
                         {
@@ -18150,14 +17261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はあああああぁーっ！！」"
+                                "Pony-Celeste: \"Haaaaaaah--!!\""
                             ]
                         },
                         {
@@ -18289,14 +17393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まっ、まってくれ……僕は君が……」"
+                                "Octo-Darg: \"Wait, wait... I just want you to...\""
                             ]
                         },
                         {
@@ -18361,14 +17458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで最後よ。聖なる光の裁きを受けなさい！」"
+                                "Pony-Celeste: \"This is the end. Receive the judgment of the holy\nlight!\""
                             ]
                         },
                         {
@@ -18464,14 +17554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホーリージャッジメント！！」"
+                                "Pony-Celeste: \"Holy Judgment!!\""
                             ]
                         },
                         {
@@ -18700,14 +17783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オクトダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベスさまぁーーーーーーっ！！！」"
+                                "Octo-Darg: \"Lord Galves------!!!\""
                             ]
                         },
                         {
@@ -18765,14 +17841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は―」"
+                                "Pony-Celeste: \"Justice is—\""
                             ]
                         },
                         {
@@ -18860,14 +17929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！\\|な～んてね♡」"
+                                "Pony-Celeste: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -18982,14 +18044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてポニーセレスはオクトダーグを倒し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Gingaと共にプール内に囚われていた人達を救出した。"
+                                "And so, Pony-Celeste defeated Octo-Darg, and together with Ginga, they\nrescued the people who had been imprisoned inside the pool."
                             ]
                         },
                         {
@@ -19293,7 +18348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1400\\G 手に入れた！"
+                                "Obtained 1400\\G!"
                             ]
                         },
                         {
@@ -19532,7 +18587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]目薬】を手に入れた！"
+                                "I've obtained the 【\\i[294]Eye Drops】!"
                             ]
                         },
                         {

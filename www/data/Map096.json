@@ -30499,7 +30499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -30507,8 +30507,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "３階"
+                                    "First floor",
+                                    "Third floor"
                                 ],
                                 1,
                                 0,
@@ -30823,7 +30823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３階のボタンを押しても反応が無い。"
+                                "The button for the third floor doesn't seem to respond when pressed."
                             ]
                         },
                         {
@@ -31852,14 +31852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お待たせしました。あなたで最後です」"
+                                "Pony-Celeste: \"Sorry to keep you waiting. You're the last one.\""
                             ]
                         },
                         {
@@ -31876,14 +31869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから飛び降りますので、私の手を離さないで下さいね」"
+                                "Pony-Celeste: \"We're going to jump from here, so please don't let go\nof my hand, okay?\""
                             ]
                         },
                         {
@@ -31934,14 +31920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Ginga: \"Yes!\""
                             ]
                         },
                         {
@@ -32125,7 +32104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスはGingaの手を強く握り締めた。"
+                                "Pony-Celeste gripped Ginga's hand tightly."
                             ]
                         },
                         {
@@ -32149,21 +32128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、行きますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に……私の手を離さないで下さい……」"
+                                "Pony-Celeste: \"Then, here we go. Absolutely... do not let go of my\nhand...\""
                             ]
                         },
                         {
@@ -32187,14 +32152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんです」"
+                                "Ginga: \"Of course.\""
                             ]
                         },
                         {
@@ -32218,14 +32176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Pony-Celeste: \"...\""
                             ]
                         },
                         {
@@ -32289,14 +32240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうかしましたか？」"
+                                "Ginga: \"Is something wrong?\""
                             ]
                         },
                         {
@@ -32351,21 +32295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、何も……\\|ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　では、行きますね！」"
+                                "Pony-Celeste: \"No, nothing... I'm sorry. Now, let's go!\""
                             ]
                         },
                         {
@@ -32797,14 +32727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうしてポニーセレスはザイダーグの怪人スパイダーグを倒し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "四越屋デパートの人々を救出したのであった。"
+                                "And so, Pony-Celeste defeated the monster Spider-G of Zaida-G and\nrescued the people of Yotsukoya Department Store."
                             ]
                         },
                         {

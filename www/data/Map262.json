@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "店長室",
+    "displayName": "Manager's Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -10652,7 +10652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破壊されたスマホがゴミ箱の中に捨てられている。"
+                                "A destroyed smartphone is thrown away inside a trash can."
                             ]
                         },
                         {
@@ -10703,14 +10703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これってマミコさんのスマホじゃ……」"
+                                "Yui: \"Isn't this Mamiko-san's smartphone...?\""
                             ]
                         },
                         {
@@ -10727,21 +10720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしそうなら証拠は消されている可能性が高い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やはり現場を抑えるしかないわ」"
+                                "Yui: \"If that's the case, there's a high chance the evidence has been\nerased. We have no choice but to secure the scene.\""
                             ]
                         },
                         {
@@ -10774,14 +10753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「監禁部屋に乗り込んでとっちめてやる！」"
+                                "Yui: \"I'll storm into the confinement room and catch them red-handed!\""
                             ]
                         },
                         {
@@ -10874,7 +10846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "破壊されたスマホがゴミ箱の中に捨てられている。"
+                                "The destroyed smartphone has been thrown into the trash can."
                             ]
                         },
                         {
@@ -10952,7 +10924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "物置棚に帳簿が置かれている。"
+                                "There are ledgers placed on the storage shelf."
                             ]
                         },
                         {
@@ -10960,8 +10932,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "興味があるので見てみる",
-                                    "帳簿を見るのは止めておこう"
+                                    "I'm curious, so I'll take a look",
+                                    "Let's not look at the ledger"
                                 ],
                                 1,
                                 0,
@@ -10991,21 +10963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "１月７５５０万　　２月６３２０万　　３月６１５０万　　４月７２５０万"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "５月４９８０万　　６月５３４４万　　７月８９５０万　　８月８２３０万"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "９月６３４０万　１０月７５６０万　１１月５５５０万　１２月８３４０万"
+                                "January 75.5 million, February 63.2 million, March 61.5 million, April\n72.5 million, May 49.8 million, June 53.44 million, July 89.5 million,\nAugust 82.3 million, September 63.4 million, October 75.6 million,\nNovember 55.5 million, December 83.4 million"
                             ]
                         },
                         {
@@ -11022,7 +10980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "去年は７月に\\c[17]最高売上\\c[0]を記録しているみたいだ。"
+                                "It seems that last year, the highest sales were recorded in July with\n\\c[17]highest sales\\c[0]."
                             ]
                         },
                         {
@@ -11310,7 +11268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚には顧客リストが並べられている。"
+                                "The bookshelf is lined with a list of customers."
                             ]
                         },
                         {
@@ -11387,7 +11345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚には顧客リストが並べられている。"
+                                "The bookshelf is lined with a list of customers."
                             ]
                         },
                         {
@@ -11464,7 +11422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚には顧客リストが並べられている。"
+                                "The bookshelf is lined with a list of customers."
                             ]
                         },
                         {
@@ -11541,7 +11499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚には顧客リストが並べられている。"
+                                "The bookshelf is lined with a list of customers."
                             ]
                         },
                         {
@@ -11618,7 +11576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚には顧客リストが並べられている。"
+                                "The bookshelf is lined with a list of customers."
                             ]
                         },
                         {

@@ -15696,14 +15696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいか良く聞け戦闘員共！」"
+                                "General Galves: \"Listen up, all you soldiers!\""
                             ]
                         },
                         {
@@ -15720,14 +15713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様の悲願はもう手の届くところまで来ている」"
+                                "General Galves: \"Lord Dargnoa's long-cherished wish is now within our\ngrasp.\""
                             ]
                         },
                         {
@@ -15744,14 +15730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「改めてダーグノア様に忠誠を誓い、確実に任務を遂行するのだ」"
+                                "General Galves: \"Once again, swear your loyalty to Lord Dargnoa and\ncarry out your missions with certainty.\""
                             ]
                         },
                         {
@@ -15775,14 +15754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははーーっ！」"
+                                "Soldier: \"Ha ha--!\""
                             ]
                         },
                         {
@@ -15806,14 +15778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様の命を受け、ドムドラも動き出したと報告が入った」"
+                                "General Galves: \"Under Lord Dargnoa's orders, Domudra has also started\nto move, as reported.\""
                             ]
                         },
                         {
@@ -15830,14 +15795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいか！ 絶対にあの野郎には遅れをとるなよ」"
+                                "General Galves: \"Listen! Do not fall behind that bastard.\""
                             ]
                         },
                         {
@@ -15854,14 +15812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつより武勲を上げ、ダーグノア様に認めてもらうのだ」"
+                                "General Galves: \"Outdo him in military exploits and earn Lord\nDargnoa's recognition.\""
                             ]
                         },
                         {
@@ -15878,14 +15829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我が軍がザイダーグで最も優秀だとな！」"
+                                "General Galves: \"Show that our army is the most excellent in Zaidag!\""
                             ]
                         },
                         {
@@ -15909,14 +15853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははーーっ！」"
+                                "Soldier: \"Ha ha--!\""
                             ]
                         },
                         {
@@ -15940,14 +15877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スパイダーグ！」"
+                                "General Galves: \"Spydag!\""
                             ]
                         },
                         {
@@ -16076,14 +16006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お呼びでしょうかガルベス様」"
+                                "Spydag: \"Did you call for me, Lord Galves?\""
                             ]
                         },
                         {
@@ -16131,14 +16054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前にはさらに多くの人間を捕獲してきてもらう」"
+                                "General Galves: \"I want you to capture even more humans.\""
                             ]
                         },
                         {
@@ -16155,21 +16071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生き死には問わん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうせ忠実な戦闘員として生まれ変わるからな」"
+                                "General Galves: \"It doesn't matter if they are dead or alive. They\nwill be reborn as loyal soldiers anyway.\""
                             ]
                         },
                         {
@@ -16193,14 +16095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへへっ、私の能力なら朝飯前ですね」"
+                                "Spydag: \"Hehehe, with my abilities, it's a piece of cake.\""
                             ]
                         },
                         {
@@ -16224,14 +16119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待しているぞ、スパイダーグ」"
+                                "General Galves: \"I'm counting on you, Spydag.\""
                             ]
                         },
                         {
@@ -16255,14 +16143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！ では！」"
+                                "Spydag: \"Haha! Then I shall proceed!\""
                             ]
                         },
                         {
@@ -16443,14 +16324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、お前達もすぐに取り掛かれ」"
+                                "General Galves: \"Now, the rest of you get to work immediately.\""
                             ]
                         },
                         {
@@ -16467,14 +16341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「各地に散らばり、片っ端から人間を集めてこい！」"
+                                "General Galves: \"Scatter to all places and gather humans from every\ncorner!\""
                             ]
                         },
                         {
@@ -16491,14 +16358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガルベス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我が君主、ダーグノア様のために！」"
+                                "General Galves: \"For our sovereign, Lord Dargnoa!\""
                             ]
                         },
                         {
@@ -16534,14 +16394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははーーっ！」"
+                                "Soldier: \"Ha ha--!\""
                             ]
                         },
                         {
@@ -21883,14 +21736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいか良く聞け戦闘員共！」"
+                                "General Gailas: \"Listen up, all you soldiers!\""
                             ]
                         },
                         {
@@ -21907,14 +21753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様の悲願である日本征服は、もう手の届くところまで来ている。」"
+                                "General Gailas: \"Lord Dagnor's long-cherished ambition to conquer\nJapan is now within our grasp.\""
                             ]
                         },
                         {
@@ -21931,14 +21770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「改めてダーグノア様に忠誠を誓い、確実に任務を遂行するのだ。」"
+                                "General Gailas: \"Let us once again swear loyalty to Lord Dagnor and\ncarry out our mission with certainty.\""
                             ]
                         },
                         {
@@ -21962,14 +21794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははーーっ！」"
+                                "Soldier: \"Ha ha--!\""
                             ]
                         },
                         {
@@ -22009,14 +21834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノア様の命を受け、ドムドラも動き出したと報告が入った。」"
+                                "General Gailas: \"I have received reports that Domudra has also started\nto move under Lord Dagnor's orders.\""
                             ]
                         },
                         {
@@ -22049,14 +21867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいか！絶対にあの糞野郎には遅れをとるなよ。」"
+                                "General Gailas: \"Listen! Do not fall behind that bastard.\""
                             ]
                         },
                         {
@@ -22073,14 +21884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつより武勲を上げ、ダーグノア様に認めてもらうのだ。」"
+                                "General Gailas: \"We must surpass him in military exploits and earn\nLord Dagnor's recognition.\""
                             ]
                         },
                         {
@@ -22097,14 +21901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我が軍がザイダーグで最も優秀だとな！」"
+                                "General Gailas: \"Our army will be the most excellent in Zaidrag!\""
                             ]
                         },
                         {
@@ -22128,14 +21925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははーーっ！」"
+                                "Soldier: \"Ha ha--!\""
                             ]
                         },
                         {
@@ -22175,14 +21965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スパイダーグ！」"
+                                "General Gailas: \"Spider-Drag!\""
                             ]
                         },
                         {
@@ -22329,14 +22112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お呼びでしょうか、ガルベス様。」"
+                                "Spider-Drag: \"Did you call for me, Lord Garves?\""
                             ]
                         },
                         {
@@ -22384,14 +22160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前にはさらに多くの人間を捕獲してきてもらう。」"
+                                "General Gailas: \"I want you to capture even more humans.\""
                             ]
                         },
                         {
@@ -22408,14 +22177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生き死には問わん、どうせ忠実な戦闘員として生まれ変わるからな。」"
+                                "General Gailas: \"It doesn't matter if they are dead or alive, they\nwill be reborn as loyal soldiers anyway.\""
                             ]
                         },
                         {
@@ -22439,14 +22201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへへっ、私の能力なら朝飯前ですね。」"
+                                "Spider-Drag: \"Hehehe, with my abilities, it's a piece of cake.\""
                             ]
                         },
                         {
@@ -22470,14 +22225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期待しているぞ、スパイダーグ。」"
+                                "General Gailas: \"I'm counting on you, Spider-Drag.\""
                             ]
                         },
                         {
@@ -22501,14 +22249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ！では。」"
+                                "Spider-Drag: \"Haha! Then.\""
                             ]
                         },
                         {
@@ -22689,14 +22430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、お前達も取り掛かれ！」"
+                                "General Gailas: \"Now, you all get to work as well!\""
                             ]
                         },
                         {
@@ -22713,14 +22447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猛将ガイラス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我が君主、ダーグノア様のために！」"
+                                "General Gailas: \"For our sovereign, Lord Dagnor!\""
                             ]
                         },
                         {
@@ -22756,14 +22483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははーーっ！」"
+                                "Soldier: \"Ha ha--!\""
                             ]
                         },
                         {
@@ -22869,7 +22589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ここまでのデータをセーブしますか？"
+                                "\\C[17]ould you like to save your progress up to this point?"
                             ]
                         },
                         {
@@ -22877,8 +22597,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

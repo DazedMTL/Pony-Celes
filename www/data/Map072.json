@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "？？？宅",
+    "displayName": "??? Residence",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12091,7 +12091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked the door."
                             ]
                         },
                         {
@@ -12757,7 +12757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12784,7 +12784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[296]ＧＧレモン】を手に入れた！"
+                                "【\\i[296]GG Lemon】acquired!"
                             ]
                         },
                         {
@@ -12891,7 +12891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12908,7 +12908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -12995,7 +12995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -13274,7 +13274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -13351,7 +13351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -13428,7 +13428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "床を調べますか？"
+                                "Would you like to examine the floor?"
                             ]
                         },
                         {
@@ -13436,8 +13436,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13552,7 +13552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下へ降りれる梯子を発見した！"
+                                "I've found a ladder that leads down to the basement!"
                             ]
                         },
                         {
@@ -14074,7 +14074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "【\\i[91]Book of Martial Arts】has been obtained!"
                             ]
                         },
                         {
@@ -14091,7 +14091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "【\\i[90]Book of Endurance】has been obtained!"
                             ]
                         },
                         {
@@ -14248,7 +14248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14265,14 +14265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タンスの中に日記を発見した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手に取り読んでみますか？"
+                                "She found a diary inside the dresser. Will you take it and read?"
                             ]
                         },
                         {
@@ -14280,8 +14273,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14323,14 +14316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "〇月〇日"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "めんどくさい事にあの娘のめんどう役を頼まれた。"
+                                "On the day of ○ month ○, I was reluctantly asked to take care of that\ngirl's needs."
                             ]
                         },
                         {
@@ -14347,14 +14333,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "社長の狙いはあの娘の監視だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "研究所に間違って入らないように四六時中見張りをするのが私の役目だ。"
+                                "The president's aim must be to keep an eye on that girl. It's my job\nto watch her around the clock to make sure she doesn't enter the lab\nby mistake."
                             ]
                         },
                         {
@@ -14371,14 +14350,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わがまま娘め！ 口は悪いし態度はデカいし、私を奴隷の様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こき使ってくる。本当に最悪だ……"
+                                "That selfish girl! She has a foul mouth and a big attitude, treating\nme like a slave. It's truly the worst..."
                             ]
                         },
                         {
@@ -14395,14 +14367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "日に日にストレスが溜まる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あのクソガキをいつか犯してやりたい。"
+                                "With each passing day, my stress builds up. I want to have my way with\nthat bratty kid someday."
                             ]
                         },
                         {
@@ -14538,7 +14503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14555,14 +14520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タンスの中に日記を発見した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手に取り読んでみますか？"
+                                "She found a diary inside the dresser. Would you like to pick it up and\nread it?"
                             ]
                         },
                         {
@@ -14570,8 +14528,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14613,14 +14571,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "〇月〇日"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "めんどくさい事にあの娘のめんどう役を頼まれた。"
+                                "On the day of ○ month ○, I was annoyingly asked to take care of that\ngirl's needs."
                             ]
                         },
                         {
@@ -14637,14 +14588,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "社長の狙いはあの娘の監視だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "研究所に間違って入らないように四六時中見張りをするのが私の役目だ。"
+                                "The president's intention must be to monitor her. It's my job to watch\nher around the clock to make sure she doesn't accidentally enter the\nlab."
                             ]
                         },
                         {
@@ -14661,14 +14605,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わがまま娘め！ 口は悪いし態度はデカいし、私を奴隷の様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こき使ってくる。本当に最悪だ……"
+                                "Such a selfish girl! She has a foul mouth and a big attitude, treating\nme like a slave. It's truly the worst..."
                             ]
                         },
                         {
@@ -14685,14 +14622,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "日に日にストレスが溜まる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あのクソガキをいつか犯してやりたい。"
+                                "Stress is building up day by day. One of these days, I want to fuck\nthat little brat."
                             ]
                         },
                         {
@@ -14816,7 +14746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "風景写真の本がずらりと並んでいる。"
+                                "Books of landscape photographs are neatly lined up."
                             ]
                         },
                         {
@@ -14912,7 +14842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "風景写真の本がずらりと並んでいる。"
+                                "Books of landscape photographs are lined up neatly."
                             ]
                         },
                         {
@@ -15000,7 +14930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "汚れたスーツが丸められ、洗濯物かごに放り込まれている。"
+                                "The dirty suit is rolled up and tossed into the laundry basket."
                             ]
                         },
                         {

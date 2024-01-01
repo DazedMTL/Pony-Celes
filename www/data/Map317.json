@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォルス地区地下二層",
+    "displayName": "Fols District Underground Second Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -34047,7 +34047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターがある。"
+                                "There's a service elevator here."
                             ]
                         },
                         {
@@ -34064,7 +34064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電源が入っていないようだ。"
+                                "It seems like the power isn't on."
                             ]
                         },
                         {
@@ -34132,7 +34132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターがある。"
+                                "There's a service elevator here."
                             ]
                         },
                         {
@@ -34149,7 +34149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用しますか？"
+                                "Would you like to use it?"
                             ]
                         },
                         {
@@ -34164,11 +34164,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "地下一層へ移動する",
-                                    "地下二層へ移動する",
-                                    "地下三層へ移動する",
-                                    "地下四層へ移動する",
-                                    "使用しない"
+                                    "Move to the first basement level",
+                                    "Move to the second basement level",
+                                    "Move to the third basement level",
+                                    "Move to the fourth basement level",
+                                    "Do not use"
                                 ],
                                 4,
                                 0,
@@ -34365,7 +34365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在のフロアだ。"
+                                "It's the current floor."
                             ]
                         },
                         {
@@ -34575,14 +34575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボタンを押しても反応が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "地下三層の作業用エレベーターは現在作動していないようだ。"
+                                "Pressing the button, there's no response. It seems the service\nelevator for the third basement level is not operational right now."
                             ]
                         },
                         {
@@ -34802,14 +34795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボタンを押しても反応が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "地下四層の作業用エレベーターは現在作動していないようだ。"
+                                "Pressing the button, there's no response. It seems the service\nelevator for the fourth basement level is not operational right now."
                             ]
                         },
                         {
@@ -35307,7 +35293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Tome of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -39349,7 +39335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -39388,7 +39374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I've unlocked it."
                             ]
                         },
                         {
@@ -39676,7 +39662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターの電源を復旧させますか？"
+                                "Would you like to restore power to the service elevator?"
                             ]
                         },
                         {
@@ -39684,8 +39670,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -39802,7 +39788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下二層の作業用エレベーターが復旧した。"
+                                "The service elevator for the second basement floor has been restored."
                             ]
                         },
                         {
@@ -39893,7 +39879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {
@@ -47578,7 +47564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "I've obtained the 【Training Manual】!"
                             ]
                         },
                         {
@@ -47825,7 +47811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "I've obtained the 【\\i[94]Tome of Spirit】!"
                             ]
                         },
                         {
@@ -48072,7 +48058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Obtained the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {
@@ -48319,7 +48305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "【\\i[90]The Tome of Endurance】has been obtained!"
                             ]
                         },
                         {
@@ -48566,7 +48552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[93]駿足の書】を手に入れた！"
+                                "Obtained the 【\\i[93]Tome of Swift Feet】!"
                             ]
                         },
                         {

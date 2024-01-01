@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ザイダーグ本拠地北区画",
+    "displayName": "Zaidarg Headquarters North Block",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -19858,7 +19858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "Acquired the 【\\i[94]Book of Spirit】!"
                             ]
                         },
                         {
@@ -20105,7 +20105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[295]コケ・コーラ】を手に入れた！"
+                                "I've obtained 【\\i[295]Coke-Cola】!"
                             ]
                         },
                         {

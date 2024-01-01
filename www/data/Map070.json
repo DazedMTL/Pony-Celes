@@ -16229,7 +16229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G I've got it!"
                             ]
                         },
                         {
@@ -16466,14 +16466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしっ！」"
+                                "Yui: \"Alright!\""
                             ]
                         },
                         {
@@ -16513,14 +16506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうここから出ちゃ駄目だよ。出たらご飯抜きだからね」"
+                                "Yui: \"You can't go out from here anymore. If you do, you'll get no\ndinner, okay?\""
                             ]
                         },
                         {
@@ -16571,14 +16557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「地下室の物置き部屋……なんで私がまたこんなところに……」"
+                                "Polka: \"The basement storage room... Why am I in a place like this\nagain...\""
                             ]
                         },
                         {
@@ -16618,14 +16597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か文句でも？」"
+                                "Yui: \"Do you have any complaints?\""
                             ]
                         },
                         {
@@ -16651,14 +16623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかったわよ……しょうがないなぁ～」"
+                                "Polka: \"I understand... Can't be helped, I guess~\""
                             ]
                         },
                         {
@@ -16691,21 +16656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「話を元に戻すけど、ユイちゃんが今日会ったザイダーグの幹部って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかしてガルベスの事？」"
+                                "Polka: \"Getting back to the subject, the Zaida-G executive Yui-chan\nmet today, could it possibly be Garves?\""
                             ]
                         },
                         {
@@ -16745,14 +16696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと……そうね、たしかガルベスって名乗ってたわ」"
+                                "Yui: \"Um... Yes, I think he said his name was Garves.\""
                             ]
                         },
                         {
@@ -16769,21 +16713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「猛将ガルベス……あいつがユイちゃんの前に現れたって事は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おそらくザイダーグの怪人達も動き出す筈だわ」"
+                                "Polka: \"The fierce General Garves... If he appeared before Yui-chan,\nthen it's likely that the monsters of Zaida-G will start to make their\nmove too.\""
                             ]
                         },
                         {
@@ -16816,14 +16746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイちゃん、これからは辛い戦いになるわよ」"
+                                "Polka: \"Yui-chan, from now on, it's going to be a tough fight.\""
                             ]
                         },
                         {
@@ -16840,14 +16763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戦闘員より遥かに格上の相手と戦わなければならない」"
+                                "Polka: \"You'll have to fight opponents far stronger than the regular\nsoldiers.\""
                             ]
                         },
                         {
@@ -16864,14 +16780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一応念のためにもう一度聞くけど……」"
+                                "Polka: \"Just to confirm one more time...\""
                             ]
                         },
                         {
@@ -16888,14 +16797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスとしてこれからもザイダーグと戦う勇気はある？」"
+                                "Polka: \"As Pony-Ceres, do you have the courage to continue fighting\nagainst Zaida-G?\""
                             ]
                         },
                         {
@@ -16912,14 +16814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし怖いなら今日で終わりにしてもいいのよ」"
+                                "Polka: \"If you're scared, it's okay to end it today.\""
                             ]
                         },
                         {
@@ -16966,21 +16861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何言ってんのよポルカったら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたが強引に私を勧誘したんでしょ～」"
+                                "Yui: \"What are you saying, Polka? You were the one who forcefully\nrecruited me, right~\""
                             ]
                         },
                         {
@@ -17004,14 +16885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は断ったのに、半ば無理矢理だよ無理矢理～」"
+                                "Yui: \"I said no, but you practically forced me, really forced me~\""
                             ]
                         },
                         {
@@ -17042,14 +16916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもね、引き受けたからには最後までやり通すよっ！」"
+                                "Yui: \"But you know, since I've accepted it, I'm going to see it\nthrough to the end!\""
                             ]
                         },
                         {
@@ -17073,21 +16940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにさ、正義のヒロイン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やってみたら案外悪くないかもって今は思ってるしさ！」"
+                                "Yui: \"Besides, being a heroine of justice! Trying it out, I'm starting\nto think it might not be so bad after all!\""
                             ]
                         },
                         {
@@ -17111,14 +16964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイちゃん……」"
+                                "Polka: \"Yui-chan...\""
                             ]
                         },
                         {
@@ -17151,21 +16997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本当は怖いはずなのに……私を悲しませまいと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんて優しい子なの）"
+                                "Polka: (She must be scared deep down... To not make me sad... What a\nkind girl.)"
                             ]
                         },
                         {
@@ -17196,21 +17028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、でも一つ約束してね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　地下室から出るのは少しの間我慢すること！」"
+                                "Yui: \"Ah, but promise me one thing. You have to endure not leaving the\nbasement for a little while!\""
                             ]
                         },
                         {
@@ -17234,14 +17052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「街が平和になったら、飽きるくらい外に連れ出してあげるからさ」"
+                                "Yui: \"Once the town is peaceful again, I'll take you out so much\nyou'll get tired of it!\""
                             ]
                         },
                         {
@@ -17265,21 +17076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、わかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユイちゃん……本当にありがとね」"
+                                "Polka: \"Yes, I understand. Yui-chan... Thank you so much.\""
                             ]
                         },
                         {
@@ -17326,14 +17123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグを壊滅させた後にたっぷりお礼してもらうわよ～！」"
+                                "Yui: \"After we annihilate Zaida-G, you'll have to thank me plenty~!\""
                             ]
                         },
                         {
@@ -17373,14 +17163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな～。ケーキを山ほどご馳走してもらおっかな！」"
+                                "Yui: \"Right~? Maybe I'll have you treat me to heaps of cake!\""
                             ]
                         },
                         {
@@ -17404,14 +17187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイちゃん食いしん坊なんだから～！ うふふふふっ」"
+                                "Polka: \"You're such a glutton, Yui-chan~! Ufufufufu!\""
                             ]
                         },
                         {
@@ -17435,14 +17211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えへへへへへっ～～」"
+                                "Yui: \"Ehehehehehe~\""
                             ]
                         },
                         {
@@ -17521,7 +17290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一方その頃――"
+                                "Meanwhile, at that time--"
                             ]
                         },
                         {

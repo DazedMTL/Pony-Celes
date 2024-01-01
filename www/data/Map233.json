@@ -6054,21 +6054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この先ね……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　Ginga待ってて。必ず助け出すから！)"
+                                "Yui: \"Just ahead... Ginga, wait for me. I'll definitely rescue you!\""
                             ]
                         },
                         {
@@ -6551,14 +6537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は西園寺製薬の敷地内です」"
+                                "Security Guard: \"Beyond this point is the Saionji Pharmaceuticals\nproperty.\""
                             ]
                         },
                         {
@@ -6812,14 +6791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は西園寺製薬の敷地内です」"
+                                "Security Guard: \"Beyond this point is the Saionji Pharmaceuticals\nproperty.\""
                             ]
                         },
                         {
@@ -7550,7 +7522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは地面を調べた！"
+                                "Yui examined the ground!"
                             ]
                         },
                         {
@@ -7634,7 +7606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを発見した！"
+                                "She discovered a manhole!"
                             ]
                         },
                         {
@@ -7710,7 +7682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホールを外して中に入りますか？"
+                                "Shall we remove the manhole cover and go inside?"
                             ]
                         },
                         {
@@ -7718,8 +7690,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

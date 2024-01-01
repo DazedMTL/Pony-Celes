@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ハルヒコ宅",
+    "displayName": "Haruhiko's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12151,14 +12151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. If I had the \\C[17]Crimson Star Key\\C[0], it seems\nlike it would open."
                             ]
                         },
                         {
@@ -12226,14 +12219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "The lock is engaged. It seems like it would open if I use the\n\\C[17]Crimson Star Key\\C[0]."
                             ]
                         },
                         {
@@ -12250,7 +12236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -12258,8 +12244,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12301,7 +12287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -12614,7 +12600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied herself up."
                             ]
                         },
                         {
@@ -12691,7 +12677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -12789,7 +12775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12816,7 +12802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[296]ＧＧレモン】を手に入れた！"
+                                "【\\i[296]GG Lemon】was obtained!"
                             ]
                         },
                         {
@@ -12923,7 +12909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12940,7 +12926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -13027,7 +13013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {

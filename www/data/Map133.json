@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アーバン地区Ｂ区画",
+    "displayName": "Urban District Section B",
     "encounterList": [
         {
             "regionSet": [],
@@ -14040,14 +14040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここで何しようとしてるの？」"
+                                "Pony-Celeste: \"What are you trying to do here?\""
                             ]
                         },
                         {
@@ -14138,14 +14131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポ、ポニーセレス！」"
+                                "Combatant: \"Po, Pony-Celeste!\""
                             ]
                         },
                         {
@@ -14162,14 +14148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ！」"
+                                "Combatant: \"Damn it!\""
                             ]
                         },
                         {
@@ -14202,14 +14181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待ち伏せて私を襲うつもりだったのかしら？」"
+                                "Pony-Celeste: \"Were you planning to ambush me?\""
                             ]
                         },
                         {
@@ -14226,14 +14198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぬぬぬぬぬっ！」"
+                                "Combatant: \"Gnununununu!\""
                             ]
                         },
                         {
@@ -14356,14 +14321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これで終わりよ！」"
+                                "Pony-Celeste: \"This is the end!\""
                             ]
                         },
                         {
@@ -14380,14 +14338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「てやああぁぁぁーーっ！！」"
+                                "Pony-Celeste: \"Teyaaaahhhhh--!!\""
                             ]
                         },
                         {
@@ -14537,14 +14488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぶべばああぁぁっ！！」"
+                                "Zyda-G Combatant: \"Bubebaaaahhh!!\""
                             ]
                         },
                         {
@@ -14616,14 +14560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「待ち伏せか……」"
+                                "Pony-Celeste: \"An ambush, huh...\""
                             ]
                         },
                         {
@@ -14640,14 +14577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私が絶対に来ると分かっているから容易周到ね」"
+                                "Pony-Celeste: \"You must have known I would definitely come, so you\nwere well-prepared.\""
                             ]
                         },
                         {
@@ -14664,14 +14594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それに戦闘員個々の力も想像以上だわ」"
+                                "Pony-Celeste: \"Besides, the individual strength of the combatants is\nmore than I imagined.\""
                             ]
                         },
                         {
@@ -14688,21 +14611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ガルベスとの決戦に向けて、こんな奴らに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　体力を使うわけにはいかないのに」"
+                                "Pony-Celeste: \"I can't afford to use up my strength on guys like these\nwhen the decisive battle with Galves is coming up.\""
                             ]
                         },
                         {
@@ -17599,14 +17508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「のこのことやって来た事を後悔しろ、ポニーセレス！」"
+                                "Fighter: \"Regret coming here so carelessly, Pony-Ceres!\""
                             ]
                         },
                         {
@@ -18593,14 +18495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！」"
+                                "Pony-Ceres: \"Ugh!\""
                             ]
                         },
                         {
@@ -18660,14 +18555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「作戦大成功！」"
+                                "Fighter: \"Operation huge success!\""
                             ]
                         },
                         {
@@ -18693,14 +18581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへへっ、さすがにきつそうなだな！」"
+                                "Fighter: \"Hehehe, looks like you're having a tough time!\""
                             ]
                         },
                         {
@@ -18717,14 +18598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これしきの事で負けない……っ！」"
+                                "Pony-Ceres: \"I won't lose to something like this...!\""
                             ]
                         },
                         {
@@ -18757,14 +18631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「負けないんだからっ！」"
+                                "Pony-Ceres: \"I won't lose, I tell you!\""
                             ]
                         },
                         {
@@ -18781,14 +18648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「強がりもそこまでだ。お前はここで終わりなんだよ！」"
+                                "Fighter: \"That's enough bluffing. This is where it ends for you!\""
                             ]
                         },
                         {
@@ -18989,14 +18849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これで終わりよ！」"
+                                "Pony-Ceres: \"This is the end for you!\""
                             ]
                         },
                         {
@@ -19013,14 +18866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「てやああぁぁぁーーっ！！」"
+                                "Pony-Ceres: \"Take this--ahhhhh!!\""
                             ]
                         },
                         {
@@ -19448,14 +19294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぶべばああぁぁっ！！」"
+                                "Zyda-G Fighter: \"Gwahh ahhhh!!\""
                             ]
                         },
                         {
@@ -19527,14 +19366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（待ち伏せか……）"
+                                "Pony-Ceres: (An ambush...)"
                             ]
                         },
                         {
@@ -19551,14 +19383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（私が絶対に来ると分かっているから容易周到ね）"
+                                "Pony-Ceres: (They knew I would definitely come, so they prepared\nthoroughly.)"
                             ]
                         },
                         {
@@ -19575,14 +19400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（それに戦闘員個々の力も想像以上だわ」）"
+                                "Pony-Ceres: (Moreover, the individual strength of these fighters is\nbeyond my expectations.)"
                             ]
                         },
                         {
@@ -19599,21 +19417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ガルベスとの決戦に向けて、こんな奴らで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　体力を使うわけにはいかないのに）"
+                                "Pony-Ceres: (And yet, I can't afford to use up my strength on guys\nlike these with the decisive battle against Galves ahead.)"
                             ]
                         },
                         {
@@ -22157,7 +21961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "Obtained the 【\\i[94]Book of Spirit】!"
                             ]
                         },
                         {
@@ -22396,7 +22200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[149]チーズケーキ】を手に入れた！"
+                                "I've obtained the 【\\i[149]Cheese Cake】!"
                             ]
                         },
                         {
@@ -22642,7 +22446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2000\\G 手に入れた！"
+                                "Obtained 2000\\G!"
                             ]
                         },
                         {
@@ -22898,7 +22702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[194]クリスタルリング】を手に入れた！"
+                                "I've obtained the 【\\i[194]Crystal Ring】!"
                             ]
                         },
                         {
@@ -23783,7 +23587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[160]お化粧ポーチ】を手に入れた！"
+                                "I've obtained the 【\\i[160]Makeup Pouch】!"
                             ]
                         },
                         {

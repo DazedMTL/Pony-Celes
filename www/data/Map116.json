@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "貯蔵庫",
+    "displayName": "Storage Warehouse",
     "encounterList": [],
     "encounterStep": 1,
     "height": 40,
@@ -9862,7 +9862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Book of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -10943,14 +10943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やってられねーぜ！ こんなかったるい仕事よー！」"
+                                "Minion A: \"I can't stand it anymore! This job is so damn tedious!\""
                             ]
                         },
                         {
@@ -10976,14 +10969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、まったくだ！」"
+                                "Minion B: \"Yeah, totally!\""
                             ]
                         },
                         {
@@ -11000,14 +10986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、一本持ってねーか？」"
+                                "Minion A: \"Hey, you got one on you?\""
                             ]
                         },
                         {
@@ -11024,14 +11003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ 何がだ？」"
+                                "Minion B: \"Huh? One what?\""
                             ]
                         },
                         {
@@ -11057,14 +11029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タバコだよ！ タバコ！」"
+                                "Minion A: \"A cigarette, man! A cigarette!\""
                             ]
                         },
                         {
@@ -11081,14 +11046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Minion B: \"...\""
                             ]
                         },
                         {
@@ -11105,14 +11063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらよ！」"
+                                "Minion B: \"Here you go!\""
                             ]
                         },
                         {
@@ -11129,14 +11080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、それイートダーグ様の前で絶対に吸うなよ」"
+                                "Minion B: \"Just make sure you never smoke that in front of Lord\nItodrag, got it?\""
                             ]
                         },
                         {
@@ -11153,14 +11097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ？ タバコ嫌いなのかあの人……」"
+                                "Minion A: \"What? Does he hate cigarettes or something...?\""
                             ]
                         },
                         {
@@ -11177,14 +11114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……ライター……というか、火が苦手みたいだぜ」"
+                                "Minion B: \"No... it's not that... He seems to have a thing against\nfire.\""
                             ]
                         },
                         {
@@ -11201,14 +11131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、嘘だろ？ コックの格好してるのにか？」"
+                                "Minion A: \"You're kidding, right? Even though he dresses like a cook?\""
                             ]
                         },
                         {
@@ -11225,14 +11148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……たぶんな」"
+                                "Minion B: \"Yeah... probably.\""
                             ]
                         },
                         {
@@ -11249,14 +11165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「調理場で火使った奴が半殺しにされてたからな……」"
+                                "Minion B: \"Because the guy who used fire in the kitchen got beaten\nhalf to death...\""
                             ]
                         },
                         {
@@ -11273,14 +11182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、おぅ……気をつけるわ」"
+                                "Minion A: \"Oh, right... I'll be careful.\""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "貯蔵庫",
+    "displayName": "Storage Warehouse",
     "encounterList": [],
     "encounterStep": 1,
     "height": 40,
@@ -9785,14 +9785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫ですか。しっかりして下さい！」"
+                                "Pony-Celest: \"Are you okay? Please hang in there!\""
                             ]
                         },
                         {
@@ -10024,14 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かかったなポニーセレス！」"
+                                "???: \"You've fallen into my trap, Pony-Celest!\""
                             ]
                         },
                         {
@@ -10231,14 +10217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ポニーセレス！ 助けに来てくれたんですね」"
+                                "Mei: \"Pony-Celest! You came to save me!\""
                             ]
                         },
                         {
@@ -10255,14 +10234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……」"
+                                "Mei: \"...\""
                             ]
                         },
                         {
@@ -10279,14 +10251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも、まだ友達があいつに……」"
+                                "Mei: \"But my friend is still in the hands of that guy...\""
                             ]
                         },
                         {
@@ -10337,21 +10302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「大丈夫！ ご友人のかたも私が助け出しますから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　心配はいりませんよ」"
+                                "Pony-Celest: \"It's okay! I will rescue your friend as well, so don't\nworry.\""
                             ]
                         },
                         {
@@ -10368,14 +10319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「良かった……」"
+                                "Mei: \"Thank goodness...\""
                             ]
                         },
                         {
@@ -10392,14 +10336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「本当にありがとうございます！」"
+                                "Mei: \"Thank you so much!\""
                             ]
                         },
                         {
@@ -10416,21 +10353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私は薬剤師の仕事をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お役に立てるかどうかわかりませんが……」"
+                                "Mei: \"I work as a pharmacist. I'm not sure if I can be of any help\nbut...\""
                             ]
                         },
                         {
@@ -10447,14 +10370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これをどうぞ！」"
+                                "Mei: \"Please take this!\""
                             ]
                         },
                         {
@@ -10513,7 +10429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]救急セット】を手に入れた！"
+                                "【\\i[294]First Aid Kit】acquired!"
                             ]
                         },
                         {
@@ -10530,7 +10446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]目薬】を手に入れた！"
+                                "【\\i[294]Eye Drops】acquired!"
                             ]
                         },
                         {
@@ -10547,7 +10463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]解毒剤】を手に入れた！"
+                                "【\\i[294]Antidote】acquired!"
                             ]
                         },
                         {
@@ -10580,14 +10496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ありがとうございます。必ずみんなを救ってみせますね！」"
+                                "Pony-Celest: \"Thank you. I promise to save everyone!\""
                             ]
                         },
                         {
@@ -10651,7 +10560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレスはメイを救出した！"
+                                "Pony-Celest has rescued Mei!"
                             ]
                         },
                         {
@@ -10785,14 +10694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫ですか。しっかりして下さい！」"
+                                "Pony-Celest: \"Are you okay? Please hang in there!\""
                             ]
                         },
                         {
@@ -10885,14 +10787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！ 助けに来てくれたんですね」"
+                                "Mei: \"Pony-Celest! You came to save me!\""
                             ]
                         },
                         {
@@ -10909,14 +10804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Mei: \"...\""
                             ]
                         },
                         {
@@ -10933,14 +10821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、まだ友達があいつに……」"
+                                "Mei: \"But my friends are still in the hands of that person...\""
                             ]
                         },
                         {
@@ -10973,21 +10854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫！ ご友人のかたも私が助け出しますから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　心配はいりませんよ」"
+                                "Pony-Celest: \"Don't worry! I will rescue your friends as well, so\nthere's no need to be concerned.\""
                             ]
                         },
                         {
@@ -11004,14 +10871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった……」"
+                                "Mei: \"Thank goodness...\""
                             ]
                         },
                         {
@@ -11028,14 +10888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当にありがとうございます！」"
+                                "Mei: \"Thank you so much!\""
                             ]
                         },
                         {
@@ -11052,21 +10905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は薬剤師の仕事をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お役に立てるかどうかわかりませんが……」"
+                                "Mei: \"I work as a pharmacist. I'm not sure if I can be of any help\nbut...\""
                             ]
                         },
                         {
@@ -11083,14 +10922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これをどうぞ！」"
+                                "Mei: \"Please take this!\""
                             ]
                         },
                         {
@@ -11149,7 +10981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]救急セット】を手に入れた！"
+                                "【\\i[294]First Aid Kit】acquired!"
                             ]
                         },
                         {
@@ -11166,7 +10998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]目薬】を手に入れた！"
+                                "【\\i[294]Eye Drops】acquired!"
                             ]
                         },
                         {
@@ -11183,7 +11015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]解毒剤】を手に入れた！"
+                                "【\\i[294]Antidote】acquired!"
                             ]
                         },
                         {
@@ -11216,14 +11048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます。必ずみんなを救ってみせますね！」"
+                                "Pony-Celest: \"Thank you. I promise to save everyone!\""
                             ]
                         },
                         {
@@ -11279,7 +11104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスはメイを救出した！"
+                                "Pony-Celest has rescued Mei!"
                             ]
                         },
                         {
@@ -11437,14 +11262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫ですか。しっかりして下さい！」"
+                                "Pony-Celest: \"Are you okay? Please hang in there!\""
                             ]
                         },
                         {
@@ -11537,14 +11355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！ 助けに来てくれたんですね」"
+                                "Mei: \"Pony-Celest! You came to save me.\""
                             ]
                         },
                         {
@@ -11561,14 +11372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Mei: \"...\""
                             ]
                         },
                         {
@@ -11585,14 +11389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、まだ友達があいつに……」"
+                                "Mei: \"But my friend is still in the hands of that person...\""
                             ]
                         },
                         {
@@ -11625,14 +11422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫！ ご友人の方は助けだしました！」"
+                                "Pony-Celest: \"It's okay! I've already rescued your friend!\""
                             ]
                         },
                         {
@@ -11649,14 +11439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった……」"
+                                "Mei: \"Thank goodness...\""
                             ]
                         },
                         {
@@ -11673,14 +11456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当にありがとうございます！」"
+                                "Mei: \"Thank you so much!\""
                             ]
                         },
                         {
@@ -11697,21 +11473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は薬剤師の仕事をしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お役に立てるかどうかわかりませんが……」"
+                                "Mei: \"I work as a pharmacist. I'm not sure if I can be of any help,\nbut...\""
                             ]
                         },
                         {
@@ -11728,14 +11490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これをどうぞ！」"
+                                "Mei: \"Please take this!\""
                             ]
                         },
                         {
@@ -11794,7 +11549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]救急セット】を手に入れた！"
+                                "【\\i[294]First Aid Kit】acquired!"
                             ]
                         },
                         {
@@ -11811,7 +11566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]目薬】を手に入れた！"
+                                "【\\i[294]Eye Drops】acquired!"
                             ]
                         },
                         {
@@ -11828,7 +11583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]解毒剤】を手に入れた！"
+                                "【\\i[294]Antidote】acquired!"
                             ]
                         },
                         {
@@ -11884,7 +11639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスはメイを救出した！"
+                                "Pony-Celest has rescued Mei!"
                             ]
                         },
                         {
@@ -12128,14 +11883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！ 勘の良い奴め！」"
+                                "Minion: \"Tch! You've got good instincts!\""
                             ]
                         },
                         {
@@ -12487,14 +12235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！ 勘の良い奴め！」"
+                                "Minion: \"Tch! You've got good instincts!\""
                             ]
                         },
                         {
@@ -12751,14 +12492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うぅ……っ」"
+                                "Woman: \"...Ugh...!\""
                             ]
                         },
                         {
@@ -12929,7 +12663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ……ガサガサ……"
+                                "Rustle... Rustle..."
                             ]
                         },
                         {
@@ -12946,7 +12680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこからか物音がする。"
+                                "There's a rustling sound coming from somewhere."
                             ]
                         },
                         {
@@ -13193,7 +12927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -13201,8 +12935,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

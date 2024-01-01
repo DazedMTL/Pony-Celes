@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "南詰所",
+    "displayName": "Southern Checkpoint",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15343,7 +15343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの仕掛けで開く扉のようだ。"
+                                "It seems to be a door that opens with some sort of mechanism."
                             ]
                         },
                         {
@@ -15531,7 +15531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -15539,8 +15539,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15665,7 +15665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -15673,8 +15673,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15859,7 +15859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -15867,8 +15867,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15993,7 +15993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -16001,8 +16001,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16187,7 +16187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -16195,8 +16195,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16321,7 +16321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -16329,8 +16329,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16515,7 +16515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -16523,8 +16523,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16649,7 +16649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -16657,8 +16657,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16843,7 +16843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There are patterns drawn on the wall. Would you like to touch them?"
                             ]
                         },
                         {
@@ -16851,8 +16851,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16977,7 +16977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -16985,8 +16985,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17171,7 +17171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -17179,8 +17179,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17305,7 +17305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -17313,8 +17313,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17499,7 +17499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -17507,8 +17507,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17633,7 +17633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -17641,8 +17641,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17827,7 +17827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -17835,8 +17835,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17961,7 +17961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There are patterns drawn on the wall. Would you like to touch them?"
                             ]
                         },
                         {
@@ -17969,8 +17969,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18155,7 +18155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -18163,8 +18163,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18289,7 +18289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に模様が描かれいる。触れてみますか？"
+                                "There's a pattern drawn on the wall. Would you like to touch it?"
                             ]
                         },
                         {
@@ -18297,8 +18297,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18576,7 +18576,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "この部屋のどこかで物音がした！"
+                                "I heard a noise somewhere in this room!"
                             ]
                         },
                         {
@@ -23295,7 +23295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "4000\\G 手に入れた！"
+                                "Obtained 4000\\G!"
                             ]
                         },
                         {

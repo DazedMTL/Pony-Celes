@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "心宿駅",
+    "displayName": "Kokoro-Yado Station",
     "encounterList": [],
     "encounterStep": 30,
     "height": 49,
@@ -22379,14 +22379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ！ こっちに来ちゃダメだ！」"
+                                "Officer: \"Hey! You can't come this way!\""
                             ]
                         },
                         {
@@ -22403,21 +22396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「四越屋デパートがザイダーグの奴らに襲撃されているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここから立ち去りなさい！」"
+                                "Officer: \"Shikoshiya Department Store is being attacked by the\nZaidarugu gang. Get away from here quickly!\""
                             ]
                         },
                         {
@@ -22443,21 +22422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ、応援はまだなのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレ一人じゃ、あいつらの相手なんか無理だぞ」"
+                                "Officer: \"Damn it, where's the backup?! I can't handle them all by\nmyself.\""
                             ]
                         },
                         {
@@ -22522,14 +22487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やはり四越屋を狙ったわけね。不安が的中したわ）"
+                                "Yui: \"(As I thought, they were targeting Shikoshiya. My fears have\nbeen confirmed.)\""
                             ]
                         },
                         {
@@ -22922,14 +22880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「外がうるせーと思ったら、なんだ警官かよ」"
+                                "Zaidarugu Combatant: \"I thought it was noisy outside, but it's just a\ncop, huh?\""
                             ]
                         },
                         {
@@ -22991,14 +22942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺達の邪魔しようってんなら相手になるぜ。にーちゃん！」"
+                                "Zaidarugu Combatant: \"If you're trying to get in our way, we'll take\nyou on, little girl!\""
                             ]
                         },
                         {
@@ -23075,21 +23019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの戦闘員！？ こっちに来るな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う、うわああああぁぁ！」"
+                                "Officer: \"Zaidarugu combatants!? Don't come this way! Ah, ahhhhhh!\""
                             ]
                         },
                         {
@@ -23339,14 +23269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははっ、情けねー警官だなオイッ！」"
+                                "Zaidarugu Combatant: \"Hahaha, what a pathetic cop, oi!\""
                             ]
                         },
                         {
@@ -23397,14 +23320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた達また何か企んでいるようね！」"
+                                "Yui: \"You guys are up to something again, aren't you!\""
                             ]
                         },
                         {
@@ -23455,21 +23371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だったらなんだってんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺達と楽しい事して遊びてーのか？」"
+                                "Zaidarugu Combatant: \"So what if we are? Wanna have some fun with us?\""
                             ]
                         },
                         {
@@ -23493,14 +23395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね！ 軽く遊んであげるわ！」"
+                                "Yui: \"Sure! I'll play with you a bit!\""
                             ]
                         },
                         {
@@ -23517,21 +23412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぉ、大胆なお嬢ちゃんじゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その制服知ってるぜ、たしか湘東学園だよな！」"
+                                "Zaidarugu Combatant: \"Oh, what a bold young lady. I recognize that\nuniform, you're from Shoto East Academy, right?\""
                             ]
                         },
                         {
@@ -23548,21 +23429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「有名校のガキのマンコが楽しめるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見回りかって出て正解だぜ」"
+                                "Zaidarugu Combatant: \"Getting to enjoy the pussy of a brat from a\nprestigious school, going on patrol was the right choice.\""
                             ]
                         },
                         {
@@ -23579,14 +23446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、こっちへ来な。楽しい事しようぜ！」"
+                                "Zaidarugu Combatant: \"Come on over here. Let's have some fun!\""
                             ]
                         },
                         {
@@ -23619,14 +23479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、いいわよ！」"
+                                "Yui: \"Hehe, alright!\""
                             ]
                         },
                         {
@@ -23674,14 +23527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聖なる光よ、私に力を！」"
+                                "Yui: \"Holy light, grant me strength!\""
                             ]
                         },
                         {
@@ -23815,14 +23661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お前は……ポニーセレス！」"
+                                "Zaidarugu Combatant: \"You... you're Pony-Celes!\""
                             ]
                         },
                         {
@@ -23839,14 +23678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな、嘘だろオイ！」"
+                                "Zaidarugu Combatant: \"No way, that can't be true!\""
                             ]
                         },
                         {
@@ -23863,21 +23695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの正体が湘東学園のガキだったとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはスパイダーグ様に報告しないと！」"
+                                "Zaidarugu Combatant: \"The identity of Pony-Celes is a kid from Shoto\nEast Academy? I must report this to Lord Spider-Darugu!\""
                             ]
                         },
                         {
@@ -23910,14 +23728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは無理ね。報告になんて行かせるわけないじゃない！」"
+                                "Pony-Celes: \"That's not going to happen. I can't let you go report\nnow, can I?\""
                             ]
                         },
                         {
@@ -23985,14 +23796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ、ぐぬぬぬぬっ！！」"
+                                "Zaidarugu Combatant: \"Guh, grrrrrr!!\""
                             ]
                         },
                         {
@@ -24009,14 +23813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「覚悟しなさいっ！」"
+                                "Pony-Celes: \"Prepare yourself!\""
                             ]
                         },
                         {
@@ -24190,14 +23987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「てやぁあああ！！」"
+                                "Pony-Celes: \"Take this!!\""
                             ]
                         },
                         {
@@ -24286,14 +24076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐはっ……！」"
+                                "Zaidarugu Combatant: \"Guh...!\""
                             ]
                         },
                         {
@@ -24310,14 +24093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんのこれしき……うおおおおっ！！」"
+                                "Zaidarugu Combatant: \"Is that all you've got... uoooooh!!\""
                             ]
                         },
                         {
@@ -24477,14 +24253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな遅い攻撃当たるわけないじゃない！」"
+                                "Pony-Celes: \"You can't hit me with such slow attacks!\""
                             ]
                         },
                         {
@@ -24501,14 +24270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とどめよ！」"
+                                "Pony-Celes: \"Here comes the finishing blow!\""
                             ]
                         },
                         {
@@ -24525,14 +24287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はあああああぁぁぁっ！！！」"
+                                "Pony-Celes: \"Haaaaaaaah!!!\""
                             ]
                         },
                         {
@@ -24736,14 +24491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶひゃああああああぁぁっ！！」"
+                                "Zaidarugu Combatant: \"Buhhyaaaaaaah!!\""
                             ]
                         },
                         {
@@ -24808,14 +24556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は―」"
+                                "Pony-Celes: \"Justice is—\""
                             ]
                         },
                         {
@@ -24903,14 +24644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！\\|な～んてね♡」"
+                                "Pony-Celes: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -25027,14 +24761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って･……そんな事言ってる場合じゃないわ」"
+                                "Pony-Celes: \"But... this is no time for jokes.\""
                             ]
                         },
                         {
@@ -25051,14 +24778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早くみんなを助け出さないと！」"
+                                "Pony-Celes: \"I have to hurry and rescue everyone!\""
                             ]
                         },
                         {
@@ -25362,7 +25082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同刻、四越屋デパート"
+                                "Meanwhile, at Shikoshiya Department Store"
                             ]
                         },
                         {
@@ -25703,14 +25423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「四越屋は復旧工事のため休業中です」"
+                                "Police Officer: \"Yotsugoya is closed for restoration work.\""
                             ]
                         },
                         {
@@ -25874,14 +25587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ！ こっちに来ちゃダメだ！」"
+                                "Officer: \"Hey! You can't come this way!\""
                             ]
                         },
                         {
@@ -25898,21 +25604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「四越屋デパートがザイダーグの奴らに襲撃されているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここから立ち去りなさい！」"
+                                "Officer: \"Shikoshiya Department Store is being attacked by the\nZaidarugu guys. Get away from here quickly!\""
                             ]
                         },
                         {
@@ -25938,21 +25630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ、応援はまだなのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレ一人じゃ、あいつらの相手なんか無理だぞ」"
+                                "Officer: \"Damn it, where's the backup?! I can't handle them all by\nmyself!\""
                             ]
                         },
                         {
@@ -26017,14 +25695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やはり四越屋を狙ったわけね。不安が的中したわ）"
+                                "Yui: \"(As I thought, they were targeting Shikoshiya. My fears were\nright on the mark.)\""
                             ]
                         },
                         {
@@ -26417,14 +26088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「外がうるせーと思ったら、なんだ警官かよ」"
+                                "Zaidarugu Combatant: \"I thought it was noisy outside, what's this,\njust a cop?\""
                             ]
                         },
                         {
@@ -26486,14 +26150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺達の邪魔しようってんなら相手になるぜ。にーちゃん！」"
+                                "Zaidarugu Combatant: \"If you're trying to get in our way, we'll take\nyou on, little lady!\""
                             ]
                         },
                         {
@@ -26570,21 +26227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの戦闘員！？ こっちに来るな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う、うわああああぁぁ！」"
+                                "Officer: \"Zaidarugu combatants!? Don't come any closer! Ah, ahhhhhh!\""
                             ]
                         },
                         {
@@ -26834,14 +26477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははっ、情けねー警官だなオイッ！」"
+                                "Zaidarugu Combatant: \"Hahaha, what a pathetic cop, oy!\""
                             ]
                         },
                         {
@@ -26892,14 +26528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた達また何か企んでいるようね！」"
+                                "Yui: \"You guys are up to something again, aren't you!\""
                             ]
                         },
                         {
@@ -26950,21 +26579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だったらなんだってんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺達と楽しい事して遊びてーのか？」"
+                                "Zaidarugu Combatant: \"So what if we are? Wanna have some fun with us?\""
                             ]
                         },
                         {
@@ -26988,14 +26603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね！ 軽く遊んであげるわ！」"
+                                "Yui: \"Sure! I'll play with you a bit!\""
                             ]
                         },
                         {
@@ -27012,21 +26620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぉ、大胆なお嬢ちゃんじゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その制服知ってるぜ、たしか湘東学園だよな！」"
+                                "Zaidarugu Combatant: \"Oh, a bold young lady, aren't you? I recognize\nthat uniform, you're from Shoto East Academy, right?\""
                             ]
                         },
                         {
@@ -27043,21 +26637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「有名校のガキのマンコが楽しめるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見回りかって出て正解だぜ」"
+                                "Zaidarugu Combatant: \"To think I'd get to enjoy a famous school girl's\npussy, going on patrol was the right choice!\""
                             ]
                         },
                         {
@@ -27074,14 +26654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、こっちへ来な。楽しい事しようぜ！」"
+                                "Zaidarugu Combatant: \"Come on over here. Let's have some fun!\""
                             ]
                         },
                         {
@@ -27114,14 +26687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、いいわよ！」"
+                                "Yui: \"Hehe, alright then!\""
                             ]
                         },
                         {
@@ -27169,14 +26735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聖なる光よ、私に力を！」"
+                                "Yui: \"Holy light, grant me strength!\""
                             ]
                         },
                         {
@@ -27310,14 +26869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お前は……ポニーセレス！」"
+                                "Zaidarugu Combatant: \"You are... Pony-Celes!\""
                             ]
                         },
                         {
@@ -27334,14 +26886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな、嘘だろオイ！」"
+                                "Zaidarugu Combatant: \"No way, that can't be true!\""
                             ]
                         },
                         {
@@ -27358,21 +26903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの正体が湘東学園のガキだったとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはスパイダーグ様に報告しないと！」"
+                                "Zaidarugu Combatant: \"The identity of Pony-Celes is a kid from Shoto\nEast Academy? I must report this to Lord Spider-Darugu!\""
                             ]
                         },
                         {
@@ -27405,14 +26936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは無理ね。報告になんて行かせるわけないじゃない！」"
+                                "Pony-Celes: \"That's not going to happen. I can't let you go report\nnow, can I!\""
                             ]
                         },
                         {
@@ -27480,14 +27004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ、ぐぬぬぬぬっ！！」"
+                                "Zaidarugu Combatant: \"Guh, gnnnnn!!\""
                             ]
                         },
                         {
@@ -27504,14 +27021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「覚悟しなさいっ！」"
+                                "Pony-Celes: \"Prepare yourself!\""
                             ]
                         },
                         {
@@ -27685,14 +27195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「てやぁあああ！！」"
+                                "Pony-Celes: \"Take this!!\""
                             ]
                         },
                         {
@@ -27781,14 +27284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐはっ……！」"
+                                "Zaidarugu Combatant: \"Guh...!\""
                             ]
                         },
                         {
@@ -27805,14 +27301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんのこれしき……うおおおおっ！！」"
+                                "Zaidarugu Combatant: \"Is that all you've got... uooooh!!\""
                             ]
                         },
                         {
@@ -27972,14 +27461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな遅い攻撃当たるわけないじゃない！」"
+                                "Pony-Celes: \"You can't hit me with such a slow attack!\""
                             ]
                         },
                         {
@@ -27996,14 +27478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とどめよ！」"
+                                "Pony-Celes: \"Here comes the finishing blow!\""
                             ]
                         },
                         {
@@ -28020,14 +27495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はあああああぁぁぁっ！！！」"
+                                "Pony-Celes: \"Haaaaaaaah!!!\""
                             ]
                         },
                         {
@@ -28231,14 +27699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶひゃああああああぁぁっ！！」"
+                                "Zaidarugu Combatant: \"Buhhyaaaaaaah!!\""
                             ]
                         },
                         {
@@ -28303,14 +27764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は―」"
+                                "Pony-Celes: \"Justice is—\""
                             ]
                         },
                         {
@@ -28398,14 +27852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！\\|な～んてね♡」"
+                                "Pony-Celes: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -28522,14 +27969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って･……そんな事言ってる場合じゃないわ」"
+                                "Pony-Celes: \"But... this is no time for jokes.\""
                             ]
                         },
                         {
@@ -28546,14 +27986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早くみんなを助け出さないと！」"
+                                "Pony-Celes: \"I have to hurry and rescue everyone!\""
                             ]
                         },
                         {
@@ -28857,7 +28290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同刻、四越屋デパート"
+                                "Meanwhile, at Shikoshiya Department Store"
                             ]
                         },
                         {
@@ -29132,14 +28565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ！ こっちに来ちゃダメだ！」"
+                                "Officer: \"Hey! You can't come this way!\""
                             ]
                         },
                         {
@@ -29156,21 +28582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「四越屋デパートがザイダーグの奴らに襲撃されているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早くここから立ち去りなさい！」"
+                                "Officer: \"Shikoshiya Department Store is being attacked by the\nZaidarugu guys. Get away from here quickly!\""
                             ]
                         },
                         {
@@ -29196,21 +28608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ、応援はまだなのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレ一人じゃ、あいつらの相手なんか無理だぞ」"
+                                "Officer: \"Damn it, where's the backup?! I can't handle them all by\nmyself!\""
                             ]
                         },
                         {
@@ -29275,14 +28673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やはり四越屋を狙ったわけね。不安が的中したわ）"
+                                "Yui: \"(As I thought, they were targeting Shikoshiya. My fears have\nbeen confirmed.)\""
                             ]
                         },
                         {
@@ -29675,14 +29066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「外がうるせーと思ったら、なんだ警官かよ」"
+                                "Zaidarugu Combatant: \"I thought it was noisy outside, what's this,\njust a cop?\""
                             ]
                         },
                         {
@@ -29744,14 +29128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺達の邪魔しようってんなら相手になるぜ。にーちゃん！」"
+                                "Zaidarugu Combatant: \"If you're trying to get in our way, we'll take\nyou on, little lady!\""
                             ]
                         },
                         {
@@ -29828,21 +29205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの戦闘員！？ こっちに来るな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う、うわああああぁぁ！」"
+                                "Officer: \"Zaidarugu combatants!? Don't come this way! Ah, ahhhhhh!\""
                             ]
                         },
                         {
@@ -30092,14 +29455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははっ、情けねー警官だなオイッ！」"
+                                "Zaidarugu Combatant: \"Hahaha, what a pathetic cop, oi!\""
                             ]
                         },
                         {
@@ -30150,14 +29506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた達また何か企んでいるようね！」"
+                                "Yui: \"You guys are up to something again, aren't you!\""
                             ]
                         },
                         {
@@ -30208,21 +29557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だったらなんだってんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺達と楽しい事して遊びてーのか？」"
+                                "Zaidarugu Combatant: \"So what if we are? Wanna have some fun with us?\""
                             ]
                         },
                         {
@@ -30246,14 +29581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうね！ 軽く遊んであげるわ！」"
+                                "Yui: \"Sure! I'll play with you a bit!\""
                             ]
                         },
                         {
@@ -30270,21 +29598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぉ、大胆なお嬢ちゃんじゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その制服知ってるぜ、たしか湘東学園だよな！」"
+                                "Zaidarugu Combatant: \"Oh, a bold young lady, aren't you? I recognize\nthat uniform, you're from Shoto East Academy, right?\""
                             ]
                         },
                         {
@@ -30301,21 +29615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「有名校のガキのマンコが楽しめるなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見回りかって出て正解だぜ」"
+                                "Zaidarugu Combatant: \"Getting to enjoy a pussy from a prestigious\nschool kid, heading out on patrol was the right choice!\""
                             ]
                         },
                         {
@@ -30332,14 +29632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、こっちへ来な。楽しい事しようぜ！」"
+                                "Zaidarugu Combatant: \"Come on over here. Let's have some fun!\""
                             ]
                         },
                         {
@@ -30372,14 +29665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、いいわよ！」"
+                                "Yui: \"Hehe, alright then!\""
                             ]
                         },
                         {
@@ -30427,14 +29713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聖なる光よ、私に力を！」"
+                                "Yui: \"Holy light, grant me strength!\""
                             ]
                         },
                         {
@@ -30568,14 +29847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、お前は……ポニーセレス！」"
+                                "Zaidarugu Combatant: \"You... you're Pony-Ceres!\""
                             ]
                         },
                         {
@@ -30592,14 +29864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな、嘘だろオイ！」"
+                                "Zaidarugu Combatant: \"No way, that can't be true!\""
                             ]
                         },
                         {
@@ -30616,21 +29881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの正体が湘東学園のガキだったとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これはスパイダーグ様に報告しないと！」"
+                                "Zaidarugu Combatant: \"The identity of Pony-Ceres is a kid from Shoto\nEast Academy? This needs to be reported to Lord Spider-Drag\nimmediately!\""
                             ]
                         },
                         {
@@ -30663,14 +29914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは無理ね。報告になんて行かせるわけないじゃない！」"
+                                "Pony-Ceres: \"That's not going to happen. I can't let you go report\nnow, can I?\""
                             ]
                         },
                         {
@@ -30738,14 +29982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ、ぐぬぬぬぬっ！！」"
+                                "Zaidarugu Combatant: \"Guh, gnnnnn!!\""
                             ]
                         },
                         {
@@ -30762,14 +29999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「覚悟しなさいっ！」"
+                                "Pony-Ceres: \"Prepare yourself!\""
                             ]
                         },
                         {
@@ -30943,14 +30173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「てやぁあああ！！」"
+                                "Pony-Ceres: \"Take this!!\""
                             ]
                         },
                         {
@@ -31039,14 +30262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐはっ……！」"
+                                "Zaidarugu Combatant: \"Guh...!\""
                             ]
                         },
                         {
@@ -31063,14 +30279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんのこれしき……うおおおおっ！！」"
+                                "Zaidarugu Combatant: \"Is that all you've got... uoooooh!!\""
                             ]
                         },
                         {
@@ -31230,14 +30439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな遅い攻撃当たるわけないじゃない！」"
+                                "Pony-Ceres: \"You can't hit me with such slow attacks!\""
                             ]
                         },
                         {
@@ -31254,14 +30456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とどめよ！」"
+                                "Pony-Ceres: \"This is the end for you!\""
                             ]
                         },
                         {
@@ -31278,14 +30473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はあああああぁぁぁっ！！！」"
+                                "Pony-Ceres: \"Haaaaaaaah!!!\""
                             ]
                         },
                         {
@@ -31489,14 +30677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶひゃああああああぁぁっ！！」"
+                                "Zaidarugu Combatant: \"Buhyaahhhhh!!\""
                             ]
                         },
                         {
@@ -31561,14 +30742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は―」"
+                                "Pony-Ceres: \"Justice is—\""
                             ]
                         },
                         {
@@ -31656,14 +30830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！\\|な～んてね♡」"
+                                "Pony-Ceres: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -31780,14 +30947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って･……そんな事言ってる場合じゃないわ」"
+                                "Pony-Ceres: \"But... this is no time for catchphrases.\""
                             ]
                         },
                         {
@@ -31804,14 +30964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早くみんなを助け出さないと！」"
+                                "Pony-Ceres: \"I need to hurry and rescue everyone!\""
                             ]
                         },
                         {
@@ -32115,7 +31268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同刻、四越屋デパート"
+                                "Meanwhile, at Shikoshiya Department Store"
                             ]
                         },
                         {
@@ -32303,7 +31456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路線図の案内板だ。"
+                                "It's a route map information board."
                             ]
                         },
                         {
@@ -32320,7 +31473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一駅東がダイノス地区のようだ。"
+                                "It seems that one station east from here is the Dynos District."
                             ]
                         },
                         {
@@ -32397,7 +31550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路線図の案内板だ。"
+                                "It's a route map information board."
                             ]
                         },
                         {
@@ -32414,7 +31567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一駅東がダイノス地区のようだ。"
+                                "It seems that one station east from here is the Dynos District."
                             ]
                         },
                         {
@@ -32615,14 +31768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰も人がいないわ……」"
+                                "Yui: \"There's nobody here...\""
                             ]
                         },
                         {
@@ -32639,14 +31785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「間違いない。やはりここで何かあったみたいね！」"
+                                "Yui: \"No doubt about it. It seems something did happen here!\""
                             ]
                         },
                         {
@@ -32807,7 +31946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く四越屋に向かおう。"
+                                "Let's head to Yotsugoya quickly."
                             ]
                         },
                         {
@@ -32981,14 +32120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -33584,7 +32716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く四越屋に向かおう。"
+                                "Let's head to Yotsugoya quickly."
                             ]
                         },
                         {
@@ -33758,14 +32890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -34361,7 +33486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く四越屋に向かおう。"
+                                "Let's head to Yotsugoya quickly."
                             ]
                         },
                         {
@@ -34535,14 +33660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -35213,7 +34331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -35357,7 +34475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -35434,7 +34552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -35511,7 +34629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -35588,7 +34706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -35665,7 +34783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -35742,7 +34860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -35850,14 +34968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハヤオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッスルジムで体を鍛えるぞ」"
+                                "Hayao: \"I'm going to train at Muscle Gym.\""
                             ]
                         },
                         {
@@ -35874,14 +34985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハヤオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目指せ体脂肪率１０％だ！」"
+                                "Hayao: \"Aim for a body fat percentage of 10%!\""
                             ]
                         },
                         {
@@ -36035,14 +35139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知ってる？ 四越屋がザイダーグに襲われたんだって」"
+                                "Saeko: \"Did you know? Apparently, Yotsukoya was attacked by a\nZaidrag.\""
                             ]
                         },
                         {
@@ -36059,14 +35156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「せっかくアーバン地区から来たのに臨時休業なんて最悪だわ」"
+                                "Saeko: \"It's the worst, coming all the way from the Urban District\nonly to find it temporarily closed.\""
                             ]
                         },
                         {
@@ -36191,7 +35281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く四越屋に向かおう。"
+                                "Let's head to Yotsugoya quickly."
                             ]
                         },
                         {
@@ -36365,14 +35455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -36968,21 +36051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミチル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと、ダイノス地区までの切符は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　２００円？ ３００円？」"
+                                "Michiru: \"Let's see, a ticket to the Dinos district is... 200 yen? 300\nyen?\""
                             ]
                         },
                         {
@@ -36999,21 +36068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミチル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あーめんどくさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そろそろパスモンにしようかしら」"
+                                "Michiru: \"Ah- this is so annoying! Maybe I should get a Pasmon soon.\""
                             ]
                         },
                         {
@@ -37114,14 +36169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃい！」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -37308,14 +36356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、どうして北口が無いんだろう」"
+                                "Tae: \"Hmm, I wonder why there isn't a north exit.\""
                             ]
                         },
                         {
@@ -37332,14 +36373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これだけ大きな駅なのに出口は南口一つよ」"
+                                "Tae: \"For such a big station, there's only the south exit.\""
                             ]
                         },
                         {
@@ -37356,21 +36390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タエ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「心宿駅のすぐ北にあるマッスルジムに行きたいのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遠回りしろっていうの？ ったく、ふざけんじゃないわよ！」"
+                                "Tae: \"They want me to take a detour to get to Muscle Gym just north of\nKokoro-Yado Station? Seriously, don't mess with me!\""
                             ]
                         },
                         {
@@ -37421,14 +36441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うっ！）"
+                                "Yui: \"Ugh!\""
                             ]
                         },
                         {
@@ -37445,14 +36458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私に言われても……）"
+                                "Yui: \"(I mean, it's not like I can do anything about it...)\""
                             ]
                         },
                         {
@@ -37594,21 +36600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ございません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　新幹線は整備中のため運休しております」"
+                                "Security Guard: \"I apologize. The bullet train is currently suspended\ndue to maintenance.\""
                             ]
                         },
                         {
@@ -37946,14 +36938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ガスのトラブル　水のトラブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#そして鍵のトラブルはイガスまでお電話を！"
+                                "For troubles with gas, water, and even keys, please call Igasu!"
                             ]
                         },
                         {
@@ -38049,14 +37034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ガスのトラブル　水のトラブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#そして鍵のトラブルはイガスまでお電話を！"
+                                "For troubles with gas, water, and even keys, call Igasu!"
                             ]
                         },
                         {

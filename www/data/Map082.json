@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォルス地区郊外南",
+    "displayName": "South Suburbs of Forus District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -5756,21 +5756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モトヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「線路の近くのアパートなんかに住むんじゃなかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　毎朝騒音で起こされて、ストレスで白髪が増えちゃった」"
+                                "Motoyo: \"I shouldn't have lived in an apartment near the train tracks.\nBeing woken up by the noise every morning has increased my gray hairs\nfrom stress.\""
                             ]
                         },
                         {
@@ -6980,14 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]フェイの第四倉庫の鍵\\C[0]があれば開きそうだ。"
+                                "It's locked. If I had the \\C[17]key to Fey's fourth warehouse\\C[0], it\nlooks like it would open."
                             ]
                         },
                         {
@@ -7055,14 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]フェイの第四倉庫の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Key to Fey's Fourth Warehouse\\C[0], it\nlooks like it will open."
                             ]
                         },
                         {
@@ -7079,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]フェイの第四倉庫の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Key to Fey's Fourth Warehouse\\C[0]?"
                             ]
                         },
                         {
@@ -7087,8 +7059,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7130,7 +7102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -7590,14 +7562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた小さいコインって知ってる？」"
+                                "Chika: \"Do you know about the tiny coins?\""
                             ]
                         },
                         {
@@ -7614,14 +7579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「結構価値があるものらしくてさ……」"
+                                "Chika: \"They seem to be quite valuable...\""
                             ]
                         },
                         {
@@ -7638,21 +7596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一枚持ってたんだけど、宝来神社にお参り行った時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　落としちゃって……」"
+                                "Chika: \"I had one, but I dropped it when I went to visit Houkai\nShrine...\""
                             ]
                         },
                         {
@@ -7669,14 +7613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし見つけて拾ったらあなたにあげるわ」"
+                                "Chika: \"If you find it and pick it up, I'll give it to you.\""
                             ]
                         },
                         {
@@ -8544,14 +8481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]フェイの第四倉庫の鍵\\C[0]があれば開きそうだ。"
+                                "It's locked. If I had the \\C[17]key to Fey's fourth warehouse\\C[0], it\nlooks like it would open."
                             ]
                         },
                         {
@@ -8619,14 +8549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]フェイの第四倉庫の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. Using the \\C[17]Key to Fey's Fourth Warehouse\\C[0] might\nopen it."
                             ]
                         },
                         {
@@ -8643,7 +8566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]フェイの第四倉庫の鍵\\C[0]を使用しますか？"
+                                "Would you like to use the \\C[17]Key to Fey's Fourth Warehouse\\C[0]?"
                             ]
                         },
                         {
@@ -8651,8 +8574,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8694,7 +8617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The key has been turned!"
                             ]
                         },
                         {

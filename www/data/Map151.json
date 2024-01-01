@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダイユースーパー",
+    "displayName": "Daiyu Supermarket",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8251,7 +8251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -8808,14 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この歳になるとレジのカゴを持つのだけでも一苦労じゃ」"
+                                "Chiyo: \"At my age, even holding a shopping basket is a struggle.\""
                             ]
                         },
                         {
@@ -8832,14 +8825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ショッピングカートがあればのぉ……」"
+                                "Chiyo: \"If only there were shopping carts...\""
                             ]
                         },
                         {
@@ -9045,21 +9031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この先はバックヤードだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　関係者以外、立ち入りは許可されてないぞ」"
+                                "店員: \"This area is the back yard. No entry allowed except for\nauthorized personnel.\""
                             ]
                         },
                         {
@@ -9095,14 +9067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おいっ！ どこから入った！」"
+                                "店員: \"Hey! Where did you enter from!\""
                             ]
                         },
                         {
@@ -9119,21 +9084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そこはバックヤードだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　関係者以外、立ち入りは許可されてないぞ」"
+                                "店員: \"That's the back yard. No entry allowed except for authorized\npersonnel.\""
                             ]
                         },
                         {
@@ -9232,14 +9183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かごを置いてレジへお進み下さい」"
+                                "Clerk: \"Please place your basket down and proceed to the register.\""
                             ]
                         },
                         {
@@ -9347,14 +9291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワカナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここ最近、炭酸水にハマってるの」"
+                                "Wakana: \"I've been really into sparkling water lately.\""
                             ]
                         },
                         {
@@ -9371,21 +9308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワカナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「毎日飲むと健康にいいらしいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先月から始めたけど肌にツヤが戻ったような気がするわ」"
+                                "Wakana: \"They say it's good for your health if you drink it every day.\nI started last month, and I feel like my skin has gotten its glow\nback.\""
                             ]
                         },
                         {
@@ -9539,14 +9462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かごを置いてレジへお進み下さい」"
+                                "Clerk: \"Please place your basket down and proceed to the register.\""
                             ]
                         },
                         {
@@ -9623,14 +9539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かごを置いてレジへお進み下さい」"
+                                "Clerk: \"Please place your basket down and proceed to the register.\""
                             ]
                         },
                         {
@@ -9779,14 +9688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミチコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダイノス地区にある八百八って名前の八百屋しってる？」"
+                                "Michiko: \"Do you know the greengrocer named Yaohachi in the Dinos\ndistrict?\""
                             ]
                         },
                         {
@@ -9803,21 +9705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミチコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とても美味しい野菜を販売している店なんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここのスーパーともめたらしくて近々店を閉めるらしいの」"
+                                "Michiko: \"They sell really delicious vegetables, but it seems they've\nhad a dispute with this supermarket and are going to close down soon.\""
                             ]
                         },
                         {
@@ -9834,14 +9722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミチコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでも仕入れ先の農家をこのスーパーに独占契約されたみたいよ」"
+                                "Michiko: \"Apparently, the supermarket has secured an exclusive\ncontract with the vegetable supplier that Yaohachi used.\""
                             ]
                         },
                         {
@@ -9858,21 +9739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミチコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「資本の差ってやつね。ほら、ここは西園寺製薬の系列店でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そりゃ当然の結果よね」"
+                                "Michiko: \"It's all about the difference in capital. Look, this place\nis affiliated with Saionji Pharmaceuticals. It's an expected outcome,\nreally.\""
                             ]
                         },
                         {
@@ -9949,14 +9816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「買い物も済んだし……」"
+                                "Reimi: \"Now that the shopping is done...\""
                             ]
                         },
                         {
@@ -9973,14 +9833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、帰って夕飯の支度しなきゃ！」"
+                                "Reimi: \"Alright, I need to head back and prepare dinner!\""
                             ]
                         },
                         {
@@ -10276,14 +10129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナツミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「白菜に春菊、シイタケとエノキ！」"
+                                "Natsumi: \"Napa cabbage, crown daisy, shiitake, and enoki mushrooms!\""
                             ]
                         },
                         {
@@ -10300,14 +10146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナツミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の夕飯はすき焼きなの」"
+                                "Natsumi: \"Today's dinner is sukiyaki.\""
                             ]
                         },
                         {
@@ -10492,21 +10331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナギサ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「日用品は毎月５日の特売日にまとめて買ってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　３０％引きは家計に大助かりよ」"
+                                "ナギサ: \"I buy household goods in bulk on the monthly sale day on the\n5th. The 30% discount is a huge help for the household budget.\""
                             ]
                         },
                         {
@@ -10691,14 +10516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マサハル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「魚は鮮度が命……」"
+                                "Masaharu: \"Freshness is the life of fish...\""
                             ]
                         },
                         {
@@ -10715,14 +10533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マサハル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、このスーパーの魚は……」"
+                                "Masaharu: \"Hmm, the fish at this supermarket...\""
                             ]
                         },
                         {
@@ -10907,14 +10718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チサト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウチの子供が野菜嫌いで困ってるのよ」"
+                                "Chisato: \"I'm having trouble because my child hates vegetables.\""
                             ]
                         },
                         {
@@ -10931,21 +10735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チサト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「細かく切って分からないように料理の中に仕込んでるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すぐバレて泣き出すの」"
+                                "Chisato: \"I try to chop them up finely and hide them in the food, but\nthey always find out and start crying.\""
                             ]
                         },
                         {
@@ -10962,14 +10752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チサト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、野菜が使えないとなると毎日の献立考えるだけでも大変よ……」"
+                                "Chisato: \"Sigh~ It's tough enough just planning the daily menu when I\ncan't use vegetables...\""
                             ]
                         },
                         {
@@ -11154,14 +10937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「酎ハイにするか、ワインにするか……」"
+                                "Shigenobu: \"Should I go for a chuhai or wine...\""
                             ]
                         },
                         {
@@ -11178,14 +10954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや待てよ。こんなに暑い日はやっぱりビールだな！」"
+                                "Shigenobu: \"No, wait. On such a hot day, it's gotta be beer!\""
                             ]
                         },
                         {
@@ -11346,7 +11115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -11373,7 +11142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "【\\i[91]Martial Arts Book】has been obtained!"
                             ]
                         },
                         {
@@ -11480,7 +11249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -11497,7 +11266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {

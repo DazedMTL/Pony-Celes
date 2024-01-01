@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "サンコーポ壱番館１階",
+    "displayName": "SunCorpo Building No. 1, 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -6319,7 +6319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -6396,7 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -6934,14 +6934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フミヒロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、君！ このアパートの家賃いくらだと思う？」"
+                                "Fumihiko: \"Hey, you! How much do you think the rent for this apartment\nis?\""
                             ]
                         },
                         {
@@ -6949,8 +6942,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "安いんですか？",
-                                    "わかりません……"
+                                    "Is it cheap?",
+                                    "I don't know"
                                 ],
                                 1,
                                 0,
@@ -6980,21 +6973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「月３万円だ。安いだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちなみに僕が大家だよ。へへへっ」"
+                                "Yousuke: \"It's 30,000 yen a month. Cheap, right? By the way, I'm the\nlandlord. Hehehe.\""
                             ]
                         },
                         {
@@ -7011,21 +6990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「シングルマザーやお年寄りのための激安物件なんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　２０３号室だけは僕の母校の先生が入居してるんだ」"
+                                "Yousuke: \"It's a super affordable property for single mothers and the\nelderly, but room 203 is occupied by a teacher from my alma mater.\""
                             ]
                         },
                         {
@@ -7042,14 +7007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「僕に柔道を教えてくれた、尊敬出来る先生だから特別にね」"
+                                "Yousuke: \"He's a teacher who taught me judo, someone I deeply respect,\nso it's special for him.\""
                             ]
                         },
                         {
@@ -7079,14 +7037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おどろくなよ！ 月たったの３万円だ！ 安いだろ！」"
+                                "Yousuke: \"Don't be surprised! It's only 30,000 yen a month! Cheap,\nright?\""
                             ]
                         },
                         {
@@ -7103,21 +7054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちなみにボクが大家なんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　シングルマザーやお年寄りのための激安物件さ」"
+                                "Yousuke: \"By the way, I'm the landlord! It's a super affordable\nproperty for single mothers and the elderly.\""
                             ]
                         },
                         {
@@ -7134,14 +7071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヨウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ボクってなんて優しいんだろ」"
+                                "Yousuke: \"How kind am I, huh?\""
                             ]
                         },
                         {
@@ -7300,7 +7230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイユースーパーの特売チラシが落ちている。"
+                                "A flyer for Daiyu Supermarket's special sale is lying on the ground."
                             ]
                         },
                         {
@@ -7317,14 +7247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#ダイユースーパー特売日３０％ＯＦＦ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#美味しくて新鮮な野菜を取り揃えています！"
+                                "Daiyu Supermarket's sale day - 30% OFF on delicious and fresh\nvegetables!"
                             ]
                         },
                         {
@@ -7512,7 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[138]ポケットグミ】を手に入れた！"
+                                "I've obtained 【\\i[138]Pocket Gummies】!"
                             ]
                         },
                         {

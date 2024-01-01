@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "古賀宅",
+    "displayName": "Koga Residence",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12079,14 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、息子が元気なくてなぁ」"
+                                "Chieko: \"Lately, my son has been so listless...\""
                             ]
                         },
                         {
@@ -12103,21 +12096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、心宿駅前の病院の先生をしとったんじゃが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　突然クビされてしもうての……」"
+                                "Chieko: \"You know, he was a doctor at the hospital in front of Kokoro\nStation, but he was suddenly fired...\""
                             ]
                         },
                         {
@@ -12134,21 +12113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チエコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんなにマジメで仕事熱心な子だったのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうしてなんじゃろな……」"
+                                "Chieko: \"He was such a serious and dedicated worker, I wonder why this\nhappened...\""
                             ]
                         },
                         {
@@ -12265,14 +12230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The lock is engaged. If I had the \\C[17]Crimson Star Key\\C[0], it\nseems like it would open."
                             ]
                         },
                         {
@@ -12340,14 +12298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Crimson Star Key\\C[0], it looks like\nit will open."
                             ]
                         },
                         {
@@ -12364,7 +12315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -12372,8 +12323,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12415,7 +12366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -12918,7 +12869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミ箱の中には何も入っていない。"
+                                "The trash can is empty."
                             ]
                         },
                         {
@@ -13016,7 +12967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -13043,7 +12994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]医療キット】を手に入れた！"
+                                "【\\i[294]Medical Kit】acquired!"
                             ]
                         },
                         {
@@ -13150,7 +13101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -13167,7 +13118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new or interesting inside."
                             ]
                         },
                         {
@@ -13275,7 +13226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -13292,7 +13243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new or interesting inside."
                             ]
                         },
                         {
@@ -13400,7 +13351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13427,7 +13378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[232]パヤリースオレンジ】を手に入れた！"
+                                "【\\i[232]Payari-Suorange】acquired!"
                             ]
                         },
                         {
@@ -13534,7 +13485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13551,7 +13502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -13722,7 +13673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医療関係の難しい本が並んでいる。"
+                                "There are difficult medical-related books lined up."
                             ]
                         },
                         {
@@ -13799,7 +13750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医療関係の難しい本が並んでいる。"
+                                "There are difficult medical-related books lined up."
                             ]
                         },
                         {
@@ -13876,7 +13827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはささっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -13953,7 +13904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医療関係の難しい本が並んでいる。"
+                                "There are difficult medical-related books lined up."
                             ]
                         },
                         {
@@ -14171,7 +14122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14188,7 +14139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -14296,7 +14247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14324,7 +14275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[256]四葉のクローバー】を手に入れた！"
+                                "【\\i[256]Four-Leaf Clover】acquired!"
                             ]
                         },
                         {
@@ -14431,7 +14382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -14448,7 +14399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {

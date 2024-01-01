@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "四越屋２Ｆ",
+    "displayName": "Yotsugoya 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -30464,7 +30464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -30472,9 +30472,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "３階",
-                                    "やめる"
+                                    "First floor",
+                                    "Third floor",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -30801,7 +30801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３階のボタンを押しても反応が無い。"
+                                "Even when I press the button for the third floor, there's no response."
                             ]
                         },
                         {
@@ -30892,7 +30892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -30900,9 +30900,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "３階",
-                                    "やめる"
+                                    "First floor",
+                                    "Third floor",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -32122,7 +32122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "220\\G 手に入れた！"
+                                "220\\G obtained!"
                             ]
                         },
                         {
@@ -36800,7 +36800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[161]ブルートパーズ】を手に入れた！"
+                                "You obtained the 【\\i[161]Blue Topaz】!"
                             ]
                         },
                         {
@@ -37636,7 +37636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　スタッフルーム"
+                                "Staff Room"
                             ]
                         },
                         {
@@ -37943,7 +37943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[230]すっきりリンゴ】を２つ手に入れた！"
+                                "Acquired two 【\\i[230]Refreshing Apples】!"
                             ]
                         },
                         {

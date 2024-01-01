@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "両親の寝室",
+    "displayName": "Parents' Bedroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -15185,7 +15185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -15202,7 +15202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -15324,21 +15324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タンスを開けますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※タンスを開けると強制的にイージーモードへ変更になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※一度イージーモードに変更するとノーマルモードへ戻せません。"
+                                "Will you open the dresser?\\C[17]*Opening the dresser will forcibly\nchange the game to Easy Mode.*Once changed to Easy Mode, you cannot\nreturn to Normal Mode."
                             ]
                         },
                         {
@@ -15346,8 +15332,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -15403,7 +15389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -15443,14 +15429,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[220]幸せのお守り】を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[17]※ノーマルモードからイージーモードへ変更になりました。"
+                                "You obtained the 【\\i[220]Charm of Happiness】!\\C[17]*The game has been\nchanged from Normal Mode to Easy Mode."
                             ]
                         },
                         {
@@ -15603,7 +15582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -15620,7 +15599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -15716,7 +15695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローゼットを開ける必要は無さそうだ。"
+                                "There doesn't seem to be a need to open the closet."
                             ]
                         },
                         {
@@ -15793,7 +15772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローゼットを開ける必要は無さそうだ。"
+                                "There seems to be no need to open the closet."
                             ]
                         },
                         {

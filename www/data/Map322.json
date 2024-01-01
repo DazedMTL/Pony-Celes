@@ -18079,7 +18079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -18156,7 +18156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターに乗りますか？"
+                                "Will you take the elevator?"
                             ]
                         },
                         {
@@ -18164,8 +18164,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -2,
                                 0,

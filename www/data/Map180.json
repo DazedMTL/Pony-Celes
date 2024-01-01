@@ -24113,14 +24113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                "Takumi: \"\""
                             ]
                         },
                         {
@@ -26578,7 +26571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G Got it!"
                             ]
                         },
                         {
@@ -26824,7 +26817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G I got it!"
                             ]
                         },
                         {
@@ -26961,7 +26954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -27000,7 +26993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -27385,14 +27378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もぅ！ あなたのせいで怒られたじゃない！」"
+                                "Yui: \"Geez! It's your fault I got scolded!\""
                             ]
                         },
                         {
@@ -27443,14 +27429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは、すまなかった……」"
+                                "Takumi: \"For that, I apologize...\""
                             ]
                         },
                         {
@@ -27467,14 +27446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気持ちが高ぶってつい……」"
+                                "Takumi: \"I got carried away because I was so excited...\""
                             ]
                         },
                         {
@@ -27507,14 +27479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何よそれ。なんかいつもと違うから調子狂うじゃない！」"
+                                "Yui: \"What's that supposed to mean? You're acting different than usual\nand it's throwing me off!\""
                             ]
                         },
                         {
@@ -27547,14 +27512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、二人でプールに！」"
+                                "Takumi: \"Then, let's go to the pool together!\""
                             ]
                         },
                         {
@@ -27587,14 +27545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから、行かないって何度言ったら……」"
+                                "Yui: \"How many times do I have to tell you I'm not going...\""
                             ]
                         },
                         {
@@ -27687,14 +27638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイちゃん！」"
+                                "Polka: \"Yui-chan!\""
                             ]
                         },
                         {
@@ -27720,14 +27664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フォルス地区の南から強いエネルギーを感知したわ！」"
+                                "Polka: \"I've detected a strong energy from the south of the Fols\ndistrict!\""
                             ]
                         },
                         {
@@ -27744,14 +27681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「至急向かってちょうだい！」"
+                                "Polka: \"Please head there immediately!\""
                             ]
                         },
                         {
@@ -27821,14 +27751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（フォルス地区の南……それってプールの場所じゃ！？）"
+                                "Yui: \"(The south of the Fols district... Isn't that where the pool\nis!?)\""
                             ]
                         },
                         {
@@ -27870,14 +27793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よりによって、なんでプールなのよ！！」"
+                                "Yui: \"Of all places, why does it have to be the pool!!\""
                             ]
                         },
                         {
@@ -27937,21 +27853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでって？ それはさっき言っただろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日がオープンだからお前と行きたいって」"
+                                "Takumi: \"Why? Didn't I tell you earlier? I wanted to go with you\nbecause today is the opening day.\""
                             ]
                         },
                         {
@@ -27993,14 +27895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたに言ってないの！」"
+                                "Yui: \"I wasn't talking to you!\""
                             ]
                         },
                         {
@@ -28042,14 +27937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Takumi: \"Huh?\""
                             ]
                         },
                         {
@@ -28082,14 +27970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん、タクミ君。もう私に構わないで……」"
+                                "Yui: \"Sorry, Takumi-kun. Please don't bother with me anymore...\""
                             ]
                         },
                         {
@@ -28416,14 +28297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、もう少しだったな。少し焦ったか……」"
+                                "Takumi: \"Tch, I was so close. Maybe I rushed it a bit...\""
                             ]
                         },
                         {
@@ -28463,14 +28337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まてよ！」"
+                                "Takumi: \"Wait a minute!\""
                             ]
                         },
                         {
@@ -28503,14 +28370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの慌てよう……まさかザイダーグが現れたのか？」"
+                                "Takumi: \"That panic... Could it be that a Zydag has appeared?\""
                             ]
                         },
                         {
@@ -28527,14 +28387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「尾行する価値はあるな」"
+                                "Takumi: \"It's worth tailing her.\""
                             ]
                         },
                         {

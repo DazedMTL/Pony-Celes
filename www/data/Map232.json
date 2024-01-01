@@ -12779,14 +12779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お風呂にでも入ろうかしら」"
+                                "Yui: \"Maybe I should take a bath.\""
                             ]
                         },
                         {
@@ -12794,8 +12787,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "入らない"
+                                    "Enter",
+                                    "I won't go in"
                                 ],
                                 1,
                                 0,
@@ -13284,14 +13277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぅ～～」"
+                                "Yui: \"Huu~\""
                             ]
                         },
                         {
@@ -13315,14 +13301,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっぱりお風呂って最高ね～♪」"
+                                "Yui: \"Baths really are the best~♪\""
                             ]
                         },
                         {
@@ -13353,14 +13332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「るん、るん、る～ん♪」"
+                                "Yui: \"Lalala, lalala, la~la♪\""
                             ]
                         },
                         {
@@ -13558,7 +13530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した！"
+                                "HP and SP have been fully restored!"
                             ]
                         },
                         {
@@ -13634,14 +13606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぅ～、気持ち良かった～♪」"
+                                "Yui: \"Ahh~ That felt good~♪\""
                             ]
                         },
                         {
@@ -13665,14 +13630,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「･････････」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -13714,21 +13672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「って、お風呂に入ってる場合じゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　完全に遅刻じゃない･････」"
+                                "Yui: \"Wait, this is no time to be taking a bath. I'm going to be\ncompletely late...\""
                             ]
                         },
                         {
@@ -13757,14 +13701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「バカバカバカ！私のバカ～！！」"
+                                "Yui: \"Stupid, stupid, stupid! I'm such an idiot~!!\""
                             ]
                         },
                         {
@@ -13847,14 +13784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お風呂になんて入ってる場合じゃないわ！」"
+                                "Yui: \"This is no time to be in the bath!\""
                             ]
                         },
                         {
@@ -13871,14 +13801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「早く登校しないと･････」"
+                                "Yui: \"I need to get to school quickly...\""
                             ]
                         },
                         {
@@ -13981,7 +13904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はお風呂に入っている場合ではない。"
+                                "Now is not the time to take a bath."
                             ]
                         },
                         {
@@ -14083,14 +14006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お風呂にでも入ろうかしら」"
+                                "Yui: \"Maybe I should take a bath.\""
                             ]
                         },
                         {
@@ -14098,8 +14014,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "入らない"
+                                    "Let's take a bath",
+                                    "I won't go in"
                                 ],
                                 1,
                                 0,
@@ -14588,14 +14504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぅ～～」"
+                                "Yui: \"Phew~~\""
                             ]
                         },
                         {
@@ -14619,14 +14528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっぱりお風呂って最高ね～♪」"
+                                "Yui: \"A bath really is the best~♪\""
                             ]
                         },
                         {
@@ -14657,14 +14559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「るん、るん、る～ん♪」"
+                                "Yui: \"Lun, lun, lu~n♪\""
                             ]
                         },
                         {
@@ -14887,7 +14782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した！"
+                                "HP and SP have been fully restored!"
                             ]
                         },
                         {
@@ -15254,7 +15149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -15281,7 +15176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[230]すっきりリンゴ】を手に入れた！"
+                                "【\\i[230]Refreshing Apple】acquired!"
                             ]
                         },
                         {
@@ -15388,7 +15283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -15405,7 +15300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいの物は無かった。"
+                                "There wasn't anything particularly new."
                             ]
                         },
                         {
@@ -15622,14 +15517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今朝、警備員からこの映像を渡されて相談されたの」"
+                                "Karen: \"This morning, a security guard handed me this footage and\nasked for my advice.\""
                             ]
                         },
                         {
@@ -15646,14 +15534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「相手はザイダーグだから警察もあてにならないし……」"
+                                "Karen: \"The opponent is Zaida-G, so we can't rely on the police\neither...\""
                             ]
                         },
                         {
@@ -15670,14 +15551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Yui: \"...\""
                             ]
                         },
                         {
@@ -15694,14 +15568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、怖くて怖くて……もうどうしたらいいか」"
+                                "Karen: \"I'm so scared... I don't know what to do anymore.\""
                             ]
                         },
                         {
@@ -15718,14 +15585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん、ごめん……私、行かなきゃ！」"
+                                "Yui: \"Saionji-san, I'm sorry... I have to go!\""
                             ]
                         },
                         {
@@ -15742,14 +15602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこへ？ 何をするつもりよ？」"
+                                "Karen: \"Where to? What are you planning to do?\""
                             ]
                         },
                         {
@@ -15766,14 +15619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか天沢君を助けに行くつもりじゃないでしょうね？」"
+                                "Karen: \"You're not planning to go rescue Ginga-kun, are you?\""
                             ]
                         },
                         {
@@ -15790,14 +15636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……行くね」"
+                                "Yui: \"Sorry... I'm going.\""
                             ]
                         },
                         {
@@ -16085,14 +15924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうしていつもGingaが狙われるの……）"
+                                "Yui: (Why is it always Ginga who gets targeted...)"
                             ]
                         },
                         {
@@ -16116,14 +15948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私のせいだよね……）"
+                                "Yui: (It's my fault, isn't it...)"
                             ]
                         },
                         {
@@ -16147,14 +15972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私がGingaを巻き込んだせいで……）"
+                                "Yui: (Because I got Ginga involved...)"
                             ]
                         },
                         {

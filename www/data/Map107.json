@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "肉マサ屋",
+    "displayName": "Meat Masaya Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12079,14 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃい。ホクホク、サクサクのコロッケはどうだい？」"
+                                "Clerk: \"Welcome. How about some hot and crispy croquettes?\""
                             ]
                         },
                         {
@@ -12144,14 +12137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ……」"
+                                "Yui: \"Then...\""
                             ]
                         },
                         {
@@ -12168,14 +12154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「牛肉コロッケを２つ下さい！」"
+                                "Yui: \"Please give me two beef croquettes!\""
                             ]
                         },
                         {
@@ -12199,14 +12178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいよ！」"
+                                "Clerk: \"You got it!\""
                             ]
                         },
                         {
@@ -12358,14 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、牛肉コロッケ２つだ」"
+                                "Clerk: \"Here you go, two beef croquettes.\""
                             ]
                         },
                         {
@@ -12405,14 +12370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！ お会計はいくらですか？」"
+                                "Yui: \"Thank you! How much do I owe you?\""
                             ]
                         },
                         {
@@ -12429,14 +12387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Clerk: \"...\""
                             ]
                         },
                         {
@@ -12469,14 +12420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Clerk: \"...\""
                             ]
                         },
                         {
@@ -12518,14 +12462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうかしました？」"
+                                "Yui: \"Is something wrong?\""
                             ]
                         },
                         {
@@ -12542,14 +12479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁー、君は女の子だしタダでいいよ」"
+                                "Clerk: \"Ah, you're a girl, so it's on the house.\""
                             ]
                         },
                         {
@@ -12566,14 +12496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タダ……ですか？」"
+                                "Yui: \"For free...?\""
                             ]
                         },
                         {
@@ -12606,21 +12529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご好意ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、ちゃんとお代は払います」"
+                                "Yui: \"Thank you for your kindness! But I insist on paying.\""
                             ]
                         },
                         {
@@ -12637,14 +12546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Clerk: \"...\""
                             ]
                         },
                         {
@@ -12684,14 +12586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タダでいいって言ってるんだ！」"
+                                "Clerk: \"I'm telling you it's free!\""
                             ]
                         },
                         {
@@ -12708,14 +12603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……え！？」"
+                                "Yui: \"...Eh!?\""
                             ]
                         },
                         {
@@ -12829,14 +12717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせお前はイートダーグ様の餌になるんだからなァ！！」"
+                                "Zaidar-G Combatant: \"You're going to be food for Lord Itodar-G\nanyway!!\""
                             ]
                         },
                         {
@@ -12878,14 +12759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの戦闘員！？」"
+                                "Yui: \"Zaidar-G combatants!?\""
                             ]
                         },
                         {
@@ -12902,14 +12776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなところで何をして――」"
+                                "Yui: \"What are you doing in a place like this--\""
                             ]
                         },
                         {
@@ -13172,14 +13039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぅ……ぁ…………」"
+                                "Yui: \"...uh...ah...\""
                             ]
                         },
                         {
@@ -13212,14 +13072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日は女が入れ食い状態だな」"
+                                "Zaidar-G Combatant A: \"Today's catch of women is plentiful.\""
                             ]
                         },
                         {
@@ -13245,21 +13098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちげーねーな！ イートダーグ様もこれだけ集めれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きっと満腹になってくれるぜ」"
+                                "Zaidar-G Combatant B: \"No kidding! With this many, Lord Itodar-G will\nsurely be satisfied.\""
                             ]
                         },
                         {
@@ -13276,21 +13115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「満腹にならなきゃ、俺達に空腹のとばっちりがくるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　本当におっかねーぜあの人は……」"
+                                "Zaidar-G Combatant A: \"If he's not full, we'll be the ones to suffer\nhis hunger. That guy is really scary...\""
                             ]
                         },
                         {
@@ -13307,14 +13132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかしなァー、あの人が作るコロッケ……糞マズイよな」"
+                                "Zaidar-G Combatant B: \"But seriously, the croquettes that guy makes...\nthey're shit awful.\""
                             ]
                         },
                         {
@@ -13331,21 +13149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、倉庫にぶち込まれている元店主のコロッケは絶品だったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　イートダーグ様のコロッケはお前の言うようにくそまじーけどな」"
+                                "Zaidar-G Combatant A: \"No, the croquettes made by the original shop\nowner who's locked in the warehouse were exquisite. It's just as you\nsay, Lord Itodar-G's croquettes are crap.\""
                             ]
                         },
                         {
@@ -13362,21 +13166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははっ、コックの格好して料理が苦手とかなんの冗談だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すげー笑えるぜ」"
+                                "Zaidar-G Combatant B: \"Hahaha, dressing up as a cook but being bad at\ncooking, what a joke. It's hilarious.\""
                             ]
                         },
                         {
@@ -13393,14 +13183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だな！ はははははっ！」"
+                                "Zaidar-G Combatant A: \"Right! Hahahahaha!\""
                             ]
                         },
                         {
@@ -13463,14 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいっ、戦闘員！！」"
+                                "Itodar-G: \"Hey, combatants!!\""
                             ]
                         },
                         {
@@ -13523,14 +13299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ＆Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はいーー！！！！」"
+                                "Zaidar-G Combatant A & B: \"Yes--!!!!!!\""
                             ]
                         },
                         {
@@ -13554,21 +13323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「若い女の匂いがするダスね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また一人確保したダスか？」"
+                                "Itodar-G: \"I smell a young woman! Did you secure another one?\""
                             ]
                         },
                         {
@@ -13585,21 +13340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はい！ おっしゃる通りです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先ほど、若くて可愛い女を一匹確保しました！」"
+                                "Zaidar-G Combatant A: \"Yes, exactly as you said! We've just secured a\nyoung and cute girl!\""
                             ]
                         },
                         {
@@ -13616,14 +13357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダスダスダス！ それはご苦労だったダス！」"
+                                "Itodar-G: \"Das das das! Good work!\""
                             ]
                         },
                         {
@@ -13640,21 +13374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきの私への無礼は許してやるから、そいつを貯蔵庫に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっさと運ぶダス」"
+                                "Itodar-G: \"I'll forgive your earlier rudeness. Now hurry up and take\nher to the storage room.\""
                             ]
                         },
                         {
@@ -13671,14 +13391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「食後のデザートとして後でゆっくり食べるダス！」"
+                                "Itodar-G: \"She'll be my dessert to enjoy later after my meal!\""
                             ]
                         },
                         {
@@ -13695,21 +13408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ＆Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かしこまりました！ 今すぐ貯蔵庫に運びます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　な、なので私達はどうか食べないで下さい！」"
+                                "Zaidar-G Combatant A & B: \"Understood! We'll transport her to the\nstorage right away! So please don't eat us!\""
                             ]
                         },
                         {
@@ -13726,14 +13425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安心しろダス。男なんて糞マズイ生き物だれが食べるダス？」"
+                                "Itodar-G: \"Rest easy Das. Who would eat men? They taste awful.\""
                             ]
                         },
                         {
@@ -13750,14 +13442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イートダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く仕事しないとお前達コロすダスよ……」"
+                                "Itodar-G: \"If you don't work quickly, I'll kill you Das...\""
                             ]
                         },
                         {
@@ -13774,14 +13459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員Ａ＆Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「は、はい！！ 今すぐ！」"
+                                "Zaidar-G Combatant A & B: \"Yes, right away!!\""
                             ]
                         },
                         {
@@ -14491,7 +14169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -14518,7 +14196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[296]メロンイエロー】を手に入れた！"
+                                "【\\i[296]Melon Yellow】was obtained!"
                             ]
                         },
                         {
@@ -14625,7 +14303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -14642,7 +14320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -14750,7 +14428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -14767,7 +14445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -14863,7 +14541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -14959,7 +14637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -15055,7 +14733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -15151,7 +14829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -15319,7 +14997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -15415,7 +15093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新鮮なお肉が陳列されている。"
+                                "Fresh meat is on display."
                             ]
                         },
                         {
@@ -15511,7 +15189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出来立てのコロッケが並べられいる。"
+                                "Freshly made croquettes are lined up."
                             ]
                         },
                         {
@@ -15598,7 +15276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -15606,8 +15284,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15934,7 +15612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "倉庫室は固く閉ざされている。"
+                                "The storage room is firmly closed."
                             ]
                         },
                         {
@@ -16011,21 +15689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉屋店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐふふふふっ、ホクホクのコロッケはどうダス？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お嬢ちゃん一個食っていくダス？」"
+                                "Butcher: \"Gufufufufu, how about a piping hot croquette? Would you like\none for the road, miss?\""
                             ]
                         },
                         {
@@ -16083,14 +15747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、どうしようかな～」"
+                                "Pony-Celeste: \"Hmm, what should I do~\""
                             ]
                         },
                         {
@@ -16123,21 +15780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉屋店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐふふふっ、特別ダス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お嬢ちゃんはタダで食べて良いダスよ～」"
+                                "Butcher: \"Gufufufu, it's on the house! You can have it for free,\nmiss~\""
                             ]
                         },
                         {
@@ -16170,14 +15813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、タダですか････？」"
+                                "Pony-Celeste: \"Eh, for free...?\""
                             ]
                         },
                         {
@@ -16194,21 +15830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉屋店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんダス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁ、何個でも食べて行くダスよ～」"
+                                "Butcher: \"Of course! Go ahead, eat as many as you like~\""
                             ]
                         },
                         {
@@ -16255,14 +15877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「食べたいけど･････」"
+                                "Pony-Celeste: \"I'd like to eat, but...\""
                             ]
                         },
                         {
@@ -16295,21 +15910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、こんな事してる場合じゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く四越屋デパートに向わないと！」"
+                                "Pony-Celeste: \"No, this isn't the time for that. I need to hurry to\nthe Yotsukoya Department Store!\""
                             ]
                         },
                         {
@@ -16356,21 +15957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご好意ありがとうございます。とてもありがたいのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今急いでますのでまた来ますね！」"
+                                "Pony-Celeste: \"Thank you for your kindness. It's very much\nappreciated, but I'm in a hurry right now, so I'll come back another\ntime!\""
                             ]
                         },
                         {
@@ -16548,14 +16135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肉屋店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ･･････しくじったダス」"
+                                "Butcher: \"Tch... I blew it.\""
                             ]
                         },
                         {
@@ -16679,21 +16259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴重な若い女を取り逃がしたダス･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　つべこべ言わずに食っておけば良かったダス」"
+                                "???: \"I let a valuable young woman slip through my fingers... I should\nhave just eaten her without all the fuss.\""
                             ]
                         },
                         {
@@ -16726,21 +16292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうダス！たしか･････ちょうど今、スパイダーグが四越屋を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　襲撃してるダス」"
+                                "???: \"That's right! If I remember correctly... Spider-G is currently\nattacking Yotsukoya.\""
                             ]
                         },
                         {
@@ -16757,21 +16309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「男の方は戦闘員に改造するとして、女は何人かこっちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　回してもらうダス！」"
+                                "???: \"As for the men, we'll turn them into combatants, and we'll have\nsome of the women sent over here!\""
                             ]
                         },
                         {
@@ -16795,14 +16333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし･･････さっきの女とても美味しそうな匂いがしてたダスね」"
+                                "???: \"But that woman just now... she had such a delicious scent.\""
                             ]
                         },
                         {
@@ -16819,14 +16350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「普通の女では感じない何か特別な･･････」"
+                                "???: \"Something special that you don't feel with ordinary women...\""
                             ]
                         },
                         {
@@ -16843,14 +16367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くぅ～！！さっさと食っておけば良かったダス！！！」"
+                                "???: \"Grrr~!! I should have eaten her right away!!!\""
                             ]
                         },
                         {
@@ -17123,7 +16640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[220]安全靴】を手に入れた！"
+                                "I've obtained the 【\\i[220]Safety Shoes】!"
                             ]
                         },
                         {

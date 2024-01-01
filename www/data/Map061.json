@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大衆酒場のんべ～",
+    "displayName": "The Drunkard's Public Tavern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12079,14 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいっ、厨房に入ってくるな！」"
+                                "Shop Owner: \"Hey, don't come into the kitchen!\""
                             ]
                         },
                         {
@@ -12231,14 +12224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなところに来るなんて、一緒に飲みたいのかい？」"
+                                "Tomoya: \"Coming to a place like this, do you want to have a drink\ntogether?\""
                             ]
                         },
                         {
@@ -12315,14 +12301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、結構いい尻してるんだね！」"
+                                "Tomoya: \"You've got quite a nice ass, don't you!\""
                             ]
                         },
                         {
@@ -12339,14 +12318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トモヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ、いやいや……なんでもない」"
+                                "Tomoya: \"Ah, no, no... it's nothing.\""
                             ]
                         },
                         {
@@ -12441,21 +12413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒック……ヒク……ふぅ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アーバン地区行きの電車が運休中だから暇すぎる……」"
+                                "Yasunobu: \"Hic... *twitch*... Phew~. The train to the Urban district\nis suspended, so I'm bored out of my mind...\""
                             ]
                         },
                         {
@@ -12472,21 +12430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フォルス地区行きはしょうもない女ばっかだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついてないぜ、まったくよ～……ヒクっ……」"
+                                "Yasunobu: \"The ones going to the Fols district are just full of lame\nwomen, it's just my bad luck, totally... *hic*...\""
                             ]
                         },
                         {
@@ -12503,14 +12447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ、俺の手が疼いてしょうがねー……」"
+                                "Yasunobu: \"Phew, my hand is throbbing like crazy...\""
                             ]
                         },
                         {
@@ -12631,14 +12568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！？」"
+                                "Yasunobu: \"Huh!? What's this...?\""
                             ]
                         },
                         {
@@ -12655,14 +12585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは……」"
+                                "Yasunobu: \"This is...\""
                             ]
                         },
                         {
@@ -12713,14 +12636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでしょうか？」"
+                                "Yui: \"What is it?\""
                             ]
                         },
                         {
@@ -12762,14 +12678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Yasunobu: \"...\""
                             ]
                         },
                         {
@@ -12793,14 +12702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでもねーよ……」"
+                                "Yasunobu: \"It's nothing at all...\""
                             ]
                         },
                         {
@@ -13248,14 +13150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ひゃっ！！」"
+                                "ユイ: \"Hyah!!\""
                             ]
                         },
                         {
@@ -13301,14 +13196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……っ……」"
+                                "ユイ: \"Aah...!\""
                             ]
                         },
                         {
@@ -13639,14 +13527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（今、何かされたような……体が少し熱い……)"
+                                "ユイ (It feels like something just happened... my body's a little\nhot...)"
                             ]
                         },
                         {
@@ -13663,14 +13544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（一体どうしたのかしら私……)"
+                                "ユイ (What on earth happened to me...)"
                             ]
                         },
                         {
@@ -13747,7 +13621,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淫乱度が４上がった！"
+                                "Lewdness level increased by 4!"
                             ]
                         },
                         {
@@ -13974,7 +13848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "美味しそうな料理が並べられている。"
+                                "Delicious-looking dishes are lined up."
                             ]
                         },
                         {
@@ -14070,7 +13944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "美味しそうな料理が並べられている。"
+                                "Delicious-looking dishes are lined up."
                             ]
                         },
                         {
@@ -14166,7 +14040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "美味しそうな料理が並べられている。"
+                                "Delicious-looking dishes are lined up."
                             ]
                         },
                         {
@@ -14521,7 +14395,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -14548,7 +14422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[230]すっきりリンゴ】を手に入れた！"
+                                "【\\i[230]Refreshing Apple】acquired!"
                             ]
                         },
                         {
@@ -14655,7 +14529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -14672,7 +14546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -14780,7 +14654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Morisaki Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -14797,7 +14671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -14956,7 +14830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[288]ヤスノブの記憶】を手に入れた！"
+                                "Acquired 【\\i[288]Yasunobu's Memory】!"
                             ]
                         },
                         {

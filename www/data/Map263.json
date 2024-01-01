@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "体育館",
+    "displayName": "Gymnasium",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10107,14 +10107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕は納得いってませんよ」"
+                                "Hikomaru: \"I'm not satisfied with this.\""
                             ]
                         },
                         {
@@ -10131,21 +10124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ブルマ買い取るくらいでこんなところまで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなた湘東学園の先生でしょ、なんで受け取り場所が湘西学園なんですかね？」"
+                                "Hikomaru: \"To think I'd come all this way just to buy bloomers...\nYou're a teacher from Shoutou Academy, right? Why is the pickup\nlocation at Shousei Academy?\""
                             ]
                         },
                         {
@@ -10196,14 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わりーな……でも、仕方ねーだろ」"
+                                "Dokushima: \"Sorry... but it can't be helped.\""
                             ]
                         },
                         {
@@ -10220,21 +10192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺はあの学園を追い出されたんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　学園の周りウロウロするだけで周囲から冷たい目で見られちまう」"
+                                "Dokushima: \"I was kicked out of that academy. Just loitering around\nthe place gets me cold stares from everyone.\""
                             ]
                         },
                         {
@@ -10267,21 +10225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自業自得でしょ……ブルマ盗むくらいならバレませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女子にちょっかい出しちゃ、そりゃそうなりますよ」"
+                                "Hikomaru: \"You brought it upon yourself... Stealing bloomers might go\nunnoticed, but if you mess with the girls, of course this would\nhappen.\""
                             ]
                         },
                         {
@@ -10314,14 +10258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今までは上手くやってたんだがな……」"
+                                "Dokushima: \"I had been managing it well until now...\""
                             ]
                         },
                         {
@@ -10354,14 +10291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかし、守崎の奴……絶対に許さねー！！」"
+                                "Dokushima: \"But damn it, that Morisaki... I'll never forgive her!!\""
                             ]
                         },
                         {
@@ -10394,14 +10324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……守崎？」"
+                                "Hikomaru: \"...Morisaki?\""
                             ]
                         },
                         {
@@ -10434,21 +10357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、思い出しただけでもムカつくぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺が目をかけてやってたのに恩を仇で返しやがって……」"
+                                "Dokushima: \"Yeah, just thinking about it pisses me off. I was looking\nout for her, and she repaid my kindness with betrayal...\""
                             ]
                         },
                         {
@@ -10481,21 +10390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……\\|そんなことより早く取り引きしましょうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いくら湘西学園が休校中だからって長居できませんよ」"
+                                "Hikomaru: \"...Anyway, let's get on with the transaction. We can't stay\nlong even if Shousei Academy is closed.\""
                             ]
                         },
                         {
@@ -10528,21 +10423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前の母校じゃねーのか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　安全だからここを選んでやったんだろが」"
+                                "Dokushima: \"Isn't this your alma mater? I chose this place because\nit's safe.\""
                             ]
                         },
                         {
@@ -10575,14 +10456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Hikomaru: \"...\""
                             ]
                         },
                         {
@@ -10615,21 +10489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、急に受け渡し場所を変えたのは悪かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　懲戒免職前に大量に盗んでおいたから今日は安く譲ってやるよ」"
+                                "Dokushima: \"Well, it was bad of me to suddenly change the meeting\nplace. I stole a bunch before I got dismissed, so I'll sell them to\nyou cheap today.\""
                             ]
                         },
                         {
@@ -10662,14 +10522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、お願しますよ」"
+                                "Hikomaru: \"Geez, please do.\""
                             ]
                         },
                         {
@@ -10686,21 +10539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「甘い汗の匂いや、シミ付きの上物も持ってきたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほら見てみろ！」"
+                                "Dokushima: \"I've brought some top-notch items with the sweet smell of\nsweat and stains. Take a look!\""
                             ]
                         },
                         {
@@ -10733,14 +10572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おお！ どれどれ～」"
+                                "Hikomaru: \"Oh! Let's see~\""
                             ]
                         },
                         {
@@ -10880,14 +10712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（学園内の盗難騒ぎは毒島の仕業だったわけね……）"
+                                "Yui: (So the thefts at the academy were Dokushima's doing...)"
                             ]
                         },
                         {
@@ -10904,14 +10729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく、ほんとにどうしようもない先生ね！）"
+                                "Yui: (Really, what a hopeless teacher!)"
                             ]
                         },
                         {
@@ -11071,14 +10889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと、あなた達！ 聞こえたわよ！」"
+                                "Yui: \"Hey, you two! I heard everything!\""
                             ]
                         },
                         {
@@ -11126,14 +10937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女の子から盗んだブルマ返してもらうわ！」"
+                                "Yui: \"I want you to return the bloomers you stole from the girls!\""
                             ]
                         },
                         {
@@ -11168,14 +10972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島＆ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どうしてお前がここに！！？」"
+                                "Dokushima & Hikomaru: \"Wh-why are you here!!?\""
                             ]
                         },
                         {
@@ -11275,14 +11072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？ 先生あの子知ってるんですか？」"
+                                "Hikomaru: \"Eh!? Teacher, you know her?\""
                             ]
                         },
                         {
@@ -11299,21 +11089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前こそどうして知ってるんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつは俺を懲戒免職に追い込んだ張本人、さっき話してた守崎だぞ！」"
+                                "Dokushima: \"How do you know her? She's the very person who got me\nfired, the Morisaki we were just talking about!\""
                             ]
                         },
                         {
@@ -11330,14 +11106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えええぇぇ！？」"
+                                "Hikomaru: \"Whaaaat!?\""
                             ]
                         },
                         {
@@ -11354,14 +11123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その様子じゃ、お前も守崎とは訳アリみたいだな……」"
+                                "Dokushima: \"Looks like you've got your own issues with Morisaki...\""
                             ]
                         },
                         {
@@ -11378,21 +11140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうにかしてくださいよ先生！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつ苦手で……」"
+                                "Hikomaru: \"Please do something, teacher! I can't handle her...\""
                             ]
                         },
                         {
@@ -11409,14 +11157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、仕方ねー」"
+                                "Dokushima: \"Tch, can't be helped.\""
                             ]
                         },
                         {
@@ -11433,14 +11174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、逃げるぞ！」"
+                                "Dokushima: \"Hey, let's get out of here!\""
                             ]
                         },
                         {
@@ -11473,14 +11207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"What!?\""
                             ]
                         },
                         {

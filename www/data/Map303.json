@@ -13334,14 +13334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -13358,14 +13351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔、よくここで遊んでたな」"
+                                "Ginga: \"We used to play here a lot in the past.\""
                             ]
                         },
                         {
@@ -13382,14 +13368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かけっこでいつも僕がユイに負けて……」"
+                                "Ginga: \"In races, I would always lose to Yui...\""
                             ]
                         },
                         {
@@ -13517,14 +13496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの活躍凄かったよね」"
+                                "Takeshi: \"Pony-Ceres's performance was amazing, wasn't it?\""
                             ]
                         },
                         {
@@ -13541,21 +13513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区の激闘！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ついにザイダーグの幹部をやっつけたんだもん」"
+                                "Takeshi: \"The fierce battle in the Urban District! We finally took\ndown a Zaidarg's executive.\""
                             ]
                         },
                         {
@@ -13572,14 +13530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生中継みてて、興奮したよ！」"
+                                "Takeshi: \"Watching the live broadcast was so exciting!\""
                             ]
                         },
                         {
@@ -13596,14 +13547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグもあれに凝りて当分は悪さしないだろうね」"
+                                "Takeshi: \"After that blow, Zaidarg will probably lay low for a while,\nhuh?\""
                             ]
                         },
                         {
@@ -13682,14 +13626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「鍵がかかっている･････」"
+                                "Ginga: \"It's locked...\""
                             ]
                         },
                         {
@@ -13706,14 +13643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイはどこに？」"
+                                "Ginga: \"Where is Yui?\""
                             ]
                         },
                         {
@@ -13730,14 +13660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「･･････もしかして学校？」"
+                                "Ginga: \"...Could it be the school?\""
                             ]
                         },
                         {
@@ -13754,14 +13677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行ってみるしかないか･･･････」"
+                                "Ginga: \"I guess I have no choice but to go check it out...\""
                             ]
                         },
                         {
@@ -14014,14 +13930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「･･････」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -14038,14 +13947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしかここで･･････」"
+                                "Ginga: \"If I remember correctly, it was here...\""
                             ]
                         },
                         {
@@ -14285,7 +14187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -14362,7 +14264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {

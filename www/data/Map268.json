@@ -10910,14 +10910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰にも言わないから助けて下さ――」"
+                                "Mamiko: \"I won't tell anyone, so please help me--\""
                             ]
                         },
                         {
@@ -10943,14 +10936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、あなたは？ 黒服がこの部屋にいたはずだけど……」"
+                                "Mamiko: \"Eh, who are you? There was supposed to be a man in black in\nthis room...\""
                             ]
                         },
                         {
@@ -11001,14 +10987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「黒服の男ならこの部屋を出ていきましたよ」"
+                                "Yui: \"If you're talking about the man in black, he just left this\nroom.\""
                             ]
                         },
                         {
@@ -11025,14 +11004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一体、どうしたんですか？」"
+                                "Yui: \"What exactly happened?\""
                             ]
                         },
                         {
@@ -11083,14 +11055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと……」"
+                                "Mamiko: \"Um...\""
                             ]
                         },
                         {
@@ -11123,21 +11088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私……店の秘密を知って！ それで黒服のあいつに追われて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで、それで！ 私、ここに！」"
+                                "Mamiko: \"I... I found out the secret of the shop! And then I was\nchased by that guy in black! And, and! That's why I'm here!\""
                             ]
                         },
                         {
@@ -11170,14 +11121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「落ち着いて下さい！ 事情を聞きますからゆっくりと……」"
+                                "Yui: \"Calm down, please! I'll listen to what happened, so take your\ntime...\""
                             ]
                         },
                         {
@@ -11194,14 +11138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご、ごめん……混乱してて」"
+                                "Mamiko: \"So-sorry... I'm just so confused.\""
                             ]
                         },
                         {
@@ -11234,14 +11171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきこの部屋で怒鳴っていた男が原因ですか？」"
+                                "Yui: \"Was it the man who was shouting in this room earlier that caused\nthis?\""
                             ]
                         },
                         {
@@ -11258,21 +11188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうよ……私このビルの隣の\\C[17]アガース\\C[0]というお店で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　接客スタッフをやってたんだけど……」"
+                                "Mamiko: \"Yes... I was working as a hostess at a shop next to this\nbuilding called \\C[17]Agas\\C[0]...\""
                             ]
                         },
                         {
@@ -11289,21 +11205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ある事がきっかけで、お店の恐ろしい秘密を知ってしまって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで怖くなってお店を辞めようとしたの……」"
+                                "Mamiko: \"Something happened that led me to discover the terrifying\nsecret of the shop, and I got scared and tried to quit...\""
                             ]
                         },
                         {
@@ -11320,14 +11222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしたらあいつに理由を問い詰められて……」"
+                                "Mamiko: \"Then that guy questioned me about my reasons...\""
                             ]
                         },
                         {
@@ -11344,21 +11239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「店の秘密を知ってしまった事を話したら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　急に態度が変わってお店の地下に監禁されたの」"
+                                "Mamiko: \"When I told him that I had discovered the shop's secret, he\nsuddenly changed his attitude and locked me up in the basement.\""
                             ]
                         },
                         {
@@ -11375,21 +11256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、隙を見てなんとか逃げ出す事が出来たんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつに見つかってしまって追いかけられるはめに」"
+                                "Mamiko: \"But I managed to escape when I saw an opportunity, only to be\nfound by him and chased.\""
                             ]
                         },
                         {
@@ -11406,14 +11273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お店の秘密って？」"
+                                "Yui: \"What's the secret of the shop?\""
                             ]
                         },
                         {
@@ -11430,14 +11290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの店、働いている女の子を無理やり地下に監禁していたの」"
+                                "Mamiko: \"That place, they were forcibly keeping girls locked up in the\nbasement.\""
                             ]
                         },
                         {
@@ -11470,21 +11323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこでは強制的にＡＶ撮影が行われていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女の子達が金儲けの道具にされているわ」"
+                                "Mamiko: \"Down there, they were forced to shoot adult videos, and the\ngirls were being used as tools for making money.\""
                             ]
                         },
                         {
@@ -11501,14 +11340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな、酷すぎる……」"
+                                "Yui: \"That's horrible...\""
                             ]
                         },
                         {
@@ -11525,14 +11357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は店長が女の子を監禁する現場を偶然スマホで撮ってしまって……」"
+                                "Mamiko: \"I accidentally recorded the manager locking up one of the\ngirls with my smartphone...\""
                             ]
                         },
                         {
@@ -11572,21 +11397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なら、一緒に警察へ。その証拠を渡しに行きましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　証拠さえあれば警察が動いてくれるはずよ」"
+                                "Yui: \"Then let's go to the police together. We'll hand over that\nevidence! If we have proof, the police will surely act.\""
                             ]
                         },
                         {
@@ -11619,14 +11430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それが、あいつにスマホを奪われたの」"
+                                "Mamiko: \"The thing is, he took my smartphone.\""
                             ]
                         },
                         {
@@ -11643,14 +11447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おそらく今頃は店長の元へ……」"
+                                "Mamiko: \"By now, it's probably already back with the manager...\""
                             ]
                         },
                         {
@@ -11683,21 +11480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった。私が取り返すわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それに地下に監禁された子達も解放しないと！」"
+                                "Yui: \"Understood. I'll get it back! And we have to free the girls who\nare locked up in the basement too!\""
                             ]
                         },
                         {
@@ -11714,14 +11497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事、出来るわけが……」"
+                                "Mamiko: \"How can you possibly do that...\""
                             ]
                         },
                         {
@@ -11754,14 +11530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫、そういうの自信があるの」"
+                                "Yui: \"Don't worry, I'm confident about these things.\""
                             ]
                         },
                         {
@@ -11778,14 +11547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……え？」"
+                                "Mamiko: \"...Eh?\""
                             ]
                         },
                         {
@@ -11802,14 +11564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうは見えないけど……」"
+                                "Mamiko: \"You don't look it though...\""
                             ]
                         },
                         {
@@ -11826,14 +11581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいから私に任せてちょうだい」"
+                                "Yui: \"Just leave it to me.\""
                             ]
                         },
                         {
@@ -11857,14 +11605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……わかったわ。それならこれを使って」"
+                                "Mamiko: \"...Alright. Then use this.\""
                             ]
                         },
                         {
@@ -11893,7 +11634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[297]アガース入店許可証】を手に入れた！"
+                                "【\\i[297]Agas Entry Permit】acquired!"
                             ]
                         },
                         {
@@ -11920,21 +11661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まず、この許可証が無いとスタッフとして認められず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　入店自体が不可能なの」"
+                                "Mamiko: \"First off, without this permit, you won't be recognized as\nstaff and won't even be able to enter.\""
                             ]
                         },
                         {
@@ -11951,14 +11678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それとこれね……」"
+                                "Mamiko: \"And this too...\""
                             ]
                         },
                         {
@@ -11987,7 +11707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[240]バニーガールの衣装】を手に入れた！"
+                                "【\\i[240]Bunny Girl Costume】acquired!"
                             ]
                         },
                         {
@@ -12030,14 +11750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？ これって……」"
+                                "Yui: \"Eh? This is...\""
                             ]
                         },
                         {
@@ -12054,21 +11767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アガース店専用のコスプレ衣装よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女の子のスタッフならそれを着ないと部外者だと思われるわよ」"
+                                "Mamiko: \"It's a cosplay costume exclusive to Agas. If you're a female\nstaff member, you need to wear it or you'll be considered an\noutsider.\""
                             ]
                         },
                         {
@@ -12085,14 +11784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バニーガール……」"
+                                "Yui: \"Bunny Girl...\""
                             ]
                         },
                         {
@@ -12109,14 +11801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん、何か？」"
+                                "Mamiko: \"Hmm? Something wrong?\""
                             ]
                         },
                         {
@@ -12149,14 +11834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……なんでもないわ」"
+                                "Yui: \"No... It's nothing.\""
                             ]
                         },
                         {
@@ -12173,21 +11851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたみたいな勇気のある人は初めてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お願い、みんなを助けてあげて」"
+                                "Mamiko: \"I've never met someone as brave as you before. Please, save\neveryone.\""
                             ]
                         },
                         {
@@ -12220,14 +11884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん。私に任せて！」"
+                                "Yui: \"Of course. Leave it to me!\""
                             ]
                         },
                         {
@@ -12369,21 +12026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\C[17]アガース\\C[0]ならこのビルの隣のお店よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お願い、みんなを助けてあげて」"
+                                "Mamiko: \"\\C[17]Agas\\C[0] is in the shop next to this building. Please,\nsave everyone.\""
                             ]
                         },
                         {
@@ -12451,14 +12094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……？ 監禁部屋の暗証番号？」"
+                                "Mamiko: \"Eh...? The passcode for the confinement room?\""
                             ]
                         },
                         {
@@ -12475,14 +12111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさい。それはわからないわ……」"
+                                "Mamiko: \"I'm sorry. I don't know that...\""
                             ]
                         },
                         {
@@ -12499,21 +12128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マミコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、店長の事だから何か身近な数字に関係しているかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\c[17]店長の部屋\\c[0]に何かヒントになるものでもあれば……」"
+                                "Mamiko: \"But, knowing the manager, it might be related to some number\nthat's significant to him. If there's anything in \\c[17]the manager's\nroom\\c[0] that could be a hint...\""
                             ]
                         },
                         {
@@ -12956,7 +12571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -12964,10 +12579,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階：エントランス",
-                                    "２階：トリップストア",
-                                    "３階：足つぼマッサージ店",
-                                    "４階：どこにも行かない"
+                                    "1st Floor: Entrance",
+                                    "2nd Floor: Trip Store",
+                                    "3rd Floor: Reflexology Massage Shop",
+                                    "4th Floor: Nowhere in particular"
                                 ],
                                 -2,
                                 0,
@@ -14110,21 +13725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ！ この階に逃げ込んだと思ったのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どこに隠れやがったマミコの奴！」"
+                                "Takeru: \"Damn it! I thought she had escaped to this floor, but where\nthe hell did Mamiko hide herself!\""
                             ]
                         },
                         {
@@ -14141,21 +13742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「店の秘密を知ったからには絶対に捕まえないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺が店長に殺されちまう！！」"
+                                "Takeru: \"Now that she knows the secret of the shop, I absolutely have\nto catch her, or the manager will kill me!!\""
                             ]
                         },
                         {
@@ -14172,14 +13759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ、くそっ、くそっーー！！！」"
+                                "Takeru: \"Shit, shit, shit--!!!\""
                             ]
                         },
                         {
@@ -14402,14 +13982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タケル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだお前？ どけー！」"
+                                "Takeru: \"Who are you? Get out of the way-!\""
                             ]
                         },
                         {
@@ -14808,14 +14381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこにいった！ 隠れでも無駄だぞ！」 "
+                                "???: \"Where did you go! Hiding is futile!\""
                             ]
                         },
                         {
@@ -15034,14 +14600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]※このイベント(潜入捜査)を発生させると\\c[18]Ｈなバイトイベント\\c[17]が消失します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆に\\c[18]Ｈなバイトイベント\\c[17]を発生させるとこのイベント(潜入捜査)が消失します。"
+                                "\\c[17]Triggering this event (Undercover Investigation) will cause the\n\\c[18]H Naughty Part-time Job Event\\c[17] to disappear. Conversely,\ntriggering the \\c[18]H Naughty Part-time Job Event\\c[17] will cause\nthis event (Undercover Investigation) to disappear."
                             ]
                         },
                         {
@@ -15049,8 +14608,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "少し考える",
-                                    "潜入捜査イベントを発生させる"
+                                    "I'll think about it a bit",
+                                    "Initiate the undercover investigation event"
                                 ],
                                 0,
                                 -1,

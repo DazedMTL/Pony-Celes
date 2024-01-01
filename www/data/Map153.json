@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１０１号室",
+    "displayName": "Room 101",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12172,7 +12172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12199,7 +12199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[235]モンスターエンジン】を手に入れた！"
+                                "I obtained the 【Monster Engine】!"
                             ]
                         },
                         {
@@ -12306,7 +12306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12323,7 +12323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -12553,14 +12553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「し、失礼しましたー！！」"
+                                "Yui: \"I-I'm so sorry-!!\""
                             ]
                         },
                         {
@@ -12865,7 +12858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋着が丸めて洗濯カゴに詰め込まれている。"
+                                "The loungewear is rolled up and stuffed into the laundry basket."
                             ]
                         },
                         {
@@ -12942,14 +12935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、ざまーみろって感じ！」"
+                                "Hinako: \"Hehe, serves you right!\""
                             ]
                         },
                         {
@@ -12966,21 +12952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒナコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このアパートから出ていくまで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ずっと嫌がらせしてやるんだから」"
+                                "Hinako: \"I'm going to keep harassing you until you leave this\napartment.\""
                             ]
                         },
                         {

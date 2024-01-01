@@ -15146,14 +15146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Gingaごめんね。わたしのせいでこんな目に……」"
+                                "Yui: \"Ginga, I'm sorry. It's my fault you ended up like this...\""
                             ]
                         },
                         {
@@ -15177,14 +15170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga……」"
+                                "Yui: \"Ginga...\""
                             ]
                         },
                         {
@@ -15208,21 +15194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここでゆっくり休んでいて……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  必ずガルベスを倒して帰ってくるから！」"
+                                "Yui: \"Rest here for a while... I promise I'll defeat Garves and come\nback!\""
                             ]
                         },
                         {
@@ -15260,14 +15232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あいつは私一人でも勝てる……）"
+                                "Yui: (I can beat that guy even on my own...)"
                             ]
                         },
                         {
@@ -15291,14 +15256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たとえ相手が大勢でも、ポニーセレスは絶対に負けない……）"
+                                "Yui: (Even if there are many opponents, Pony-Ceres will never lose...)"
                             ]
                         },
                         {
@@ -15322,14 +15280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（負けないんだから……！）"
+                                "Yui: (Because I won't lose...!)"
                             ]
                         },
                         {
@@ -15747,14 +15698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]アーバン地区に向いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]（アーバン地区へは大門駅南のバス停から行く事が出来ます）"
+                                "\\C[17]et's head to the Urban District.\\C[0] (You can get to the Urban\nDistrict from the bus stop south of Daimon Station)"
                             ]
                         },
                         {

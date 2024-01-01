@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "食肉運搬用南通路",
+    "displayName": "South Passage for Meat Transport",
     "encounterList": [],
     "encounterStep": 1,
     "height": 40,
@@ -12198,7 +12198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[235]オロナミンＢ】を手に入れた！"
+                                "I've obtained 【\\i[235]Oronamin B】!"
                             ]
                         },
                         {

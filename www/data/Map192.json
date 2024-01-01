@@ -4896,7 +4896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは引き出しを開けた。"
+                                "Yui opened the drawer."
                             ]
                         },
                         {
@@ -4913,7 +4913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -5047,14 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お父様……」"
+                                "Karen: \"Father...\""
                             ]
                         },
                         {
@@ -5071,14 +5064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -5095,14 +5081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして私を一人に……」"
+                                "Karen: \"Why have you left me alone...\""
                             ]
                         },
                         {
@@ -5322,14 +5301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ！？」"
+                                "Karen: \"What!?\""
                             ]
                         },
                         {
@@ -5362,14 +5334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてあなたが私の部屋にいるのよ！！」"
+                                "Karen: \"Why are you in my room?!\""
                             ]
                         },
                         {
@@ -5420,14 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -5689,14 +5647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふざけないで！」"
+                                "Karen: \"Don't joke around!\""
                             ]
                         },
                         {
@@ -5713,21 +5664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また私の事を嘲笑いにきたんでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私から部活を奪ってそんなに楽しいの！」"
+                                "Karen: \"You've come to mock me again, haven't you! Is it fun for you\nto take away the club from me?!\""
                             ]
                         },
                         {
@@ -5744,14 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ざまーみろって思ってるんでしょ！」"
+                                "Karen: \"You must be thinking 'serves you right'!\""
                             ]
                         },
                         {
@@ -5784,14 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事思ってないわ……」"
+                                "Yui: \"I'm not thinking that at all...\""
                             ]
                         },
                         {
@@ -5808,21 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大好きなものを奪われる辛さ、少しはわかっているつもり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、理事長にこの事を掛け合って――」"
+                                "Yui: \"I understand a little of the pain of having something you love\ntaken away... I've been trying to discuss this with the principal--\""
                             ]
                         },
                         {
@@ -5855,14 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「ふざけないでっ！！」"
+                                "Karen: \"Stop kidding around!!\""
                             ]
                         },
                         {
@@ -5879,14 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……」"
+                                "Yui: \"Eh...\""
                             ]
                         },
                         {
@@ -5903,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたの助けなんて死んでもお断りよ！」"
+                                "Karen: \"I refuse your help even if it kills me!\""
                             ]
                         },
                         {
@@ -5927,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……奪ってやるわ！」"
+                                "Karen: \"...I'll take it back!\""
                             ]
                         },
                         {
@@ -5951,14 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつをあなたから必ず！」"
+                                "Karen: \"I will definitely take him back from you!\""
                             ]
                         },
                         {
@@ -5975,14 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とっとと出ていけ！」"
+                                "Karen: \"Get out right now!\""
                             ]
                         },
                         {
@@ -6015,14 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -6551,14 +6411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お父様……」"
+                                "Karen: \"Father...\""
                             ]
                         },
                         {
@@ -6575,14 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -6599,14 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして私を一人に……」"
+                                "Karen: \"Why have you left me alone...\""
                             ]
                         },
                         {
@@ -6826,14 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ！？」"
+                                "Karen: \"What!?\""
                             ]
                         },
                         {
@@ -6866,14 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてあなたが私の部屋にいるのよ！！」"
+                                "Karen: \"Why are you in my room?!\""
                             ]
                         },
                         {
@@ -6924,14 +6749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -7193,14 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふざけないで！」"
+                                "Karen: \"Don't joke around!\""
                             ]
                         },
                         {
@@ -7217,21 +7028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また私の事を嘲笑いにきたんでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私から部活を奪ってそんなに楽しいの！」"
+                                "Karen: \"You've come to mock me again, haven't you! Is it fun for you\nto take away the club from me?!\""
                             ]
                         },
                         {
@@ -7248,14 +7045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ざまーみろって思ってるんでしょ！」"
+                                "Karen: \"You're thinking 'serves her right', aren't you?!\""
                             ]
                         },
                         {
@@ -7288,14 +7078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事思ってないわ……」"
+                                "Yui: \"I'm not thinking that at all...\""
                             ]
                         },
                         {
@@ -7312,21 +7095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大好きなものを奪われる辛さ、少しはわかっているつもり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、理事長にこの事を掛け合って――」"
+                                "Yui: \"I understand a little of the pain of having something you love\ntaken away... I've been trying to discuss this matter with the\nprincipal--\""
                             ]
                         },
                         {
@@ -7359,14 +7128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「ふざけないでっ！！」"
+                                "Karen: \"Stop kidding around!!\""
                             ]
                         },
                         {
@@ -7383,14 +7145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……」"
+                                "Yui: \"Eh...\""
                             ]
                         },
                         {
@@ -7407,14 +7162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたの助けなんて死んでもお断りよ！」"
+                                "Karen: \"I would rather die than accept your help!\""
                             ]
                         },
                         {
@@ -7431,14 +7179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……奪ってやるわ！」"
+                                "Karen: \"...I'll take it back!\""
                             ]
                         },
                         {
@@ -7455,14 +7196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつをあなたから必ず！」"
+                                "Karen: \"I will definitely take him back from you!\""
                             ]
                         },
                         {
@@ -7479,14 +7213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とっとと出ていけ！」"
+                                "Karen: \"Get out already!\""
                             ]
                         },
                         {
@@ -7519,14 +7246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -8055,14 +7775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お父様……」"
+                                "Karen: \"Father...\""
                             ]
                         },
                         {
@@ -8079,14 +7792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -8103,14 +7809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして私を一人に……」"
+                                "Karen: \"Why have you left me alone...\""
                             ]
                         },
                         {
@@ -8330,14 +8029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ！？」"
+                                "Karen: \"What!?\""
                             ]
                         },
                         {
@@ -8370,14 +8062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてあなたが私の部屋にいるのよ！！」"
+                                "Karen: \"Why are you in my room?!\""
                             ]
                         },
                         {
@@ -8428,14 +8113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -8697,14 +8375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふざけないで！」"
+                                "Karen: \"Don't joke around!\""
                             ]
                         },
                         {
@@ -8721,21 +8392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また私の事を嘲笑いにきたんでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私から部活を奪ってそんなに楽しいの！」"
+                                "Karen: \"You've come to mock me again, haven't you! Is it fun for you\nto take away the club from me?!\""
                             ]
                         },
                         {
@@ -8752,14 +8409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ざまーみろって思ってるんでしょ！」"
+                                "Karen: \"You must be thinking 'serves you right'!\""
                             ]
                         },
                         {
@@ -8792,14 +8442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事思ってないわ……」"
+                                "Yui: \"I'm not thinking that at all...\""
                             ]
                         },
                         {
@@ -8816,21 +8459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大好きなものを奪われる辛さ、少しはわかっているつもり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私、理事長にこの事を掛け合って――」"
+                                "Yui: \"I understand a little of the pain of having something you love\ntaken away... I've been trying to discuss this with the principal--\""
                             ]
                         },
                         {
@@ -8863,14 +8492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「ふざけないでっ！！」"
+                                "Karen: \"Stop joking around!!\""
                             ]
                         },
                         {
@@ -8887,14 +8509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……」"
+                                "Yui: \"Eh...\""
                             ]
                         },
                         {
@@ -8911,14 +8526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたの助けなんて死んでもお断りよ！」"
+                                "Karen: \"I'd rather die than accept your help!\""
                             ]
                         },
                         {
@@ -8935,14 +8543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……奪ってやるわ！」"
+                                "Karen: \"...I'll take it back!\""
                             ]
                         },
                         {
@@ -8959,14 +8560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつをあなたから必ず！」"
+                                "Karen: \"I will definitely take him back from you!\""
                             ]
                         },
                         {
@@ -8983,14 +8577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とっとと出ていけ！」"
+                                "Karen: \"Get out of here, now!\""
                             ]
                         },
                         {
@@ -9023,14 +8610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -9512,14 +9092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッドで休憩しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ＨＰとＳＰが完全回復します)"
+                                "Would you like to rest in bed? (HP and SP will be fully restored)"
                             ]
                         },
                         {
@@ -9527,8 +9100,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -9617,7 +9190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した。"
+                                "HP and SP have been fully restored."
                             ]
                         },
                         {
@@ -9730,14 +9303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッドで休憩しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ＨＰとＳＰが完全回復します)"
+                                "Would you like to rest in bed? (HP and SP will be fully recovered)"
                             ]
                         },
                         {
@@ -9745,8 +9311,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -9835,7 +9401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した。"
+                                "HP and SP have been fully recovered."
                             ]
                         },
                         {
@@ -9969,7 +9535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは引き出しを開けた。"
+                                "Yui opened the drawer."
                             ]
                         },
                         {
@@ -10008,7 +9574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[291]マスターキー】を手に入れた！"
+                                "Obtained the 【Master Key】!"
                             ]
                         },
                         {
@@ -10115,7 +9681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -10132,7 +9698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -10240,7 +9806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -10267,7 +9833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]医療キット】を手に入れた！"
+                                "【\\i[294]Medical Kit】acquired!"
                             ]
                         },
                         {
@@ -10374,7 +9940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -10391,7 +9957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new."
                             ]
                         },
                         {
@@ -10499,7 +10065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはタンスを開けた。"
+                                "Yui opened the dresser."
                             ]
                         },
                         {
@@ -10516,7 +10082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいのもは無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -10603,7 +10169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恋愛心理学という題名の本が並んでいる。"
+                                "Books titled \"Romance Psychology\" are lined up."
                             ]
                         },
                         {
@@ -10680,7 +10246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恋愛心理学という題名の本が並んでいる。"
+                                "Books titled \"Love Psychology\" are lined up."
                             ]
                         },
                         {
@@ -10757,7 +10323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "書きかけの手紙が置いてある。どうやらラブレターみたいだ。"
+                                "There's an unfinished letter here. It seems to be a love letter of\nsorts."
                             ]
                         },
                         {
@@ -10834,7 +10400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立派なグランドピアノが置かれている。"
+                                "A splendid grand piano is placed here."
                             ]
                         },
                         {
@@ -10911,7 +10477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教科書が整理整頓されている。"
+                                "The textbooks are neatly organized."
                             ]
                         },
                         {

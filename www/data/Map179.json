@@ -12304,21 +12304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -12344,14 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -12402,14 +12381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haaah... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -12480,14 +12452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -12534,21 +12499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Honestly!... If it weren't for that Zaida-G, I could study\nfairly well, you know.)\""
                             ]
                         },
                         {
@@ -12709,21 +12660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今朝、西園寺さんに会ったんだけど凄く怒ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかしら」"
+                                "Female Student A: \"I saw Saionji-san this morning, and she seemed\nreally angry. I wonder what happened?\""
                             ]
                         },
                         {
@@ -12740,14 +12677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、隣の教室にいるから直接聞いてみたら？」"
+                                "Female Student B: \"Hmm, she's in the classroom next door, why don't\nyou ask her directly?\""
                             ]
                         },
                         {
@@ -12764,14 +12694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやよ･････怖くて聞けないわ」"
+                                "Female Student A: \"No way... I'm too scared to ask.\""
                             ]
                         },
                         {
@@ -12788,14 +12711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもそうね。目を付けられたら何されるかわからないし」"
+                                "Female Student B: \"That's true. You never know what she might do to\nyou if you get on her bad side.\""
                             ]
                         },
                         {
@@ -12872,21 +12788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今朝、西園寺さんに会ったんだけど凄く怒ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかしら」"
+                                "Female Student A: \"I saw Saionji-san this morning, and she seemed\nreally angry. I wonder what happened?\""
                             ]
                         },
                         {
@@ -12903,14 +12805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、隣の教室にいるから直接聞いてみたら？」"
+                                "Female Student B: \"Hmm, she's in the classroom next door, why don't\nyou ask her directly?\""
                             ]
                         },
                         {
@@ -12927,14 +12822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやよ･････怖くて聞けないわ」"
+                                "Female Student A: \"No way... I'm too scared to ask.\""
                             ]
                         },
                         {
@@ -12951,14 +12839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもそうね。目を付けられたら何されるかわからないし」"
+                                "Female Student B: \"That's true. You never know what she might do to\nyou if you get on her bad side.\""
                             ]
                         },
                         {
@@ -13044,21 +12925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -13084,14 +12951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -13142,14 +13002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa~, what do you mean by that?!\""
                             ]
                         },
                         {
@@ -13220,14 +13073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -13274,21 +13120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Really now!... If it weren't for Zaida-G, I could study fairly\nwell myself, you know.)\""
                             ]
                         },
                         {
@@ -13449,14 +13281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二週間後の期末テスト、今度こそ学年で１位をとってやる！」"
+                                "Male Student: \"In the final exams two weeks from now, I'm definitely\ngoing to be number one in our grade!\""
                             ]
                         },
                         {
@@ -13473,14 +13298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にあいつなんかに負けねーぞ」"
+                                "Male Student: \"I absolutely won't lose to that guy!\""
                             ]
                         },
                         {
@@ -13566,21 +13384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -13606,14 +13410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -13664,14 +13461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that!\""
                             ]
                         },
                         {
@@ -13742,14 +13532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -13796,21 +13579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -13980,21 +13749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -14020,14 +13775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -14078,14 +13826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -14156,14 +13897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -14210,21 +13944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Honestly!... If it weren't for that Zaida-G, I could study\nfairly well, you know.)\""
                             ]
                         },
                         {
@@ -14394,21 +14114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -14434,14 +14140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -14492,14 +14191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haaah... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -14570,14 +14262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -14624,21 +14309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -14808,21 +14479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -14848,14 +14505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -14906,14 +14556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa~ What do you mean by that!\""
                             ]
                         },
                         {
@@ -14984,14 +14627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -15038,21 +14674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too.)"
                             ]
                         },
                         {
@@ -15222,21 +14844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -15262,14 +14870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -15320,14 +14921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -15398,14 +14992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"M-Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -15452,21 +15039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -15661,14 +15234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                "Takumi: \"\""
                             ]
                         },
                         {
@@ -15786,14 +15352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二週間後の期末テスト、今度こそ学年で１位をとってやる！」"
+                                "Male Student: \"In the final exams two weeks from now, I'm definitely\ngoing to be number one in our grade!\""
                             ]
                         },
                         {
@@ -15810,14 +15369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にあいつなんかに負けねーぞ」"
+                                "Male Student: \"I absolutely won't lose to that guy, no way!\""
                             ]
                         },
                         {
@@ -15894,21 +15446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今朝、西園寺さんに会ったんだけど凄く怒ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかしら」"
+                                "Female Student A: \"I saw Saionji-san this morning, and she seemed\nreally angry. I wonder what happened?\""
                             ]
                         },
                         {
@@ -15925,14 +15463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、隣の教室にいるから直接聞いてみたら？」"
+                                "Female Student B: \"Hmm, why don't you ask her directly? She's in the\nnext classroom.\""
                             ]
                         },
                         {
@@ -15949,14 +15480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやよ･････怖くて聞けないわ」"
+                                "Female Student A: \"No way... I'm too scared to ask.\""
                             ]
                         },
                         {
@@ -15973,14 +15497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもそうね。目を付けられたら何されるかわからないし」"
+                                "Female Student B: \"That's true. You never know what she might do to\nyou if she sets her sights on you.\""
                             ]
                         },
                         {
@@ -16066,21 +15583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -16106,14 +15609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -16164,14 +15660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Hah, what do you mean by that!\""
                             ]
                         },
                         {
@@ -16242,14 +15731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -16296,21 +15778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -16480,21 +15948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -16520,14 +15974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -16578,14 +16025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Hah... What do you mean by that!\""
                             ]
                         },
                         {
@@ -16656,14 +16096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"M-Morisaki!? N-No... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -16710,21 +16143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Really now!... If it weren't for that Zaida-G, I could study\nfairly well myself.)\""
                             ]
                         },
                         {
@@ -16894,21 +16313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -16934,14 +16339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -16992,14 +16390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -17070,14 +16461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -17124,21 +16508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Honestly!... If it weren't for that Zaida-G, I could study\nfairly well myself.)\""
                             ]
                         },
                         {
@@ -17299,14 +16669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二週間後の期末テスト、今度こそ学年で１位をとってやる！」"
+                                "Male Student: \"I'm going to get the top score in the whole grade on\nthe final exams in two weeks!\""
                             ]
                         },
                         {
@@ -17323,14 +16686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にあいつなんかに負けねーぞ」"
+                                "Male Student: \"I absolutely won't lose to that guy!\""
                             ]
                         },
                         {
@@ -17416,21 +16772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -17456,14 +16798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -17514,14 +16849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haaah... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -17592,14 +16920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -17646,21 +16967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Sheesh!... If it weren't for that Zaida-G, I could study fairly\nwell myself.)\""
                             ]
                         },
                         {
@@ -17830,21 +17137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -17870,14 +17163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -17928,14 +17214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Hah, what do you mean by that!\""
                             ]
                         },
                         {
@@ -18006,14 +17285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -18060,21 +17332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Honestly!... If it weren't for that Zaida-G, I could study\nfairly well, you know.)\""
                             ]
                         },
                         {
@@ -18244,21 +17502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -18284,14 +17528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -18342,14 +17579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Hah, what do you mean by that!\""
                             ]
                         },
                         {
@@ -18420,14 +17650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -18474,21 +17697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Really now!... If it weren't for that Zaida-G, I could study\nfairly well myself.)\""
                             ]
                         },
                         {
@@ -18658,21 +17867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -18698,14 +17893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -18756,14 +17944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa~, what do you mean by that!\""
                             ]
                         },
                         {
@@ -18834,14 +18015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -18888,21 +18062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Really!... If it weren't for Zaida-G, I could study fairly well\nmyself, you know.)\""
                             ]
                         },
                         {
@@ -19072,21 +18232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -19112,14 +18258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -19170,14 +18309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haaah... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -19248,14 +18380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -19302,21 +18427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -19486,21 +18597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -19526,14 +18623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -19584,14 +18674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -19662,14 +18745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -19716,21 +18792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -19900,21 +18962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -19940,14 +18988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -19998,14 +19039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -20076,14 +19110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -20130,21 +19157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: (Geez!... If it weren't for that Zaida-G, I could study fairly\nwell too, you know.)"
                             ]
                         },
                         {
@@ -20314,21 +19327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -20354,14 +19353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -20412,14 +19404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -20490,14 +19475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -20544,21 +19522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Really!... If it weren't for that Zaida-G, I could study fairly\nwell, you know.)\""
                             ]
                         },
                         {
@@ -20728,21 +19692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -20768,14 +19718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -20826,14 +19769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -20904,14 +19840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -20958,21 +19887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Really now!... If it weren't for Zaida-G, I could study fairly\nwell myself.)\""
                             ]
                         },
                         {
@@ -21142,21 +20057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'll end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -21182,14 +20083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -21240,14 +20134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that!\""
                             ]
                         },
                         {
@@ -21318,14 +20205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -21372,21 +20252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Honestly!... If it weren't for that Zaida-G, I could study\nfairly well myself.)\""
                             ]
                         },
                         {
@@ -21937,14 +20803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……で、あるからして」"
+                                "Teacher: \"...and that's why it is so.\""
                             ]
                         },
                         {
@@ -21961,14 +20820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……このように神聖なものとして宝来神社に祀られたのである」"
+                                "Teacher: \"...thus, it was enshrined at the Houkai Shrine as something\nsacred.\""
                             ]
                         },
                         {
@@ -21992,14 +20844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうだ、フォルス地区の歴史は面白いだろ」"
+                                "Teacher: \"How about that? The history of the Fols district is\ninteresting, isn't it?\""
                             ]
                         },
                         {
@@ -22016,14 +20861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「期末テストに出るから覚えとくように！」"
+                                "Teacher: \"It will be on the final exam, so make sure to remember it!\""
                             ]
                         },
                         {
@@ -22047,14 +20885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでは次のページ。アーバン地区の歴史だ」"
+                                "Teacher: \"Now, onto the next page. The history of the Arban district.\""
                             ]
                         },
                         {
@@ -22156,14 +20987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「おい、守崎」"
+                                "Takumi: \"Hey, Morisaki.\""
                             ]
                         },
                         {
@@ -22187,14 +21011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「おい、守崎！」"
+                                "Takumi: \"Hey, Morisaki!\""
                             ]
                         },
                         {
@@ -22251,14 +21068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「何よ！ 授業中に話かけないで！」"
+                                "Yui: \"What do you want! Don't talk to me during class!\""
                             ]
                         },
                         {
@@ -22275,14 +21085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「次のテスト、絶対に赤点取りたくないのよっ！」"
+                                "Yui: \"I absolutely don't want to fail the next test!\""
                             ]
                         },
                         {
@@ -22299,14 +21102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「授業が終わったら、一緒にプールいかねーか？」"
+                                "Takumi: \"After class, wanna go to the pool with me?\""
                             ]
                         },
                         {
@@ -22323,14 +21119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「はぁ？ 行くわけないでしょ！」"
+                                "Yui: \"Huh? No way I'm going!\""
                             ]
                         },
                         {
@@ -22347,21 +21136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「まぁそういうなよ。ほらせっかくジムで体を鍛えたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前とデートがしたいがためにさ」"
+                                "Takumi: \"Come on, don't be like that. Look, I've been working out at\nthe gym just so I could ask you out on a date.\""
                             ]
                         },
                         {
@@ -22378,14 +21153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「そんな事、頼んだ覚えないけど」"
+                                "Yui: \"I don't remember asking for that.\""
                             ]
                         },
                         {
@@ -22402,14 +21170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「今日だけでいいから少し付き合ってくれよ」"
+                                "Takumi: \"Just for today, hang out with me a little, will you?\""
                             ]
                         },
                         {
@@ -22426,21 +21187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「好きって気持ちは人を努力させるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わかるだろこの気持ち？」"
+                                "Takumi: \"Liking someone makes you work hard. You understand this\nfeeling, right?\""
                             ]
                         },
                         {
@@ -22480,14 +21227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そう言われれば……私もGingaのためにダイエットしたわね）"
+                                "Yui: (Thinking) \"Now that he mentions it... I did go on a diet for\nGinga's sake.\""
                             ]
                         },
                         {
@@ -22518,14 +21258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「それは分かるけど、無理なものは無理なの！」"
+                                "Yui: \"I get that, but some things are just impossible!\""
                             ]
                         },
                         {
@@ -22551,14 +21284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺は本当にお前が好きなんだよ！ わかってくれよ！」"
+                                "Takumi: \"I really like you! Understand that!\""
                             ]
                         },
                         {
@@ -22584,14 +21310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「な、何言ってるのよ！」"
+                                "Yui: \"Wh-What are you saying?!\""
                             ]
                         },
                         {
@@ -22608,14 +21327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「大声出さないで！ 授業中よ！」"
+                                "Yui: \"Don't shout! We're in the middle of class!\""
                             ]
                         },
                         {
@@ -22632,14 +21344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に好きだから、恥ずかしくもなんともないぜ！」"
+                                "Takumi: \"Because I really like you, I'm not embarrassed at all!\""
                             ]
                         },
                         {
@@ -22656,14 +21361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\}「こっちが恥ずかしいのよ！ もうやめて！」"
+                                "Yui: \"I'm the one who's embarrassed! Stop it already!\""
                             ]
                         },
                         {
@@ -22760,14 +21458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい！ そこの二人！」"
+                                "Teacher: \"Hey! You two over there!\""
                             ]
                         },
                         {
@@ -22824,14 +21515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「授業中だぞ。何いちゃいちゃしてんだ！」"
+                                "Teacher: \"We're in the middle of class. What are you flirting about?!\""
                             ]
                         },
                         {
@@ -22848,14 +21532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「授業を受ける気がないなら、今すぐ教室から出ていけ！」"
+                                "Teacher: \"If you're not here to learn, then get out of the classroom\nright now!\""
                             ]
                         },
                         {
@@ -22912,14 +21589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってさ。先生が言ってるぜ。出ていこうか！」"
+                                "Takumi: \"You heard the teacher. Let's get out of here, shall we?\""
                             ]
                         },
                         {
@@ -22945,14 +21615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え！ 先生これはその……」"
+                                "Yui: \"Eh! Teacher, this is... um...\""
                             ]
                         },
                         {
@@ -23130,14 +21793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「出ていけー！！」"
+                                "Teacher: \"Get out!!\""
                             ]
                         },
                         {
@@ -23177,14 +21833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タクミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、いくぞ！」"
+                                "Takumi: \"Come on, let's go!\""
                             ]
                         },
                         {
@@ -23856,14 +22505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、そんなぁ……」"
+                                "Yui: \"But, that's...\""
                             ]
                         },
                         {

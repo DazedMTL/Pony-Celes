@@ -15239,14 +15239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようやく二人で話が出来るわね、Ginga」"
+                                "Polka: \"Finally, we can talk just the two of us, Ginga.\""
                             ]
                         },
                         {
@@ -15263,14 +15256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「人形がしゃべってる？ これは？」"
+                                "Ginga: \"The doll is talking? What's this?\""
                             ]
                         },
                         {
@@ -15287,14 +15273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ、誰でもそういう反応になるわよね」"
+                                "Polka: \"Hehe, everyone has that kind of reaction, don't they?\""
                             ]
                         },
                         {
@@ -15311,14 +15290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はポルカ、びっくりしないで聞いてね」"
+                                "Polka: \"I'm Polka, don't be surprised and just listen.\""
                             ]
                         },
                         {
@@ -15335,14 +15307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレスの正体は守崎ユイよ」"
+                                "Polka: \"The true identity of Pony-Celeste is Morisaki Yui.\""
                             ]
                         },
                         {
@@ -15359,14 +15324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が彼女をポニーセレスにしたの」"
+                                "Polka: \"I'm the one who made her into Pony-Celeste.\""
                             ]
                         },
                         {
@@ -15383,14 +15341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15407,21 +15358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その様子じゃ、勘付いていたのかしらね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子、隠すの得意じゃなさそうだし」"
+                                "Polka: \"With that look, I guess you had your suspicions. She doesn't\nseem to be good at hiding things.\""
                             ]
                         },
                         {
@@ -15438,14 +15375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……少し疑っていたけど、確信がもてなかった」"
+                                "Ginga: \"...I had my doubts, but I couldn't be certain.\""
                             ]
                         },
                         {
@@ -15462,14 +15392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも――」"
+                                "Ginga: \"But--\""
                             ]
                         },
                         {
@@ -15486,21 +15409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてユイをポニーセレスに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな危険な役目をユイに……」"
+                                "Ginga: \"Why did you make Yui into Pony-Celeste! To give her such a\ndangerous role...\""
                             ]
                         },
                         {
@@ -15517,21 +15426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「怒るのも無理ないわよね。でも、ユイちゃんにしか出来ないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子もそれを理解している」"
+                                "Polka: \"It's understandable that you're angry. But only Yui-chan can\ndo it. She understands that as well.\""
                             ]
                         },
                         {
@@ -15548,21 +15443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そして、今はもう彼女の意志で戦っている。私を責めるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　構わないけど、あの子がどうして戦っているか理解はしてあげて」"
+                                "Polka: \"And now, she's fighting of her own will. You can blame me, but\nplease understand why she's fighting.\""
                             ]
                         },
                         {
@@ -15579,14 +15460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでも……」"
+                                "Ginga: \"Even so...\""
                             ]
                         },
                         {
@@ -15603,14 +15477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん、もう時間が無いの」"
+                                "Polka: \"Sorry, but we're out of time.\""
                             ]
                         },
                         {
@@ -15627,21 +15494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイちゃんが帰ってくるとまずいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この話は私とあなただけの秘密にしておきたいの」"
+                                "Polka: \"It would be bad if Yui-chan came back now. I want to keep this\nconversation a secret between you and me.\""
                             ]
                         },
                         {
@@ -15658,14 +15511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの子、絶対にGingaを巻き込むなって反対しそうだからね」"
+                                "Polka: \"She would definitely oppose involving you, Ginga.\""
                             ]
                         },
                         {
@@ -15689,14 +15535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「話を進めていいかしら？」"
+                                "Polka: \"Shall we continue the conversation?\""
                             ]
                         },
                         {
@@ -15713,14 +15552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15737,14 +15569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「納得はしていないけど、聞くしか無いだろ……」"
+                                "Ginga: \"I'm not convinced, but I guess I have no choice but to\nlisten...\""
                             ]
                         },
                         {
@@ -15761,14 +15586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとGinga。じゃ、簡潔に言うわね」"
+                                "Polka: \"Thank you, Ginga. Then, I'll put it simply.\""
                             ]
                         },
                         {
@@ -15785,21 +15603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はこれから長い眠りにつく。その間、私に代わって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたがユイちゃんを影でサポートして欲しい」"
+                                "Polka: \"I'm going to enter a long sleep. During that time, I want you\nto support Yui-chan from the shadows in my place.\""
                             ]
                         },
                         {
@@ -15816,14 +15620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それだけよ……でも一番大変な事」"
+                                "Polka: \"That's all... but it's the most difficult thing.\""
                             ]
                         },
                         {
@@ -15847,21 +15644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの相手は僕らがやって、自分は眠る？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなの虫が良すぎじゃ！」"
+                                "Ginga: \"We're supposed to fight Zaidrag, and you're going to sleep?\nThat's too convenient for you!\""
                             ]
                         },
                         {
@@ -15878,14 +15661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグの君主、ダーグノアを封印する力を蓄えるためなの」"
+                                "Polka: \"It's to accumulate the power needed to seal the ruler of\nZaidrag, Dargnoa.\""
                             ]
                         },
                         {
@@ -15902,21 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノアを封印する方法、それが究極魔法ホーリーレステクション。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この魔法を発動させるには強力な力が必要なの」"
+                                "Polka: \"The method to seal Dargnoa is the ultimate magic, Holy\nResurrection. This magic requires a tremendous amount of power to\nactivate.\""
                             ]
                         },
                         {
@@ -15933,21 +15695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生命活動を最小限に削って、力に変えるしかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ダーグノアが完全復活する前に」"
+                                "Polka: \"I have to reduce my life functions to the minimum and convert\nit into power before Dargnoa fully revives.\""
                             ]
                         },
                         {
@@ -15971,14 +15719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その魔法が完成すれば、間違いなくダーグノアを封印できるのか？」"
+                                "Ginga: \"If that magic is completed, can we definitely seal Dargnoa?\""
                             ]
                         },
                         {
@@ -15995,21 +15736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、そうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\|己の命と引き換えに、だけどね……」"
+                                "Polka: \"Yes, that's right. But it will cost my life...\""
                             ]
                         },
                         {
@@ -16026,14 +15753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それじゃあ、ポルカ、君は……」"
+                                "Ginga: \"Then, Polka, you will...\""
                             ]
                         },
                         {
@@ -16050,21 +15770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん死ぬわ。まぁ、どうせ大昔に無くした命だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな事はどうでもいいの」"
+                                "Polka: \"Of course I'll die. Well, it's a life I lost a long time ago\nanyway, so it doesn't really matter.\""
                             ]
                         },
                         {
@@ -16081,21 +15787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより私に究極魔法を使えるまでの力が戻らなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ダーグノアには勝てないって事が問題なの」"
+                                "Polka: \"The problem is that if I don't regain the power to use the\nultimate magic, we can't defeat Dargnoa.\""
                             ]
                         },
                         {
@@ -16112,21 +15804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイちゃんはその事を知らずにダーグノアに戦いを挑み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして敗北する……」"
+                                "Polka: \"Yui-chan will challenge Dargnoa without knowing this and will\nbe defeated...\""
                             ]
                         },
                         {
@@ -16143,21 +15821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勝てないとわかっていてもユイちゃんはダーグノアと戦うはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子はそういう子……」"
+                                "Polka: \"Even if she knows she can't win, Yui-chan will still fight\nDargnoa. That's just the kind of girl she is...\""
                             ]
                         },
                         {
@@ -16174,14 +15838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -16198,14 +15855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった……ユイは僕がサポートする。必ず僕が守る」"
+                                "Ginga: \"Understood... I'll support Yui. I'll definitely protect her.\""
                             ]
                         },
                         {
@@ -16222,21 +15872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから約束してくれ、どんな状況になったとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対ユイにその魔法は教えないでくれ」"
+                                "Ginga: \"So promise me, no matter what happens, never teach her that\nmagic.\""
                             ]
                         },
                         {
@@ -16253,14 +15889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それが僕の条件」"
+                                "Ginga: \"That's my condition.\""
                             ]
                         },
                         {
@@ -16277,21 +15906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんよ。約束するわ。\\|ってか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　元からユイちゃんには絶対に教えないつもりだしね」"
+                                "Polka: \"Of course. I promise. Besides... I never intended to teach\nYui-chan in the first place.\""
                             ]
                         },
                         {
@@ -16308,14 +15923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダーグノアの封印だけは、私の役目なの」"
+                                "Polka: \"Sealing Dargnoa is my role alone.\""
                             ]
                         },
                         {
@@ -16332,21 +15940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポルカの命を犠牲にして得る平和か……ごめん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、僕はユイに生きて欲しい。死なせたくないんだ」"
+                                "Ginga: \"Peace at the cost of Polka's life... Sorry. But I want Yui to\nlive. I don't want her to die.\""
                             ]
                         },
                         {
@@ -16363,14 +15957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふっ。優しい子ね、あなたも」"
+                                "Polka: \"Hehe, you're a kind person too.\""
                             ]
                         },
                         {
@@ -16387,21 +15974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そろそろ私は眠りに入るわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あとはよろしくね、Ginga」"
+                                "Polka: \"It's about time for me to go to sleep. I'm counting on you,\nGinga.\""
                             ]
                         },
                         {
@@ -16418,14 +15991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポルカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くれぐれもこの魔法の事はだけはユイちゃんに言わないようにね」"
+                                "Polka: \"And please, make sure you never tell Yui-chan about this\nmagic.\""
                             ]
                         },
                         {
@@ -16442,14 +16008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった……」"
+                                "Ginga: \"Understood...\""
                             ]
                         },
                         {

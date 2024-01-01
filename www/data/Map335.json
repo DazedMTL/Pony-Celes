@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "歓楽街南",
+    "displayName": "Southern Entertainment District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -6804,14 +6804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラーメン屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はもう店終いだ！ 隣のおでん屋ならまだやってるかもな」"
+                                "Ramen Shop Owner: \"We're closed for today! The oden shop next door\nmight still be open though.\""
                             ]
                         },
                         {
@@ -6888,14 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、ごめんよ！」"
+                                "Matasou: \"Oops, sorry!\""
                             ]
                         },
                         {
@@ -6991,14 +6977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃっ！！」"
+                                "Yui: \"Hyah!!\""
                             ]
                         },
                         {
@@ -7051,14 +7030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……っ……」"
+                                "Yui: \"Ah...h...\""
                             ]
                         },
                         {
@@ -7082,14 +7054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと……やめて下さい！」"
+                                "Yui: \"Please... stop it!\""
                             ]
                         },
                         {
@@ -7133,14 +7098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、おねーちゃんいいケツしてるね」"
+                                "Matasou: \"Haha, Onee-chan has a nice ass, doesn't she?\""
                             ]
                         },
                         {
@@ -7200,14 +7158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度やったら警察呼びますからね！」"
+                                "Yui: \"If you do it again, I'm calling the police!\""
                             ]
                         },
                         {
@@ -7224,14 +7175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまん、すまん、手が滑って……」"
+                                "Matasou: \"Sorry, sorry, my hand slipped...\""
                             ]
                         },
                         {
@@ -7264,14 +7208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、絶対にわざとでしょ！」"
+                                "Yui: \"Really, it was on purpose, wasn't it?!\""
                             ]
                         },
                         {
@@ -7334,7 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫乱度が２上がった！"
+                                "Lewdness level increased by 2!"
                             ]
                         },
                         {
@@ -7417,14 +7354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、ごめんよ！」"
+                                "Matazou: \"Oops, sorry!\""
                             ]
                         },
                         {
@@ -7520,14 +7450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひゃっ！！」"
+                                "Yui: \"Hyah!!\""
                             ]
                         },
                         {
@@ -7580,14 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……っ……」"
+                                "Yui: \"Ah...h...\""
                             ]
                         },
                         {
@@ -7611,14 +7527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと……やめて下さい！」"
+                                "Yui: \"Please... stop it!\""
                             ]
                         },
                         {
@@ -7669,14 +7578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おねーちゃんのケツ、とっても柔らかくておじさん勃起しちゃうよ」"
+                                "Matazou: \"Onee-chan's butt is so soft, it's making the old man hard.\""
                             ]
                         },
                         {
@@ -7736,14 +7638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度やったら警察呼ぶって言いましたよね！」"
+                                "Yui: \"I told you I'd call the police if you did it again!\""
                             ]
                         },
                         {
@@ -7760,14 +7655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マタゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははっ、本当は触られたくて来てるんじゃないの」"
+                                "Matazou: \"Haha, maybe you actually want to be touched, coming here\nlike this.\""
                             ]
                         },
                         {
@@ -7836,14 +7724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！？」"
+                                "Yui: \"What!? No!\""
                             ]
                         },
                         {
@@ -7860,14 +7741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ち、違いますっ！！」"
+                                "Yui: \"That's not true at all!!\""
                             ]
                         },
                         {
@@ -7884,14 +7758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなわけありません！！」"
+                                "Yui: \"There's no way that's the case!!\""
                             ]
                         },
                         {
@@ -7993,14 +7860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねーちゃん、おでん食ってくかい？」"
+                                "Oden Vendor: \"Hey, Onee-san, wanna have some oden?\""
                             ]
                         },
                         {
@@ -8017,14 +7877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「卵、こんにゃく、大根のセットで５００円ぽっきりだぜ！」"
+                                "Oden Vendor: \"A set with egg, konnyaku, and daikon for just 500 yen!\""
                             ]
                         },
                         {
@@ -8032,8 +7885,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "食べます！",
-                                    "お腹いっぱいなので……"
+                                    "I'll have it!",
+                                    "I'm full, so"
                                 ],
                                 1,
                                 0,
@@ -8063,14 +7916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まいどあり～！」"
+                                "Oden Vendor: \"Thanks as always!\""
                             ]
                         },
                         {
@@ -8124,14 +7970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ほらっ、熱い内に食べな！」"
+                                "Oden Vendor: \"Here you go, eat it while it's hot!\""
                             ]
                         },
                         {
@@ -8182,14 +8021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「わ～、美味しそう！」"
+                                "Yui: \"Wow, it looks delicious!\""
                             ]
                         },
                         {
@@ -8206,14 +8038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「頂きま～す！」"
+                                "Yui: \"Let's dig in~!\""
                             ]
                         },
                         {
@@ -8230,7 +8055,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "モグモグ……モグモグ……"
+                                "Munch munch... Munch munch..."
                             ]
                         },
                         {
@@ -8286,21 +8111,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（この卵美味しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　甘辛いおでんの出汁が中まで染みわたってて黄身との相性抜群だわ）"
+                                "Yui: (This egg is delicious! The sweet and spicy oden broth has soaked\nright into the center, making it a perfect match with the yolk.)"
                             ]
                         },
                         {
@@ -8317,14 +8128,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（コンニャクもいける！ このプリプリ感、素材が良い証拠だわ！）"
+                                "Yui: (The konnyaku is good too! This springy texture is proof of\nquality ingredients!)"
                             ]
                         },
                         {
@@ -8341,21 +8145,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（それにこの大根！ 良く煮込んでいるから口の中にいれると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ほろほろに溶けちゃう！ 味も抜群ね！）"
+                                "Yui: (And this daikon! It's been simmered so well that it just melts\nin your mouth! The flavor is outstanding!)"
                             ]
                         },
                         {
@@ -8372,14 +8162,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（うわ～！ こんなに美味しいおでんは初めてかも！）"
+                                "Yui: (Wow~! This might be the first time I've had oden this\ndelicious!)"
                             ]
                         },
                         {
@@ -8426,14 +8209,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ご馳走様でした～。とっても美味しかったです！」"
+                                "Yui: \"Thank you for the meal~. It was really delicious!\""
                             ]
                         },
                         {
@@ -8450,21 +8226,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「それは良かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　こんな汚い場所でやってるが、また来てくれよな！」"
+                                "Oden Vendor: \"Glad to hear that! Even though we're in such a dirty\nplace, make sure to come again!\""
                             ]
                         },
                         {
@@ -8527,7 +8289,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "最大ＨＰが１００上がった！"
+                                "Your maximum HP has increased by 100!"
                             ]
                         },
                         {
@@ -8562,14 +8324,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「って……ん？ お金が無いみたいだな……また来てくれよな！」"
+                                "Oden Vendor: \"Wait... huh? Looks like you don't have any money... Come\nback again, okay?\""
                             ]
                         },
                         {
@@ -8609,14 +8364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか、それは残念だ……また来てくれよな！」"
+                                "Oden Vendor: \"Is that so, that's a shame... Make sure to come back\nagain!\""
                             ]
                         },
                         {
@@ -8703,14 +8451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「すまねーな！ 今日はもう店終いだ」"
+                                "Oden shop owner: \"Sorry! We're closed for today.\""
                             ]
                         },
                         {
@@ -8727,14 +8468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おでん屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「また来てくれよな！」"
+                                "Oden shop owner: \"Come again, will ya?\""
                             ]
                         },
                         {
@@ -8821,14 +8555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ！ 君みたいな子がこんな場所でウロウロするんじゃない！」"
+                                "Officer: \"Hey! A kid like you shouldn't be loitering around in a place\nlike this!\""
                             ]
                         },
                         {
@@ -8845,14 +8572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警察官"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく、親が泣くぞ！」"
+                                "Officer: \"Honestly, your parents would be in tears!\""
                             ]
                         },
                         {
@@ -8938,14 +8658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいじゃん、ちょっとだけだからさ！」"
+                                "Kousuke: \"Come on, it's just for a little bit!\""
                             ]
                         },
                         {
@@ -8971,21 +8684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここってラブホでしょ……今日付き合ったばかりだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まだ早くないかな……」"
+                                "Sana: \"This is a love hotel, isn't it... We just started dating today,\nisn't it too soon...?\""
                             ]
                         },
                         {
@@ -9011,21 +8710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少し休憩するだけだからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ほらっ、歩き回って足が疲れでしょ！」"
+                                "Kousuke: \"We're just going to rest a bit. Look, you must be tired from\nall the walking!\""
                             ]
                         },
                         {
@@ -9042,14 +8727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん……どうしよっかな～」"
+                                "Sana: \"Hmm... What should I do~\""
                             ]
                         },
                         {
@@ -9120,14 +8798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君！」"
+                                "Kousuke: \"Hey you!\""
                             ]
                         },
                         {
@@ -9144,14 +8815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「めちゃくちゃ可愛いじゃん！」"
+                                "Kousuke: \"You're super cute!\""
                             ]
                         },
                         {
@@ -9168,14 +8832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねー！ 君なんて名前？」"
+                                "Kousuke: \"Hey! What's your name?\""
                             ]
                         },
                         {
@@ -9192,21 +8849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねーねー、僕と付き合ってくれないかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんでもって、このホテルで休憩しない？」"
+                                "Kousuke: \"Hey-hey, won't you go out with me? And then, maybe we can\nrest at this hotel?\""
                             ]
                         },
                         {
@@ -9266,14 +8909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～……なんなのよいきなり！」"
+                                "Yui: \"Haa... What's with you all of a sudden!\""
                             ]
                         },
                         {
@@ -9290,14 +8926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にお断りします！」"
+                                "Yui: \"I absolutely refuse!\""
                             ]
                         },
                         {
@@ -9348,14 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コウスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あちゃ～、嫌われちゃった……」"
+                                "Kousuke: \"Ouch~ I got rejected...\""
                             ]
                         },
                         {
@@ -9426,14 +9048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと、誰よその女！ あなたふざけないでよね！」"
+                                "Sana: \"Hey, who is that girl! Don't mess around, okay?!\""
                             ]
                         },
                         {
@@ -9450,21 +9065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっき怪しい男から変な薬買ってたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日のあなた絶対におかしいわよ！」"
+                                "Sana: \"You were buying some weird drugs from a shady guy earlier, and\nyou've been acting totally strange today!\""
                             ]
                         },
                         {
@@ -9740,21 +9341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酔っ払った男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「医療なんてクソ食らえだ……ひっく……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あんなに頑張ったのに……どうしてクビなんだよ……ひっく……」"
+                                "Drunk Man: \"To hell with medicine... *hic*... after all the hard work\nI put in... why did I get fired... *hic*...\""
                             ]
                         },
                         {
@@ -9831,14 +9418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここを南に行くとソープ街だぜ」"
+                                "Hiroto: \"If you go south from here, you'll hit the soapland district.\""
                             ]
                         },
                         {
@@ -9855,14 +9435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこはもう男の楽園！」"
+                                "Hiroto: \"That place was a paradise for men!\""
                             ]
                         },
                         {
@@ -9879,14 +9452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……と、言いたいとこだが、ソープ街は取り壊しになったんだ」"
+                                "Hiroto: \"...or so I'd like to say, but the soapland district has been\ndemolished.\""
                             ]
                         },
                         {
@@ -9903,21 +9469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ソープ街一帯を牛耳ってた兵頭なんちゃらっていう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おっさんが行方不明になったのが原因だ」"
+                                "Hiroto: \"It all started when some old guy named Hyetou something-or-\nother who had control over the area went missing.\""
                             ]
                         },
                         {
@@ -9934,21 +9486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか表の顔が創神教の教祖だったっけな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　相当胡散臭かったから信者に刺されちまったんじゃねーのかな」"
+                                "Hiroto: \"I think his public face was that of a cult leader of the\nSousei religion... He was pretty shady, so maybe one of his followers\nstabbed him.\""
                             ]
                         },
                         {
@@ -9965,21 +9503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかげでここも寂しくなったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　跡地に映画館が出来るみたいだけどそれは当分先さ」"
+                                "Hiroto: \"Thanks to that, this place has become quite desolate. They\nsay a movie theater will be built on the vacant lot, but that's still\na long way off.\""
                             ]
                         },
                         {
@@ -10176,21 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トウジ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「歓楽街に遊びに来たのはいいけど、駐車場に停めた車が心配で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おもいっきり楽しめないんだ」"
+                                "Touji: \"It's great to come out to the pleasure district, but I can't\nfully enjoy myself because I'm worried about the car I parked.\""
                             ]
                         },
                         {
@@ -10207,21 +9717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トウジ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、サイドブレーキを引いたような気もするし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　引いてないような気もする……」"
+                                "Touji: \"Hmm, I feel like I might have put on the handbrake, but then\nagain, maybe I didn't...\""
                             ]
                         },
                         {
@@ -10238,14 +9734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トウジ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ どこの駐車場かだって？」"
+                                "Touji: \"Huh? Which parking lot you ask?\""
                             ]
                         },
                         {
@@ -10262,21 +9751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トウジ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「心宿駅に併設されている駐車場だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　車が勝手に動いて大事故になってなきゃいいけど」"
+                                "Touji: \"It's the one attached to Kokoro Station. I just hope the car\nhasn't moved on its own and caused a major accident.\""
                             ]
                         },
                         {
@@ -10377,14 +9852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#屋台おでん　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#夏でも絶賛営業中！"
+                                "Yatai oden, acclaimed and open for business even in summer!"
                             ]
                         },
                         {
@@ -10461,7 +9929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#ホストクラブまもなく開業予定"
+                                "The host club is scheduled to open soon"
                             ]
                         },
                         {
@@ -10550,7 +10018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "Obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -10707,14 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#屋台ラーメン　味噌太郎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#北海道産の味噌が決め手の特濃スープ"
+                                "Stall Ramen Miso Taro - The special thick soup flavored with Hokkaido-\nproduced miso is the key!"
                             ]
                         },
                         {
@@ -10860,14 +10321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ロビンバーガー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#スタッフ募集中　時給１０００円　交通費支給"
+                                "Robin Burger is now hiring staff - 1000 yen per hour with\ntransportation expenses provided"
                             ]
                         },
                         {
@@ -10963,14 +10417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ホテル　サンタモニア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#休憩３０００円"
+                                "Hotel Santa Monia Rest 3000 yen"
                             ]
                         },
                         {
@@ -11066,14 +10513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#ホテル　サンタモニア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#休憩３０００円"
+                                "Hotel Santa Monia Rest 3000 yen"
                             ]
                         },
                         {

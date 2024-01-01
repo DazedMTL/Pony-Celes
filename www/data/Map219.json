@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "教室（３－１）",
+    "displayName": "Classroom (3-1)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12578,14 +12578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「３階の……倉庫に………」"
+                                "Combatant: \"On the third floor... in the storage room...\""
                             ]
                         },
                         {
@@ -12602,14 +12595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長が……」"
+                                "Combatant: \"The principal...\""
                             ]
                         },
                         {

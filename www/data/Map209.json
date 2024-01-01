@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湘東学園地下",
+    "displayName": "Shoto Academy Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -18237,14 +18237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な形状の装置から催眠電波が発せられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装置を壊しますか？"
+                                "Hypnotic waves are being emitted from a strangely shaped device. Will\nyou destroy the device?"
                             ]
                         },
                         {
@@ -18252,8 +18245,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18283,14 +18276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でやぁあああああぁぁーーー！！」"
+                                "Pony-Celeste: \"Deyaaaaaaaahhh---!!\""
                             ]
                         },
                         {
@@ -18524,7 +18510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装置は故障している。"
+                                "The device is malfunctioning."
                             ]
                         },
                         {
@@ -20092,21 +20078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勝てないと……思ったら……\\C[17]逃げる\\C[0]のも……大事だ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それがどんな……相手でも……」"
+                                "Combatant: \"If you think... you can't win... \\C[17]running away\\C[0]\nis also... important... no matter... who the opponent is...\""
                             ]
                         },
                         {

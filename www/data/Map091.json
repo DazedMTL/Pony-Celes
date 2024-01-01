@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "四越屋３Ｆ",
+    "displayName": "Yotsugoya 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -30499,7 +30499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -30507,9 +30507,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階",
-                                    "２階",
-                                    "やめる"
+                                    "First floor",
+                                    "Second floor",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -31194,7 +31194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターは止まっている。"
+                                "The elevator is stopped."
                             ]
                         },
                         {
@@ -32102,14 +32102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対に･････\\|絶対にザイダーグなんかに負けないで！」"
+                                "Ginga: \"I absolutely... I absolutely won't lose to something like\nZaida-G!\""
                             ]
                         },
                         {
@@ -32396,14 +32389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Ceres: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stone!\""
                             ]
                         },
                         {
@@ -33586,14 +33572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不思議な光が地面から漏れている。光に触れますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（※一度だけＨＰとＳＰを完全回復できます。）\\c[0]"
+                                "A mysterious light is leaking from the ground. Will you touch the\nlight?\\c[17](※You can fully recover HP and SP only once.)\\c[0]"
                             ]
                         },
                         {
@@ -33601,8 +33580,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -33673,7 +33652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ＨＰとＳＰが完全回復した。"
+                                "Your HP and SP have been fully recovered."
                             ]
                         },
                         {
@@ -34178,14 +34157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたは……\\|アーバン地区の時の！」"
+                                "Pony-Celeste: \"You are... from that time in the Avant district!\""
                             ]
                         },
                         {
@@ -34209,14 +34181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スパイダーグ！」"
+                                "Pony-Celeste: \"Spider-G!\""
                             ]
                         },
                         {
@@ -34267,14 +34232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は必ずここに来ると思ってたぜ、ポニーセレス！」"
+                                "Spider-G: \"I knew you would definitely come here, Pony-Celeste!\""
                             ]
                         },
                         {
@@ -34321,14 +34279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今すぐ一階にいる人達を解放しなさい！」"
+                                "Pony-Celeste: \"Release the people on the first floor right now!\""
                             ]
                         },
                         {
@@ -34345,21 +34296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは無理な相談だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あいつらはガルベス様への土産だ」"
+                                "Spider-G: \"That's an impossible request. They are gifts for Lord\nGalves.\""
                             ]
                         },
                         {
@@ -34376,14 +34313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「従順な戦闘員に変えてザイダーグのために働いてもらう」"
+                                "Spider-G: \"I'll turn them into obedient soldiers to work for Zaida-G.\""
                             ]
                         },
                         {
@@ -34407,14 +34337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私が来たかぎり、そんな事絶対にさせないわ！」"
+                                "Pony-Celeste: \"As long as I'm here, I absolutely won't let that\nhappen!\""
                             ]
                         },
                         {
@@ -34438,14 +34361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ、相変わらず威勢がいいな」"
+                                "Spider-G: \"Hahahaha, you're as spirited as ever.\""
                             ]
                         },
                         {
@@ -34462,21 +34378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「感情直情型の典型的な女ってやつか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　馬鹿なお前は必ず餌にかかると思ってたぜ」"
+                                "Spider-G: \"The typical emotional and impulsive woman... I knew a fool\nlike you would take the bait.\""
                             ]
                         },
                         {
@@ -34523,14 +34425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どういう事？」"
+                                "Pony-Celeste: \"What do you mean?\""
                             ]
                         },
                         {
@@ -34554,21 +34449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベス様は生死は問わないと言っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　生かしておいて正解だったって事だよ」"
+                                "Spider-G: \"Lord Galves said he didn't care whether they were dead or\nalive, but it was the right decision to keep you alive.\""
                             ]
                         },
                         {
@@ -34585,21 +34466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変だと思わなかったか？ 人間共を捕獲し終えているのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレがまだここに留まっている事に」"
+                                "Spider-G: \"Didn't you find it strange? That I'm still here even after\nwe've finished capturing all the humans.\""
                             ]
                         },
                         {
@@ -34646,14 +34513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それってまさか……」"
+                                "Pony-Celeste: \"Could it be that...\""
                             ]
                         },
                         {
@@ -34677,14 +34537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私をおびき寄せるために！？」"
+                                "Pony-Celeste: \"You did this to lure me in!?\""
                             ]
                         },
                         {
@@ -34708,14 +34561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、そうだ。餌につられてここに来るのを待っていた」"
+                                "Spider-G: \"Yeah, that's right. I was waiting for you to be lured in by\nthe bait and come here.\""
                             ]
                         },
                         {
@@ -34732,21 +34578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前からは美味しそうなエナジーがプンプン匂う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　人間共では味わえない極上のエナジーだ」"
+                                "Spider-G: \"You reek of a delicious energy. It's a supreme energy that\ncan't be tasted from mere humans.\""
                             ]
                         },
                         {
@@ -34763,21 +34595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区でお前を見た時から決めていたのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　次会った時はそのエナジーを頂くとな」"
+                                "Spider-G: \"I decided it the moment I saw you in the Avant district.\nThe next time we met, I would take that energy.\""
                             ]
                         },
                         {
@@ -34824,14 +34642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいわよ、相手になってあげる！」"
+                                "Pony-Celeste: \"Fine by me, I'll take you on!\""
                             ]
                         },
                         {
@@ -34862,21 +34673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、どこからでもかかってきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聖なる光で裁いてあげるわ！」"
+                                "Pony-Celeste: \"Come at me from anywhere. I'll judge you with the holy\nlight!\""
                             ]
                         },
                         {
@@ -34893,14 +34690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ、楽しめそうだな！！」"
+                                "Spider-G: \"Hahahaha, this is going to be fun!!\""
                             ]
                         },
                         {
@@ -35193,14 +34983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勝負はついたみたいね。覚悟はいいかしら！」"
+                                "Pony-Celeste: \"It looks like the match is decided. Are you prepared?\""
                             ]
                         },
                         {
@@ -35217,14 +35000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ、まさかこれ程の力が……かくなる上は！」"
+                                "Spider-G: \"Guh, to think you had this much power... If it has come to\nthis!\""
                             ]
                         },
                         {
@@ -35257,14 +35033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか！？」"
+                                "Pony-Celeste: \"No way!?\""
                             ]
                         },
                         {
@@ -35630,14 +35399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃がさないわよ！」"
+                                "Pony-Celeste: \"I won't let you escape!\""
                             ]
                         },
                         {
@@ -35661,14 +35423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぐっ……うあぁ……」"
+                                "Ginga: \"...guh...ughhh...\""
                             ]
                         },
                         {
@@ -35732,14 +35487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（っ！？ この声は！）"
+                                "Pony-Celeste: \"(What!? That voice!)\""
                             ]
                         },
                         {
@@ -35912,14 +35660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今助けるわ、しっかりして！」"
+                                "Pony-Celeste: \"I'll save you now, hang in there!\""
                             ]
                         },
                         {
@@ -36063,7 +35804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスはGingaを救出した！"
+                                "Pony-Celeste has rescued Ginga!"
                             ]
                         },
                         {
@@ -36133,14 +35874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫……\\|ですか？」"
+                                "Pony-Celeste: \"Are you okay...?\""
                             ]
                         },
                         {
@@ -36191,14 +35925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！ なんとか僕は平気です」"
+                                "Ginga: \"Thank you! Somehow I'm okay.\""
                             ]
                         },
                         {
@@ -36224,21 +35951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それより……女の子は！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここに来る途中、小さな女の子を見かけませんでしたか？」"
+                                "Ginga: \"More importantly... the girl!? Did you see a little girl on\nyour way here?\""
                             ]
                         },
                         {
@@ -36285,21 +35998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒナちゃんの事ですね。彼女は無事保護したので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう心配しなくて大丈夫ですよ」"
+                                "Pony-Celeste: \"You mean Hina-chan, right? She's been safely protected,\nso there's no need to worry anymore.\""
                             ]
                         },
                         {
@@ -36316,14 +36015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった……無事なんですね」"
+                                "Ginga: \"Thank goodness... she's safe.\""
                             ]
                         },
                         {
@@ -36340,14 +36032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が来てくれたおかげで僕も命を救われました」"
+                                "Ginga: \"Thanks to you coming for me, my life was saved.\""
                             ]
                         },
                         {
@@ -36399,7 +36084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gingaはポニーセレスの手を掴んで握り締めた。"
+                                "Ginga grasped Pony-Celeste's hand tightly."
                             ]
                         },
                         {
@@ -36416,14 +36101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……本当にありがとうございます！」"
+                                "Ginga: \"...Thank you so much!\""
                             ]
                         },
                         {
@@ -36440,14 +36118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ginga……」"
+                                "Pony-Celeste: \"Ginga...\""
                             ]
                         },
                         {
@@ -36480,14 +36151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、どうして僕の名前を……？」"
+                                "Ginga: \"Eh, how do you know my name...?\""
                             ]
                         },
                         {
@@ -36527,14 +36191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、それは……」"
+                                "Pony-Celeste: \"Eh, that's...\""
                             ]
                         },
                         {
@@ -36620,14 +36277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃあああああぁぁ！ 誰かああああぁ！！」"
+                                "Woman: \"Kyaaaahhhhh! Somebody help meeeeee!!\""
                             ]
                         },
                         {
@@ -36716,14 +36366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しまった！ あいつ、まだ！」"
+                                "Pony-Celeste: \"Damn it! That guy, he's still!\""
                             ]
                         },
                         {
@@ -36805,14 +36448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕はもう大丈夫です！ だから、みんなを！」"
+                                "Ginga: \"I'm okay now! So please, save everyone else!\""
                             ]
                         },
                         {
@@ -36852,21 +36488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから動かないで下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必ず後で迎えに来ますから！」"
+                                "Pony-Celeste: \"Please don't move from here. I promise I'll come back\nfor you later!\""
                             ]
                         },
                         {
@@ -36890,14 +36512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかりました。ここで待っています」"
+                                "Ginga: \"Understood. I'll be waiting here.\""
                             ]
                         },
                         {
@@ -37057,14 +36672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！」"
+                                "Ginga: \"Pony-Celeste!\""
                             ]
                         },
                         {
@@ -37128,14 +36736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対に……\\|絶対にザイダーグなんかに負けないで！」"
+                                "Ginga: \"Absolutely... don't lose to Zaida-G or anyone like him!\""
                             ]
                         },
                         {
@@ -37193,14 +36794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい。もちろんです！」"
+                                "Pony-Celeste: \"...Yes. Of course!\""
                             ]
                         },
                         {
@@ -37369,7 +36963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一階に飛び降りる事が出来そうだ。"
+                                "It seems possible to jump down to the first floor from here."
                             ]
                         },
                         {
@@ -37386,7 +36980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグを追って、飛び降りますか？"
+                                "Will you jump down following Spider-G?"
                             ]
                         },
                         {
@@ -37394,8 +36988,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -37425,7 +37019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "吹き抜けの下に薄っすらと蜘蛛の糸が見える……"
+                                "Spider webs can be faintly seen below the atrium..."
                             ]
                         },
                         {
@@ -37442,7 +37036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本当に飛び込みますか？"
+                                "Are you really going to jump in?"
                             ]
                         },
                         {
@@ -37450,8 +37044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -37515,14 +37109,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「待ってなさいスパイダーグ。もうあなたに逃げ場はないわよ！」"
+                                "Pony-Celeste: \"Wait, Spider-G. There's no escape for you now!\""
                             ]
                         },
                         {
@@ -37815,14 +37402,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ、何これ！？ い、いやああああぁぁぁぁーーーっ！！！！」"
+                                "Pony-Celeste: \"Eh, what's this!? N-nooooooo---!!!\""
                             ]
                         },
                         {
@@ -37919,21 +37499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（蜘蛛の糸が張り巡らされているわ。このまま飛び込むのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　得策じゃなさそうね……）"
+                                "Pony-Celeste: (Spider webs are spread all around. It doesn't seem wise\nto jump in like this...)"
                             ]
                         },
                         {
@@ -37950,14 +37516,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（何か踏み台になるもの……\\C[17]テーブル\\C[0]でも落とせば……）"
+                                "Pony-Celeste: (If there's something that could be used as a stepping\nstone... maybe if I drop a \\C[17]table\\C[0]...)"
                             ]
                         },
                         {
@@ -38084,21 +37643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（蜘蛛の糸が張り巡らされているわ。このまま飛び込むのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　得策じゃなさそうね……）"
+                                "Pony-Celeste: (Spider webs are spread all around. It doesn't seem wise\nto jump in like this...)"
                             ]
                         },
                         {
@@ -38115,14 +37660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（何か踏み台になるもの……\\C[17]テーブル\\C[0]でも落とせば……）"
+                                "Pony-Celeste: (If there's something that could be used as a stepping\nstone... maybe if I drop a \\C[17]table\\C[0]...)"
                             ]
                         },
                         {
@@ -38366,7 +37904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一階に飛び降りる事が出来そうだ。"
+                                "It looks like I can jump down to the first floor from here."
                             ]
                         },
                         {
@@ -38383,7 +37921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグを追って、飛び降りますか？"
+                                "Should I chase after Spiderg and jump down?"
                             ]
                         },
                         {
@@ -38391,8 +37929,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -38456,14 +37994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「待ってなさいスパイダーグ。もうあなたに逃げ場はないわよ！」"
+                                "Pony Ceres: \"Wait, Spiderg. You've got nowhere left to run!\""
                             ]
                         },
                         {
@@ -38756,14 +38287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「えっ、何これ！？ い、いやああああぁぁぁぁーーーっ！！！！」"
+                                "Pony Ceres: \"Eh, what's this?! N-noooaaaaahhhhh---!!!\""
                             ]
                         },
                         {
@@ -38860,21 +38384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（蜘蛛の糸が張り巡らされているわ。このまま飛び込むのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　得策じゃなさそうね……）"
+                                "Pony Ceres: (There are spider webs all around. It doesn't seem wise to\njump in as it is...)"
                             ]
                         },
                         {
@@ -38891,14 +38401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（何か踏み台になるもの……\\C[17]テーブル\\C[0]でも落とせば……）"
+                                "Pony Ceres: (Something to use as a stepping stone... If I could just\ndrop a \\C[17]table\\C[0]...)"
                             ]
                         },
                         {
@@ -39234,14 +38737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Ceres: \"Alright, if I drop this on the spider's web, it should\nwork as a stepping stone!\""
                             ]
                         },
                         {
@@ -40694,14 +40190,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Celes: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stone!\""
                             ]
                         },
                         {
@@ -42094,14 +41583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「よしっ、これを蜘蛛の巣の上に落とせば踏み台になるはず！」"
+                                "Pony-Celes: \"Alright, if I drop this on top of the spider's web, it\nshould work as a stepping stool!\""
                             ]
                         },
                         {
@@ -43623,14 +43105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで終わりだ、ポニーセレス！」"
+                                "Spider-G: \"This is the end for you, Pony-Celes!\""
                             ]
                         },
                         {
@@ -43656,14 +43131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「スパイダークロー！！！」"
+                                "Spider-G: \"Spider-Claw!!!\""
                             ]
                         },
                         {
@@ -43892,14 +43360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわああああああぁーーーーっ！！！」"
+                                "Pony-Celes: \"Aaaaaaaahhhhh----!!!\""
                             ]
                         },
                         {
@@ -44070,14 +43531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「随分と手こずらせやがって」"
+                                "Spider-G: \"You've been quite the nuisance.\""
                             ]
                         },
                         {
@@ -44125,14 +43579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このガキが！」"
+                                "Spider-G: \"You brat!\""
                             ]
                         },
                         {
@@ -44329,14 +43776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなもんじゃ済まさなねーぜ」"
+                                "Spider-G: \"I won't let it end with just this.\""
                             ]
                         },
                         {
@@ -44514,14 +43954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前が守ろうとした奴らが見ている前で公開処刑だ！」"
+                                "Spider-G: \"I'll execute you publicly in front of those you tried to\nprotect!\""
                             ]
                         },
                         {
@@ -44738,14 +44171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「日本中の奴らにお前の無様な姿を拝ませてやるぜ。くっくっくっ！」"
+                                "Spider-G: \"I'll let everyone in Japan witness your pathetic form.\nMwahahaha!\""
                             ]
                         },
                         {
@@ -44822,7 +44248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]※ここから先、敗北したポニーセレスに悲惨な結末が訪れます。\\!"
+                                "\\c[27]From this point on, a tragic fate befalls the defeated Pony-\nCeles."
                             ]
                         },
                         {
@@ -44855,14 +44281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]スパイダーグ戦敗北シーンＢを見ますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（【いいえ】を選んだ場合はタイトル画面へ移行します。）"
+                                "\\c[27]o you want to see the Spider-G defeat scene B? (If you choose\n\"No\", the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -44870,8 +44289,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -45086,7 +44505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#ラフォール四越屋店"
+                                "Laforêt Yotsuya Store"
                             ]
                         },
                         {

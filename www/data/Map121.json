@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "教室(２－１)",
+    "displayName": "Classroom (2-1)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12508,21 +12508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は優しい子だね。西園寺君には君の爪の垢を煎じて飲ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やりたいよ。はははははっ！」"
+                                "Teacher: \"You're such a kind child. I wish I could make Saionji-kun\ndrink a decoction of your nail dirt. Hahahaha!\""
                             ]
                         },
                         {
@@ -13119,14 +13105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の教室に何しに来たのよ、守崎！」"
+                                "Karen: \"What are you doing in my classroom, Morisaki!\""
                             ]
                         },
                         {
@@ -13186,14 +13165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何って、別に……」"
+                                "Yui: \"What do you mean? I'm not doing anything special...\""
                             ]
                         },
                         {
@@ -13226,14 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせ私を笑いに来たんでしょ！ 本当に性格の悪い女ね」"
+                                "Karen: \"You must have come to laugh at me! You really have a nasty\npersonality.\""
                             ]
                         },
                         {
@@ -13259,14 +13224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？ いきなりどうしたの……」"
+                                "Yui: \"Huh? What's gotten into you all of a sudden...?\""
                             ]
                         },
                         {
@@ -13292,21 +13250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～！？ 何しらばっくれているわけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたのせいでこっちは大迷惑なのよ！」"
+                                "Karen: \"Hah! Why are you playing dumb? It's your fault I'm in this\nmess!\""
                             ]
                         },
                         {
@@ -13323,21 +13267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせあなたが理事長に口添えしたんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今に見てなさい、絶対に仕返してあげるから！」"
+                                "Karen: \"You must have whispered something to the principal. Just you\nwatch, I'll definitely get back at you for this!\""
                             ]
                         },
                         {
@@ -13553,14 +13483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何なのよ一体……」"
+                                "Yui: \"What on earth is going on...?\""
                             ]
                         },
                         {
@@ -13863,14 +13786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん怒ってましたけど何かあったんですか？」"
+                                "Yui: \"Saionji-san seemed angry, did something happen?\""
                             ]
                         },
                         {
@@ -13918,14 +13834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎か……」"
+                                "Teacher: \"Morisaki, huh...\""
                             ]
                         },
                         {
@@ -13942,14 +13851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実はね……」"
+                                "Teacher: \"Actually...\""
                             ]
                         },
                         {
@@ -13966,14 +13868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先日、先生達を集めて緊急会議があったのは知っているよね」"
+                                "Teacher: \"You know about the emergency meeting we had with the\nteachers the other day, right?\""
                             ]
                         },
                         {
@@ -13990,21 +13885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その時、ザイダーグに襲われた時の緊急避難場所についての"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　議題があったんだけど……」"
+                                "Teacher: \"At that time, there was an agenda about the emergency\nevacuation site in case we were attacked by Zaidar-G...\""
                             ]
                         },
                         {
@@ -14021,14 +13902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「運動場を緊急避難場所にするって事で決まったんだ」"
+                                "Teacher: \"It was decided that the sports field would be used as the\nemergency evacuation site.\""
                             ]
                         },
                         {
@@ -14045,14 +13919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それと理事長の提案で運動場に避難施設も作る事にもなった」"
+                                "Teacher: \"And on the principal's suggestion, it was also decided to\nbuild an evacuation facility on the sports field.\""
                             ]
                         },
                         {
@@ -14069,14 +13936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで当分の間、運動場は使用禁止に……」"
+                                "Teacher: \"So for the time being, the sports field is off-limits...\""
                             ]
                         },
                         {
@@ -14093,21 +13953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、西園寺君は陸上部だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分の居場所を取られたと思っているんだ」"
+                                "Teacher: \"You see, Saionji-kun is in the track and field club. He\nfeels like his place has been taken away.\""
                             ]
                         },
                         {
@@ -14124,14 +13970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか。でも私に対して怒っていたみたいですが……」"
+                                "Yui: \"Is that so? But it seemed like he was angry with me...\""
                             ]
                         },
                         {
@@ -14148,14 +13987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、それはね……」"
+                                "Teacher: \"Ah, that's because...\""
                             ]
                         },
                         {
@@ -14172,21 +14004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実は避難場所の候補として運動場の他に体育館があったんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　理事長が頑なに体育館はダメだと言い張ってね」"
+                                "Teacher: \"Actually, besides the sports field, the gymnasium was also a\ncandidate for the evacuation site, but the principal stubbornly\ninsisted that the gymnasium was not an option.\""
                             ]
                         },
                         {
@@ -14203,14 +14021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、君は空手部のエースで全国大会の優勝も視野に入ってるだろ」"
+                                "Teacher: \"You know, you're the ace of the karate club and you're even\nin sight of winning the national tournament.\""
                             ]
                         },
                         {
@@ -14227,21 +14038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺君は理事長が君の練習場所を奪わないために、避難場所を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運動場に決めたんじゃないかって思ってるんだ」"
+                                "Teacher: \"Saionji-kun thinks that the principal decided on the sports\nfield to avoid taking away your practice area.\""
                             ]
                         },
                         {
@@ -14265,14 +14062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう事だったんですね」"
+                                "Yui: \"I see, so that's what it was.\""
                             ]
                         },
                         {
@@ -14289,14 +14079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない。とんだとばっちりだったね」"
+                                "Teacher: \"Sorry. You got caught in the crossfire.\""
                             ]
                         },
                         {
@@ -14329,21 +14112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気にしないで下さい、部活が出来なくなった西園寺さんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気持ちも分かりますから」"
+                                "Yui: \"Please don't worry about it. I understand how Saionji-san feels\nsince he can't do club activities.\""
                             ]
                         },
                         {
@@ -14360,21 +14129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は優しい子だね。西園寺君には君の爪の垢を煎じて飲ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やりたいよ。はははははっ！」"
+                                "Teacher: \"You're a kind person. I wish I could make Saionji-kun drink\na decoction of your nail dirt. Hahaha!\""
                             ]
                         },
                         {
@@ -15102,14 +14857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の教室に何しに来たのよ、守崎！」"
+                                "Karen: \"What are you doing in my classroom, Morisaki!\""
                             ]
                         },
                         {
@@ -15169,14 +14917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何って、別に……」"
+                                "Yui: \"What do you mean? Nothing in particular...\""
                             ]
                         },
                         {
@@ -15209,14 +14950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせ私を笑いに来たんでしょ！ 本当に性格の悪い女ね」"
+                                "Karen: \"You must have come to laugh at me! You really have a nasty\npersonality.\""
                             ]
                         },
                         {
@@ -15242,14 +14976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？ いきなりどうしたの……」"
+                                "Yui: \"Eh? What's gotten into you all of a sudden...?\""
                             ]
                         },
                         {
@@ -15275,21 +15002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～！？ 何しらばっくれているわけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたのせいでこっちは大迷惑なのよ！」"
+                                "Karen: \"Hah! Why are you playing dumb? It's all your fault that I'm in\nsuch a mess!\""
                             ]
                         },
                         {
@@ -15306,21 +15019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせあなたが理事長に口添えしたんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今に見てなさい、絶対に仕返してあげるから！」"
+                                "Karen: \"You must have whispered to the principal, didn't you? Just you\nwait, I'll definitely get my revenge!\""
                             ]
                         },
                         {
@@ -15536,14 +15235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何なのよ一体……」"
+                                "Yui: \"What on earth is going on...?\""
                             ]
                         },
                         {
@@ -15846,14 +15538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん怒ってましたけど何かあったんですか？」"
+                                "Yui: \"Saionji-san was angry, but did something happen?\""
                             ]
                         },
                         {
@@ -15901,14 +15586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎か……」"
+                                "Teacher: \"Morisaki, huh...\""
                             ]
                         },
                         {
@@ -15925,14 +15603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実はね……」"
+                                "Teacher: \"Actually...\""
                             ]
                         },
                         {
@@ -15949,14 +15620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先日、先生達を集めて緊急会議があったのは知っているよね」"
+                                "Teacher: \"You know about the emergency meeting we had with the\nteachers the other day, right?\""
                             ]
                         },
                         {
@@ -15973,21 +15637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その時、ザイダーグに襲われた時の緊急避難場所についての"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　議題があったんだけど……」"
+                                "Teacher: \"At that time, there was an agenda about the emergency\nevacuation site in case of a Zaida-G attack...\""
                             ]
                         },
                         {
@@ -16004,14 +15654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「運動場を緊急避難場所にするって事で決まったんだ」"
+                                "Teacher: \"It was decided to use the sports field as the emergency\nevacuation site.\""
                             ]
                         },
                         {
@@ -16028,14 +15671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それと理事長の提案で運動場に避難施設も作る事にもなった」"
+                                "Teacher: \"And on the principal's suggestion, it was also decided to\nbuild an evacuation facility on the sports field.\""
                             ]
                         },
                         {
@@ -16052,14 +15688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで当分の間、運動場は使用禁止に……」"
+                                "Teacher: \"So for the time being, the sports field is off-limits...\""
                             ]
                         },
                         {
@@ -16076,21 +15705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、西園寺君は陸上部だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分の居場所を取られたと思っているんだ」"
+                                "Teacher: \"You see, Saionji-kun is in the track and field club. He must\nfeel like his place has been taken away.\""
                             ]
                         },
                         {
@@ -16107,14 +15722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか。でも私に対して怒っていたみたいですが……」"
+                                "Yui: \"Is that so? But it seemed like he was angry at me...\""
                             ]
                         },
                         {
@@ -16131,14 +15739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、それはね……」"
+                                "Teacher: \"Ah, that's because...\""
                             ]
                         },
                         {
@@ -16155,21 +15756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実は避難場所の候補として運動場の他に体育館があったんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　理事長が頑なに体育館はダメだと言い張ってね」"
+                                "Teacher: \"Actually, besides the sports field, the gymnasium was also a\ncandidate for the evacuation site, but the principal stubbornly\ninsisted that the gymnasium was not an option.\""
                             ]
                         },
                         {
@@ -16186,14 +15773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、君は空手部のエースで全国大会の優勝も視野に入ってるだろ」"
+                                "Teacher: \"You see, you're the ace of the karate club and you're even\nin sight of winning the national tournament.\""
                             ]
                         },
                         {
@@ -16210,21 +15790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺君は理事長が君の練習場所を奪わないために、避難場所を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運動場に決めたんじゃないかって思ってるんだ」"
+                                "Teacher: \"Saionji-kun thinks that the principal decided on the sports\nfield to avoid taking away your practice area.\""
                             ]
                         },
                         {
@@ -16248,14 +15814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう事だったんですね」"
+                                "Yui: \"I see, so that's what it was.\""
                             ]
                         },
                         {
@@ -16272,14 +15831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない。とんだとばっちりだったね」"
+                                "Teacher: \"Sorry. You were caught in the crossfire.\""
                             ]
                         },
                         {
@@ -16312,21 +15864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気にしないで下さい、部活が出来なくなった西園寺さんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気持ちも分かりますから」"
+                                "Yui: \"Please don't worry about it. I understand how Saionji-san feels\nsince he can't do club activities.\""
                             ]
                         },
                         {
@@ -16343,21 +15881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は優しい子だね。西園寺君には君の爪の垢を煎じて飲ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やりたいよ。はははははっ！」"
+                                "Teacher: \"You're a kind person. I wish I could make Saionji-kun drink\na decoction of your nail dirt. Hahaha!\""
                             ]
                         },
                         {
@@ -17085,14 +16609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の教室に何しに来たのよ、守崎！」"
+                                "Karen: \"What are you doing in my classroom, Morisaki!\""
                             ]
                         },
                         {
@@ -17152,14 +16669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何って、別に……」"
+                                "Yui: \"What do you mean? It's nothing special...\""
                             ]
                         },
                         {
@@ -17192,14 +16702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせ私を笑いに来たんでしょ！ 本当に性格の悪い女ね」"
+                                "Karen: \"You must have come to laugh at me! You really have a nasty\npersonality.\""
                             ]
                         },
                         {
@@ -17225,14 +16728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？ いきなりどうしたの……」"
+                                "Yui: \"Huh? What's gotten into you all of a sudden...?\""
                             ]
                         },
                         {
@@ -17258,21 +16754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～！？ 何しらばっくれているわけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたのせいでこっちは大迷惑なのよ！」"
+                                "Karen: \"Hah! Why are you playing dumb? It's your fault I'm in this\nmess!\""
                             ]
                         },
                         {
@@ -17289,21 +16771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうせあなたが理事長に口添えしたんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今に見てなさい、絶対に仕返してあげるから！」"
+                                "Karen: \"You must have whispered to the principal, didn't you? Just you\nwait, I'll definitely get my revenge!\""
                             ]
                         },
                         {
@@ -17519,14 +16987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何なのよ一体……」"
+                                "Yui: \"What on earth is going on...?\""
                             ]
                         },
                         {
@@ -17829,14 +17290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん怒ってましたけど何かあったんですか？」"
+                                "Yui: \"Saionji-san seemed angry, did something happen?\""
                             ]
                         },
                         {
@@ -17884,14 +17338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎か……」"
+                                "Teacher: \"Morisaki, huh...\""
                             ]
                         },
                         {
@@ -17908,14 +17355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実はね……」"
+                                "Teacher: \"Actually...\""
                             ]
                         },
                         {
@@ -17932,14 +17372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先日、先生達を集めて緊急会議があったのは知っているよね」"
+                                "Teacher: \"You know about the emergency meeting we had with the\nteachers the other day, right?\""
                             ]
                         },
                         {
@@ -17956,21 +17389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その時、ザイダーグに襲われた時の緊急避難場所についての"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　議題があったんだけど……」"
+                                "Teacher: \"At that time, there was an agenda about the emergency\nevacuation site in case of a Zaida-G attack...\""
                             ]
                         },
                         {
@@ -17987,14 +17406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「運動場を緊急避難場所にするって事で決まったんだ」"
+                                "Teacher: \"It was decided to use the sports field as the emergency\nevacuation site.\""
                             ]
                         },
                         {
@@ -18011,14 +17423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それと理事長の提案で運動場に避難施設も作る事にもなった」"
+                                "Teacher: \"And at the principal's suggestion, it was also decided to\nbuild an evacuation facility on the sports field.\""
                             ]
                         },
                         {
@@ -18035,14 +17440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで当分の間、運動場は使用禁止に……」"
+                                "Teacher: \"So for the time being, the sports field is off-limits...\""
                             ]
                         },
                         {
@@ -18059,21 +17457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、西園寺君は陸上部だろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自分の居場所を取られたと思っているんだ」"
+                                "Teacher: \"You see, Saionji-kun is in the track and field club. He\nfeels like his place has been taken away.\""
                             ]
                         },
                         {
@@ -18090,14 +17474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか。でも私に対して怒っていたみたいですが……」"
+                                "Yui: \"Is that so? But it seemed like he was angry with me...\""
                             ]
                         },
                         {
@@ -18114,14 +17491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、それはね……」"
+                                "Teacher: \"Ah, that's because...\""
                             ]
                         },
                         {
@@ -18138,21 +17508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実は避難場所の候補として運動場の他に体育館があったんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　理事長が頑なに体育館はダメだと言い張ってね」"
+                                "Teacher: \"Actually, besides the sports field, the gymnasium was also a\ncandidate for the evacuation site, but the principal adamantly said no\nto the gymnasium.\""
                             ]
                         },
                         {
@@ -18169,14 +17525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、君は空手部のエースで全国大会の優勝も視野に入ってるだろ」"
+                                "Teacher: \"You know, you're the ace of the karate club and you're in\nsight of winning the national tournament.\""
                             ]
                         },
                         {
@@ -18193,21 +17542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺君は理事長が君の練習場所を奪わないために、避難場所を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運動場に決めたんじゃないかって思ってるんだ」"
+                                "Teacher: \"Saionji-kun thinks that the principal chose the sports field\nas the evacuation site so as not to take away your practice area.\""
                             ]
                         },
                         {
@@ -18231,14 +17566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう事だったんですね」"
+                                "Yui: \"So that's what it was.\""
                             ]
                         },
                         {
@@ -18255,14 +17583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない。とんだとばっちりだったね」"
+                                "Teacher: \"I'm sorry. You got caught in the crossfire.\""
                             ]
                         },
                         {
@@ -18295,21 +17616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気にしないで下さい、部活が出来なくなった西園寺さんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気持ちも分かりますから」"
+                                "Yui: \"Please don't worry about it, I understand how Saionji-san feels\nsince he can't do club activities.\""
                             ]
                         },
                         {
@@ -18326,21 +17633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は優しい子だね。西園寺君には君の爪の垢を煎じて飲ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　やりたいよ。はははははっ！」"
+                                "Teacher: \"You're a kind person. I wish I could make Saionji-kun drink\na decoction of your nail dirt. Hahaha!\""
                             ]
                         },
                         {

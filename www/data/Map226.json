@@ -12091,7 +12091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -12418,14 +12418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかりして下さい、大丈夫ですか……」"
+                                "Pony-Celeste: \"Hold on tight, are you okay...?\""
                             ]
                         },
                         {
@@ -12449,14 +12442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……う……ぅ……」"
+                                "Karen: \"...uh...uh...\""
                             ]
                         },
                         {
@@ -12613,14 +12599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！」"
+                                "Karen: \"Pony-Celeste!\""
                             ]
                         },
                         {
@@ -12671,14 +12650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気が付いたみたいですね。歩けますか？」"
+                                "Pony-Celeste: \"It seems you've come to. Can you walk?\""
                             ]
                         },
                         {
@@ -12716,7 +12688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレスはカレンの手を掴んだ。"
+                                "Pony-Celeste grabbed Karen's hand."
                             ]
                         },
                         {
@@ -12749,14 +12721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」　"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -12988,21 +12953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（えっ……なにこれ？\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ポニーセレスと守崎が重なって見える……）"
+                                "Karen: (Eh... what's this? I can see Pony-Celeste and Morisaki\noverlapping...)"
                             ]
                         },
                         {
@@ -13019,14 +12970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そんな、うそでしょ……\\|ポニーセレスの正体が守崎！？）"
+                                "Karen: (No way, that can't be true... Is Pony-Celeste actually\nMorisaki!?)"
                             ]
                         },
                         {
@@ -13150,14 +13094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「触らないで！」"
+                                "Karen: \"Don't touch me!\""
                             ]
                         },
                         {
@@ -13266,21 +13203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……助けてくれた事は感謝するわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、気軽に私に触れないで！」"
+                                "Karen: \"...I appreciate that you helped me. But don't touch me so\ncasually!\""
                             ]
                         },
                         {
@@ -13297,14 +13220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさい……」"
+                                "Pony-Celeste: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -13385,21 +13301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（うぅ、ほんと、なんなのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これだから西園寺さんは苦手なの……）"
+                                "Pony-Celeste: (Ugh, really, what's with her. This is why I have\ntrouble with Ms. Saionji...)"
                             ]
                         },
                         {
@@ -13464,14 +13366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何か言いたそうな顔ね」"
+                                "Karen: \"You look like you want to say something.\""
                             ]
                         },
                         {
@@ -13504,14 +13399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……それだけ元気なら大丈夫そうですね」"
+                                "Pony-Celeste: \"No... If you're that lively, then you must be fine.\""
                             ]
                         },
                         {
@@ -13528,14 +13416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……では、私はこれで」"
+                                "Pony-Celeste: \"...Well then, I'll be off.\""
                             ]
                         },
                         {
@@ -13748,14 +13629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を助けたからっていい気にならないでよ、守崎！！」"
+                                "Karen: \"Don't get cocky just because you helped me, Morisaki!!\""
                             ]
                         },
                         {
@@ -13810,14 +13684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいはい、わかってるわよ！」"
+                                "Pony-Celeste: \"Yes, yes, I get it!\""
                             ]
                         },
                         {
@@ -13930,14 +13797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バカは姿を変えてもバカか……」"
+                                "Karen: \"An idiot doesn't change just by changing appearances...\""
                             ]
                         },
                         {
@@ -13954,14 +13814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「確定ね……」"
+                                "Karen: \"Confirmed...\""
                             ]
                         },
                         {
@@ -14026,7 +13879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数時間後――"
+                                "Several hours later--"
                             ]
                         },
                         {
@@ -14043,7 +13896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺邸～"
+                                "Saionji Residence~"
                             ]
                         },
                         {

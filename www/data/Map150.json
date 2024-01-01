@@ -20081,7 +20081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫から隙間風が漏れている。"
+                                "A draft is coming from the safe."
                             ]
                         },
                         {
@@ -20098,7 +20098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫を開けますか？"
+                                "Would you like to open the safe?"
                             ]
                         },
                         {
@@ -20106,8 +20106,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20137,7 +20137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暗証番号を入力して下さい。"
+                                "Please enter the security code."
                             ]
                         },
                         {
@@ -20200,7 +20200,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "金庫の扉が開いた！"
+                                "The safe door has opened!"
                             ]
                         },
                         {
@@ -20227,7 +20227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "暗証番号が間違っているようだ。"
+                                "It seems the security code is incorrect."
                             ]
                         },
                         {
@@ -20591,14 +20591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やはり戦闘員のアジトだったみたいね」"
+                                "Yui: \"It seems it was indeed the hideout of the combatants.\""
                             ]
                         },
                         {
@@ -20631,14 +20624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「コソコソ隠れて何してるのか知らないけど、蹴散らしてあげるわ！」"
+                                "Yui: \"I don't know what you're sneaking around for, but I'll scatter\nyou all with a kick!\""
                             ]
                         },
                         {
@@ -20913,21 +20899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒデキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、ザイダーグの奴らがこの建物に入って行くのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見たんだけどな」"
+                                "Hideki: \"Hmm, I'm sure I saw those Zaidarg guys enter this\nbuilding...\""
                             ]
                         },
                         {
@@ -20944,14 +20916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒデキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「後を付けて入ったはいいものの、誰もいやしない……」"
+                                "Hideki: \"I followed them inside, but now there's no one to be\nfound...\""
                             ]
                         },
                         {
@@ -20968,14 +20933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒデキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺は夢でも見てたのか……」"
+                                "Hideki: \"Was I just dreaming...?\""
                             ]
                         },
                         {
@@ -21178,14 +21136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒデキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！！」"
+                                "Hideki: \"Pony-Celest!!\""
                             ]
                         },
                         {
@@ -21202,14 +21153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒデキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君がいるって事は、ここにザイダーグが……？」"
+                                "Hideki: \"If you're here, does that mean Zaidar-G is...?\""
                             ]
                         },
                         {
@@ -21260,14 +21204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは危険ですので、私に任せて避難して下さい」"
+                                "Yui: \"This place is dangerous, so please leave it to me and evacuate.\""
                             ]
                         },
                         {
@@ -21284,14 +21221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒデキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ、わかりました」"
+                                "Hideki: \"O-okay, understood.\""
                             ]
                         },
                         {
@@ -21488,7 +21418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かが書かれた紙切れが落ちている。"
+                                "There's a piece of paper with something written on it lying on the\nground."
                             ]
                         },
                         {
@@ -21505,7 +21435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拾って読んでみますか？"
+                                "Should I pick it up and read it?"
                             ]
                         },
                         {
@@ -21513,8 +21443,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21544,7 +21474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#\"ソファーの数\"　\"ライトの数\"　\"絨毯の数\""
+                                "\"Number of sofas\" \"Number of lights\" \"Number of carpets\""
                             ]
                         },
                         {
@@ -22903,7 +22833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -22930,7 +22860,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[230]すっきりリンゴ】を手に入れた！"
+                                "【\\i[230]Crisp Apple】acquired!"
                             ]
                         },
                         {
@@ -23037,7 +22967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -23054,7 +22984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {

@@ -12685,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は両親の寝室だ。勝手に入るのは止めておこう。"
+                                "The room ahead is my parents' bedroom. I should refrain from entering\nwithout permission."
                             ]
                         },
                         {
@@ -13166,7 +13166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイはさっさっと身だしなみを整えた。"
+                                "Yui quickly tidied up her appearance."
                             ]
                         },
                         {
@@ -13696,7 +13696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13723,7 +13723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[133]杏仁豆腐】を手に入れた！"
+                                "【\\i[133]Almond jelly】was obtained!"
                             ]
                         },
                         {
@@ -13830,7 +13830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -13847,7 +13847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しいの物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -14368,14 +14368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただいまー！」"
+                                "Yui: \"I'm home-!\""
                             ]
                         },
                         {
@@ -14430,14 +14423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイの母"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかえりなさい。ご飯出来てるわよ、早く来なさいね」"
+                                "Yui's Mother: \"Welcome back. Dinner is ready, come quickly, okay?\""
                             ]
                         },
                         {
@@ -14454,14 +14440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お腹ぺこぺこ！ すぐ行くー！」"
+                                "Yui: \"I'm starving! I'll be right there-!\""
                             ]
                         },
                         {
@@ -14602,14 +14581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ユイちゃん……」"
+                                "???: \"...Yui-chan...\""
                             ]
                         },
                         {
@@ -14777,14 +14749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何これ？ 頭の中で声が響いて……」"
+                                "Yui: \"What's this? There's a voice echoing in my head...\""
                             ]
                         },
                         {
@@ -14808,14 +14773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちへ……地下室へ……」"
+                                "???: \"This way... to the basement...\""
                             ]
                         },
                         {
@@ -14841,14 +14799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……誰なの？」"
+                                "Yui: \"...Who is it?\""
                             ]
                         },
                         {

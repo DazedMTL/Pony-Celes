@@ -15284,14 +15284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シゲキ様、いつもご利用ありがとうございます」"
+                                "Attendant: \"Shigeki-sama, thank you for always patronizing us.\""
                             ]
                         },
                         {
@@ -15308,14 +15301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「２号室が空いておりますので、ご使用下さい。」"
+                                "Attendant: \"Room number 2 is available, please feel free to use it.\""
                             ]
                         },
                         {
@@ -15394,14 +15380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シゲキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃ、ユイちゃん！ また後でね」"
+                                "Shigeki: \"Well then, Yui-chan! See you later.\""
                             ]
                         },
                         {
@@ -15958,14 +15937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前ここは初めてか？」"
+                                "Black Suit: \"Is this your first time here?\""
                             ]
                         },
                         {
@@ -15982,14 +15954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい……」"
+                                "Yui: \"Yes...\""
                             ]
                         },
                         {
@@ -16006,21 +15971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「左手のスタッフ通路から階段を降りて２号室に行くんだな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこにシゲキ様は待機されている」"
+                                "Black Suit: \"Go down the stairs from the staff passage on your left\nand head to room number 2. Shigeki-sama is waiting there.\""
                             ]
                         },
                         {
@@ -16037,21 +15988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それと、化粧室には先輩が待機中だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　初めてなら助言を聞いてから接待しろよ」"
+                                "Black Suit: \"Also, a senior is waiting in the restroom. If it's your\nfirst time, get some advice before you attend to the guests.\""
                             ]
                         },
                         {
@@ -16068,14 +16005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シゲキ様はウチの上客だ。粗相の無いようにな！」"
+                                "Black Suit: \"Shigeki-sama is one of our top clients. Make sure not to\nmake any blunders!\""
                             ]
                         },
                         {
@@ -17564,21 +17494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何やってる？ ここは初めてか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっちはお客様専用の通路だ！」"
+                                "Black-suited man: \"What are you doing? Is this your first time here?\nThat way is a passage exclusively for guests!\""
                             ]
                         },
                         {
@@ -19709,7 +19625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "Obtained the 【\\i[94]Training Tome】!"
                             ]
                         },
                         {

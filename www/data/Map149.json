@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "心宿前総合病院",
+    "displayName": "Shinshuku Mae General Hospital",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -14644,14 +14644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「今日はどうされましたか？」"
+                                "Teacher: \"What brings you here today?\""
                             ]
                         },
                         {
@@ -14659,8 +14652,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "えっ、いえ……",
-                                    "診療室を間違いました！"
+                                    "Eh, no",
+                                    "I entered the wrong infirmary!"
                                 ],
                                 1,
                                 0,
@@ -14733,14 +14726,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ、いえ……これといって体調が悪いわけでもなく……」"
+                                "Yui: \"Eh, no... It's not like I'm feeling particularly unwell or\nanything...\""
                             ]
                         },
                         {
@@ -14766,14 +14752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「……？」"
+                                "Teacher: \"...?\""
                             ]
                         },
                         {
@@ -14790,21 +14769,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　勝手に入ってきちゃいました」"
+                                "Yui: \"I'm sorry. I just came in without permission.\""
                             ]
                         },
                         {
@@ -14821,14 +14786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ははっ、面白い子だね」"
+                                "Teacher: \"Haha, you're an interesting girl.\""
                             ]
                         },
                         {
@@ -14845,14 +14803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「せっかく来たんだから悪いところが無いか診察してあげよう」"
+                                "Teacher: \"Since you've come all this way, let me check if there's\nanything wrong with you.\""
                             ]
                         },
                         {
@@ -14885,14 +14836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ？ そんな、結構です！」"
+                                "Yui: \"Eh? No, that's alright!\""
                             ]
                         },
                         {
@@ -14925,21 +14869,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「いいから、いいから！ さっ、制服を脱いで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　念のためスカートもね」"
+                                "Teacher: \"It's fine, it's fine! Now, take off your uniform! And your\nskirt, just to be sure.\""
                             ]
                         },
                         {
@@ -14956,14 +14886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ？ スカートもですか！？」"
+                                "Yui: \"Eh? My skirt too?!\""
                             ]
                         },
                         {
@@ -14980,21 +14903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「さっさと脱がないと、ひやかしで診療室に入ってきたと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　警備員を呼んじゃうよ」"
+                                "Teacher: \"Hurry up and strip, or I'll call security for loitering in\nthe infirmary.\""
                             ]
                         },
                         {
@@ -15036,14 +14945,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はい、わかりました……」"
+                                "Yui: \"Yes, I understand...\""
                             ]
                         },
                         {
@@ -15141,14 +15043,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「こ、これで大丈夫でしょうか？」"
+                                "Yui: \"Is this okay?\""
                             ]
                         },
                         {
@@ -15203,14 +15098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ほら、ブラジャーも外して！」"
+                                "Teacher: \"Come on, take off your bra too!\""
                             ]
                         },
                         {
@@ -15252,14 +15140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ、ブラジャーも取るんですか？」"
+                                "Yui: \"Eh, I have to take off my bra too?\""
                             ]
                         },
                         {
@@ -15276,21 +15157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「聴診器が正確にあてれないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ほら、こんなに大きいおっぱいなんだから」"
+                                "Teacher: \"I can't properly use the stethoscope with it on. Look, you\nhave such big breasts.\""
                             ]
                         },
                         {
@@ -15307,14 +15174,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うっ……」"
+                                "Yui: \"Ugh...\""
                             ]
                         },
                         {
@@ -15414,14 +15274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「さぁ、始めようか！」"
+                                "Teacher: \"Alright, let's begin!\""
                             ]
                         },
                         {
@@ -15511,14 +15364,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「まずは乳首の鼓動から調べてみるね」"
+                                "Teacher: \"First, let's check the heartbeat through your nipples.\""
                             ]
                         },
                         {
@@ -15535,14 +15381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ！？ \\|乳首ですか！？」"
+                                "Yui: \"Eh!? My nipples?!\""
                             ]
                         },
                         {
@@ -15559,14 +15398,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「乳癌があるかどうかはここの音を聞けば一発だから！」"
+                                "Teacher: \"You can tell if there's breast cancer just by listening to\nthe sound here!\""
                             ]
                         },
                         {
@@ -15583,14 +15415,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ほ、本当ですか……？」"
+                                "Yui: \"Is that really true...?\""
                             ]
                         },
                         {
@@ -15607,14 +15432,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「私は医師だよ、嘘つくわけないじゃん」"
+                                "Teacher: \"I'm a doctor, I wouldn't lie about that.\""
                             ]
                         },
                         {
@@ -15631,14 +15449,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うっ……」"
+                                "Yui: \"Ugh...\""
                             ]
                         },
                         {
@@ -15681,14 +15492,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「う～ん、少し気になる点があるな……」"
+                                "Teacher: \"Hmm, there are a few points of concern...\""
                             ]
                         },
                         {
@@ -15705,14 +15509,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「念入りに調べさせてもらうよ」"
+                                "Teacher: \"I'll examine you thoroughly.\""
                             ]
                         },
                         {
@@ -15736,14 +15533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「どれ、片方の乳首はどうかな？」"
+                                "Teacher: \"Let's see how one of your nipples is doing?\""
                             ]
                         },
                         {
@@ -15800,14 +15590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「っ！！」"
+                                "Yui: \"Ah!!\""
                             ]
                         },
                         {
@@ -15824,14 +15607,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちょっと！ なっ、なんで指なんですか！？」"
+                                "Yui: \"Wait a minute! Why are you using your fingers?!\""
                             ]
                         },
                         {
@@ -15848,14 +15624,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「弾力を調べれば癌細胞があるかどうか分かるんだ」"
+                                "Teacher: \"If I check the elasticity, I can tell if there are any\ncancer cells.\""
                             ]
                         },
                         {
@@ -15872,14 +15641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ほら、こうやって乳首を押せば！」"
+                                "Teacher: \"Look, if I press on the nipple like this!\""
                             ]
                         },
                         {
@@ -15912,14 +15674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あっ、だめっ……」"
+                                "Yui: \"Ah, no...\""
                             ]
                         },
                         {
@@ -15936,14 +15691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「動くと長引くよ、ほらじっとして！」"
+                                "Teacher: \"If you move, it'll take longer. Come on, stay still!\""
                             ]
                         },
                         {
@@ -15960,14 +15708,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「んっ……くぅっ、あっ……あぁ……」"
+                                "Yui: \"Nn... kuu, ah... ahh...\""
                             ]
                         },
                         {
@@ -15984,14 +15725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「乳首……ツンツンされると、あっ……あたま変になって……」"
+                                "Yui: \"My nipples... when you poke them like that, ah... my head gets\nall fuzzy...\""
                             ]
                         },
                         {
@@ -16008,14 +15742,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そんな弱音吐いてどうするの？ 我慢しなきゃダメだよ」"
+                                "Teacher: \"Why are you showing weakness? You have to endure it.\""
                             ]
                         },
                         {
@@ -16032,14 +15759,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「で、でも……あっ、あぁぁっ………」"
+                                "Yui: \"But... ah, ahhhh...\""
                             ]
                         },
                         {
@@ -16056,14 +15776,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なるほど……この感触は……」"
+                                "Teacher: \"I see... this sensation is...\""
                             ]
                         },
                         {
@@ -16080,14 +15793,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「もしかして乳首押されただけで感じてるのかな？」"
+                                "Teacher: \"Could it be that you're feeling it just from having your\nnipples pressed?\""
                             ]
                         },
                         {
@@ -16116,14 +15822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そ、そんな事……ないです！」"
+                                "Yui: \"That's not... true!\""
                             ]
                         },
                         {
@@ -16140,14 +15839,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「でも、ほら。こんなに乳首固くさせちゃてるよ」"
+                                "Teacher: \"But look, your nipples are getting so hard.\""
                             ]
                         },
                         {
@@ -16164,21 +15856,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「綺麗なピンク色の乳首がコリコリになって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　やっぱり気持ちいいんだ？」"
+                                "Teacher: \"Your pretty pink nipples are getting stiff... does it feel\ngood after all?\""
                             ]
                         },
                         {
@@ -16195,14 +15873,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ち、ちがいますっ！ 気持ちいいわけ……ないです……」"
+                                "Yui: \"No, that's not it! It doesn't feel good... at all...\""
                             ]
                         },
                         {
@@ -16219,14 +15890,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「そんなこと言って、タイツ越しにパンツが濡れているじゃないか……」"
+                                "Teacher: \"Despite what you say, your panties are getting wet through\nyour tights...\""
                             ]
                         },
                         {
@@ -16243,14 +15907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「マン汁で染みが出来ちゃってるね♪」"
+                                "Teacher: \"Looks like they're stained with your pussy juices♪\""
                             ]
                         },
                         {
@@ -16267,14 +15924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ぬ、濡れてなんか……ないですっ……あっ、あぁ………」"
+                                "Yui: \"They're not wet... at all... ah, ahh...\""
                             ]
                         },
                         {
@@ -16291,14 +15941,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あっ……もう、だめ………」"
+                                "Yui: \"Ah... I can't take it anymore...\""
                             ]
                         },
                         {
@@ -16315,14 +15958,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ふふっ、顔も蕩けてきたね」"
+                                "Teacher: \"Hehe, your face is starting to melt.\""
                             ]
                         },
                         {
@@ -16339,14 +15975,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「じゃあ……少し乳首を吸ってみてもいいかな？」"
+                                "Teacher: \"So... would it be alright if I suck on your nipples a bit?\""
                             ]
                         },
                         {
@@ -16377,14 +16006,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「えっ！！」"
+                                "Yui: \"Eh?!!\""
                             ]
                         },
                         {
@@ -16401,21 +16023,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちょ、ちょっと！ やめてっ、やめて下さい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　いいわけないでしょ！」"
+                                "Yui: \"Wait, wait! Stop it, please stop! That's not okay!\""
                             ]
                         },
                         {
@@ -16591,14 +16199,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うん、特に問題は無いようだね！」"
+                                "Teacher: \"Yeah, it doesn't seem like there's any problem!\""
                             ]
                         },
                         {
@@ -16745,14 +16346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（やだ、わたし……\\|乳首を弄られただけでパンツが濡れちゃった……）"
+                                "Yui: \"(No, I... my panties got wet just from having my nipples played\nwith...)\""
                             ]
                         },
                         {
@@ -16769,14 +16363,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（あんなのでイキそうになるなんて悔しい……）"
+                                "Yui: \"(It's so frustrating to almost come from just that...)\""
                             ]
                         },
                         {
@@ -16793,14 +16380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（私、そんなに欲求不満なのかな……）"
+                                "Yui: \"(Am I really that sexually frustrated...)\""
                             ]
                         },
                         {
@@ -16896,7 +16476,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "淫乱度が５上がった！"
+                                "Lewdness increased by 5!"
                             ]
                         },
                         {
@@ -16986,14 +16566,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ごめんなさい。入る診療室を間違えました」"
+                                "Yui: \"I'm sorry. I entered the wrong examination room.\""
                             ]
                         },
                         {
@@ -17010,14 +16583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（……ちっ。せっかく当たりが来たってのに）"
+                                "Teacher: \"(...Tch. Just when I hit the jackpot.)\""
                             ]
                         },
                         {
@@ -17059,14 +16625,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「何か？」"
+                                "Yui: \"Did you say something?\""
                             ]
                         },
                         {
@@ -17083,14 +16642,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あっ、いや、なんでもないよ」"
+                                "Teacher: \"Ah, no, it's nothing.\""
                             ]
                         },
                         {
@@ -17363,21 +16915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トコヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、ユタカ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は先生の言う事を聞いて注射を我慢するんだよ」"
+                                "Tokoyo: \"Look, Yutaka. Today you need to listen to the doctor and be\nbrave for the shot, okay?\""
                             ]
                         },
                         {
@@ -17394,14 +16932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トコヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良い子にしてたら帰りにゲーム買ってあげるからね」"
+                                "Tokoyo: \"If you're a good boy, I'll buy you a game on the way home.\""
                             ]
                         },
                         {
@@ -17449,14 +16980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユタカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、我慢する！」"
+                                "Yutaka: \"Then, I'll be brave!\""
                             ]
                         },
                         {
@@ -17473,14 +16997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユタカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから光桜閃姫プリセシール買ってね！」"
+                                "Yutaka: \"So you'll buy me Hikari Sakura Senki Prisecile, right?\""
                             ]
                         },
                         {
@@ -17497,21 +17014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トコヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「光桜閃姫プリセシールだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お婆ちゃん良く分からないけど、ユタカが欲しいなら買ってあげるよ」"
+                                "Tokoyo: \"Hikari Sakura Senki Prisecile, huh? Grandma doesn't quite\nunderstand, but if it's what Yutaka wants, I'll buy it for you.\""
                             ]
                         },
                         {
@@ -17528,14 +17031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユタカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ～い！ ありがとお婆ちゃん！」"
+                                "Yutaka: \"Yay! Thank you, Grandma!\""
                             ]
                         },
                         {
@@ -17674,14 +17170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユタカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「病院なんて大っ嫌いだけど、お婆ちゃんと一緒なら恐くないんだ！」"
+                                "Yutaka: \"I really hate hospitals, but I'm not scared if I'm with\ngrandma!\""
                             ]
                         },
                         {
@@ -17767,14 +17256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケイイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、おせーな。何分待たせるんだよ……」"
+                                "Keiichi: \"Tch, so late. How many minutes are you going to make me\nwait...\""
                             ]
                         },
                         {
@@ -17791,14 +17273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケイイチ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「予約して来てるんだから時間通りに診察して欲しいぜ、まったく！」"
+                                "Keiichi: \"I made a reservation, so I want to be seen on time,\nseriously!\""
                             ]
                         },
                         {
@@ -17875,14 +17350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「第一診察室で診察を受けてる患者、どこかで見た事があるんだよな」"
+                                "Tetsuya: \"The patient being examined in the first consultation room, I\nfeel like I've seen them somewhere before.\""
                             ]
                         },
                         {
@@ -17899,14 +17367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、誰だったけな……もうちょっとで思い出せそう」"
+                                "Tetsuya: \"Hmm, who was it... I feel like I'm about to remember.\""
                             ]
                         },
                         {
@@ -17974,14 +17435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺製薬のツケシバ社長が第一診察室に入るのを良く見かけるんだ」"
+                                "Tetsuya: \"I often see President Tsukeshiba from Saionji\nPharmaceuticals entering the first examination room.\""
                             ]
                         },
                         {
@@ -17998,14 +17452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テツヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「長々と久巳先生と話しているみたいだし、どこか具合でも悪いのかな･････」"
+                                "Tetsuya: \"He seems to be talking with Dr. Hisami for a long time, I\nwonder if he's feeling unwell somewhere...\""
                             ]
                         },
                         {
@@ -18355,14 +17802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付インフォメーション"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一階フロアには第一診察室と第二診療室があります」"
+                                "Reception Information: \"On the first floor, there are the first and\nsecond examination rooms.\""
                             ]
                         },
                         {
@@ -18379,21 +17819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付インフォメーション"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二階フロアには第三診察室と第四診察室がありますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　現在改装工事のため診察を休止しています」"
+                                "Reception Information: \"On the second floor, there are the third and\nfourth examination rooms, but they are currently closed for\nrenovation.\""
                             ]
                         },
                         {
@@ -18470,14 +17896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようこそ心宿前総合病院へ」"
+                                "Receptionist: \"Welcome to Kokoroyado General Hospital.\""
                             ]
                         },
                         {
@@ -18634,21 +18053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タマヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「こら、駄目でしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ここは病院の関係者以外は入れないのよ」"
+                                "タマヨ: \"Hey, that's not allowed! This area is off-limits to anyone who\nisn't hospital staff.\""
                             ]
                         },
                         {
@@ -18727,14 +18132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タマヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「第二診察室ならこの先のつき当たりになります」"
+                                "タマヨ: \"If you're looking for the second examination room, it's at the\nend of this hallway.\""
                             ]
                         },
                         {
@@ -18751,14 +18149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "タマヨ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「古賀先生が辞められて、現在は伊波先生が担当されていますよ」"
+                                "タマヨ: \"Dr. Koga has resigned, and currently, Dr. Inami is in charge.\""
                             ]
                         },
                         {
@@ -18845,14 +18236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この車椅子、高性能なんだけど動かすには少し重いのよね」"
+                                "Nurse: \"This wheelchair is high-performance, but it's a bit heavy to\nmove.\""
                             ]
                         },
                         {
@@ -18929,14 +18313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サオリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「古賀先生どうしてやめちゃったんだろ」"
+                                "サオリ: \"I wonder why Dr. Koga quit...\""
                             ]
                         },
                         {
@@ -18953,14 +18330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サオリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「優しくて患者思いで、とても良い先生だったのに……」"
+                                "サオリ: \"He was kind and really cared about his patients, such a good\ndoctor...\""
                             ]
                         },
                         {
@@ -18977,14 +18347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サオリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～……今の先生はどうも苦手なのよね」"
+                                "サオリ: \"Sigh... I just can't seem to get comfortable with the current\ndoctor.\""
                             ]
                         },
                         {
@@ -19061,14 +18424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミカコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、あなたもこの病院に通院してるのかしら？」"
+                                "Mikako: \"Oh, do you also come to this hospital for treatment?\""
                             ]
                         },
                         {
@@ -19085,14 +18441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミカコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近この病院、良い噂を聞かないわよ」"
+                                "Mikako: \"I haven't heard any good rumors about this hospital lately.\""
                             ]
                         },
                         {
@@ -19109,14 +18458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミカコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「患者数が減っても待ち時間は以前と変わらず……」"
+                                "Mikako: \"Even though the number of patients has decreased, the waiting\ntime hasn't changed...\""
                             ]
                         },
                         {
@@ -19133,14 +18475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミカコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「病院を変えようかしら……」"
+                                "Mikako: \"Maybe I should change hospitals...\""
                             ]
                         },
                         {
@@ -19288,14 +18623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ん……っ……」"
+                                "Yui: \"...nn...ah...\""
                             ]
                         },
                         {
@@ -19622,14 +18950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは……\\|病院？」"
+                                "Yui: \"Is this... a hospital?\""
                             ]
                         },
                         {
@@ -19922,14 +19243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった。気が付いたみたいね」"
+                                "Nurse: \"Thank goodness. It seems you've come to.\""
                             ]
                         },
                         {
@@ -19946,14 +19260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私どうしてここに……？」"
+                                "Yui: \"Why am I here...?\""
                             ]
                         },
                         {
@@ -19970,21 +19277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「高架下で気を失っている子がいたと、男の人がこの病院まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　運んで来てくれたのよ」"
+                                "Nurse: \"A man brought you here saying he found a girl passed out under\nan overpass.\""
                             ]
                         },
                         {
@@ -20001,14 +19294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんですか……わたし何してたのか覚えてなくて……」"
+                                "Yui: \"Is that so... I can't remember what I was doing...\""
                             ]
                         },
                         {
@@ -20025,14 +19311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気を失ったのが原因で一時的に前後の記憶が無いのかもしれないわね」"
+                                "Nurse: \"Losing consciousness might have caused you to temporarily lose\nyour memory of what happened before and after.\""
                             ]
                         },
                         {
@@ -20049,21 +19328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私を助けてくれた人、わかりますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　会ってお礼を言わなきゃですね」"
+                                "Yui: \"Do you know who helped me? I need to meet them to say thank\nyou.\""
                             ]
                         },
                         {
@@ -20080,21 +19345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん……\\|たしかニット帽を被っていたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それと、夏なのにマフラーをしてたわよ」"
+                                "Nurse: \"Hmm... he was definitely wearing a knit cap. And even though\nit's summer, he had a scarf on.\""
                             ]
                         },
                         {
@@ -20111,21 +19362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「名前を聞こうとしたけど、すぐいなくなったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それくらいしか……」"
+                                "Nurse: \"I tried to ask for his name, but he left quickly, so that's\nall I know...\""
                             ]
                         },
                         {
@@ -20142,21 +19379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニット帽にマフラーですか……\\|"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う～ん、やっぱり全然覚えてないですね」"
+                                "Yui: \"A knit cap and a scarf... Hmm, I really can't remember at all.\""
                             ]
                         },
                         {
@@ -20173,21 +19396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「幸いな事にケガはしてないみたいだけど、危ない場所には近づかない事ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたまだ学生でしょ、気をつけなさいね」"
+                                "Nurse: \"Fortunately, it doesn't seem like you're injured, but don't go\nnear dangerous places, okay? You're still a student, aren't you?\nPlease be careful.\""
                             ]
                         },
                         {
@@ -20397,7 +19606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淫乱度が５上がった！"
+                                "Lewdness increased by 5!"
                             ]
                         },
                         {
@@ -22090,14 +21299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エツコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またセクハラまがいな事を言われたらどうしよ」"
+                                "Etsuko: \"What should I do if I get harassed again?\""
                             ]
                         },
                         {
@@ -22114,14 +21316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エツコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「病院変えようかしら……」"
+                                "Etsuko: \"Maybe I should change hospitals...\""
                             ]
                         },
                         {
@@ -22356,14 +21551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここの病院、西園寺製薬に買収されたって知ってるか？」"
+                                "Shinsuke: \"Did you know this hospital was acquired by Saionji\nPharmaceuticals?\""
                             ]
                         },
                         {
@@ -22380,14 +21568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「買収当時、かなりの先生が入れ替えになったみたいだぞ」"
+                                "Shinsuke: \"It seems that a lot of doctors were replaced at the time of\nthe acquisition.\""
                             ]
                         },
                         {
@@ -22404,14 +21585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シンスケ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「古賀先生を筆頭に優秀な先生が多かっただけに残念だよ」"
+                                "Shinsuke: \"It's a shame, considering we had many excellent doctors,\nincluding Dr. Koga.\""
                             ]
                         },
                         {
@@ -22953,14 +22127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ん……っ……」"
+                                "Yui: \"...nn...ah...\""
                             ]
                         },
                         {
@@ -23287,14 +22454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは……\\|病院？」"
+                                "Yui: \"Is this... a hospital?\""
                             ]
                         },
                         {
@@ -23587,14 +22747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良かった。気が付いたみたいね」"
+                                "Nurse: \"Thank goodness. It seems you've come to.\""
                             ]
                         },
                         {
@@ -23611,14 +22764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私どうしてここに……？」"
+                                "Yui: \"Why am I here...?\""
                             ]
                         },
                         {
@@ -23635,21 +22781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アパートの前で気を失っている子がいると通報があってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それで救急車で運ばれ来たのよ」"
+                                "Nurse: \"There was a report that a girl had fainted in front of the\napartment. That's why you were brought here by ambulance.\""
                             ]
                         },
                         {
@@ -23666,14 +22798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんですか……わたし何してたのか覚えてなくて……」"
+                                "Yui: \"Is that so... I can't remember what I was doing...\""
                             ]
                         },
                         {
@@ -23690,14 +22815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気を失った事で一時的に前後の記憶が途切れているのかもしれないわね」"
+                                "Nurse: \"You might have temporarily lost your memory of what happened\nbefore and after you fainted.\""
                             ]
                         },
                         {
@@ -23714,14 +22832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "看護師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「幸いな事にケガはしてないみたいだけど気をつけなさいね」"
+                                "Nurse: \"Fortunately, it doesn't seem like you're injured, but please\nbe careful.\""
                             ]
                         },
                         {
@@ -23922,7 +23033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淫乱度が１０上がった！"
+                                "Lewdness has increased by 10!"
                             ]
                         },
                         {
@@ -24059,14 +23170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ダメよ、わたしったら！ここは男子トイレよ･････）"
+                                "Pony-Celest: \"No, what am I doing! This is the men's restroom...\""
                             ]
                         },
                         {
@@ -24814,7 +23918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -24822,8 +23926,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27087,21 +26191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらっ、今は診察中だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勝手に入ってくるんじゃない！」"
+                                "Teacher: \"Hey! I'm in the middle of an examination! Don't just barge\nin like that!\""
                             ]
                         },
                         {
@@ -27547,14 +26637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#第一診察室"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#久本先生"
+                                "Dr. Hisamoto's office, Room 1"
                             ]
                         },
                         {
@@ -27650,14 +26733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#第二診察室"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#伊波先生"
+                                "Doctor Inami's second examination room"
                             ]
                         },
                         {
@@ -27775,14 +26851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「現在二階は改装工事中です」"
+                                "Security Guard: \"The second floor is currently under renovation.\""
                             ]
                         },
                         {
@@ -27799,14 +26868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一階の診察室にて受診をお願いします」"
+                                "Security Guard: \"Please visit the consultation room on the first floor\nfor your appointment.\""
                             ]
                         },
                         {
@@ -27986,7 +27048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣の壁から話し声が聞こえてくる。"
+                                "I can hear voices talking through the wall next door."
                             ]
                         },
                         {
@@ -28029,21 +27091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは本当に安心安全だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　配属されて運が良かったぜ俺ら！」"
+                                "???: \"This place is really safe and secure. We were lucky to get\nassigned here!\""
                             ]
                         },
                         {
@@ -28060,21 +27108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、たしかに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰もこの地下にアジトがあるなんて思わねーよな」"
+                                "???: \"Yeah, definitely! No one would ever think we have a hideout\nunderground.\""
                             ]
                         },
                         {
@@ -28091,21 +27125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「病院の奴らでさえ知らないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あのバカな女に見つかるわけねーよ」"
+                                "???: \"Even the hospital folks don't know about it. There's no way that\nstupid woman would find us.\""
                             ]
                         },
                         {
@@ -28122,14 +27142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違いねー！ ははははっ！」"
+                                "???: \"No doubt about it! Hahahaha!\""
                             ]
                         },
                         {
@@ -28591,7 +27604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気持ち悪い人体模型が置かれている。"
+                                "There's a creepy anatomical model placed here."
                             ]
                         },
                         {

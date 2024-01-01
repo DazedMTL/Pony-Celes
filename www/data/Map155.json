@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "戦闘員アジト",
+    "displayName": "Combatant Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -14280,14 +14280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなところに戦闘員のアジトが……」"
+                                "Yui: \"A hideout for combatants in a place like this...\""
                             ]
                         },
                         {
@@ -14304,14 +14297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか、ザイダーグとスーパーは繋がりが……？」"
+                                "Yui: \"Could it be that Zaidar-G and Super are connected...?\""
                             ]
                         },
                         {
@@ -14344,14 +14330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だとすると……おじさんが危険だわ！」"
+                                "Yui: \"If that's the case... Uncle is in danger!\""
                             ]
                         },
                         {
@@ -14595,7 +14574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。何かの仕掛けて開く扉のようだ。"
+                                "It's locked. It seems like a door that opens with some sort of\nmechanism."
                             ]
                         },
                         {
@@ -14678,7 +14657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉を叩く音が聞こえる。"
+                                "I can hear the sound of someone knocking on the door."
                             ]
                         },
                         {
@@ -14818,7 +14797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パネルを操作しますか？"
+                                "Would you like to operate the panel?"
                             ]
                         },
                         {
@@ -14826,8 +14805,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14885,7 +14864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかで扉が開く音がした。"
+                                "Somewhere, the sound of a door opening could be heard."
                             ]
                         },
                         {
@@ -14984,7 +14963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要はなさそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {
@@ -15958,14 +15937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかし八百八の店主、根性だけは一人前だな」"
+                                "Minion A: \"But man, the owner of the 808 shop sure has guts.\""
                             ]
                         },
                         {
@@ -15982,14 +15954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あそこにぶち込まれても、まだ暴れてやがる」"
+                                "Minion A: \"Even after being thrown in there, he's still thrashing\nabout.\""
                             ]
                         },
                         {
@@ -16015,14 +15980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「根性があっても戦闘員の俺らに敵うわけねーのにな！」"
+                                "Minion B: \"He's got guts, but he's no match for us minions!\""
                             ]
                         },
                         {
@@ -16039,14 +15997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「八百屋の親父風情が身の程を知れってんだ」"
+                                "Minion B: \"That greengrocer should know his place.\""
                             ]
                         },
                         {
@@ -16063,14 +16014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははっ、全くだな！」"
+                                "Minion A: \"Hahaha, exactly!\""
                             ]
                         },
                         {
@@ -16135,14 +16079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やはり戦闘員の仕業だったのね）"
+                                "Pony Ceres: \"(So it was the work of the minions after all.)\""
                             ]
                         },
                         {
@@ -16175,14 +16112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おじさんの事を馬鹿にするなんて、頭にきたわ！）"
+                                "Pony Ceres: \"(To make fun of the old man like that, it's infuriating!)\n\""
                             ]
                         },
                         {
@@ -16199,14 +16129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぶっ飛ばしてやるんだから！）"
+                                "Pony Ceres: \"(I'm going to send them flying!)\""
                             ]
                         },
                         {

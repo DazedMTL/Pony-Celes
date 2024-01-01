@@ -12223,14 +12223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It looks like it would open with the \\C[17]Azure\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -12298,14 +12291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "The lock is engaged. It seems it would open if I use the \\C[17]Azure\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -12322,7 +12308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]蒼星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Azure Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -12330,8 +12316,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12373,7 +12359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The lock has been opened!"
                             ]
                         },
                         {
@@ -12697,7 +12683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#大切な想い出、辛い思い出、どんなモノでも預かります！"
+                                "I'll take care of all your memories, precious or painful, no matter\nwhat they are!"
                             ]
                         },
                         {
@@ -12784,14 +12770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しげな人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへへっ、珍しい物を買い取ってやるぜ」"
+                                "Suspicious Person: \"Hehehe, I'll buy any rare items you've got.\""
                             ]
                         },
                         {
@@ -12808,14 +12787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しげな人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これがリストだ。もし見つけたら高値で買い取るぜ」"
+                                "Suspicious Person: \"This is the list. If you find anything, I'll buy\nit for a good price.\""
                             ]
                         },
                         {
@@ -12823,12 +12795,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ホーリーブローチ",
-                                    "週刊ハダカガール",
-                                    "エッチな水着",
-                                    "バニガールの衣装",
-                                    "戦闘員の服",
-                                    "ガッホの絵画"
+                                    "Holy Brooch",
+                                    "Weekly Naked Girl",
+                                    "Risqué swimsuit",
+                                    "Bunny girl costume",
+                                    "Combatant's uniform",
+                                    "Gahho's painting"
                                 ],
                                 -2,
                                 0,
@@ -12858,14 +12830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪しげな人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おお！本当にこれを持ってるのか！？」"
+                                "Suspicious Person: \"Oh! Do you really have it?!\""
                             ]
                         },
                         {
@@ -12882,14 +12847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪しげな人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なら、900000円でどうだ？」"
+                                "Suspicious Person: \"How about 900,000 yen?\""
                             ]
                         },
                         {
@@ -12937,14 +12895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪しげな人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ん？品を持ってなきゃ買い取れねーぜ」"
+                                "Suspicious Person: \"Huh? If you don't have the goods, I can't buy\nthem.\""
                             ]
                         },
                         {
@@ -13311,14 +13262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰でも辛い思い出や大切な想い出の一つや二つくらいあるだろう」"
+                                "Suspicious Man: \"Everyone has one or two painful or precious memories,\nright?\""
                             ]
                         },
                         {
@@ -13335,14 +13279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「\\C[17]想い出の欠片\\C[0]を持っているなら、まとめて俺が預かってやるぜ」"
+                                "Suspicious Man: \"\\C[17]Fragments of memories\\C[0] if you have them,\nI'll take care of them all for you.\""
                             ]
                         },
                         {
@@ -13359,14 +13296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安心しろ。返して欲しくなったらいつでも返してやるからさ」"
+                                "Suspicious Man: \"Don't worry. If you want them back, I'll return them\nanytime.\""
                             ]
                         },
                         {
@@ -13374,9 +13304,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "想い出の欠片を預ける",
-                                    "想い出の欠片を返してもらう",
-                                    "用はありません"
+                                    "I'll entrust you with a piece of my memories",
+                                    "I want the fragment of memories back",
+                                    "I don't need it"
                                 ],
                                 2,
                                 0,
@@ -13496,14 +13426,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "「ん？ 想い出の欠片を一つも持っていないようだぜ……」"
+                                "Suspicious Man: \"Huh? It seems like you don't have a single fragment\nof memory...\""
                             ]
                         },
                         {
@@ -13614,7 +13537,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ａを預けた。"
+                                "Yui entrusted Fragment of Memory A."
                             ]
                         },
                         {
@@ -13680,7 +13603,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｂを預けた。"
+                                "Yui entrusted Fragment of Memory B."
                             ]
                         },
                         {
@@ -13746,7 +13669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｃを預けた。"
+                                "Yui entrusted Fragment of Memory C."
                             ]
                         },
                         {
@@ -13812,7 +13735,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｄを預けた。"
+                                "Yui entrusted Fragment of Memory D."
                             ]
                         },
                         {
@@ -13878,7 +13801,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｅを預けた。"
+                                "Yui entrusted Fragment of Memory E."
                             ]
                         },
                         {
@@ -13905,21 +13828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「確かに受け取ったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　返して欲しくなったらいつでも言ってくれ」"
+                                "Suspicious Man: \"I've certainly received them. If you want them back,\njust tell me anytime.\""
                             ]
                         },
                         {
@@ -13994,21 +13903,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "「ん？ 今は預かってないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "　預かって無いモノはさすがに返せねーぜ！」"
+                                "Suspicious Man: \"Huh? I'm not holding onto anything right now. I can't\nreturn what I don't have!\""
                             ]
                         },
                         {
@@ -14120,7 +14015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ａを返してもらった。"
+                                "Yui got back Fragment of Memory A."
                             ]
                         },
                         {
@@ -14187,7 +14082,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｂを返してもらった。"
+                                "Yui got back Fragment of Memory B."
                             ]
                         },
                         {
@@ -14254,7 +14149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｃを返してもらった。"
+                                "Yui got back Fragment of Memory C."
                             ]
                         },
                         {
@@ -14321,7 +14216,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｄを返してもらった。"
+                                "Yui got back Fragment of Memory D."
                             ]
                         },
                         {
@@ -14388,7 +14283,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは想い出の欠片Ｅを返してもらった。"
+                                "Yui got back Fragment of Memory E."
                             ]
                         },
                         {
@@ -14415,14 +14310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ほら、確かに返したぜ。」"
+                                "Suspicious Man: \"Here, I've definitely returned them.\""
                             ]
                         },
                         {
@@ -14439,21 +14327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪しげな男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お前の想い出はとても輝いていたよ。良い物見させてもらったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また預けたくなったらいつでも預かってやるからな」"
+                                "Suspicious Man: \"Your memories were shining brightly. It was good to\nsee. If you ever want to entrust them again, I'll be here to take\nthem.\""
                             ]
                         },
                         {

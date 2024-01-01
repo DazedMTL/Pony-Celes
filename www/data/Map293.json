@@ -12304,21 +12304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日の授業全く理解出来なかったな･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このままだとクラスで最下位の成績になっちまう」"
+                                "Male Student: \"I didn't understand today's lesson at all... At this\nrate, I'm going to end up with the lowest grades in class.\""
                             ]
                         },
                         {
@@ -12344,14 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、守崎がいるから大丈夫か！」"
+                                "Male Student: \"Ah, Morisaki is here, so it's all good!\""
                             ]
                         },
                         {
@@ -12402,14 +12381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ～、それどういう意味よ！」"
+                                "Yui: \"Haa... What do you mean by that?!\""
                             ]
                         },
                         {
@@ -12480,14 +12452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎！？　い、いや･････なんでもない、なんでもない！」"
+                                "Male Student: \"Morisaki!? N-no... It's nothing, nothing at all!\""
                             ]
                         },
                         {
@@ -12534,21 +12499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ったく！･････私だってザイダーグさえいなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこそこ勉強出来るんだからね)"
+                                "Yui: \"(Honestly!... If it weren't for Zaida-G, I could study fairly\nwell myself, you know.)\""
                             ]
                         },
                         {
@@ -12709,14 +12660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二週間後の期末テスト、今度こそ学年で１位をとってやる！」"
+                                "Male Student: \"I'm going to get the top score in the whole grade on\nthe final exams in two weeks!\""
                             ]
                         },
                         {
@@ -12733,14 +12677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「絶対にあいつなんかに負けねーぞ」"
+                                "Male Student: \"I absolutely won't lose to that guy!\""
                             ]
                         },
                         {
@@ -12817,21 +12754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今朝、西園寺さんに会ったんだけど凄く怒ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかしら」"
+                                "Female Student A: \"I saw Saionji-san this morning, and she seemed\nreally angry. I wonder what happened?\""
                             ]
                         },
                         {
@@ -12848,14 +12771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、隣の教室にいるから直接聞いてみたら？」"
+                                "Female Student B: \"Hmm, why don't you ask her directly? She's in the\nnext classroom, right?\""
                             ]
                         },
                         {
@@ -12872,14 +12788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやよ･････怖くて聞けないわ」"
+                                "Female Student A: \"No way... I'm too scared to ask.\""
                             ]
                         },
                         {
@@ -12896,14 +12805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもそうね。目を付けられたら何されるかわからないし」"
+                                "Female Student B: \"That's true. You never know what she might do to\nyou if you get on her bad side.\""
                             ]
                         },
                         {
@@ -12980,21 +12882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今朝、西園寺さんに会ったんだけど凄く怒ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかしら」"
+                                "Female Student A: \"I saw Saionji-san this morning, and she seemed\nreally angry. I wonder what happened?\""
                             ]
                         },
                         {
@@ -13011,14 +12899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、隣の教室にいるから直接聞いてみたら？」"
+                                "Female Student B: \"Hmm, she's in the classroom next door, why don't\nyou ask her directly?\""
                             ]
                         },
                         {
@@ -13035,14 +12916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやよ･････怖くて聞けないわ」"
+                                "Female Student A: \"No way... I'm too scared to ask.\""
                             ]
                         },
                         {
@@ -13059,14 +12933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それもそうね。目を付けられたら何されるかわからないし」"
+                                "Female Student B: \"That's true. You never know what she might do to\nyou if you get on her bad side.\""
                             ]
                         },
                         {
@@ -13501,14 +13368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学校にもいないか」"
+                                "Ginga: \"She's not at school either?\""
                             ]
                         },
                         {
@@ -13525,14 +13385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だとしたらどこに……」"
+                                "Ginga: \"If that's the case, where could she be...\""
                             ]
                         },
                         {
@@ -13788,14 +13641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「久しぶりね、天沢君！」"
+                                "Karen: \"Long time no see, Amasawa-kun!\""
                             ]
                         },
                         {
@@ -13852,14 +13698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん？」"
+                                "Ginga: \"Saionji-san?\""
                             ]
                         },
                         {
@@ -13969,14 +13808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二週間も学校サボって何してたの？」"
+                                "Karen: \"What have you been doing, skipping school for two weeks?\""
                             ]
                         },
                         {
@@ -14002,14 +13834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二週間！？」"
+                                "Ginga: \"Two weeks!?\""
                             ]
                         },
                         {
@@ -14026,14 +13851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（僕はそんなに気を失ってたのか……）"
+                                "Ginga: \"(Was I unconscious for that long...)\""
                             ]
                         },
                         {
@@ -14050,14 +13868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無断欠席って聞いたわよ。あなたらしくないわね」"
+                                "Karen: \"I heard you were absent without permission. That's not like\nyou.\""
                             ]
                         },
                         {
@@ -14074,14 +13885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少し事情があって……」"
+                                "Ginga: \"There's been a little situation...\""
                             ]
                         },
                         {
@@ -14098,14 +13902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -14122,21 +13919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！ ユイがどこにいるか知らない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　連絡つかなくて家にもいないみたいなんだ」"
+                                "Ginga: \"That's right! Do you know where Yui might be? I can't get in\ntouch with her, and she doesn't seem to be at home.\""
                             ]
                         },
                         {
@@ -14153,14 +13936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ？」"
+                                "Karen: \"Huh?\""
                             ]
                         },
                         {
@@ -14177,21 +13953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつの事なんて私が知るわけないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ってか私の告白断っておいて、よくそんな事が聞けるわね」"
+                                "Karen: \"Why would I know anything about her? Besides, after you turned\ndown my confession, you have the nerve to ask me that?\""
                             ]
                         },
                         {
@@ -14208,14 +13970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ごめん」"
+                                "Ginga: \"...Sorry.\""
                             ]
                         },
                         {
@@ -14232,14 +13987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そうだよね」"
+                                "Ginga: \"...Yeah, you're right.\""
                             ]
                         },
                         {
@@ -14256,14 +14004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -14280,14 +14021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、いいわ特別に教えてあげる」"
+                                "Karen: \"Well, fine. I'll tell you specially.\""
                             ]
                         },
                         {
@@ -14304,14 +14038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつも学校に来てないから、どこにいるのかは知らないわ」"
+                                "Karen: \"She hasn't been coming to school either, so I don't know where\nshe might be.\""
                             ]
                         },
                         {
@@ -14328,14 +14055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、ユイも学校に来てない？」"
+                                "Ginga: \"What, Yui hasn't been coming to school either?\""
                             ]
                         },
                         {
@@ -14352,14 +14072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただ……」"
+                                "Karen: \"But...\""
                             ]
                         },
                         {
@@ -14376,21 +14089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クラスの女子が鮫島と一緒に歩いているところを見かけたって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　話してたわね」"
+                                "Karen: \"I heard some girls in class talking about seeing her walking\nwith Samejima.\""
                             ]
                         },
                         {
@@ -14407,14 +14106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手まで繋いでたらしいわよ」"
+                                "Karen: \"They even seemed to be holding hands.\""
                             ]
                         },
                         {
@@ -14440,14 +14132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ、鮫島と？」"
+                                "Ginga: \"With Samejima?\""
                             ]
                         },
                         {
@@ -14464,14 +14149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた、守崎の事が好きだって言ってたわね」"
+                                "Karen: \"You said you liked Morisaki, didn't you?\""
                             ]
                         },
                         {
@@ -14488,14 +14166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして、ふられちゃったのかしら？」"
+                                "Karen: \"Could it be that you got turned down?\""
                             ]
                         },
                         {
@@ -14512,14 +14183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -14536,14 +14200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして鮫島なんかと……」"
+                                "Ginga: \"Why would she be with someone like Samejima...\""
                             ]
                         },
                         {
@@ -14560,14 +14217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、別に不思議じゃないわよ」"
+                                "Karen: \"Oh, it's not that surprising.\""
                             ]
                         },
                         {
@@ -14584,21 +14234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私、鮫島と付き合ってたことがあるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　彼の魅力なら分かるわるよ」"
+                                "Karen: \"I've dated Samejima before, so I know his charm.\""
                             ]
                         },
                         {
@@ -14615,14 +14251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オラオラ系で素行は最悪だけど、たまーに優しい時があるのよね」"
+                                "Karen: \"He's the tough guy type with terrible behavior, but he can be\nkind sometimes.\""
                             ]
                         },
                         {
@@ -14639,14 +14268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのギャップが好きな人には刺さるのよ」"
+                                "Karen: \"That gap is what some people fall for.\""
                             ]
                         },
                         {
@@ -14663,14 +14285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎が鮫島の事を好きになってもなんら不思議じゃないわね」"
+                                "Karen: \"It wouldn't be strange at all if Morisaki fell for Samejima.\""
                             ]
                         },
                         {
@@ -14687,14 +14302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな事は絶対にないっ！」"
+                                "Ginga: \"That's absolutely impossible!\""
                             ]
                         },
                         {
@@ -14720,14 +14328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なによ！ 急に大声出さないでよ」"
+                                "Karen: \"What's with you! Don't raise your voice all of a sudden.\""
                             ]
                         },
                         {
@@ -14744,14 +14345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん……でも、ユイにかぎってそんな事……」"
+                                "Ginga: \"Sorry... but Yui would never do something like that...\""
                             ]
                         },
                         {
@@ -14768,14 +14362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕らは互いに気持ちを伝えあって、それで……」"
+                                "Ginga: \"We've shared our feelings with each other, and then...\""
                             ]
                         },
                         {
@@ -14792,14 +14379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Karen: \"...\""
                             ]
                         },
                         {
@@ -14816,14 +14396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふ～ん、そん事があったんだ」"
+                                "Karen: \"Hmm, so that happened.\""
                             ]
                         },
                         {
@@ -14840,14 +14413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、特別に鮫島の家の場所を教えてあげてもいいわよ」"
+                                "Karen: \"Well then, I'll tell you where Samejima's house is as a\nspecial favor.\""
                             ]
                         },
                         {
@@ -14864,21 +14430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし二人が一緒にいるなら守崎はそこにいる可能性が高いでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行って確かめてみれば？」"
+                                "Karen: \"If they're together, there's a high chance Morisaki is there.\nWhy don't you go and check it out?\""
                             ]
                         },
                         {
@@ -14895,14 +14447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんと！？ 助かるよ、西園寺さん！」"
+                                "Ginga: \"Really!? That helps a lot, Saionji-san!\""
                             ]
                         },
                         {
@@ -14919,14 +14464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……」"
+                                "Karen: \"But...\""
                             ]
                         },
                         {
@@ -15090,14 +14628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これって個人情報でしょ」"
+                                "Karen: \"This is personal information, you know.\""
                             ]
                         },
                         {
@@ -15114,14 +14645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただで教えるわけにはいかないわね」"
+                                "Karen: \"I can't just tell you for free.\""
                             ]
                         },
                         {
@@ -15138,14 +14662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Ginga: \"Eh?\""
                             ]
                         },
                         {
@@ -15162,14 +14679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一つだけ私の頼み事聞いてもらえるからしら？」"
+                                "Karen: \"You'll have to do a little favor for me, okay?\""
                             ]
                         },
                         {
@@ -15186,14 +14696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼み事？」"
+                                "Ginga: \"A favor?\""
                             ]
                         },
                         {
@@ -15210,14 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一度でいいから、あなたに勉強を教えてもらいたかったんだ」"
+                                "Karen: \"Just once, I want you to teach me how to study.\""
                             ]
                         },
                         {
@@ -15234,14 +14730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どう？ そのくらいならいいでしょ？」"
+                                "Karen: \"How about it? That's not too much to ask, right?\""
                             ]
                         },
                         {
@@ -15258,14 +14747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん、今はそんな時間がないんだ……」"
+                                "Ginga: \"Sorry, I don't have time for that right now...\""
                             ]
                         },
                         {
@@ -15282,14 +14764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一時間でいいわ」"
+                                "Karen: \"One hour is enough.\""
                             ]
                         },
                         {
@@ -15306,14 +14781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守崎と鮫島が今なにをしているか知りたいんでしょ」"
+                                "Karen: \"You want to know what Morisaki and Samejima are doing right\nnow, don't you?\""
                             ]
                         },
                         {
@@ -15330,14 +14798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一時間我満した方が、結果的に早く守崎を見つけだせると思うけど」"
+                                "Karen: \"If you indulge me for an hour, you'll probably find Morisaki\nfaster in the end.\""
                             ]
                         },
                         {
@@ -15354,14 +14815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15378,14 +14832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に鮫島の家を教えてくれるの？」"
+                                "Ginga: \"Will you really tell me where Samejima's house is?\""
                             ]
                         },
                         {
@@ -15402,14 +14849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんよ、嘘は付かないわ」"
+                                "Karen: \"Of course, I don't lie.\""
                             ]
                         },
                         {
@@ -15426,14 +14866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {
@@ -15450,14 +14883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった……」"
+                                "Ginga: \"Understood...\""
                             ]
                         },
                         {
@@ -15474,14 +14900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがと！ 天沢君っ！」"
+                                "Karen: \"Thanks! Ginga-kun!\""
                             ]
                         },
                         {
@@ -15498,14 +14917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、行きましょうか～」"
+                                "Karen: \"Well then, shall we go?\""
                             ]
                         },
                         {
@@ -15522,14 +14934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Ginga: \"...\""
                             ]
                         },
                         {

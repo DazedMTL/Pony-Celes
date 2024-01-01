@@ -14812,14 +14812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。入館証の無い方は立ち入り禁止となっています」"
+                                "Receptionist: \"I'm sorry, but entry is prohibited without a pass.\""
                             ]
                         },
                         {
@@ -14867,14 +14860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Yui: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -14975,14 +14961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。入館証の無い方は立ち入り禁止となっています」"
+                                "Receptionist: \"I'm sorry. Entry is prohibited without an admission\npass.\""
                             ]
                         },
                         {
@@ -15030,14 +15009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Yui: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -15054,14 +15026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気を付けます」"
+                                "Yui: \"I'll be careful.\""
                             ]
                         },
                         {
@@ -15078,14 +15043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おや、おや、学生さんがこんなところに何の用かな？」"
+                                "???: \"Oh my, what brings a student like you to a place like this?\""
                             ]
                         },
                         {
@@ -15477,14 +15435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「社長！」"
+                                "Receptionist: \"President!\""
                             ]
                         },
                         {
@@ -15501,14 +15452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……社長さん？」"
+                                "Yui: \"...President?\""
                             ]
                         },
                         {
@@ -15559,14 +15503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは私の会社だ、君の来るようなところではない」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"This is my company, not\na place for you to come.\""
                             ]
                         },
                         {
@@ -15617,14 +15554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさい……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -15650,14 +15580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません社長。直ぐに追い出しますので！」"
+                                "Receptionist: \"My apologies, President. I will have her leave\nimmediately!\""
                             ]
                         },
                         {
@@ -15690,14 +15613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ、そうして下さい」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Ho ho ho, please do.\""
                             ]
                         },
                         {
@@ -15714,14 +15630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Receptionist: \"...Yes.\""
                             ]
                         },
                         {
@@ -15763,14 +15672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、まて！」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"No, wait!\""
                             ]
                         },
                         {
@@ -15787,14 +15689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その制服……」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"That uniform...\""
                             ]
                         },
                         {
@@ -15811,14 +15706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……湘東学園か」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"...Shoto Academy, isn't\nit?\""
                             ]
                         },
                         {
@@ -15835,14 +15723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Yui: \"...Yes.\""
                             ]
                         },
                         {
@@ -15859,14 +15740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしや……カレンお嬢さんのお友達かな？」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Could it be... are you\na friend of Miss Karen?\""
                             ]
                         },
                         {
@@ -15883,14 +15757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仲はそれほど良くないですが……」"
+                                "Yui: \"We're not that close, but...\""
                             ]
                         },
                         {
@@ -15923,14 +15790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Ho ho ho.\""
                             ]
                         },
                         {
@@ -15947,21 +15807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかそうか……カレンお嬢様は少し傲慢なところもあるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが大目に見てやって欲しい」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"I see, I see... Miss\nKaren can be a bit arrogant at times. But I hope you can overlook\nthat.\""
                             ]
                         },
                         {
@@ -15978,21 +15824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前社長の親父さんを事故で無くして心を閉ざしてしまった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　可哀そうな子だ。仲良くしてやってくれ」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"She's a poor child who\nclosed off her heart after losing her father, the former president, in\nan accident. Please befriend her.\""
                             ]
                         },
                         {
@@ -16009,14 +15841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……わかりました」"
+                                "Yui: \"...Understood.\""
                             ]
                         },
                         {
@@ -16033,14 +15858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうお嬢さん。では、失礼するよ」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Thank you, young lady.\nNow, if you'll excuse me.\""
                             ]
                         },
                         {
@@ -16650,14 +16468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。入館証の無い方は立ち入り禁止となっています」"
+                                "Receptionist: \"I'm sorry, but entry is prohibited without a pass.\""
                             ]
                         },
                         {
@@ -16705,14 +16516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Yui: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -16801,21 +16605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ツケシバ社長になってから西園寺製薬は色々な分野に事業展開を始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フォルス地区の病院やスーパーが西園寺系列になったのは知ってたか？」"
+                                "Employee: \"Ever since Tsukeshiba became president, Saionji\nPharmaceuticals has started expanding into various fields. Did you\nknow that the hospitals and supermarkets in the Fols district have\nbecome part of the Saionji conglomerate?\""
                             ]
                         },
                         {
@@ -16832,21 +16622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに、つい先日ザイダーグに襲撃されたアーバン地区のために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ボランティアで復旧工事を行ってるんだ」"
+                                "Employee: \"Moreover, they've been doing volunteer reconstruction work\nfor the Urban district that was recently attacked by Zaidrug.\""
                             ]
                         },
                         {
@@ -16863,14 +16639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当に凄いよツケシバ社長は！」"
+                                "Employee: \"Tsukeshiba president is truly amazing!\""
                             ]
                         },
                         {
@@ -16887,21 +16656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この調子でいけば、この製薬会社を創設した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　西園寺トクマ前社長より偉大な人になるかもね」"
+                                "Employee: \"At this rate, he might become even greater than the former\npresident Tokuma Saionji, who founded this pharmaceutical company.\""
                             ]
                         },
                         {
@@ -16978,14 +16733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カレンお嬢さん最近元気が無いのよね」"
+                                "Employee: \"Miss Karen hasn't been very lively lately, has she?\""
                             ]
                         },
                         {
@@ -17002,14 +16750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「友達いないのかしら？」"
+                                "Employee: \"I wonder if she doesn't have any friends?\""
                             ]
                         },
                         {
@@ -17467,14 +17208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この先は西園寺製薬の役員専用エレベーターです」"
+                                "Guard: \"This elevator is exclusively for the executives of Saionji\nPharmaceuticals.\""
                             ]
                         },
                         {
@@ -17491,14 +17225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「カレン様とツケシバ社長の居住フロアまで直通になっております」"
+                                "Guard: \"It goes directly to the residential floors of Miss Karen and\nPresident Tsukeshiba.\""
                             ]
                         },
                         {
@@ -17515,14 +17242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お二方どちらかの許可が無いとお通しする事が出来ません」"
+                                "Guard: \"I cannot let you through without permission from either of\nthem.\""
                             ]
                         },
                         {
@@ -17549,14 +17269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お帰りですか？」"
+                                "Guard: \"Are you leaving?\""
                             ]
                         },
                         {
@@ -17564,8 +17277,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17794,14 +17507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この先は西園寺製薬の役員専用エレベーターです」"
+                                "Guard: \"This elevator is exclusively for the executives of Saionji\nPharmaceuticals.\""
                             ]
                         },
                         {
@@ -17818,14 +17524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「カレン様とツケシバ社長の居住フロアまで直通になっております」"
+                                "Guard: \"It goes directly to the residential floors of Miss Karen and\nPresident Tsukeshiba.\""
                             ]
                         },
                         {
@@ -17842,14 +17541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もしや、カレンお嬢様のお友達ですか？」"
+                                "Guard: \"Could it be that you are a friend of Miss Karen?\""
                             ]
                         },
                         {
@@ -17857,8 +17549,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17888,14 +17580,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「では、お通り下さい」"
+                                "Guard: \"In that case, please go ahead.\""
                             ]
                         },
                         {
@@ -17968,14 +17653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「では、お引き取り下さい」"
+                                "Guard: \"Then, please withdraw.\""
                             ]
                         },
                         {
@@ -18012,14 +17690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「お帰りですか？」"
+                                "Guard: \"Are you returning?\""
                             ]
                         },
                         {
@@ -18027,8 +17698,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No, not yet"
                                 ],
                                 1,
                                 0,
@@ -18217,14 +17888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在、西園寺製薬は一般客の入館を禁止している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備員に話しかけるのは止めておこう。"
+                                "Currently, Saionji Pharmaceuticals is prohibiting entry to the general\npublic. Let's avoid talking to the security guard."
                             ]
                         },
                         {
@@ -18342,14 +18006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。入館証の無い方は立ち入り禁止となっています」"
+                                "Receptionist: \"I'm sorry, but entry is prohibited without a pass.\""
                             ]
                         },
                         {
@@ -18397,14 +18054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Yui: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -18505,14 +18155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。入館証の無い方は立ち入り禁止となっています」"
+                                "Receptionist: \"I'm sorry, but entry is prohibited without an admission\npass.\""
                             ]
                         },
                         {
@@ -18560,14 +18203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Yui: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -18584,14 +18220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気を付けます」"
+                                "Yui: \"I'll be careful.\""
                             ]
                         },
                         {
@@ -18608,14 +18237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おや、おや、学生さんがこんなところに何の用かな？」"
+                                "???: \"Oh my, what brings a student like you to a place like this?\""
                             ]
                         },
                         {
@@ -19007,14 +18629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「社長！」"
+                                "Receptionist: \"President!\""
                             ]
                         },
                         {
@@ -19031,14 +18646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……社長さん？」"
+                                "Yui: \"...President?\""
                             ]
                         },
                         {
@@ -19089,14 +18697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは私の会社だ、君の来るようなところではない」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"This is my company, not\na place for you to come.\""
                             ]
                         },
                         {
@@ -19147,14 +18748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさい……」"
+                                "Yui: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -19180,14 +18774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません社長。直ぐに追い出しますので！」"
+                                "Receptionist: \"My apologies, President. I will have her leave\nimmediately!\""
                             ]
                         },
                         {
@@ -19220,14 +18807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ、そうして下さい」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Ho ho ho, please do.\""
                             ]
                         },
                         {
@@ -19244,14 +18824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Receptionist: \"...Yes.\""
                             ]
                         },
                         {
@@ -19293,14 +18866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、まて！」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"No, wait!\""
                             ]
                         },
                         {
@@ -19317,14 +18883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その制服……」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"That uniform...\""
                             ]
                         },
                         {
@@ -19341,14 +18900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……湘東学園か」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"...Shoto Academy, isn't\nit?\""
                             ]
                         },
                         {
@@ -19365,14 +18917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Yui: \"...Yes.\""
                             ]
                         },
                         {
@@ -19389,14 +18934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしや……カレンお嬢さんのお友達かな？」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Could it be... are you\na friend of Miss Karen?\""
                             ]
                         },
                         {
@@ -19413,14 +18951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仲はそれほど良くないですが……」"
+                                "Yui: \"We're not that close, but...\""
                             ]
                         },
                         {
@@ -19453,14 +18984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぉふぉふぉっ」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Ho ho ho.\""
                             ]
                         },
                         {
@@ -19477,21 +19001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかそうか……カレンお嬢様は少し傲慢なところもあるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが大目に見てやって欲しい」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"I see, I see... Miss\nKaren can be a bit arrogant at times. But I hope you can overlook\nthat.\""
                             ]
                         },
                         {
@@ -19508,21 +19018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前社長の親父さんを事故で無くして心を閉ざしてしまった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　可哀そうな子だ。仲良くしてやってくれ」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"She's a poor child who\nclosed off her heart after losing her father, the former president, in\nan accident. Please befriend her.\""
                             ]
                         },
                         {
@@ -19539,14 +19035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……わかりました」"
+                                "Yui: \"...Understood.\""
                             ]
                         },
                         {
@@ -19563,14 +19052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "西園寺製薬社長ツケシバ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうお嬢さん。では、失礼するよ」"
+                                "Saionji Pharmaceuticals President Tsukeshiba: \"Thank you, young lady.\nNow, if you'll excuse me.\""
                             ]
                         },
                         {
@@ -20180,14 +19662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。入館証の無い方は立ち入り禁止となっています」"
+                                "Receptionist: \"I'm sorry, but entry is prohibited without a pass.\""
                             ]
                         },
                         {
@@ -20235,14 +19710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、ごめんなさい！」"
+                                "Yui: \"Ah, I'm sorry!\""
                             ]
                         },
                         {
@@ -20783,7 +20251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -20944,7 +20412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは引き出しを開けた。"
+                                "Yui opened the drawer."
                             ]
                         },
                         {
@@ -20971,7 +20439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[294]医療キット】を手に入れた！"
+                                "【\\i[294]Medical Kit】acquired!"
                             ]
                         },
                         {
@@ -21078,7 +20546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは引き出しを開けた。"
+                                "Yui opened the drawer."
                             ]
                         },
                         {
@@ -21095,7 +20563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -21203,7 +20671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは引き出しを開けた。"
+                                "Yui opened the drawer."
                             ]
                         },
                         {
@@ -21220,7 +20688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {

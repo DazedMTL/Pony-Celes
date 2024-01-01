@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "四越屋１Ｆ",
+    "displayName": "Shiyoshiya 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -30098,7 +30098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "【\\i[90]The Tome of Endurance】has been obtained!"
                             ]
                         },
                         {
@@ -30636,7 +30636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[98]マシュマロ】を手に入れた！"
+                                "Obtained the 【\\i[98]Marshmallow】!"
                             ]
                         },
                         {
@@ -31836,7 +31836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "150\\G 手に入れた！"
+                                "Obtained 150\\G!"
                             ]
                         },
                         {
@@ -34472,7 +34472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特殊な糸が張られており断ち切る事ができない。"
+                                "A special thread has been strung up, making it impossible to cut\nthrough."
                             ]
                         },
                         {
@@ -34729,7 +34729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特殊な糸が張られており断ち切る事ができない。"
+                                "A special thread has been strung up, making it impossible to cut\nthrough."
                             ]
                         },
                         {
@@ -35886,7 +35886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　［●２●●］"
+                                ""
                             ]
                         },
                         {
@@ -36512,7 +36512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -36520,9 +36520,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２階",
-                                    "３階",
-                                    "やめる"
+                                    "Second floor",
+                                    "Third floor",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -36849,7 +36849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３階のボタンを押しても反応が無い。"
+                                "Pressing the button for the third floor doesn't seem to do anything."
                             ]
                         },
                         {
@@ -36940,7 +36940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -36948,9 +36948,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２階",
-                                    "３階",
-                                    "やめる"
+                                    "Second floor",
+                                    "Third floor",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -38262,14 +38262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは……蜘蛛の糸！？」"
+                                "Pony-Celeste: \"This is... spider silk!?\""
                             ]
                         },
                         {
@@ -38286,14 +38279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「た、助けてくれ……」"
+                                "Man: \"P-please help me...\""
                             ]
                         },
                         {
@@ -38326,14 +38312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中に人が！？ 今助けます！」"
+                                "Pony-Celeste: \"There's someone inside!? I'll save you now!\""
                             ]
                         },
                         {
@@ -38626,14 +38605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫ですか？ しっかりして下さい！」"
+                                "Pony-Celeste: \"Are you okay? Please hang in there!\""
                             ]
                         },
                         {
@@ -38650,14 +38622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は、ポニーセレス！？」"
+                                "Man: \"You are... Pony-Celeste!?\""
                             ]
                         },
                         {
@@ -38674,14 +38639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう！ おかげで助かったよ」"
+                                "Man: \"Thank you! I owe you my life.\""
                             ]
                         },
                         {
@@ -38721,14 +38679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無事で何よりです！」"
+                                "Pony-Celeste: \"I'm glad you're safe!\""
                             ]
                         },
                         {
@@ -38745,21 +38696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「奥にも僕みたいに捕らわれた人が大勢いるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんとか救出してやって欲しい」"
+                                "Man: \"There should be many others captured like me further in. Please,\nsomehow rescue them.\""
                             ]
                         },
                         {
@@ -38792,14 +38729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんです！ 後は私に任せて、ここから避難して下さい」"
+                                "Pony-Celeste: \"Of course! Leave the rest to me, and evacuate from\nhere.\""
                             ]
                         },
                         {
@@ -38816,14 +38746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああ、みんなを救ってやってくれ、頼んだよ！」"
+                                "Man: \"Ah, please save everyone, I'm counting on you!\""
                             ]
                         },
                         {
@@ -39145,7 +39068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[232]パヤリースオレンジ】を手に入れた！"
+                                "You've obtained the 【\\i[232]Paya-Li S'Orange】!"
                             ]
                         },
                         {
@@ -44049,7 +43972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　［４●●●］"
+                                "[4●●●]"
                             ]
                         },
                         {
@@ -44135,7 +44058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　［●●●４］"
+                                "[●●●４]"
                             ]
                         },
                         {
@@ -44221,7 +44144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　［●●５●］"
+                                ""
                             ]
                         },
                         {
@@ -48592,14 +48515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホールにこんなにも人が」"
+                                "Pony-Celest: \"There are so many people in the hall.\""
                             ]
                         },
                         {
@@ -48616,14 +48532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く助け出さなきゃ！」"
+                                "Pony-Celest: \"We have to rescue them quickly!\""
                             ]
                         },
                         {
@@ -48866,14 +48775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメだわこの糸、引き千切れない」"
+                                "Pony-Celest: \"No good, this thread won't snap.\""
                             ]
                         },
                         {
@@ -48890,14 +48792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうすればいいの……」"
+                                "Pony-Celest: \"What should I do...\""
                             ]
                         },
                         {
@@ -51235,7 +51130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Acquired the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {

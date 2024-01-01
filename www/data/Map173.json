@@ -9642,7 +9642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客の気配がする。見つからないようにしよう。"
+                                "I sense someone's presence. Let's make sure we don't get spotted."
                             ]
                         },
                         {
@@ -9772,7 +9772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[291]店長室の鍵】を手に入れた！"
+                                "I've obtained the 【\\i[291]Manager's Room Key】!"
                             ]
                         },
                         {
@@ -9806,7 +9806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋の奥の方から話し声が聞えてきた。"
+                                "I could hear voices coming from the back of the room."
                             ]
                         },
                         {
@@ -9848,14 +9848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近かなり儲かってるみたいだな」"
+                                "Iwao: \"It seems like we've been making quite a profit recently.\""
                             ]
                         },
                         {
@@ -9872,14 +9865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「新ビジネス大成功ってわけか」"
+                                "Iwao: \"So the new business is a big success, huh?\""
                             ]
                         },
                         {
@@ -9896,14 +9882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "???: \"...\""
                             ]
                         },
                         {
@@ -9920,14 +9899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出来上がったら俺にも見せてくれよ」"
+                                "Iwao: \"Show it to me once it's finished, will you?\""
                             ]
                         },
                         {
@@ -9944,14 +9916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "???: \"...\""
                             ]
                         },
                         {
@@ -9968,14 +9933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、こっちはこれからミキコと楽しませてもらう」"
+                                "Iwao: \"Ah, I'm about to have some fun with Mikiko now.\""
                             ]
                         },
                         {
@@ -9992,14 +9950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一発ぬいたらお前の部屋で待たせてもらうよ」"
+                                "Iwao: \"After I pop one off, I'll wait in your room.\""
                             ]
                         },
                         {
@@ -10016,14 +9967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "???: \"...\""
                             ]
                         },
                         {
@@ -10040,21 +9984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イワオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、そろそろミキコが来る頃だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう切るぞ。そっちは今から頑張れよ」"
+                                "Iwao: \"Oops, Mikiko should be arriving soon. I'm going to hang up now.\nYou do your best from now on.\""
                             ]
                         },
                         {

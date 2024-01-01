@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トリップストア",
+    "displayName": "Trip Store",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -9529,7 +9529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -9537,10 +9537,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１階：エントランス",
-                                    "２階：どこにも行かない",
-                                    "３階：足つぼマッサージ店",
-                                    "４階：空き店舗"
+                                    "1st Floor: Entrance",
+                                    "2nd Floor: Nowhere in particular",
+                                    "3rd Floor: Reflexology Massage Shop",
+                                    "4th Floor: Vacant Store"
                                 ],
                                 -2,
                                 0,
@@ -10175,14 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]があれば開きそうだ。"
+                                "The door is locked. It looks like it would open with the \\C[17]Crimson\nStar Key\\C[0]."
                             ]
                         },
                         {
@@ -10250,14 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用すれば開きそうだ。"
+                                "It's locked. If I use the \\C[17]Crimson Star Key\\C[0], it looks like\nit will open."
                             ]
                         },
                         {
@@ -10274,7 +10260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]紅星の鍵\\C[0]を使用しますか？"
+                                "Do you want to use the \\C[17]Crimson Star Key\\C[0]?"
                             ]
                         },
                         {
@@ -10282,8 +10268,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10325,7 +10311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を開けた！"
+                                "The key has been turned!"
                             ]
                         },
                         {
@@ -10741,7 +10727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポスターの端から隙間風が漏れている。"
+                                "A draft is leaking from the edge of the poster."
                             ]
                         },
                         {
@@ -10758,7 +10744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポスターを剥がしますか？"
+                                "Do you want to peel off the poster?"
                             ]
                         },
                         {
@@ -10766,8 +10752,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10825,7 +10811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポスターの後ろに人が隠れていた！"
+                                "There was someone hiding behind the poster!"
                             ]
                         },
                         {
@@ -11042,14 +11028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは紹介制のアダルトショップだ」"
+                                "Manager: \"This is a referral-based adult shop.\""
                             ]
                         },
                         {
@@ -11066,14 +11045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残念だが君に売れる品は無いよ」"
+                                "Manager: \"Unfortunately, there's nothing here that I can sell to you.\""
                             ]
                         },
                         {
@@ -11150,14 +11122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は……」"
+                                "Manager: \"You are...\""
                             ]
                         },
                         {
@@ -11174,14 +11139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「湘東学園の制服にポニーテールで胸がクソでか……」"
+                                "Manager: \"Wearing Shoto Academy's uniform with a ponytail and huge\ntits...\""
                             ]
                         },
                         {
@@ -11232,14 +11190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん……？」"
+                                "Yui: \"Hm...?\""
                             ]
                         },
                         {
@@ -11256,14 +11207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いや……なんでもない」"
+                                "Manager: \"Ah, no... it's nothing.\""
                             ]
                         },
                         {
@@ -11280,21 +11224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつから紹介を受けているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁ、最近仕入れたグッズだ！ 気に入った品があれば言ってくれ」"
+                                "Manager: \"I was referred to you by that guy. Now, here are the goods\nwe've recently acquired! If you find something you like, let me know.\""
                             ]
                         },
                         {
@@ -11446,14 +11376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ｈなお客さん、大歓迎だよ！」"
+                                "Store Manager: \"Horny customers are very welcome!\""
                             ]
                         },
                         {
@@ -11582,14 +11505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ｈなお客さん、大歓迎だよ！」"
+                                "Store Manager: \"Horny customers, you're very welcome!\""
                             ]
                         },
                         {
@@ -11708,14 +11624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ｈなお客さん、大歓迎だよ！」"
+                                "Store Manager: \"Horny customers, you're very welcome!\""
                             ]
                         },
                         {
@@ -11834,14 +11743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Ｈなお客さん、大歓迎だよ！」"
+                                "Manager: \"Horny customers are very welcome!\""
                             ]
                         },
                         {
@@ -12082,7 +11984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -12239,14 +12141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この店の品を買うにはまずはあいつに会わなきゃ……」"
+                                "Kenta: \"To buy something from this shop, first I've got to meet with\nthat person...\""
                             ]
                         },
                         {
@@ -12263,14 +12158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「フォルス地区の歓楽街入口付近にいるから探してみるといいよ」"
+                                "Kenta: \"They're usually around the entrance to the entertainment\ndistrict in Fols area, so you should try looking there.\""
                             ]
                         },
                         {
@@ -12338,14 +12226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君みたいな真面目そうな子がこの店に来るとはね……」"
+                                "Kenta: \"I'm surprised to see someone as serious-looking as you in this\nshop...\""
                             ]
                         },
                         {
@@ -12362,14 +12243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ、いいや」"
+                                "Kenta: \"Well, never mind.\""
                             ]
                         },
                         {
@@ -12386,14 +12260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君、Ｈなアイテムを買いに来たんだよね？」"
+                                "Kenta: \"You came here to buy some naughty items, didn't you?\""
                             ]
                         },
                         {
@@ -12401,8 +12268,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "良いものがあれば……",
-                                    "ち、違いますっ！"
+                                    "If there's something good",
+                                    "N-No, that's not it!"
                                 ],
                                 1,
                                 0,
@@ -12466,14 +12333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「良いものがあれば……」"
+                                "Yui: \"If there's something good...\""
                             ]
                         },
                         {
@@ -12490,14 +12350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっぱりね！」"
+                                "Kenta: \"I knew it!\""
                             ]
                         },
                         {
@@ -12514,14 +12367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃあ、僕から一つ助言を……」"
+                                "Kenta: \"Then, let me give you a piece of advice...\""
                             ]
                         },
                         {
@@ -12538,21 +12384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「この店のイチ押しは激アナル棒だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　なんたって淫乱度が２０も上昇する代物だからね」"
+                                "Kenta: \"This shop's top recommendation is the Intense Anal Stick! It's\na product that raises your lewdness level by 20, after all.\""
                             ]
                         },
                         {
@@ -12569,14 +12401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも注意！ 一度使用すると耐性が出来て淫乱度が上がらなくなるんだ」"
+                                "Kenta: \"But be careful! Once you use it, you'll build up a resistance\nand your lewdness level won't go up anymore.\""
                             ]
                         },
                         {
@@ -12593,21 +12418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「淫乱度をもっと上げたいなら他の道具を使うか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　エロ本でも読む事だね」"
+                                "Kenta: \"If you want to increase your lewdness level even more, you'll\nhave to use other tools or maybe read some erotic books.\""
                             ]
                         },
                         {
@@ -12696,14 +12507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ち、違いますっ！！」"
+                                "Yui: \"Th-that's not it!!\""
                             ]
                         },
                         {
@@ -12720,14 +12524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ははっ、恥ずかしがらなくてもいいよ」"
+                                "Kenta: \"Haha, no need to be shy.\""
                             ]
                         },
                         {
@@ -12744,14 +12541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ケンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「照れちゃってるからバレバレさ」"
+                                "Kenta: \"You're blushing, so it's totally obvious.\""
                             ]
                         },
                         {
@@ -12784,14 +12574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うっ！！」"
+                                "Yui: \"Ugh!!\""
                             ]
                         },
                         {

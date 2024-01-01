@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "戦闘員アジト",
+    "displayName": "Combatant Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -13117,7 +13117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの仕掛けて開く扉のようだ。"
+                                "It seems to be a door that opens with some sort of mechanism."
                             ]
                         },
                         {
@@ -16374,7 +16374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員の心得と題した本が並べられている。"
+                                "Books titled \"The Essentials of Combatants\" are lined up."
                             ]
                         },
                         {
@@ -16470,7 +16470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員の心得と題した本が並べられている。"
+                                "Books titled \"The Combatant's Code\" are lined up."
                             ]
                         },
                         {
@@ -16566,7 +16566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘員の心得と題した本が並べられている。"
+                                "Books titled \"The Essentials of Combatants\" are lined up."
                             ]
                         },
                         {

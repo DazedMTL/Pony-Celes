@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "音楽室",
+    "displayName": "Music Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -16795,14 +16795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な形状の装置から催眠電波が発せられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装置を壊しますか？"
+                                "Hypnotic waves are being emitted from a strangely shaped device. Will\nyou destroy the device?"
                             ]
                         },
                         {
@@ -16810,8 +16803,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16841,14 +16834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でやぁあああああぁぁーーー！！」"
+                                "Pony-Ceres: \"Deyaaaaaaaahhh---!!\""
                             ]
                         },
                         {
@@ -17082,7 +17068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装置は故障している。"
+                                "The device is malfunctioning."
                             ]
                         },
                         {
@@ -17159,7 +17145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが落ちている。拾いますか？"
+                                "A red keyboard harmonica is lying on the ground. Will you pick it up?"
                             ]
                         },
                         {
@@ -17167,8 +17153,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17198,7 +17184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[171]赤色の鍵盤ハーモニカ】を手に入れた！"
+                                "I've obtained the 【\\i[171]Red Keyboard Harmonica】!"
                             ]
                         },
                         {
@@ -17590,7 +17576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが落ちている。拾いますか？"
+                                "A blue keyboard harmonica is lying on the ground. Will you pick it up?"
                             ]
                         },
                         {
@@ -17598,8 +17584,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17629,7 +17615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[161]青色の鍵盤ハーモニカ】を手に入れた！"
+                                "You obtained the 【\\i[161]Blue Keyboard Harmonica】!"
                             ]
                         },
                         {
@@ -17799,7 +17785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyed harmonica is placed here."
                             ]
                         },
                         {
@@ -17876,7 +17862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -17953,7 +17939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyed harmonica is placed here."
                             ]
                         },
                         {
@@ -18030,7 +18016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyed harmonica is placed here."
                             ]
                         },
                         {
@@ -18107,7 +18093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyed harmonica is placed here."
                             ]
                         },
                         {
@@ -18184,7 +18170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18261,7 +18247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyed harmonica is placed here."
                             ]
                         },
                         {
@@ -18338,7 +18324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18415,7 +18401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18492,7 +18478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18569,7 +18555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18646,7 +18632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18723,7 +18709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18800,7 +18786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18877,7 +18863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -18954,7 +18940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -19031,7 +19017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -19108,7 +19094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -19236,7 +19222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカを置きますか？"
+                                "Shall I place the red keyboard harmonica?"
                             ]
                         },
                         {
@@ -19244,8 +19230,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19472,7 +19458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤色の鍵盤ハーモニカが置かれている。"
+                                "A red-keyed harmonica is placed here."
                             ]
                         },
                         {
@@ -19600,7 +19586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカを置きますか？"
+                                "Would you like to place the blue keyboard harmonica?"
                             ]
                         },
                         {
@@ -19608,8 +19594,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19839,7 +19825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青色の鍵盤ハーモニカが置かれている。"
+                                "A blue keyboard harmonica is placed here."
                             ]
                         },
                         {
@@ -19944,7 +19930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見えない何かにぶつかった！"
+                                "I bumped into something invisible!"
                             ]
                         },
                         {
@@ -20012,14 +19998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇妙な形状の装置から催眠電波が発せられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装置を壊しますか？"
+                                "Hypnotic waves are being emitted from a strangely shaped device. Will\nyou destroy the device?"
                             ]
                         },
                         {
@@ -20027,8 +20006,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20058,14 +20037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でやあああああぁぁーーー！！」"
+                                "Pony-Ceres: \"Deyaaaaaaaahhh---!!\""
                             ]
                         },
                         {
@@ -20299,7 +20271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装置は故障している。"
+                                "The device is malfunctioning."
                             ]
                         },
                         {
@@ -20881,14 +20853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「理事長は……\\C[17]この部屋\\C[0]で……何かして……いた……」"
+                                "Minion: \"The principal was... in \\C[17]this room\\C[0]... doing\nsomething...\""
                             ]
                         },
                         {
@@ -21259,21 +21224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな事になるなら……あの子の……ハーモニカ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　関節キス……しておきた……かった……」"
+                                "Minion: \"If it was going to come to this... I wish I had... kissed\nher... Harmonica... joint...\""
                             ]
                         },
                         {

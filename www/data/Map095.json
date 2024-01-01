@@ -30097,7 +30097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G Got it!"
                             ]
                         },
                         {
@@ -31612,7 +31612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "0\\G 手に入れた！"
+                                "0\\G I've got it!"
                             ]
                         },
                         {
@@ -35628,7 +35628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　【●２●●】"
+                                "【●２●●】"
                             ]
                         },
                         {
@@ -36254,7 +36254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -36262,8 +36262,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２階",
-                                    "３階"
+                                    "Second floor",
+                                    "Third floor"
                                 ],
                                 1,
                                 0,
@@ -36590,7 +36590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "３階のボタンを押しても反応が無い。"
+                                "Even when I press the button for the third floor, there's no response."
                             ]
                         },
                         {
@@ -36668,7 +36668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -36676,8 +36676,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "２階",
-                                    "３階"
+                                    "Second floor",
+                                    "Third floor"
                                 ],
                                 1,
                                 0,
@@ -42770,7 +42770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　【４●●●】"
+                                "【4●●●】"
                             ]
                         },
                         {
@@ -42856,7 +42856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　【●●●４】"
+                                "【】"
                             ]
                         },
                         {
@@ -42942,7 +42942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　【●●５●】"
+                                "【】"
                             ]
                         },
                         {
@@ -44045,14 +44045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！ 助けに来てくれたんだ！」"
+                                "Male A: \"Pony-Celest! You came to save us!\""
                             ]
                         },
                         {
@@ -44246,14 +44239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで私達、助かるのね！」"
+                                "Female A: \"With this, we're saved!\""
                             ]
                         },
                         {
@@ -44301,14 +44287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「黙れっ！ 勝手に口を開くな！！」"
+                                "Spider-G: \"Silence! Don't you dare speak without permission!!\""
                             ]
                         },
                         {
@@ -44404,14 +44383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ、なぜだ……なぜヘルズネットにかからなかった！？」"
+                                "Spider-G: \"Wha-, why... why didn't you get caught in the Hell's Net!?\""
                             ]
                         },
                         {
@@ -44469,14 +44441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「残念だったわね。あなたの小細工なんか通用しないわ！」"
+                                "Pony-Celest: \"Too bad for you. Your little tricks won't work on me!\""
                             ]
                         },
                         {
@@ -44500,14 +44465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！」"
+                                "Spider-G: \"Grr!\""
                             ]
                         },
                         {
@@ -44538,14 +44496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、追い詰めたわよ。覚悟しなさい！」"
+                                "Pony-Celest: \"Now, I've got you cornered. Prepare yourself!\""
                             ]
                         },
                         {
@@ -44569,14 +44520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそがっ！ オレが、オレがこんなガキに負けるはずがねぇー！」"
+                                "Spider-G: \"Damn it! I, I can't lose to a brat like this-!\""
                             ]
                         },
                         {
@@ -45030,14 +44974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やああああぁーーっ！！」"
+                                "Pony-Celest: \"Yaaaaaah--!!\""
                             ]
                         },
                         {
@@ -45238,14 +45175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とりゃあああぁぁーっ！！」"
+                                "Pony-Celest: \"Take thiiiiis--!!\""
                             ]
                         },
                         {
@@ -45377,14 +45307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐはっ……\\|ば、ばかな……こんな、どうして……」"
+                                "Spider-G: \"Guh... im, impossible... how could this...\""
                             ]
                         },
                         {
@@ -45449,14 +45372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで最後よ。聖なる光の裁きを受けなさい！」"
+                                "Pony-Celest: \"This is the end. Receive the judgment of the holy\nlight!\""
                             ]
                         },
                         {
@@ -45494,14 +45410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホーリージャッジメント！！」"
+                                "Pony-Celest: \"Holy Judgment!!\""
                             ]
                         },
                         {
@@ -45721,14 +45630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スパイダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガルベスさまぁーーーーーーっ！！！」"
+                                "Spider-G: \"Lord Galves------!!!\""
                             ]
                         },
                         {
@@ -45786,14 +45688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正義は―」"
+                                "Pony-Celest: \"Justice is-\""
                             ]
                         },
                         {
@@ -45881,14 +45776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「勝つ！！\\|な～んてね♡」"
+                                "Pony-Celest: \"Victorious!! Just kidding♡\""
                             ]
                         },
                         {
@@ -46988,7 +46876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして――"
+                                "And then--"
                             ]
                         },
                         {

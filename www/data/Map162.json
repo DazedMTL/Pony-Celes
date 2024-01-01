@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "１０３号室",
+    "displayName": "Room 103",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12374,7 +12374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12401,7 +12401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[230]すっきりリンゴ】を手に入れた！"
+                                "【\\i[230]Crisp Apple】acquired!"
                             ]
                         },
                         {
@@ -12508,7 +12508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイは冷蔵庫を開けた。"
+                                "Yui opened the refrigerator."
                             ]
                         },
                         {
@@ -12525,7 +12525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {
@@ -12612,14 +12612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モニターは電車の写真フォルダと盗撮写真フォルダで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "埋め尽くされている。"
+                                "The monitor is filled with folders of train photos and voyeur photos."
                             ]
                         },
                         {
@@ -12696,14 +12689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "沢山のティッシュが丸めて捨てられており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鼻を突くイカ臭いにおいがする。"
+                                "Lots of tissues are crumpled up and thrown away, emitting a pungent,\nsquid-like smell."
                             ]
                         },
                         {
@@ -12780,14 +12766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スチール制のボックスに染み付きブルマと書かれたラベルが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貼られている。"
+                                "A label reading \"Stained Bloomers\" is stuck on the steel box."
                             ]
                         },
                         {

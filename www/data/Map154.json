@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "サンコーポ壱番館２階",
+    "displayName": "Sunco Building No. 1, 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -11031,7 +11031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -11108,7 +11108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -11185,7 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアの向こうから微かに男性の声が聞こえる。"
+                                "Faintly, a man's voice can be heard from beyond the door."
                             ]
                         },
                         {
@@ -11250,14 +11250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この声、おそらく毒島の声……）"
+                                "Yui: (This voice, it's probably Samejima's...)"
                             ]
                         },
                         {
@@ -11290,21 +11283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よし！ 鍵がかかっていないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　鍵を締め忘れるなんておっちょこちょいね）"
+                                "Yui: (Yes! The door isn't locked. How careless to forget to lock it.)"
                             ]
                         },
                         {
@@ -11321,7 +11300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋に入って二人を捕まえますか？"
+                                "Should we enter the room and catch the two?"
                             ]
                         },
                         {
@@ -11329,9 +11308,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "勢い良く入室して捕まえる！",
-                                    "何か変ね……･一度、状況を考えよう",
-                                    "様子を見よう"
+                                    "Burst into the room and catch them!",
+                                    "Something's off Let's think about the situation for a moment",
+                                    "Let's see what happens"
                                 ],
                                 1,
                                 0,
@@ -11361,14 +11340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あなた達、もう袋のネズミよ。覚悟しなさい！）"
+                                "Yui: (You two are like rats in a trap. Prepare yourselves!)"
                             ]
                         },
                         {
@@ -11607,14 +11579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（待って！ 何か様子が変ね……）"
+                                "Yui: (Wait! Something's off...)"
                             ]
                         },
                         {
@@ -11631,14 +11596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（私から逃げて焦っているとはいえ、鍵をかけ忘れるかしら？）"
+                                "Yui: (Even if they're panicking from trying to escape me, would they\nforget to lock the door?)"
                             ]
                         },
                         {
@@ -11662,14 +11620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（……もしかして私を誘い込んでいる？）"
+                                "Yui: (...Could it be that they're luring me in?)"
                             ]
                         },
                         {
@@ -11686,21 +11637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（だとしたら中に入るのは危険ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　\\C[17]二人を部屋から出す方法\\C[0]を考えないと……）"
+                                "Yui: (If that's the case, entering is dangerous. I need to think of a\nway to get them out of the room...\\C[17]two people from the room\\C[0])"
                             ]
                         },
                         {
@@ -12173,7 +12110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -12933,7 +12870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火災警報器がある。"
+                                "There's a fire alarm."
                             ]
                         },
                         {
@@ -12950,7 +12887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Do you press it?"
                             ]
                         },
                         {
@@ -12958,8 +12895,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13023,14 +12960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わたしったら何考えてるのよ……ダメに決まってるでしょ！」"
+                                "Yui: \"What am I thinking... Of course, I can't do that!\""
                             ]
                         },
                         {
@@ -13146,7 +13076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火災警報器がある。"
+                                "There's a fire alarm."
                             ]
                         },
                         {
@@ -13163,7 +13093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Do you press it?"
                             ]
                         },
                         {
@@ -13171,8 +13101,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13282,14 +13212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何だ、何だっ！？ 火事か！？」"
+                                "Samejima: \"What's going on, what's going on!? Is there a fire!?\""
                             ]
                         },
                         {
@@ -13745,14 +13668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……？？」"
+                                "Samejima: \"...??\""
                             ]
                         },
                         {
@@ -14110,14 +14026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「見つけたわよ！」"
+                                "Morisaki Yui: \"Found you!\""
                             ]
                         },
                         {
@@ -14248,14 +14157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島＆ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しっ、しまったーーー！！！」"
+                                "Samejima & Hikomaru: \"Shit, we're busted---!!!\""
                             ]
                         },
                         {
@@ -16815,14 +16717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんて逃げ足の早い奴らなの」"
+                                "Morisaki Yui: \"What quick-footed guys they are.\""
                             ]
                         },
                         {
@@ -16839,14 +16734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうにかして\\c[17]逃げ道を塞ぐ\\c[0]方法はないからしら……」"
+                                "Morisaki Yui: \"Isn't there some way to \\c[17]block their escape\nroute\\c[0]...?\""
                             ]
                         },
                         {
@@ -16999,7 +16887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火災警報器がある。"
+                                "There's a fire alarm."
                             ]
                         },
                         {
@@ -17016,7 +16904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Will you press it?"
                             ]
                         },
                         {
@@ -17024,8 +16912,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17135,14 +17023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何だ、何だっ！？ 火事か！？」"
+                                "Samejima: \"What's going on, what's going on!? Is it a fire!?\""
                             ]
                         },
                         {
@@ -17615,14 +17496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……？？」"
+                                "Samejima: \"...??\""
                             ]
                         },
                         {
@@ -17980,14 +17854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「見つけたわよ！」"
+                                "Yui: \"I've found you!\""
                             ]
                         },
                         {
@@ -18118,14 +17985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島＆ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しっ、しまったーーー！！！」"
+                                "Samejima & Hikomaru: \"Shit, we're busted---!!!\""
                             ]
                         },
                         {
@@ -19428,14 +19288,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「もう逃げられないわよ！」"
+                                "Yui: \"You can't escape anymore!\""
                             ]
                         },
                         {
@@ -19486,14 +19339,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島＆ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まっ、待ってくれ！ これは何かの手違いで！！」"
+                                "Samejima & Hikomaru: \"Wait, wait! This must be some kind of mistake!!\""
                             ]
                         },
                         {
@@ -19510,14 +19356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何が手違いよ！ 反省しなさい二人共！」"
+                                "Yui: \"What mistake! Reflect on your actions, both of you!\""
                             ]
                         },
                         {
@@ -19534,14 +19373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やああああああぁぁっ！！！」"
+                                "Yui: \"Yaaaaaaaahhh!!!\""
                             ]
                         },
                         {
@@ -19745,14 +19577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒコマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぶべぇええええええええぇ！！」"
+                                "Hikomaru: \"Bubeeeeeaaaaahhh!!!\""
                             ]
                         },
                         {
@@ -19937,14 +19762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「がべぇぇぇぇぇぇ！！」"
+                                "Samejima: \"Gabeeeeeeahhh!!\""
                             ]
                         },
                         {
@@ -19995,14 +19813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ったく、本当に最低な大人達だったわ……」"
+                                "Yui: \"Honestly, they were the worst adults ever...\""
                             ]
                         },
                         {
@@ -20193,7 +20004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火災警報器がある。"
+                                "There's a fire alarm."
                             ]
                         },
                         {
@@ -20210,7 +20021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "押しますか？"
+                                "Do you press it?"
                             ]
                         },
                         {
@@ -20218,8 +20029,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20283,14 +20094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わたしったら何考えてるのよ……ダメに決まってるでしょ！」"
+                                "Yui: \"What am I thinking... Of course, I can't do that!\""
                             ]
                         },
                         {
@@ -20475,7 +20279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "張り紙がある。"
+                                "There's a notice."
                             ]
                         },
                         {
@@ -20492,14 +20296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　～粗大ゴミ置き場～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　業者が回収に来ます。勝手に持ち出さないこと！"
+                                "~ Bulky Waste Collection Area ~ A contractor will come to collect it.\nDo not take anything without permission!"
                             ]
                         },
                         {
@@ -20576,7 +20373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイユースーパーの特売チラシが落ちている。"
+                                "A flyer for Daiyu Supermarket's special sale is lying on the ground."
                             ]
                         },
                         {
@@ -20593,14 +20390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#ダイユースーパー特売日３０％ＯＦＦ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#美味しくて新鮮な野菜を取り揃えています！"
+                                "Daiyu Supermarket Sale Day - 30% OFF on delicious and fresh\nvegetables!"
                             ]
                         },
                         {

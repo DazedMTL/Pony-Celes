@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "店長室",
+    "displayName": "Manager's Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5563,7 +5563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "I've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -5720,7 +5720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイアル式の鍵がかかっている。"
+                                "It's locked with a dial-type lock."
                             ]
                         },
                         {
@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暗証番号を入力して下さい。"
+                                "Please enter the passcode."
                             ]
                         },
                         {
@@ -5893,7 +5893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[224]ガレックスの腕時計】を手に入れた！"
+                                "I've obtained the 【\\i[224]Galex's wristwatch】!"
                             ]
                         },
                         {
@@ -5920,7 +5920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暗証番号が間違っているようだ。"
+                                "It seems the passcode is incorrect."
                             ]
                         },
                         {
@@ -5998,7 +5998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金庫の中身は空っぽだ。"
+                                "The safe is empty."
                             ]
                         },
                         {

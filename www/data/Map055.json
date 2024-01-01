@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下研究所Ａ区画",
+    "displayName": "Underground Research Facility Section A",
     "encounterList": [],
     "encounterStep": 30,
     "height": 66,
@@ -21160,7 +21160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -21195,7 +21195,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "反対側から鍵がかかっているようだ。"
+                                "It seems to be locked from the other side."
                             ]
                         },
                         {
@@ -21475,7 +21475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かの仕掛けで開く扉のようだ。"
+                                "It seems to be a door that opens with some sort of mechanism."
                             ]
                         },
                         {
@@ -21890,7 +21890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -22018,14 +22018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "闇の魔法防壁に関する資料が置かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読んでみますか？"
+                                "There are documents about the dark magic barrier. Would you like to\nread them?"
                             ]
                         },
                         {
@@ -22033,8 +22026,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22064,7 +22057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～闇の魔法防壁について～"
+                                "~About the Dark Magic Barrier~"
                             ]
                         },
                         {
@@ -22081,14 +22074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドムドラ様はその素晴らしい頭脳によって闇の魔法防壁を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "作り出す事に成功した。"
+                                "Lord Domudora succeeded in creating the dark magic barrier with his\nbrilliant intellect."
                             ]
                         },
                         {
@@ -22105,14 +22091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘を得意としないドムドラ様が、敵から自身を守る唯一の武器にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最強の武器となった。"
+                                "The dark magic barrier became the only and strongest weapon for Lord\nDomudora, who is not adept at combat, to protect himself from enemies."
                             ]
                         },
                         {
@@ -22129,7 +22108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おそらくだが、あのガルベス様の攻撃でさえ受けつけないだろう。"
+                                "It is likely that it could even withstand the attacks of Lord Galves."
                             ]
                         },
                         {
@@ -22146,7 +22125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし、気がかりな事がある。"
+                                "However, there is something that concerns me."
                             ]
                         },
                         {
@@ -22163,7 +22142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "闇と相反する力、光の力、聖なる力には効果があるのだろうか。"
+                                "I wonder if it would be effective against the opposing force of\ndarkness, the power of light, the holy power."
                             ]
                         },
                         {
@@ -22180,14 +22159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレスの大技であるホーリージャッジメントさえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "防ぐ事が出来ればドムドラ様は誰にも負けないだろう……"
+                                "If it can even defend against the grand technique Holy Judgment of\nPony-Celes, then Lord Domudora would be invincible..."
                             ]
                         },
                         {
@@ -22285,14 +22257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイボーグに関する資料が置かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読んでみますか？"
+                                "There are documents about the Zaiborg. Would you like to read them?"
                             ]
                         },
                         {
@@ -22300,8 +22265,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22331,7 +22296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～ザイボーグについて～"
+                                "~About the Zaiborg~"
                             ]
                         },
                         {
@@ -22348,14 +22313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザイボーグに戦闘員を食わせ続けたところ、知能を有するまでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成長させる事が確認できた。"
+                                "After continuously feeding combatants to the Zaiborg, it has been\nconfirmed that they have grown to possess intelligence."
                             ]
                         },
                         {
@@ -22372,14 +22330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘力においても戦闘員を遥かに上回る怪人クラスの個体まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誕生し始めた。"
+                                "In terms of combat power, they have begun to give birth to monster-\nclass individuals that far surpass the combatants."
                             ]
                         },
                         {
@@ -22396,14 +22347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドムドラ様の研究は凄まじいが、私まで戦闘員の餌になっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意味が無い。"
+                                "Lord Domudra's research is tremendous, but it's meaningless if I end\nup as fodder for the combatants."
                             ]
                         },
                         {
@@ -22420,14 +22364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "万が一のためにドムドラ様に内緒で、地上へ脱出する事が出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "避難用の通路を確保しておくとしよう。"
+                                "In case of an emergency, let's secure an evacuation passage that can\nbe used to escape to the surface without Lord Domudra knowing."
                             ]
                         },
                         {
@@ -22444,7 +22381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "使用するような事態まで発展しなければいいのだが……"
+                                "Hopefully, it won't come to a situation where it needs to be used..."
                             ]
                         },
                         {
@@ -22853,7 +22790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -23227,7 +23164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[93]駿足の書】を手に入れた！"
+                                "You've obtained the 【\\i[93]Tome of Swift Feet】!"
                             ]
                         },
                         {
@@ -23474,7 +23411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "I've obtained the 【\\i[92]Book of Sacred Hearts】!"
                             ]
                         },
                         {
@@ -23721,7 +23658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[101]クッキーパイ】を手に入れた！"
+                                "I've obtained the 【\\i[101]Cookie Pie】!"
                             ]
                         },
                         {
@@ -23968,7 +23905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[296]ＧＧレモン】を手に入れた！"
+                                "Acquired 【\\i[296]GG Lemon】!"
                             ]
                         },
                         {
@@ -24215,7 +24152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[148]わた飴】を手に入れた！"
+                                "I've obtained 【\\i[148]Cotton Candy】!"
                             ]
                         },
                         {
@@ -24462,7 +24399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[294]目薬】を２つ手に入れた！"
+                                "Obtained two 【\\i[294]Eye Drops】!"
                             ]
                         },
                         {
@@ -24590,14 +24527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下設備に関する資料が置かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読んでみますか？"
+                                "There are documents about the underground facility. Would you like to\nread them?"
                             ]
                         },
                         {
@@ -24605,8 +24535,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -24636,7 +24566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～施設内設備について～"
+                                "~About the Facility's Equipment~"
                             ]
                         },
                         {
@@ -24653,21 +24583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最優先事項：緊急時、侵入者の捕獲部屋について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "①研究所にポニーセレスが侵入した際、速やかに対象を捕獲出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　部屋を建設する事。"
+                                "Top Priority: Regarding the capture room for intruders in emergencies,\n① Construct a room that can promptly capture targets in the event that\na Pony-Celes intrudes into the laboratory."
                             ]
                         },
                         {
@@ -24684,14 +24600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "②捕らえた獲物に毒ガスを流し込めるよう部屋の空気口は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　遠隔で開閉出来るよう設計する事。"
+                                "② Design the room so that the air vents can remotely open and close to\nflood the captured prey with poison gas."
                             ]
                         },
                         {
@@ -24708,14 +24617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "③万が一のためにドムドラ様が直ぐ使用出来るよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　研究室の隣に建設する事。"
+                                "③ For any contingency, construct it next to the laboratory so that\nLord Domudra can use it immediately."
                             ]
                         },
                         {
@@ -25158,7 +25060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーを下ろしますか？"
+                                "Do you want to lower the lever?"
                             ]
                         },
                         {
@@ -25166,8 +25068,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25225,7 +25127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どこかで扉が開いた音がした。"
+                                "Somewhere, the sound of a door opening could be heard."
                             ]
                         },
                         {
@@ -25316,7 +25218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {

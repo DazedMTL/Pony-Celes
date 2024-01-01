@@ -10812,14 +10812,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「どれだけ逃げようと無駄だ！」"
+                                "Samejima: \"No matter how much you try to run, it's futile!\""
                             ]
                         },
                         {
@@ -10836,21 +10829,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「空手如きが柔道に敵う道理なし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　早く諦めた方がいいんじゃないか守崎！」"
+                                "Samejima: \"There's no way karate can stand against judo! You should\ngive up sooner, Morisaki!\""
                             ]
                         },
                         {
@@ -11160,14 +11139,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「さぁ、捕まえたぞ！」"
+                                "Samejima: \"Now, I've caught you!\""
                             ]
                         },
                         {
@@ -11184,14 +11156,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「たっぷり苦しめ守崎！」"
+                                "Samejima: \"I'll make you suffer plenty, Morisaki!\""
                             ]
                         },
                         {
@@ -11905,14 +11870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐわああああぁーーーっ！！」"
+                                "Samejima: \"Guwaaaaah---!!\""
                             ]
                         },
                         {
@@ -12180,21 +12138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]※ルール説明\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決定ボタン　　　：攻撃"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャンセルボタン：前方ダッシュ"
+                                "\\C[17]Rule Explanation\\C[0]Confirm Button: Attack Cancel Button:\nForward Dash"
                             ]
                         },
                         {
@@ -12211,21 +12155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]※攻防説明\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒島はユイめがけて近づいて来て打撃や寝技をしかけてきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "密着状態にならないように毒島の接近を回避してこちらの攻撃を当てましょう。"
+                                "\\C[17]Combat Explanation\\C[0]Samejima will approach Yui to launch\nstrikes and grappling moves. Avoid getting too close to Samejima and\nevade his approach to land your attacks."
                             ]
                         },
                         {
@@ -12251,21 +12181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイの攻撃は\\C[17]自身の２マス前方のみ\\C[0]に攻撃判定があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|２マス前方に毒島がいる時、タイミングよく決定ボタンで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻撃を繰り出しましょう。"
+                                "Yui's attacks only have a hitbox \\C[17]two squares directly in front\nof her\\C[0]. When Samejima is two squares in front, time your attacks\nwell with the confirm button."
                             ]
                         },
                         {
@@ -12291,14 +12207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "攻撃がＨＩＴすれば毒島は\\C[17]赤い点滅\\C[0]を伴い後方に大きく吹き飛びます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５回攻撃を当てれば勝利となります。"
+                                "If an attack hits, Samejima will \\C[17]flash red\\C[0] and be blown\nsignificantly backward. Landing five attacks will secure a victory."
                             ]
                         },
                         {
@@ -12315,14 +12224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逆に毒島に密着されると寝技を受けてしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝技を３回受けてしまうと敗北となります。"
+                                "Conversely, if Samejima gets too close, you'll be caught in a\ngrappling move, and if you're grappled three times, it will result in\ndefeat."
                             ]
                         },
                         {
@@ -12355,7 +12257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尚、移動可能な範囲は\\C[17]赤線の内側\\C[0]となっております。"
+                                "Furthermore, the range of movement is confined \\C[17]inside the red\nline\\C[0]."
                             ]
                         },
                         {
@@ -12379,7 +12281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、３秒後に試合開始となります。"
+                                "Now, the match will start after 3 seconds."
                             ]
                         },
                         {
@@ -12403,7 +12305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "             　　　 　　　　　     \\{試合開始！！"
+                                "                   Match Start!!"
                             ]
                         },
                         {
@@ -16049,7 +15951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "攻略のヒントをもらいますか？"
+                                "Would you like a hint for the conquest?"
                             ]
                         },
                         {
@@ -16057,8 +15959,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16088,14 +15990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]柔道の心得\\c[0]を装備すると戦いが有利になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "学園内に隠されている\\c[17]柔道の心得\\c[0]を探してみましょう。"
+                                "\\c[17]udo Knowledge\\c[0] equipped will give you an advantage in\nbattle. Try searching for the \\c[17]Judo Knowledge\\c[0] hidden within\nthe school."
                             ]
                         },
                         {

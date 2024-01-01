@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大門駅",
+    "displayName": "Daimon Station",
     "encounterList": [],
     "encounterStep": 30,
     "height": 65,
@@ -15967,14 +15967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トウコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区に用事があったんだけど、運休中じゃ仕方ないわね」"
+                                "Touko: \"I had business in the Urban district, but there's nothing I\ncan do if it's out of service.\""
                             ]
                         },
                         {
@@ -16083,21 +16076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く電車来てくれないかな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　せっかくの肉マサ屋のコロッケが冷めちゃうわ」"
+                                "Kokomi: \"I wish the train would come sooner... The croquettes from\nNikumasa-ya are going to get cold.\""
                             ]
                         },
                         {
@@ -16237,14 +16216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カンタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大門商店街に小さなコインを集めている人がいるらしいよ」"
+                                "Kanta: \"I heard there's someone collecting small coins at Daimon\nShopping Street.\""
                             ]
                         },
                         {
@@ -16415,14 +16387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キリコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私の友達はこの駅で痴漢にあったの」"
+                                "Kiriko: \"My friend was molested at this station.\""
                             ]
                         },
                         {
@@ -16439,14 +16404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キリコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた、スタイル良いし気をつけなさい」"
+                                "Kiriko: \"You have a good figure, so be careful.\""
                             ]
                         },
                         {
@@ -16463,14 +16421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キリコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もし不安なら駅構内の売店でちょうどいいもの売ってるわよ」"
+                                "Kiriko: \"If you're worried, there's a shop inside the station selling\njust the right thing.\""
                             ]
                         },
                         {
@@ -16724,7 +16675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイは\\c[12]ファストトラベル\\c[0]を解放した！"
+                                "Yui has unlocked \\c[12]Fast Travel\\c[0]!"
                             ]
                         },
                         {
@@ -16868,7 +16819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォルス地区行きの電車に乗りますか？"
+                                "Will you take the train to the Fols district?"
                             ]
                         },
                         {
@@ -16876,8 +16827,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17533,7 +17484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フォルス地区、心宿駅に着きました。"
+                                "We've arrived at Shin-Yado Station in the Fols district."
                             ]
                         },
                         {
@@ -17633,14 +17584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フォルス地区行きの電車に乗りますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※体験版では痴漢イベントは発生しません。"
+                                "Will you take the train to the Fols District?\\C[17]*Groping events do\nnot occur in the trial version."
                             ]
                         },
                         {
@@ -17648,8 +17592,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18305,7 +18249,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "フォルス地区、心宿駅に着きました。"
+                                "You have arrived at Shin-Yado Station in the Fols District."
                             ]
                         },
                         {
@@ -18355,7 +18299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フォルス地区行き電車の到着を待ちますか？"
+                                "Will you wait for the train to the Fols District?"
                             ]
                         },
                         {
@@ -18363,8 +18307,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19764,7 +19708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォルス地区行きの電車に乗りますか？"
+                                "Will you take the train to the Fols district?"
                             ]
                         },
                         {
@@ -19772,8 +19716,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20429,7 +20373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フォルス地区、心宿駅に着きました。"
+                                "We've arrived at Shin-Yado Station in the Fols district."
                             ]
                         },
                         {
@@ -20529,14 +20473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アーバン地区行きは現在運休中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フォルス地区行きは反対側プラットフォームだ。"
+                                "The service to the Urban District is currently suspended. The platform\nfor the Fols District is on the opposite side."
                             ]
                         },
                         {
@@ -21523,7 +21460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[291]コインロッカーの鍵】を手に入れた！"
+                                "I've obtained the 【\\i[291]Coin Locker Key】!"
                             ]
                         },
                         {
@@ -21669,7 +21606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーは全て使用されている。"
+                                "All the coin lockers are in use."
                             ]
                         },
                         {
@@ -21737,7 +21674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーの鍵を使用しますか？"
+                                "Would you like to use the coin locker key?"
                             ]
                         },
                         {
@@ -21745,8 +21682,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21814,7 +21751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[220]花柄のシュシュ】を手に入れた！"
+                                "【\\i[220]Floral scrunchie】acquired!"
                             ]
                         },
                         {
@@ -21905,7 +21842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインロッカーの中には何も入っていない。"
+                                "The coin locker is empty."
                             ]
                         },
                         {
@@ -21982,7 +21919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路線図の案内板だ。"
+                                "It's a route map information board."
                             ]
                         },
                         {
@@ -21999,7 +21936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一駅東がアーバン地区、西がフォルス地区のようだ。"
+                                "From here, one station to the east is the Urban District, and to the\nwest is the Forest District."
                             ]
                         },
                         {
@@ -22076,7 +22013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路線図の案内板だ。"
+                                "It's a route map information board."
                             ]
                         },
                         {
@@ -22093,7 +22030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから一駅東がアーバン地区、西がフォルス地区のようだ。"
+                                "From here, one station to the east is the Urban District, and to the\nwest is the Forth District."
                             ]
                         },
                         {
@@ -22170,14 +22107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トオル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この間、アーバン地区行きの電車に\\C[17]アレ\\C[0]が出たらしいよ」"
+                                "Toru: \"The other day, it seems that \\C[17]that\\C[0] appeared on the\ntrain to the Urban District\""
                             ]
                         },
                         {
@@ -22194,14 +22124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トオル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、女性の天敵……\\C[17]痴漢魔\\C[0]だよ！」"
+                                "Toru: \"You know, the enemy of all women... \\C[17]the molester\\C[0]!\""
                             ]
                         },
                         {
@@ -22218,14 +22141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トオル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕事に向う美人ＯＬを狙ったんだろね」"
+                                "Toru: \"He must have targeted a beautiful office lady on her way to\nwork\""
                             ]
                         },
                         {
@@ -22242,21 +22158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トオル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今はアーバン地区行きが運休中だから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　犯人の悔しそうな顔が目に浮かぶね、ザマーみろって感じ！」"
+                                "Toru: \"Now that the train to the Urban District is suspended, I can\njust picture the frustrated look on the culprit's face. Serves him\nright!\""
                             ]
                         },
                         {
@@ -22273,14 +22175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トオル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今頃どこかでヤケ酒でも飲んでたりしてな、アハハハハ！」"
+                                "Toru: \"He's probably drowning his sorrows in booze somewhere right\nabout now, ahahaha!\""
                             ]
                         },
                         {
@@ -22404,14 +22299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -22753,14 +22641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -23102,14 +22983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = progress possible, Red\narrow = progress not possible)"
                             ]
                         },
                         {
@@ -23451,14 +23325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は進む事が出来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（青色矢印＝進行可能　赤色矢印＝進行不可能）"
+                                "I can't proceed right now. \\c[17](Blue arrow = can proceed, Red arrow\n= cannot proceed)"
                             ]
                         },
                         {
@@ -23769,14 +23636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃい！」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -24242,21 +24102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヒック･････ヒク･････ふぅ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　アーバン地区行きの電車が運休中だから暇すぎる････」"
+                                "Yasunobu: \"Hic... Hic... Phew~. The train to the Urban district is\nsuspended, so I'm super bored...\""
                             ]
                         },
                         {
@@ -24323,14 +24169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「っ！？」"
+                                "Yasunobu: \"Huh!? What's that?\""
                             ]
                         },
                         {
@@ -24347,14 +24186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは･････」"
+                                "Yasunobu: \"This is...\""
                             ]
                         },
                         {
@@ -24405,14 +24237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでしょうか？」"
+                                "Yui: \"What is it?\""
                             ]
                         },
                         {
@@ -24454,14 +24279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「････････」"
+                                "Yasunobu: \"...\""
                             ]
                         },
                         {
@@ -24485,14 +24303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤスノブ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでもねーよ･････」"
+                                "Yasunobu: \"It's nothing...\""
                             ]
                         },
                         {

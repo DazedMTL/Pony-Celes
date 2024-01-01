@@ -12851,14 +12851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこで待ってて、私が開けてあげる」"
+                                "Karen: \"Wait there, I'll open it for you.\""
                             ]
                         },
                         {
@@ -12990,21 +12983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カレン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さあ、開いたわ。鮫島の部屋は５階よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く行きましょ」"
+                                "Karen: \"There, it's open. Samejima's room is on the fifth floor. Let's\ngo quickly.\""
                             ]
                         },
                         {
@@ -13459,7 +13438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -13467,8 +13446,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "５階",
-                                    "やめる"
+                                    "To the fifth floor",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -13865,14 +13844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "インターフォンが設置されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は使用する必要が無い。"
+                                "There's an intercom installed here. There's no need to use it right\nnow."
                             ]
                         },
                         {

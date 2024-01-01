@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フォルス地区地下四層",
+    "displayName": "Forus District Underground Fourth Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 80,
@@ -38479,7 +38479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターがある。"
+                                "There's a service elevator here."
                             ]
                         },
                         {
@@ -38496,7 +38496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電源が入っていないようだ。"
+                                "It seems like the power isn't on."
                             ]
                         },
                         {
@@ -38564,7 +38564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターがある。"
+                                "There's a service elevator here."
                             ]
                         },
                         {
@@ -38581,7 +38581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用しますか？"
+                                "Would you like to use it?"
                             ]
                         },
                         {
@@ -38596,11 +38596,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "地下一層へ移動する",
-                                    "地下二層へ移動する",
-                                    "地下三層へ移動する",
-                                    "地下四層へ移動する",
-                                    "使用しない"
+                                    "Move to the first basement level",
+                                    "Move to the second basement level",
+                                    "Move to the third basement level",
+                                    "Move to the fourth basement level",
+                                    "Do not use"
                                 ],
                                 4,
                                 0,
@@ -38970,14 +38970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボタンを押しても反応が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "地下二層の作業用エレベーターは現在作動していないようだ。"
+                                "Pressing the button doesn't seem to do anything. The service elevator\nfor the second basement floor appears to be out of operation right\nnow."
                             ]
                         },
                         {
@@ -39197,14 +39190,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボタンを押しても反応が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "地下三層の作業用エレベーターは現在作動していないようだ。"
+                                "Pressing the button doesn't seem to do anything. The service elevator\nfor the third basement floor appears to be out of operation right now."
                             ]
                         },
                         {
@@ -39251,7 +39237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在のフロアだ。"
+                                "This is the current floor."
                             ]
                         },
                         {
@@ -39484,14 +39470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電動扉のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "電気が通っていないため動かない。"
+                                "It seems to be an automatic door. It won't move because there's no\nelectricity running to it."
                             ]
                         },
                         {
@@ -40028,14 +40007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電動扉のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "電気が通っていないため動かない。"
+                                "It seems to be an electric door. It won't move because there's no\nelectricity running to it."
                             ]
                         },
                         {
@@ -40762,7 +40734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "Obtained the 【\\i[94]Tome of Spirit】!"
                             ]
                         },
                         {
@@ -44586,7 +44558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電力供給装置のようだ。電源を復旧させますか？"
+                                "It seems to be a power supply device. Shall we restore the power?"
                             ]
                         },
                         {
@@ -44594,8 +44566,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -44727,7 +44699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {
@@ -47549,7 +47521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業用エレベーターの電源を復旧させますか？"
+                                "Would you like to restore power to the service elevator?"
                             ]
                         },
                         {
@@ -47557,8 +47529,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -47675,7 +47647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地下四層の作業用エレベーターが復旧した。"
+                                "The service elevator on the fourth basement level has been restored."
                             ]
                         },
                         {
@@ -47766,7 +47738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem necessary to operate it anymore."
                             ]
                         },
                         {
@@ -51202,7 +51174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中身は空っぽだった。"
+                                "The inside was empty."
                             ]
                         },
                         {
@@ -52316,7 +52288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]聖心の書】を手に入れた！"
+                                "Acquired the 【\\i[92]Tome of Sacred Heart】!"
                             ]
                         },
                         {
@@ -52563,7 +52535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[91]拳術の書】を手に入れた！"
+                                "Acquired the 【\\i[91]Book of Martial Arts】!"
                             ]
                         },
                         {

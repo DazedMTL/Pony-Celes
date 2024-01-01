@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "倉庫室",
+    "displayName": "Storage Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -12595,14 +12595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこまでよ！」"
+                                "Pony-Celeste: \"That's far enough!\""
                             ]
                         },
                         {
@@ -12700,14 +12693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかこの場所を見つけるとは……」"
+                                "Principal: \"I can't believe you found this place...\""
                             ]
                         },
                         {
@@ -12724,14 +12710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ、こいつから秘密を聞き出す計画が台無しだ……」"
+                                "Principal: \"Tch, my plan to extract the secrets from this guy is\nruined...\""
                             ]
                         },
                         {
@@ -12755,14 +12734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうあなたに逃げ場はないわ」"
+                                "Pony-Celeste: \"You have nowhere left to run.\""
                             ]
                         },
                         {
@@ -12779,14 +12751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ない……」"
+                                "Principal: \"It can't be helped...\""
                             ]
                         },
                         {
@@ -12867,14 +12832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理事長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハアアアアアァァーーーッ！！」"
+                                "Principal: \"Haaaaaaaahhhhh!!!\""
                             ]
                         },
                         {
@@ -13033,14 +12991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワシの名はサイミンダーグ、偉大な催眠術師！」"
+                                "Hypnogogue: \"My name is Hypnogogue, the great hypnotist!\""
                             ]
                         },
                         {
@@ -13057,21 +13008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「日本中の人間を催眠状態にして、ドムドラ様に永遠の忠誠を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誓わすのがワシの使命！」"
+                                "Hypnogogue: \"It is my mission to hypnotize all humans in Japan and\nmake them swear eternal loyalty to Lord Domudra!\""
                             ]
                         },
                         {
@@ -13129,21 +13066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっぱり怪人だったってわけね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ならもう容赦しないわ！」"
+                                "Pony-Celeste: \"So you were a monster after all. I won't hold back\nanymore!\""
                             ]
                         },
                         {
@@ -13160,14 +13083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クックックッ、ドムドラ様に改造して頂いたこの姿は特別でな」"
+                                "Hypnogogue: \"Kukukuku, this form that Lord Domudra has remodeled me\ninto is special.\""
                             ]
                         },
                         {
@@ -13200,21 +13116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「このアンテナは催眠電波を受信して、目標に目掛け超高濃度で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　放射する事が出来るのだ」"
+                                "Hypnogogue: \"These antennas can receive hypnotic waves and emit them\nat a super high concentration directly at the target.\""
                             ]
                         },
                         {
@@ -13231,14 +13133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくらお前とて抗う事は不可能」"
+                                "Hypnogogue: \"No matter who you are, it's impossible to resist.\""
                             ]
                         },
                         {
@@ -13255,14 +13150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス、お前に勝ち目はない！」"
+                                "Hypnogogue: \"Pony-Celeste, you have no chance of winning!\""
                             ]
                         },
                         {
@@ -13302,14 +13190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「機械に頼らないと催眠をかけられないのね」　"
+                                "Pony-Celeste: \"So you can't hypnotize without relying on a machine.\""
                             ]
                         },
                         {
@@ -13333,14 +13214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それで偉大な催眠術師なんて言ちゃって、恥ずかしくないの？」　"
+                                "Pony-Celeste: \"And you call yourself a great hypnotist? Aren't you\nashamed?\""
                             ]
                         },
                         {
@@ -13357,14 +13231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐぬぬぬっ……」"
+                                "Hypnogogue: \"Grrrrrr...\""
                             ]
                         },
                         {
@@ -13381,14 +13248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワシが一番気にしている事をずけずけと……」"
+                                "Hypnogogue: \"To speak so bluntly about what I'm most self-conscious\nabout...\""
                             ]
                         },
                         {
@@ -13405,21 +13265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生意気な口が効けないようにたっぷりと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お仕置きが必要みたいだな」"
+                                "Hypnogogue: \"It seems you need a thorough punishment for your insolent\ntongue.\""
                             ]
                         },
                         {
@@ -13452,14 +13298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、まずは腕の自由を奪ってやろう！」"
+                                "Hypnogogue: \"First, I'll take away the freedom of your arms!\""
                             ]
                         },
                         {
@@ -13502,14 +13341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は私を絶対に殴れない……絶対に殴れない……」"
+                                "Hypnogogue: \"You will never be able to hit me... never be able to hit\nme...\""
                             ]
                         },
                         {
@@ -13549,21 +13381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無駄よ、催眠装置なら全て破壊したわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなインチキ、ポニーセレスに通用しないわよ」"
+                                "Pony-Celeste: \"It's useless, I've destroyed all the hypnotic devices.\nSuch tricks won't work on Pony-Celeste.\""
                             ]
                         },
                         {
@@ -13596,14 +13414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全て壊した？ はたしてそうかな？」"
+                                "Hypnogogue: \"Destroyed everything? Are you sure about that?\""
                             ]
                         },
                         {
@@ -13674,14 +13485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……えっ！？」"
+                                "Pony-Celeste: \"...What!?\""
                             ]
                         },
                         {
@@ -13705,14 +13509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……これは！？」"
+                                "Pony-Celeste: \"...What is this!?\""
                             ]
                         },
                         {
@@ -13750,14 +13547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「耳鳴りが、頭痛がまた……」"
+                                "Pony-Celeste: \"The ringing in my ears, the headache is coming back...\""
                             ]
                         },
                         {
@@ -13806,14 +13596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「腕が動かないっ……！？」"
+                                "Pony-Celeste: \"My arms won't move...!?\""
                             ]
                         },
                         {
@@ -13830,14 +13613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前が破壊したのはオリジナルを模倣して私が作った量産型だ」"
+                                "Hypnogogue: \"What you destroyed were just mass-produced models that I\ncreated to mimic the original.\""
                             ]
                         },
                         {
@@ -13854,14 +13630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのいくら壊されようと問題はない」"
+                                "Hypnogogue: \"It doesn't matter how many of those you destroy.\""
                             ]
                         },
                         {
@@ -13885,14 +13654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オリジナルが存在する？ いったいどこに……」"
+                                "Pony-Celeste: \"There's an original? Where on earth could it be...\""
                             ]
                         },
                         {
@@ -13909,14 +13671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それをワシが言うとでも思うか？」"
+                                "Hypnogogue: \"Do you think I would tell you that?\""
                             ]
                         },
                         {
@@ -13933,21 +13688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……と言いたいところだが、この場所を見つけた君へのご褒美だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しだけチャンスをやろう」"
+                                "Hypnogogue: \"...I would like to say that, but as a reward for finding\nthis place, I'll give you a little chance.\""
                             ]
                         },
                         {
@@ -13971,14 +13712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「チャンス？」"
+                                "Pony-Celeste: \"A chance?\""
                             ]
                         },
                         {
@@ -13995,21 +13729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、オリジナルはどこにあると思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし当てる事が出来たら少しだけ手加減してやろう」"
+                                "Hypnogogue: \"Now, where do you think the original is? If you can guess\nit, I might go easy on you.\""
                             ]
                         },
                         {
@@ -14017,9 +13737,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "男子トイレ",
-                                    "体育館",
-                                    "運動場"
+                                    "The men's restroom?",
+                                    "The gymnasium",
+                                    "The sports field"
                                 ],
                                 -1,
                                 -1,
@@ -14072,14 +13792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「答えは簡単よ」"
+                                "Pony-Celeste: \"The answer is simple.\""
                             ]
                         },
                         {
@@ -14119,14 +13832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「私が絶対に入らない場所……\\|それは男子トイレよ！」"
+                                "Pony-Celeste: \"A place I would never enter... that's the boys'\nrestroom!\""
                             ]
                         },
                         {
@@ -14150,14 +13856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はははっ、残念！ 不正解だ！」"
+                                "Hypnogogue: \"Hahaha, too bad! Wrong answer!\""
                             ]
                         },
                         {
@@ -14190,14 +13889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「罰として、脚も動けなくしてやろう！」"
+                                "Hypnogogue: \"As a punishment, I'll make your legs immobile too!\""
                             ]
                         },
                         {
@@ -14228,14 +13920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ほら、お前はもう歩けない……歩けない」"
+                                "Hypnogogue: \"Look, now you can't walk... can't walk\""
                             ]
                         },
                         {
@@ -14273,14 +13958,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そんな、足がっ！？」"
+                                "Pony-Celeste: \"No, my legs...!?\""
                             ]
                         },
                         {
@@ -14297,14 +13975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうしたポニーセレス。さっきまでの威勢はどこにいった？」"
+                                "Hypnogogue: \"What's wrong Pony-Celeste? Where did all your bravado\ngo?\""
                             ]
                         },
                         {
@@ -14321,14 +13992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はははははっ！」"
+                                "Hypnogogue: \"Hahahahaha!\""
                             ]
                         },
                         {
@@ -14345,14 +14009,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さぁ、ポニーセレスお前の最後だ！」"
+                                "Hypnogogue: \"Now, Pony-Celeste, it's your end!\""
                             ]
                         },
                         {
@@ -14516,14 +14173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「体育館のどこかに隠したわね！」"
+                                "Pony-Celeste: \"You hid it somewhere in the gymnasium, didn't you!\""
                             ]
                         },
                         {
@@ -14547,14 +14197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はははっ、残念！ 不正解だ！」"
+                                "Hypnogogue: \"Hahaha, too bad! Wrong answer!\""
                             ]
                         },
                         {
@@ -14587,14 +14230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「罰として、脚も動けなくしてやろう！」"
+                                "Hypnogogue: \"As a punishment, I'll make your legs immobile too!\""
                             ]
                         },
                         {
@@ -14625,14 +14261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ほら、お前はもう歩けない……歩けない」"
+                                "Hypnogogue: \"Look, now you can't walk... can't walk\""
                             ]
                         },
                         {
@@ -14686,14 +14315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そんな、足がっ！？」"
+                                "Pony-Celeste: \"No, my legs...!?\""
                             ]
                         },
                         {
@@ -14710,14 +14332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうしたポニーセレス。さっきまでの威勢はどこにいった？」"
+                                "Hypnogogue: \"What's wrong Pony-Celeste. Where did all your bravado\ngo?\""
                             ]
                         },
                         {
@@ -14734,14 +14349,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はははははっ！」"
+                                "Hypnogogue: \"Hahahahaha!\""
                             ]
                         },
                         {
@@ -14758,14 +14366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さぁ、ポニーセレスお前の最後だ！」"
+                                "Hypnogogue: \"Now, Pony-Celeste, it's your end!\""
                             ]
                         },
                         {
@@ -14950,14 +14551,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「わかった。その場所は運動場よ！」"
+                                "Pony-Celeste: \"I've got it. The place is the sports field!\""
                             ]
                         },
                         {
@@ -14981,21 +14575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ザイダーグに襲撃された時の避難場所に運動場を選んだのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　理事長、あなたよ！」"
+                                "Pony-Celeste: \"The principal, you chose the sports field as the\nevacuation site when we were attacked by Zaidarug!\""
                             ]
                         },
                         {
@@ -15019,21 +14599,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「避難施設まで作るって提案して、誰も運動場に入らせないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　したのは、このためだったのね」"
+                                "Pony-Celeste: \"You proposed to build an evacuation facility and made\nsure no one could enter the sports field, all for this reason.\""
                             ]
                         },
                         {
@@ -15057,14 +14623,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちっ！」"
+                                "Hypnogogue: \"Tch!\""
                             ]
                         },
                         {
@@ -15081,14 +14640,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「勘が鋭いな……」"
+                                "Hypnogogue: \"You're sharp...\""
                             ]
                         },
                         {
@@ -15105,21 +14657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ワシの計画が見透かされたみたいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　むしょうに腹が立ってくるぞ」"
+                                "Hypnogogue: \"Seeing my plan being seen through really gets under my\nskin.\""
                             ]
                         },
                         {
@@ -15136,14 +14674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「だが……\\|約束は約束だ。少し手加減をしてやろうではないか」"
+                                "Hypnogogue: \"But... a promise is a promise. I'll go a bit easy on\nyou.\""
                             ]
                         },
                         {
@@ -15167,21 +14698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「腕が使えなくてもあなたなんかに負けないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　さぁ、かかってきなさい！」"
+                                "Pony-Celeste: \"Even if I can't use my arms, I won't lose to someone\nlike you! Come at me!\""
                             ]
                         },
                         {
@@ -15198,21 +14715,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ふふふっ、その気迫がいつまでもつか見ものだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　では……\\|いくぞ！」"
+                                "Hypnogogue: \"Fufufu, let's see how long that spirit lasts. Now... here\nI come!\""
                             ]
                         },
                         {
@@ -15380,14 +14883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「わかった。その場所は運動場よ！」"
+                                "Pony-Celeste: \"I've got it. The place is the sports field!\""
                             ]
                         },
                         {
@@ -15411,14 +14907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちっ！」"
+                                "Hypnogogue: \"Tch!\""
                             ]
                         },
                         {
@@ -15435,14 +14924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「勘が鋭いな……」"
+                                "Hypnogogue: \"You're sharp...\""
                             ]
                         },
                         {
@@ -15459,21 +14941,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ワシの計画が見透かされたみたいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　むしょうに腹が立ってくるぞ」"
+                                "Hypnogogue: \"Seeing my plan being seen through really gets under my\nskin.\""
                             ]
                         },
                         {
@@ -15490,14 +14958,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「だか……\\|約束は約束だ。少し手加減をしてやろうではないか」"
+                                "Hypnogogue: \"But... a promise is a promise. I'll go a bit easy on\nyou.\""
                             ]
                         },
                         {
@@ -15521,21 +14982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「腕が使えなくてもあなたなんかに負けないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　さぁ、かかってきなさい！」"
+                                "Pony-Celeste: \"Even if I can't use my arms, I won't lose to someone\nlike you! Come at me!\""
                             ]
                         },
                         {
@@ -15552,21 +14999,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ふふふっ、その気迫がいつまでもつか見ものだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　では……\\|いくぞ！」"
+                                "Hypnogogue: \"Fufufu, let's see how long that spirit lasts. Now... here\nI come!\""
                             ]
                         },
                         {
@@ -15902,14 +15335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「油断して足を封じなかったのは失敗ね！」"
+                                "Pony-Celeste: \"It was a mistake not to immobilize your legs when you\nlet your guard down!\""
                             ]
                         },
                         {
@@ -15967,14 +15393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか……」"
+                                "Hypno-Dagger: \"Could it be...\""
                             ]
                         },
                         {
@@ -15998,14 +15417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのまさかよ！」"
+                                "Pony-Celeste: \"Exactly that!\""
                             ]
                         },
                         {
@@ -16267,21 +15679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サイミンダーグ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「学園内の生徒に告ぐ！ 今すぐポニーセレスを捕まえろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　絶対に運動場へ行かすんじゃないっ！」"
+                                "Hypno-Dagger: \"Attention all students in the academy! Capture Pony-\nCeleste at once! Do not let her get to the sports field under any\ncircumstances!\""
                             ]
                         },
                         {
@@ -16389,7 +15787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "I've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "貯蔵庫",
+    "displayName": "Storage Warehouse",
     "encounterList": [],
     "encounterStep": 1,
     "height": 25,
@@ -4651,7 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員は完全に意識を失っている。"
+                                "The combatant has completely lost consciousness."
                             ]
                         },
                         {
@@ -4731,7 +4731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "I've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -4988,14 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ、ここまで運ぶのも一苦労だな」"
+                                "Zaida-G Combatant: \"Phew, carrying it all the way here was quite the\nstruggle.\""
                             ]
                         },
                         {
@@ -5019,14 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Zaida-G Combatant: \"...\""
                             ]
                         },
                         {
@@ -5043,14 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Zaida-G Combatant: \"...\""
                             ]
                         },
                         {
@@ -5076,14 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかしこいつ、良い体してるな……」"
+                                "Zaida-G Combatant: \"But man, this one's got a nice body...\""
                             ]
                         },
                         {
@@ -5100,21 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イートダーグ様が召し上がる前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少し楽しませてもらうか」"
+                                "Zaida-G Combatant: \"Before Lord I-Toda-G partakes, maybe I'll have a\nlittle fun.\""
                             ]
                         },
                         {
@@ -5131,21 +5089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへへっ、イートダーグ様はまだディナー中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　１０分で済ませりゃバレやしないぜ！」"
+                                "Zaida-G Combatant: \"Hehehe, Lord I-Toda-G is still at dinner. If I\nfinish in 10 minutes, no one will notice!\""
                             ]
                         },
                         {
@@ -5162,14 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうと決まれば善は急げだ」"
+                                "Zaida-G Combatant: \"Now that it's decided, best to hurry.\""
                             ]
                         },
                         {
@@ -5193,14 +5130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぅ……う……」"
+                                "Yui: \"...uh...ugh...\""
                             ]
                         },
                         {
@@ -5370,14 +5300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ここは？」"
+                                "Yui: \"...Where am I?\""
                             ]
                         },
                         {
@@ -5437,14 +5360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいおい、嘘だろ。俺の手刀をくらって５分やそこらだぞ」"
+                                "Zaida-G Combatant: \"Hey, hey, you're kidding, right? You've only been\nout for about five minutes from my chop.\""
                             ]
                         },
                         {
@@ -5461,14 +5377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「普通の奴なら半日は目が覚めないはず……お前一体！？」"
+                                "Zaida-G Combatant: \"A normal person would be out cold for half a\nday... Who the hell are you!?\""
                             ]
                         },
                         {
@@ -5510,14 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきの仕業はあなたね！ いきなり女の子の顔を殴るなんて！」"
+                                "Yui: \"You're the one responsible for earlier! How dare you suddenly\npunch a girl in the face!\""
                             ]
                         },
                         {
@@ -5534,14 +5436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなところに連れ込んで、今度は一体何を考えているつもり？」"
+                                "Yui: \"Dragging me to a place like this, what are you planning to do\nnext?\""
                             ]
                         },
                         {
@@ -5565,14 +5460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっ、ごちゃごちゃと煩い女め。もう一回黙らせてやる！」"
+                                "Zaida-G Combatant: \"Damn it, such a noisy woman. I'll make you quiet\nagain!\""
                             ]
                         },
                         {
@@ -5612,14 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出来るものならやってみなさい！」"
+                                "Yui: \"If you think you can, then try it!\""
                             ]
                         },
                         {
@@ -5659,14 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聖なる光よ私に力を！」"
+                                "Yui: \"Holy light, grant me strength!\""
                             ]
                         },
                         {
@@ -5761,14 +5635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ポニーセレス！！！」"
+                                "Zaida-G Combatant: \"Pony-Ceres!!!\""
                             ]
                         },
                         {
@@ -5785,14 +5652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ど、どうしてお前が……」"
+                                "Zaida-G Combatant: \"How... how are you...?\""
                             ]
                         },
                         {
@@ -5832,14 +5692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきのお返しよ！」"
+                                "Pony-Ceres: \"This is payback for earlier!\""
                             ]
                         },
                         {
@@ -5856,14 +5709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当の手刀を見せてあげるわ！」"
+                                "Pony-Ceres: \"I'll show you what a real chop is!\""
                             ]
                         },
                         {
@@ -5880,14 +5726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はあああああぁぁぁっ！！！」"
+                                "Pony-Ceres: \"Haaaaaaaah!!!\""
                             ]
                         },
                         {
@@ -6218,14 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザイダーグ戦闘員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶべ……っ……ぁ……」"
+                                "Zaida-G Combatant: \"Guh...ah...\""
                             ]
                         },
                         {
@@ -6297,21 +6129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ザイダーグの事よ。おそらく私の他にも大勢の人達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここに捕らえられているはずだわ）"
+                                "Pony-Ceres: (It's about Zaida-G. There must be many other people\ncaptured here besides me.)"
                             ]
                         },
                         {
@@ -6328,14 +6146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（早くみんなを助けださなきゃ！）"
+                                "Pony-Ceres: (I have to rescue everyone quickly!)"
                             ]
                         },
                         {

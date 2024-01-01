@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "サンコーポ弐番館１階",
+    "displayName": "Sankorpo Building No. 2, 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -8986,14 +8986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなものがドアの前に……」"
+                                "Gonzo: \"What's this in front of the door...\""
                             ]
                         },
                         {
@@ -9041,21 +9034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここの住人か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかお前が嫌がらせで置いたんじゃねーだろな？」"
+                                "Gonzo: \"Are you a resident here? Don't tell me you're the one who put\nthis here as harassment?\""
                             ]
                         },
                         {
@@ -9115,14 +9094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここの住人でもないですし、それを置いたのは私でもないです……」"
+                                "Yui: \"I'm not a resident here, nor am I the one who put that there...\""
                             ]
                         },
                         {
@@ -9146,14 +9118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか……疑ってすまねーな」"
+                                "Gonzo: \"Is that so... Sorry for suspecting you.\""
                             ]
                         },
                         {
@@ -9186,14 +9151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近、ここの住民の嫌がらせが酷くてよ」"
+                                "Gonzo: \"Lately, the harassment from the residents here has been\nterrible.\""
                             ]
                         },
                         {
@@ -9210,14 +9168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「公園が取り壊された事を俺のせいにしやがって！」"
+                                "Gonzo: \"They're blaming me for the demolition of the park!\""
                             ]
                         },
                         {
@@ -9234,21 +9185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺はただの作業者だ。上の言う事を聞いてただ作業するだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上が公園を取り壊して工場を建てるってんならそれに従うだけ」"
+                                "Gonzo: \"I'm just a worker. I just follow orders and do the work. If\nthe higher-ups say to demolish the park and build a factory, I just\nfollow orders.\""
                             ]
                         },
                         {
@@ -9265,14 +9202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌がらせするなら、土地を買った西園寺製薬にしろってんだ」"
+                                "Gonzo: \"If they want to harass someone, they should go after Saionji\nPharmaceuticals who bought the land.\""
                             ]
                         },
                         {
@@ -9289,14 +9219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴンゾウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったくよ……」"
+                                "Gonzo: \"Seriously...\""
                             ]
                         },
                         {
@@ -9495,7 +9418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "It's locked."
                             ]
                         },
                         {
@@ -9725,7 +9648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "年期の入った郵便受けのようだ。"
+                                "It looks like an old, weathered mailbox."
                             ]
                         },
                         {
@@ -9990,7 +9913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表札が無い。どうやら空室のようだ。"
+                                "There's no nameplate. It seems to be a vacant room."
                             ]
                         },
                         {
@@ -10067,14 +9990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お～い、誰か助けてくれ！！」"
+                                "???: \"Hey, can someone help me?!\""
                             ]
                         },
                         {
@@ -10181,14 +10097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ドアが開かなくて出れないんだ！ 誰か、誰か助けてくれ！」"
+                                "???: \"I can't get out because the door won't open! Somebody, please\nhelp me!\""
                             ]
                         },
                         {
@@ -10365,14 +10274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（また誰かが嫌がらせをしてるわ……）"
+                                "Yui: \"Someone is harassing me again...\""
                             ]
                         },
                         {
@@ -10901,7 +10803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "困っている人を助けてあげよう。"
+                                "Let's help someone in trouble."
                             ]
                         },
                         {
@@ -11060,7 +10962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "年期の入った郵便受けのようだ。"
+                                "It looks like an old, well-used mailbox."
                             ]
                         },
                         {

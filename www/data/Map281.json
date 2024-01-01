@@ -10133,14 +10133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザ、ザイダーグの戦闘員！？」"
+                                "Shopkeeper: \"The, the Zaidag's combatants!?\""
                             ]
                         },
                         {
@@ -10166,14 +10159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに乗り込んで来るとはいい度胸だな」"
+                                "Combatant A: \"You've got guts to barge in here.\""
                             ]
                         },
                         {
@@ -10190,14 +10176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何を企んでるんだ……」"
+                                "Shopkeeper: \"What are you plotting...\""
                             ]
                         },
                         {
@@ -10214,14 +10193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか仕入れ先の農家を脅したのはお前たちなのか？」"
+                                "Shopkeeper: \"Don't tell me you guys are the ones who threatened the\nfarm we source from?\""
                             ]
                         },
                         {
@@ -10238,14 +10210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、そうだぜ。殺すと脅せば一発だったな」"
+                                "Combatant A: \"Yeah, that's right. Just threaten to kill them and they\nfold easily.\""
                             ]
                         },
                         {
@@ -10262,14 +10227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、あの農家の野菜はすげーよ」"
+                                "Combatant A: \"But man, those vegetables from the farm are amazing.\""
                             ]
                         },
                         {
@@ -10286,14 +10244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今じゃスーパーの目玉商品、おかげで来店客が倍増したぜ」"
+                                "Combatant A: \"Now they're the star product of the supermarket, thanks\nto that our customer traffic has doubled.\""
                             ]
                         },
                         {
@@ -10310,21 +10261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これからそいつらをどんどん刈り取っていかねーとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　忙しくなるぜ！」"
+                                "Combatant A: \"From now on, we'll be harvesting them more and more.\nIt's going to get busy!\""
                             ]
                         },
                         {
@@ -10341,14 +10278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「刈り取る？」"
+                                "Shopkeeper: \"Harvesting?\""
                             ]
                         },
                         {
@@ -10365,21 +10295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来店した馬鹿な奴らを戦闘員に変えていくのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これから収穫時期ってわけだ」"
+                                "Combatant A: \"We're going to turn those stupid customers who come in\ninto combatants. It's harvest time, you see.\""
                             ]
                         },
                         {
@@ -10405,14 +10321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんてことを考えるんだ……警察にこの事を！」"
+                                "Shopkeeper: \"What kind of plan is that... I must report this to the\npolice!\""
                             ]
                         },
                         {
@@ -10575,14 +10484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと、逃がさねーぜ！」"
+                                "Combatant B: \"Oops, can't let you escape!\""
                             ]
                         },
                         {
@@ -10650,14 +10552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「生きてここから出られると思うなよ」"
+                                "Combatant B: \"Don't think you can get out of here alive.\""
                             ]
                         },
                         {
@@ -10674,14 +10569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八百八店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ……」"
+                                "Shopkeeper: \"Gah...\""
                             ]
                         },
                         {
@@ -10698,14 +10586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しくしてもらおうか！」"
+                                "Combatant B: \"Let's have you behave yourself!\""
                             ]
                         },
                         {
@@ -10873,14 +10754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、運び込むぞ」"
+                                "Combatant B: \"Alright, let's bring him in.\""
                             ]
                         },
                         {
@@ -11099,7 +10973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柵を外して中に入りますか？"
+                                "Shall we remove the fence and go inside?"
                             ]
                         },
                         {
@@ -11107,8 +10981,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11266,7 +11140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -11293,7 +11167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【\\i[231]大岩井のグレープ】を手に入れた！"
+                                "【\\i[231]Oiwai's Grape】was obtained!"
                             ]
                         },
                         {
@@ -11400,7 +11274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイはロッカーを開けた。"
+                                "Yui opened the locker."
                             ]
                         },
                         {
@@ -11417,7 +11291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "特に目新しい物は無かった。"
+                                "There was nothing particularly new inside."
                             ]
                         },
                         {

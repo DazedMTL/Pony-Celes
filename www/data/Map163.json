@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "戦闘員アジト",
+    "displayName": "Combatant Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -20821,7 +20821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]必殺技の極意書十一巻】を手に入れた！"
+                                "I've obtained the 【\\i[94]Secret Tome of Finishing Moves, Volume 11】!"
                             ]
                         },
                         {

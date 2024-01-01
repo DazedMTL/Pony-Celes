@@ -12944,14 +12944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（オートロックか……）"
+                                "Ginga: \"Auto-lock, huh...\""
                             ]
                         },
                         {
@@ -12968,14 +12961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（横にあるインターフォンを使うしかないか）"
+                                "Ginga: \"Guess I have no choice but to use the intercom next to it.\""
                             ]
                         },
                         {
@@ -13052,7 +13038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エレベーターで何階に行きますか？"
+                                "Which floor will you go to in the elevator?"
                             ]
                         },
                         {
@@ -13060,8 +13046,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "５階",
-                                    "やめる"
+                                    "To the fifth floor, please",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -13458,7 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "インターフォンが設置されている。"
+                                "An intercom is installed."
                             ]
                         },
                         {
@@ -13475,14 +13461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか西園寺さんが５階って言ってたっけ」"
+                                "Ginga: \"I think Saionji-san said she was on the fifth floor.\""
                             ]
                         },
                         {
@@ -13499,7 +13478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どの部屋のインターフォンを鳴らしますか？"
+                                "Which room's intercom will you ring?"
                             ]
                         },
                         {
@@ -13507,12 +13486,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "５０１号室",
-                                    "５０２号室",
-                                    "５０３号室",
-                                    "５０４号室",
-                                    "５０５号室",
-                                    "鳴らさない"
+                                    "Room 501",
+                                    "Room 502",
+                                    "Room 503",
+                                    "Room 504",
+                                    "Room 505",
+                                    "Don't ring any intercom"
                                 ],
                                 5,
                                 0,
@@ -13606,7 +13585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "留守のようだ。"
+                                "It seems to be unattended."
                             ]
                         },
                         {
@@ -13700,7 +13679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "留守のようだ。"
+                                "It seems to be unattended."
                             ]
                         },
                         {
@@ -13794,7 +13773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "留守のようだ。"
+                                "It seems to be unattended."
                             ]
                         },
                         {
@@ -13888,7 +13867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "留守のようだ。"
+                                "It seems to be unattended."
                             ]
                         },
                         {
@@ -13982,14 +13961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うい！」"
+                                "Samejima: \"Hey!\""
                             ]
                         },
                         {
@@ -14029,14 +14001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（この声は鮫島！)"
+                                "Ginga (That voice is Samejima!)"
                             ]
                         },
                         {
@@ -14053,14 +14018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（やっぱり家にいたんだ)"
+                                "Ginga (So he was at home after all.)"
                             ]
                         },
                         {
@@ -14091,14 +14049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「急にごめん、天沢だけど……」"
+                                "Ginga: \"Sorry for the sudden visit, it's Amasawa...\""
                             ]
                         },
                         {
@@ -14115,14 +14066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おお、天沢か！」"
+                                "Samejima: \"Oh, Amasawa huh!\""
                             ]
                         },
                         {
@@ -14139,14 +14083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんか用か？」"
+                                "Samejima: \"You need something?\""
                             ]
                         },
                         {
@@ -14163,14 +14100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ユイがそっちに来てないかなと思って……」"
+                                "Ginga: \"I was wondering if Yui might have come over to your place...\""
                             ]
                         },
                         {
@@ -14187,14 +14117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「…………」"
+                                "Samejima: \"...\""
                             ]
                         },
                         {
@@ -14211,14 +14134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……守崎か」"
+                                "Samejima: \"...Morisaki?\""
                             ]
                         },
                         {
@@ -14235,14 +14151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや、来てないぜ」"
+                                "Samejima: \"Nah, she hasn't come here.\""
                             ]
                         },
                         {
@@ -14259,14 +14168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そっか……」"
+                                "Ginga: \"I see...\""
                             ]
                         },
                         {
@@ -14283,14 +14185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}「さめ……ま……くん……わたし……そろそろ、かえ……ないと……」"
+                                "???: \"Same...ma...kun... I... should be going back soon...\""
                             ]
                         },
                         {
@@ -14307,14 +14202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ユイ！？」"
+                                "Ginga: \"Yui!?\""
                             ]
                         },
                         {
@@ -14331,14 +14219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「今の声、ユイじゃ！？」"
+                                "Ginga: \"Was that Yui's voice just now!?\""
                             ]
                         },
                         {
@@ -14355,14 +14236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「は？」"
+                                "Samejima: \"Huh?\""
                             ]
                         },
                         {
@@ -14379,14 +14253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何言ってんだお前？」"
+                                "Samejima: \"What are you talking about?\""
                             ]
                         },
                         {
@@ -14403,14 +14270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「今、微かにユイの声が聞こえたような気がしたんだ」"
+                                "Ginga: \"I thought I just faintly heard Yui's voice.\""
                             ]
                         },
                         {
@@ -14427,14 +14287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「さっき俺が言ったこと聞いてたか？」"
+                                "Samejima: \"Did you hear what I just said?\""
                             ]
                         },
                         {
@@ -14451,14 +14304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「守崎はいねーんだって」"
+                                "Samejima: \"Morisaki isn't here, I told you.\""
                             ]
                         },
                         {
@@ -14475,14 +14321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「でも……」"
+                                "Ginga: \"But...\""
                             ]
                         },
                         {
@@ -14499,14 +14338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しつけーな」"
+                                "Samejima: \"Stop being persistent.\""
                             ]
                         },
                         {
@@ -14523,14 +14355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「だからいないって言ってんだろ！」"
+                                "Samejima: \"I'm telling you she's not here!\""
                             ]
                         },
                         {
@@ -14547,14 +14372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鮫島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃあな」"
+                                "Samejima: \"See ya.\""
                             ]
                         },
                         {
@@ -14571,14 +14389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あっ、ちょっとまっ……」"
+                                "Ginga: \"Wait, just a sec...\""
                             ]
                         },
                         {
@@ -14595,7 +14406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "インターフォンを切られた。"
+                                "The intercom was cut off."
                             ]
                         },
                         {
@@ -14633,14 +14444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（僕の聞き間違いか……)"
+                                "Ginga (Was it my imagination...)"
                             ]
                         },
                         {
@@ -14664,14 +14468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いや、そんなはずはない！ ユイの声を聞き間違えるなんて……)"
+                                "Ginga (No, that can't be right! There's no way I'd mistake Yui's\nvoice...)"
                             ]
                         },
                         {
@@ -14688,14 +14485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（こうなったら、ユイが出てくるまでここで待つしかないか……)"
+                                "Ginga (At this point, I have no choice but to wait here until Yui\ncomes out...)"
                             ]
                         },
                         {
@@ -14866,14 +14656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（でも、どうしてユイが鮫島の部屋に……)"
+                                "Ginga (But why would Yui be in Samejima's room...)"
                             ]
                         },
                         {
@@ -14890,14 +14673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（…………)"
+                                "Ginga (...)"
                             ]
                         },
                         {
@@ -14914,14 +14690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（二人きりで何してるんだろう……)"
+                                "Ginga (What could they be doing alone together...)"
                             ]
                         },
                         {
@@ -14945,14 +14714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（まさか……)"
+                                "Ginga (Could it be...)"
                             ]
                         },
                         {
@@ -14969,14 +14731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いや、ユイにかぎってそんな事はない！)"
+                                "Ginga (No, Yui would never do such a thing!)"
                             ]
                         },
                         {
@@ -14993,14 +14748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（信じるんだ！！)"
+                                "Ginga: \"I have to believe!!\""
                             ]
                         },
                         {
@@ -15017,14 +14765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（信じるんだ……)"
+                                "Ginga: \"I have to believe...\""
                             ]
                         },
                         {
@@ -15041,14 +14782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（信じるんだ……)"
+                                "Ginga: \"I have to believe...\""
                             ]
                         },
                         {
@@ -15084,7 +14818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一時間後。"
+                                "One hour later."
                             ]
                         },
                         {
@@ -15643,14 +15377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ユ……っ！」"
+                                "Ginga: \"Yu...!\""
                             ]
                         },
                         {
@@ -15707,14 +15434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「すいません、間違いました……」"
+                                "Ginga: \"Sorry, my mistake...\""
                             ]
                         },
                         {
@@ -15834,14 +15554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「だめだ……一瞬今の人をユイだと思ってしまった」"
+                                "Ginga: \"No good... I thought that person just now was Yui for a\nmoment.\""
                             ]
                         },
                         {
@@ -15858,14 +15571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「こんなストーカーみたいな事やめよう……」"
+                                "Ginga: \"I should stop doing things like a stalker...\""
                             ]
                         },
                         {
@@ -15882,14 +15588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それに、今日は家に帰ってくるかもしれないじゃないか」"
+                                "Ginga: \"Besides, she might come home today.\""
                             ]
                         },
                         {
@@ -15906,14 +15605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「僕ってなんて馬鹿なんだ……」"
+                                "Ginga: \"What an idiot I am...\""
                             ]
                         },
                         {
@@ -15930,14 +15622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ginga"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ユイの事を信じるなら、家で待ってなきゃ！」"
+                                "Ginga: \"If I'm going to trust Yui, I have to wait at home!\""
                             ]
                         },
                         {

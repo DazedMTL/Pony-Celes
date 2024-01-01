@@ -6079,7 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーを下ろしますか？"
+                                "Do you want to lower the lever?"
                             ]
                         },
                         {
@@ -6087,8 +6087,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6717,7 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう操作する必要は無さそうだ。"
+                                "It doesn't seem like there's any need to operate it anymore."
                             ]
                         },
                         {
@@ -7028,7 +7028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {

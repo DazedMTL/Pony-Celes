@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フェイの第二倉庫",
+    "displayName": "Fei's Second Warehouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12180,7 +12180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミ箱の下に階段を発見した！"
+                                "I discovered stairs under the trash can!"
                             ]
                         },
                         {
@@ -12585,7 +12585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#左右対称？"
+                                "Symmetrical?"
                             ]
                         },
                         {

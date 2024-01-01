@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "戦闘員アジト",
+    "displayName": "Combatant Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 36,
@@ -16507,7 +16507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -16945,7 +16945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵を外した。"
+                                "I unlocked it."
                             ]
                         },
                         {
@@ -17102,7 +17102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The lock is engaged."
                             ]
                         },
                         {
@@ -22445,7 +22445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[92]不屈の書】を手に入れた！"
+                                "Acquired the 【\\i[92]Indomitable Tome】!"
                             ]
                         },
                         {
@@ -22692,7 +22692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[94]鍛錬の書】を手に入れた！"
+                                "I've obtained the 【Training Manual】!"
                             ]
                         },
                         {

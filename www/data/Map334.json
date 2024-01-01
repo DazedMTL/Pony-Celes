@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "駐車場",
+    "displayName": "Parking Lot",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6379,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【\\i[313]小さなコイン】を手に入れた！"
+                                "You've obtained a 【\\i[313]Small Coin】!"
                             ]
                         },
                         {
@@ -6719,14 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「四越屋の修繕が済むまで駐車場を無料開放しております」"
+                                "Security Guard: \"We are offering free parking until the renovations at\nYotsugoya are complete.\""
                             ]
                         },
                         {
@@ -6803,7 +6796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コインパーキングの清算機のようだ。"
+                                "It seems to be a coin parking payment machine."
                             ]
                         },
                         {

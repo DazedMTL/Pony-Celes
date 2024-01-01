@@ -12139,21 +12139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「足つぼマッサージといえば世間では痛いというイメージがありますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　当店ではそのような事はありません」"
+                                "Clerk: \"When it comes to foot reflexology, there's an image that it's\npainful, but that's not the case at our shop.\""
                             ]
                         },
                         {
@@ -12170,14 +12156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「リラックス出来るよう、心地良い足つぼマッサージを心がけております」"
+                                "Clerk: \"We strive to provide a comfortable foot reflexology experience\nso you can relax.\""
                             ]
                         },
                         {
@@ -12335,14 +12314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、そこ！ そこ！ めちゃくちゃ気持ち良い\\i[18]」"
+                                "Male Customer: \"Ah, right there! Right there! It feels incredibly\ngood\\i[18]\""
                             ]
                         },
                         {
@@ -12359,14 +12331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、あぁぁぁぁぁぁっ\\i[18]\\i[18]\\i[18]」"
+                                "Male Customer: \"Ah, ahhhhhh\\i[18]\\i[18]\\i[18]\""
                             ]
                         },
                         {
@@ -12383,7 +12348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "施術中のようだ。中に入るのは止めておこう。"
+                                "It seems like a treatment is in progress. I should refrain from\nentering."
                             ]
                         },
                         {
@@ -12820,14 +12785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご来店ありがとうございます！」"
+                                "Masseur: \"Thank you for coming!\""
                             ]
                         },
                         {
@@ -12844,14 +12802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっ、ブーツを脱いでこちらのベッドへどうぞ！」"
+                                "Masseur: \"Now, please take off your shoes and come over to this bed!\""
                             ]
                         },
                         {
@@ -13137,14 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、始めさせて頂きますね」"
+                                "Masseur: \"Then, let's begin.\""
                             ]
                         },
                         {
@@ -13286,14 +13230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊張しているみたいですね。もう少し体を楽にして下さい！」"
+                                "Masseur: \"You seem to be tense. Please relax your body a little more!\""
                             ]
                         },
                         {
@@ -13310,14 +13247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「痛くしませんのでご安心を」"
+                                "Masseur: \"Don't worry, it won't hurt.\""
                             ]
                         },
                         {
@@ -13334,14 +13264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少しづつ押していきますね」"
+                                "Masseur: \"I'll press gently, bit by bit.\""
                             ]
                         },
                         {
@@ -13358,14 +13281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、お願します……」"
+                                "Yui: \"Yes, please do...\""
                             ]
                         },
                         {
@@ -13382,14 +13298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おいおい、今日は当たりの日じゃないか！)"
+                                "Masseur: (Oh boy, today's my lucky day!)"
                             ]
                         },
                         {
@@ -13406,14 +13315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(この制服、湘東学園の子だよな。大当たりだぜ！)"
+                                "Masseur: (This uniform, she must be from Shoto Academy. Jackpot!)"
                             ]
                         },
                         {
@@ -13430,21 +13332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くぅ、エロい体してるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　白のパンツにタイツかよ、俺の一番好きな組み合わせだ)"
+                                "Masseur: (Damn, she's got a sexy body. White panties with tights, my\nabsolute favorite combo.)"
                             ]
                         },
                         {
@@ -13461,21 +13349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（このタイツをビチビチに破いて純白のパンツむき出しにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　顔うずめて～なぁ……)"
+                                "Masseur: (I want to rip these tights to shreds and bury my face in\nthose pure white panties...)"
                             ]
                         },
                         {
@@ -13492,14 +13366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くぅ、眺めるだけってのが悔しいところだぜ……)"
+                                "Masseur: (Damn, it's frustrating just looking...)"
                             ]
                         },
                         {
@@ -13516,14 +13383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（おっ！！)"
+                                "Masseur: (Oh!!)"
                             ]
                         },
                         {
@@ -13540,14 +13400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（スカートの中の良い匂いが微かに漂ってきてる！)"
+                                "Masseur: (A nice scent is wafting from under the skirt!)"
                             ]
                         },
                         {
@@ -13564,14 +13417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もっと足を上げて、がっつり堪能させてもらおうか)"
+                                "Masseur: (Let's lift her leg more and fully enjoy it.)"
                             ]
                         },
                         {
@@ -13595,21 +13441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、足をもう少し上げて下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　強めにつぼを押していきますね」"
+                                "Masseur: \"Now, please lift your leg a little higher. I'm going to\npress the points more firmly.\""
                             ]
                         },
                         {
@@ -13626,14 +13458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……\\|これ以上足を上げるとスカートの中見えちゃいます……」"
+                                "Yui: \"Eh... If I lift my leg any higher, you'll see under my skirt...\""
                             ]
                         },
                         {
@@ -13650,14 +13475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Masseur: \"...\""
                             ]
                         },
                         {
@@ -13674,14 +13492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちっ、うるさいな。何がスカートの中が見えるだよ……)"
+                                "Masseur: (Tch, she's so noisy. What's the big deal if I see under her\nskirt...)"
                             ]
                         },
                         {
@@ -13698,14 +13509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（見られたって減るものんじゃねーし、我慢しろってんだ)"
+                                "Masseur: (It's not like she loses anything by being seen, she should\njust endure it.)"
                             ]
                         },
                         {
@@ -13729,21 +13533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかし……\\|スカート中だけに気がいってたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　よく見ると、こいつの足……めちゃくちゃエロいじゃん！)"
+                                "Masseur: (But... I was only focused on what's under the skirt, I\ndidn't notice until now – her legs... they're incredibly erotic!)"
                             ]
                         },
                         {
@@ -13760,14 +13550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よしっ、こっちも楽しませてもらうか！)"
+                                "Masseur: (Alright, I might as well enjoy this too!)"
                             ]
                         },
                         {
@@ -13784,14 +13567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうです？」"
+                                "Masseur: \"How is it?\""
                             ]
                         },
                         {
@@ -13834,14 +13610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここ、押されると気持ち良いでしょ？ ほらっ！」"
+                                "Masseur: \"This spot feels good when pressed, doesn't it? Here!\""
                             ]
                         },
                         {
@@ -13966,14 +13735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ……はい、そこ押されると気持ち良いです」"
+                                "Yui: \"Ah... Yes, it feels good when you press there.\""
                             ]
                         },
                         {
@@ -13990,14 +13752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですよね」"
+                                "Masseur: \"I thought so.\""
                             ]
                         },
                         {
@@ -14014,14 +13769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらっ！ ここもどうですか！」"
+                                "Masseur: \"Look! How about this spot?\""
                             ]
                         },
                         {
@@ -14064,14 +13812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、あぁっ……そこもっ、気持ち良いです……」"
+                                "Yui: \"Ah, ah... That spot too, it feels good...\""
                             ]
                         },
                         {
@@ -14088,14 +13829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かりました。ではここを集中的に押していきますね」"
+                                "Masseur: \"Understood. Then I'll focus on pressing here.\""
                             ]
                         },
                         {
@@ -14119,14 +13853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（と、いいながら足の匂いを堪能させてもうぜ)"
+                                "Masseur: (While saying that, let's savor the smell of her feet.)"
                             ]
                         },
                         {
@@ -14143,21 +13870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（アイマスクをしているから分からないだろうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺の鼻はお前の足裏から１センチのところで待機してるんだぜ)"
+                                "Masseur: (She's wearing an eye mask and won't know, but my nose is\njust one centimeter away from the sole of her foot.)"
                             ]
                         },
                         {
@@ -14174,21 +13887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ブーツ脱ぎたてほやほやのこの香りを余すことなく嗅げる位置。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁ、最高だ！)"
+                                "Masseur: (The scent of boots just taken off without missing a whiff –\nah, it's the best!)"
                             ]
                         },
                         {
@@ -14212,14 +13911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかし、むらむらしてくるぜ)"
+                                "Masseur: (But man, this is turning me on.)"
                             ]
                         },
                         {
@@ -14236,14 +13928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（俺のチンポが疼く。あぁ、この足、舐めまわしたい……)"
+                                "Masseur: (My dick is throbbing. Ahh, I want to lick all over these\nfeet...)"
                             ]
                         },
                         {
@@ -14260,21 +13945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（タイツを破いて足指の間に舌を滑りこませて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ペロペロしたいぜ……)"
+                                "Masseur: (I want to tear these tights and slide my tongue between her\ntoes, licking them...)"
                             ]
                         },
                         {
@@ -14298,14 +13969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（！！)"
+                                "Masseur: (!!!)"
                             ]
                         },
                         {
@@ -14322,14 +13986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いい事を思いついた！)"
+                                "Masseur: (I've got a great idea!)"
                             ]
                         },
                         {
@@ -14346,14 +14003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鼻先だけでも足裏にこすり付けてみるか……)"
+                                "Masseur: (Maybe I should rub just the tip of my nose against the sole\nof her foot...)"
                             ]
                         },
                         {
@@ -14370,14 +14020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（アイマスクしてるし指と勘違いしてバレやしないよな……)"
+                                "Masseur: (She's blindfolded, so she'll mistake it for my finger and\nwon't notice...)"
                             ]
                         },
                         {
@@ -14394,14 +14037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よしっ。やってやるぞ！)"
+                                "Masseur: (Alright. Let's do this!)"
                             ]
                         },
                         {
@@ -14468,14 +14104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（！！)"
+                                "Masseur: (!!!)"
                             ]
                         },
                         {
@@ -14492,14 +14121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちっ、なんだよ！ もう時間かよ！)"
+                                "Masseur: (Tch, what the hell! Is it time already?!)"
                             ]
                         },
                         {
@@ -14516,14 +14138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くそがっ！！)　"
+                                "Masseur: (Damn it!!)"
                             ]
                         },
                         {
@@ -14540,14 +14155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、起き上がって下さいね。施術は以上になります」"
+                                "Masseur: \"Yes, please sit up. That concludes the treatment.\""
                             ]
                         },
                         {
@@ -14794,14 +14402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございました！」"
+                                "Yui: \"Thank you very much!\""
                             ]
                         },
                         {
@@ -14818,14 +14419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージのおかげで足が随分軽くなりました」"
+                                "Yui: \"Thanks to the massage, my legs feel much lighter.\""
                             ]
                         },
                         {
@@ -14858,14 +14452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これなら上段回し蹴りの威力も上がりそうです」"
+                                "Yui: \"With this, the power of my high kicks should increase.\""
                             ]
                         },
                         {
@@ -14882,14 +14469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「上段回し蹴り？」"
+                                "Masseur: \"High kicks?\""
                             ]
                         },
                         {
@@ -14906,21 +14486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。私、空手の黒帯なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　上段回し蹴りは私の得意技です♪」"
+                                "Yui: \"Yes. I'm a black belt in karate. High kicks are my specialty♪\""
                             ]
                         },
                         {
@@ -14937,14 +14503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Masseur: \"...\""
                             ]
                         },
                         {
@@ -14970,14 +14529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（鼻、付けずに正解だった……バレたら上段回し蹴りが待ってたな……）"
+                                "Masseur: (Not using my nose was the right decision... If she noticed,\na high kick would've been waiting for me...)"
                             ]
                         },
                         {
@@ -15010,14 +14562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうかしました？」"
+                                "Yui: \"Is something wrong?\""
                             ]
                         },
                         {
@@ -15034,14 +14579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い、いや。ご利用ありがとうございました……」"
+                                "Masseur: \"No, thank you for using our service...\""
                             ]
                         },
                         {
@@ -15058,14 +14596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、またのご利用お待ちしております……」"
+                                "Masseur: \"We look forward to serving you again...\""
                             ]
                         },
                         {
@@ -15160,7 +14691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ユイの攻撃力が４上がった！"
+                                "Yui's attack power has increased by 4!"
                             ]
                         },
                         {
@@ -16240,7 +15771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "500\\G 手に入れた！"
+                                "Obtained 500\\G!"
                             ]
                         },
                         {
@@ -16624,21 +16155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージ中は目隠しされますか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※アイマスク上の目表示をＯＦＦにしますか？"
+                                "Attendant: \"Would you like to be blindfolded during the\nmassage?\"\\C[17]※Would you like to turn off the eye display on the\nblindfold?"
                             ]
                         },
                         {
@@ -16646,8 +16163,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No, thank you"
                                 ],
                                 -1,
                                 0,

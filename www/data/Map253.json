@@ -19808,14 +19808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「西園寺さん！」"
+                                "Pony-Celeste: \"Saionji-san!\""
                             ]
                         },
                         {
@@ -19885,7 +19878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]※この牢屋でカレンに何があったのか見ますか？"
+                                "\\c[27]Would you like to see what happened to Karen in this cell?"
                             ]
                         },
                         {
@@ -19893,8 +19886,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19961,21 +19954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「西園寺さん待ってて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ダーグノアを倒して必ず助け出すから！」"
+                                "Pony-Celeste: \"Saionji-san, please wait! I'll defeat Dargnoir and make\nsure to rescue you!\""
                             ]
                         },
                         {
@@ -20030,21 +20009,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポニーセレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「西園寺さん待ってて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ダーグノアを倒して必ず助け出すから！」"
+                                "Pony-Celeste: \"Saionji-san, please wait! I'll defeat Dargnoir and make\nsure to rescue you!\""
                             ]
                         },
                         {

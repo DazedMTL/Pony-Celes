@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "コイン交換所２層",
+    "displayName": "Coin Exchange Office 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -14479,7 +14479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -14487,8 +14487,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14526,7 +14526,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -14664,7 +14664,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[94]必殺技の極意書六巻】を手に入れた！"
+                                "【\\i[94]Secret Technique Scroll Volume Six】has been obtained!"
                             ]
                         },
                         {
@@ -15081,7 +15081,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -15242,7 +15242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -15250,8 +15250,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15289,7 +15289,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -15427,7 +15427,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[94]必殺技の極意書三巻】を手に入れた！"
+                                "Acquired 【\\i[94]Secret Tome of Special Moves Volume 3】!"
                             ]
                         },
                         {
@@ -15844,7 +15844,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -16005,7 +16005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -16013,8 +16013,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16052,7 +16052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -16189,7 +16189,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "1000\\G 手に入れた！"
+                                "Obtained 1000\\G!"
                             ]
                         },
                         {
@@ -16606,7 +16606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -17011,7 +17011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -17019,8 +17019,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17058,7 +17058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -17196,7 +17196,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[294]医療キット】を手に入れた！"
+                                "【\\i[294]Medical Kit】acquired!"
                             ]
                         },
                         {
@@ -17613,7 +17613,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -17774,7 +17774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -17782,8 +17782,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17821,7 +17821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -17960,7 +17960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[220]サクラ柄のシュシュ】を手に入れた！"
+                                "【\\i[220]Sakura-patterned scrunchie】acquired!"
                             ]
                         },
                         {
@@ -18377,7 +18377,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -18538,7 +18538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -18546,8 +18546,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18585,7 +18585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -18723,7 +18723,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[18]エロ本】を手に入れた！"
+                                "Acquired 【\\i[18]Eroge Book】!"
                             ]
                         },
                         {
@@ -19140,7 +19140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -19301,7 +19301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -19309,8 +19309,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19348,7 +19348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -19487,7 +19487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[220]体操着】を手に入れた！"
+                                "【Gym Clothes】have been obtained!"
                             ]
                         },
                         {
@@ -19904,7 +19904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -20065,7 +20065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -20073,8 +20073,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20112,7 +20112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -20250,7 +20250,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[94]不屈の書】を手に入れた！"
+                                "Acquired the 【\\i[94]Indomitable Tome】!"
                             ]
                         },
                         {
@@ -20667,7 +20667,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -20828,7 +20828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -20836,8 +20836,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20875,7 +20875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -21013,7 +21013,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[94]精神の書】を手に入れた！"
+                                "【\\i[94]Book of Spirit】has been obtained!"
                             ]
                         },
                         {
@@ -21430,7 +21430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -21591,7 +21591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さなコインを使いますか？"
+                                "Would you like to use a small coin?"
                             ]
                         },
                         {
@@ -21599,8 +21599,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21638,7 +21638,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ユイは小さなコイン１枚を使用した。"
+                                "Yui used one small coin."
                             ]
                         },
                         {
@@ -21776,7 +21776,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【\\i[90]忍耐の書】を手に入れた！"
+                                "【\\i[90]The Tome of Endurance】has been obtained!"
                             ]
                         },
                         {
@@ -22193,7 +22193,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "小さなコインを持っていない。"
+                                "You don't have any small coins."
                             ]
                         },
                         {
@@ -22354,14 +22354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺の直感なんだが……」"
+                                "Hiromiki: \"It's just my intuition but...\""
                             ]
                         },
                         {
@@ -22378,14 +22371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あそこの箱が怪しいな……」"
+                                "Hiromiki: \"That box over there looks suspicious...\""
                             ]
                         },
                         {
@@ -22402,14 +22388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロミキ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お宝の匂いがプンプンするぜ」"
+                                "Hiromiki: \"I can smell the treasure wafting from it.\""
                             ]
                         },
                         {
@@ -22648,7 +22627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このフロア全ての箱を空けなさい……"
+                                "Open all the boxes on this floor..."
                             ]
                         },
                         {
@@ -22665,7 +22644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さすれば道は開かれる……"
+                                "Then the path shall be revealed..."
                             ]
                         },
                         {
