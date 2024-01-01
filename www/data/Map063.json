@@ -13163,14 +13163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ～、ようやく授業が終わったわ」"
+                                "???: \"Phew~, finally classes are over.\""
                             ]
                         },
                         {
@@ -13210,14 +13203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、帰ろっと！」"
+                                "???: \"Alright, time to head back!\""
                             ]
                         },
                         {
@@ -13273,21 +13259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いっけない！ \\|たしか\\C[17]あいつ\\C[0]が授業終わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　迎えに来るって言ってたっけ」"
+                                "???: \"Ah, shoot! I think \\C[17]he\\C[0] said he'd come to pick me up\nafter class.\""
                             ]
                         },
                         {
@@ -13667,14 +13639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隣のクラスも授業終わってる筈だし、そろそろ現れる頃かな」"
+                                "???: \"The class next door should be finished by now, so he'll\nprobably show up soon.\""
                             ]
                         },
                         {
@@ -13735,14 +13700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私の名前は守崎ユイ。この学園、湘東学園のニ年生）"
+                                "Yui: \"(My name is Morisaki Yui. I'm a second-year student at Shoto\nAcademy.)\""
                             ]
                         },
                         {
@@ -14107,21 +14065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私にはちょっとした秘密があるんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ん～……いやいや、すっごく大きな秘密があるんだけど）"
+                                "Yui: \"(I have a little secret. Well... actually, it's a pretty big\nsecret.)\""
                             ]
                         },
                         {
@@ -14145,21 +14089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（今はそれは置いておいて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は幼馴染の\\C[17]あいつ\\C[0]が私の家に泊まりにくるんだ）"
+                                "Yui: \"(But let's put that aside for now... Today, my childhood friend\n\\C[17]that guy\\C[0] is coming to stay at my house.)\""
                             ]
                         },
                         {
@@ -14697,14 +14627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ、お待たせ。一緒に帰ろっか！」"
+                                "Ginga: \"Yui, sorry to keep you waiting. Shall we head back together?\""
                             ]
                         },
                         {
@@ -15032,14 +14955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、やっと来たね。待ってたよ！」"
+                                "Yui: \"Oh, you're finally here. I've been waiting!\""
                             ]
                         },
                         {
@@ -15082,14 +14998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]■男の子の名前を決めて下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（デフォルト名：天沢ギンガ）"
+                                "C[17]■ Please decide on the boy's name. (Default name: Amasawa Ginga)"
                             ]
                         },
                         {
@@ -15174,21 +15083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オープニングをスキップしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（※物語の伏線もスキップしてしまうことになりますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　２周目以降のスキップを推奨しております）"
+                                "Would you like to skip the opening? \\c[17](※Skipping will also skip\nthe story's foreshadowing, so it is recommended for second\nplaythroughs and beyond.)"
                             ]
                         },
                         {
@@ -15196,8 +15091,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 1,
@@ -15412,21 +15307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ギンガ、ちょっと待って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　教科書をカバンに入れたらすぐ行く！」"
+                                "Yui: \"Ginga, wait a moment. I'll be ready as soon as I put my\ntextbooks in my bag!\""
                             ]
                         },
                         {
@@ -15692,14 +15573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お待たせっ！」"
+                                "Yui: \"Sorry to keep you waiting!\""
                             ]
                         },
                         {
@@ -15967,14 +15841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日から一ヶ月間だね。ちゃんと着替えは持ってきたの？」"
+                                "Yui: \"It's going to be for a whole month, right? Did you bring all\nyour clothes?\""
                             ]
                         },
                         {
@@ -16025,21 +15892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一ヶ月もお邪魔させてもらうんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　準備はばっちりだよ」"
+                                "Ginga: \"Yeah, I'll be intruding for a whole month. I've got\neverything prepared.\""
                             ]
                         },
                         {
@@ -16070,14 +15923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そかっ。じゃ、いこっか！」"
+                                "Yui: \"Gotcha. Then, let's go!\""
                             ]
                         },
                         {
@@ -16218,14 +16064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいっ。ちょっと待て、守崎！」"
+                                "Samejima: \"Hey, wait a minute, Morisaki!\""
                             ]
                         },
                         {
@@ -16323,14 +16162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ……？ なんでしょうか、毒島先生？」"
+                                "Yui: \"Hmm...? What is it, Samejima-sensei?\""
                             ]
                         },
                         {
@@ -16363,14 +16195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最近数学の成績が良くないぞ。しっかり勉強してるのか？」"
+                                "Samejima: \"Your math grades haven't been good lately. Are you\nstudying properly?\""
                             ]
                         },
                         {
@@ -16410,14 +16235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと……最近は少し、その～……色々忙しくて……」"
+                                "Yui: \"Um... lately I've been a bit, you know... busy with various\nthings...\""
                             ]
                         },
                         {
@@ -16434,14 +16252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「忙しい？ 学生のくせに何が忙しいんだ？」"
+                                "Samejima: \"Busy? What could a student possibly be busy with?\""
                             ]
                         },
                         {
@@ -16458,14 +16269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ってか、さっきの話はなんだ！？」"
+                                "Samejima: \"And what was that conversation earlier about!?\""
                             ]
                         },
                         {
@@ -16482,21 +16286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前の家に天沢が泊まるだと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　学生の分際でそんな事していいと思ってるのか！」"
+                                "Samejima: \"Amasawa is staying at your house? Do you think it's okay\nfor students to be doing such things?\""
                             ]
                         },
                         {
@@ -16545,21 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「か、かぁーーー！！ ち、違いますーーー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私達の親同士がとても仲良くて、そ、それで！」"
+                                "Yui: \"No, no---!! That's not it---! Our parents are very close\nfriends, and so...\""
                             ]
                         },
                         {
@@ -16583,14 +16359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、親同士が今日から沖縄に旅行に行ってて……」"
+                                "Yui: \"Our parents are going on a trip to Okinawa starting today...\""
                             ]
                         },
                         {
@@ -16614,21 +16383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それで家に一人は危ないからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギンガが一緒にいてくれる事になって……」"
+                                "Yui: \"And since it's dangerous for a girl to be alone at home, Ginga\nwill be staying with me...\""
                             ]
                         },
                         {
@@ -16652,21 +16407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、最近ザイダーグが街に出没してるみたいだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女の子一人じゃ危険だって言うし……」"
+                                "Yui: \"You see, there have been sightings of Zaido-G in town recently,\nand they say it's dangerous for a girl to be alone...\""
                             ]
                         },
                         {
@@ -16690,21 +16431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようするに、私が決めたんじゃありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あくまで親が決めたことなので！」"
+                                "Yui: \"Basically, it wasn't my decision. It was entirely up to our\nparents!\""
                             ]
                         },
                         {
@@ -16775,14 +16502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねっ、ねっ、そうだよねギンガ！！」"
+                                "Yui: \"Right, right, that's right, isn't it Ginga!!\""
                             ]
                         },
                         {
@@ -16833,14 +16553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、うん……親同士が勝手に……」"
+                                "Ginga: \"Yeah, yeah... our parents decided on their own...\""
                             ]
                         },
                         {
@@ -16929,14 +16642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「という訳で、誤解しないで下さいね先生」"
+                                "Yui: \"So please don't misunderstand, sensei.\""
                             ]
                         },
                         {
@@ -16987,14 +16693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういうことなら仕方ないか」"
+                                "Samejima: \"If that's the case, then I suppose it can't be helped.\""
                             ]
                         },
                         {
@@ -17066,21 +16765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くそっ、天沢のやつ……守崎の家に泊まりだと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　正直クソ羨ましいぜ！）"
+                                "Samejima: \"(Damn it, that Amasawa... staying at Morisaki's house.\nHonestly, I'm so damn jealous!)\""
                             ]
                         },
                         {
@@ -17097,14 +16782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これだぞ、これ！）"
+                                "Samejima: \"(This is it, this!)\""
                             ]
                         },
                         {
@@ -17189,14 +16867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（良い匂いのしそうなふとももに……）"
+                                "Samejima: \"(Those thighs that must smell so good...)\""
                             ]
                         },
                         {
@@ -17231,14 +16902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ガキの分際で堪らなく美味そうな体つき）"
+                                "Samejima: \"(For a brat like him to enjoy such a delicious-looking\nbody...)\""
                             ]
                         },
                         {
@@ -17307,21 +16971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（それになにより！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この巨乳を一ヶ月も間近で堪能できるのかよ！）"
+                                "Samejima: \"(And above all! He gets to enjoy those huge breasts up\nclose for an entire month!)\""
                             ]
                         },
                         {
@@ -17381,14 +17031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかも、男女が一つ屋根の下ということは……くそぉ！！）"
+                                "Samejima: \"(Plus, a boy and a girl under one roof means... damn\nit!!)\""
                             ]
                         },
                         {
@@ -17405,21 +17048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（守崎は俺が先に狙ってたのに……ちきしょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんとかしないと！）"
+                                "Samejima: \"(Morisaki was the one I had my eye on first... damn it! I\nhave to do something about this!)\""
                             ]
                         },
                         {
@@ -17482,21 +17111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！ お前は少し残れ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生がマンツーマンで補習をしてやる」"
+                                "Samejima: \"That's right! You stay behind for a bit. I'll give you\nsome one-on-one supplementary lessons.\""
                             ]
                         },
                         {
@@ -17572,14 +17187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！！」"
+                                "Yui: \"Eh?!\""
                             ]
                         },
                         {
@@ -17603,21 +17211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか数学で赤点とってたよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この毒島先生が三時間みっちり補習してやる！」"
+                                "Samejima: \"You got a failing grade in math, right? This Samejima-\nsensei will give you a thorough three-hour supplementary lesson!\""
                             ]
                         },
                         {
@@ -17634,21 +17228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「補習が終われば、その後にテストもあるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしテストが悪ければ明日も追加で補習だ！」"
+                                "Samejima: \"After the supplementary lesson, there will be a test. If\nyou do poorly on the test, there will be additional lessons tomorrow!\""
                             ]
                         },
                         {
@@ -17665,14 +17245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「がははははっ、覚悟はいいな！」"
+                                "Samejima: \"Gahahaha, are you prepared?!\""
                             ]
                         },
                         {
@@ -17779,14 +17352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな……嘘でしょぉぉ！」"
+                                "Yui: \"No way... you're kidding, right?!\""
                             ]
                         },
                         {
@@ -17810,21 +17376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（苦手な数学を、さ、さ、３時間！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかもテストが悪いと明日も……あぁ、頭くらくらしてきた……）"
+                                "Yui: \"(Math is my worst subject, and now, three hours of it! And if\nthe test goes badly, more tomorrow... Ah, my head is spinning...)\""
                             ]
                         },
                         {
@@ -17905,14 +17457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はははっ、我ながら最高のアイデアだ）"
+                                "Samejima: \"(Hahaha, if I do say so myself, this is the best idea\never.)\""
                             ]
                         },
                         {
@@ -17929,14 +17474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（じっくり時間をかけてこの巨乳に教育してやるぜ）"
+                                "Samejima: \"(I'll take my time to educate those huge breasts.)\""
                             ]
                         },
                         {
@@ -17953,21 +17491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あっ、そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺の家で夜の追加補習も考えとくか……ぐふふふふ）"
+                                "Samejima: \"(Ah, that's right! Maybe I should consider some extra\nlessons at night at my place... gufufufufu)\""
                             ]
                         },
                         {
@@ -18005,21 +17529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「天沢、そういうわけだ。 守崎は今から居残り補習になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前はとっとと帰れ！」"
+                                "Samejima: \"Amasawa, that's the situation. Morisaki has to stay behind\nfor supplementary lessons now. You go on home!\""
                             ]
                         },
                         {
@@ -18108,14 +17618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ、補習頑張れよ！」"
+                                "Ginga: \"Yui, do your best with the supplementary lessons!\""
                             ]
                         },
                         {
@@ -18132,14 +17635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっちの家には夕方くらいに向うとするよ」"
+                                "Ginga: \"I'll head over to your place around evening.\""
                             ]
                         },
                         {
@@ -18437,14 +17933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、待ってよ、ギンガーーー！！」"
+                                "Yui: \"Wait, Ginga---!!\""
                             ]
                         },
                         {
@@ -18511,14 +18000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、自分の席に着け。補習を始めるぞ」"
+                                "Samejima: \"Now, take your seat. We're starting the supplementary\nlesson.\""
                             ]
                         },
                         {
@@ -18589,14 +18071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふにゅうぅ～～～～」"
+                                "Yui: \"Funiyuuu~~~\""
                             ]
                         },
                         {
@@ -18763,14 +18238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校内放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊急連絡、緊急連絡！」"
+                                "School Announcement: \"Emergency notice, emergency notice!\""
                             ]
                         },
                         {
@@ -18787,21 +18255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校内放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アーバン地区にザイダーグが現れました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下校の際はアーバン地区を避け、気をつけて帰宅して下さい」"
+                                "School Announcement: \"A Zaidarug has appeared in the Arban district.\nPlease avoid the Arban district when going home and be careful.\""
                             ]
                         },
                         {
@@ -18899,14 +18353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグ！！」"
+                                "Yui: \"Zaidarug!!\""
                             ]
                         },
                         {
@@ -18960,21 +18407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もぅ～！ なんてタイミングに現れるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生に目を付けられて大変な時に）"
+                                "Yui: \"(Geez! What timing to show up. Just when I'm in trouble with the\nteacher.)\""
                             ]
                         },
                         {
@@ -19014,21 +18447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なにか理由を付けて現場に向かうしかないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う～ん、毒島先生が納得しそうな理由……）"
+                                "Yui: \"(I have to find some reason to head to the scene. Hmm, a reason\nthat would convince Samejima-sensei...)\""
                             ]
                         },
                         {
@@ -19077,21 +18496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（駄目だ……補習のショックで頭が回らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しょうがない、こうなったら）"
+                                "Yui: \"(No good... my head's not working because of the shock from the\nsupplementary lessons. Can't be helped, in this case.)\""
                             ]
                         },
                         {
@@ -19145,14 +18550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生、お手洗い行って来てもいいですか？」"
+                                "Yui: \"Sensei, may I go to the restroom?\""
                             ]
                         },
                         {
@@ -19176,14 +18574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに戻ってきますね！」"
+                                "Yui: \"I'll be right back!\""
                             ]
                         },
                         {
@@ -19234,14 +18625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お手洗いとか言いつつ、こっそり帰るんじゃないだろな？」"
+                                "Samejima: \"You're not planning to sneak off home while saying you're\ngoing to the restroom, are you?\""
                             ]
                         },
                         {
@@ -19274,14 +18658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げないように俺がトイレの中まで付いていって……」"
+                                "Samejima: \"To make sure you don't run away, I'll follow you right into\nthe toilet...\""
                             ]
                         },
                         {
@@ -19347,14 +18724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「良いわけないでしょ！！！」"
+                                "Yui: \"Like I would allow that!!!\""
                             ]
                         },
                         {
@@ -19410,14 +18780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！」"
+                                "Samejima: \"Tch!\""
                             ]
                         },
                         {
@@ -19434,14 +18797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ない……早く済ませてこいよ」"
+                                "Samejima: \"Can't be helped... hurry up and get it over with.\""
                             ]
                         },
                         {
@@ -19490,14 +18846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、はい……すぐ戻りますのでいったん失礼します」"
+                                "Yui: \"Yes, yes... I'll be right back, so please excuse me for a\nmoment.\""
                             ]
                         },
                         {
@@ -21053,14 +20402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ～、ようやく授業が終わったわ！」"
+                                "Phew~, finally classes are over!"
                             ]
                         },
                         {
@@ -21093,14 +20435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、帰ろっと！」"
+                                "Alright, time to head back!"
                             ]
                         },
                         {
@@ -21149,21 +20484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ、いっけない！たしか\\C[17]あいつ\\C[0]が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　授業終わりに迎えに来るって言ってたっけ････」"
+                                "I wonder if he said he'd come to pick me up after class..."
                             ]
                         },
                         {
@@ -21536,21 +20857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「隣のクラスも授業終わってる筈だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そろそろ現れる頃かな･････」"
+                                "He should be showing up any minute now..."
                             ]
                         },
                         {
@@ -21604,21 +20911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私の名前は守崎優衣【モリサキ　ユイ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この学園、湘東学園のニ年生。）"
+                                "I'm a second-year student at Shoto Academy."
                             ]
                         },
                         {
@@ -21976,21 +21269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私にはちょっとした秘密があるんだけど･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ん～････いやいや、すっごく大きな秘密があるんだけど･････）"
+                                "Hmm... No, no, there's actually a huge secret..."
                             ]
                         },
                         {
@@ -22007,21 +21286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁ、今はそれは置いといて････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今日は幼馴染の\\C[17]あいつ\\C[0]が私の家に泊まりにくるんだ。）"
+                                "Today, my childhood friend \\C[17]that guy\\C[0] is coming to stay over\nat my place."
                             ]
                         },
                         {
@@ -22038,14 +21303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たしか幼少の頃以来かな････少し楽しみ！）"
+                                "(I think it's been since we were little kids... I'm a bit excited!)"
                             ]
                         },
                         {
@@ -22583,14 +21841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天沢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ユイ、お待たせ！一緒に帰ろうか！」"
+                                "Yui, sorry to keep you waiting! Shall we head back together?"
                             ]
                         },
                         {
@@ -22911,14 +22162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ、やっと来たね。待ってたよ！」"
+                                "Oh, you finally arrived. I've been waiting!"
                             ]
                         },
                         {
@@ -22961,21 +22205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ユイに声をかけた、この少年の名前を決めて下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "※本作は寝取られ要素を含む作品ですので、ご自身の名前を推奨しております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（苗字：天沢　　名前：●●）"
+                                "(Surname: Amasawa Name: ●●)"
                             ]
                         },
                         {
@@ -23014,21 +22244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ギンガ、ちょっと待って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　教科書をカバンに入れたらすぐ行く！」"
+                                "I'll go as soon as I put my textbooks in my bag!"
                             ]
                         },
                         {
@@ -23287,14 +22503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お待たせっ！」"
+                                "Sorry for the wait!"
                             ]
                         },
                         {
@@ -23555,14 +22764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日から一ヶ月間だね････ちゃんと着替えは持ってきたの？」"
+                                "It's going to be for a whole month, huh... Did you bring all your\nchange of clothes?"
                             ]
                         },
                         {
@@ -23613,21 +22815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん！一ヶ月もお邪魔させてもらうんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　準備はばっちりだよ。」"
+                                "Everything's all set."
                             ]
                         },
                         {
@@ -23651,14 +22839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そかっ！じゃ、いこっか！」"
+                                "Got it! Then, shall we go?"
                             ]
                         },
                         {
@@ -23799,14 +22980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい、ちょっと待て！守崎！！」"
+                                "Hey, wait a minute! Morisaki!!"
                             ]
                         },
                         {
@@ -23897,14 +23071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ････？なんでしょうか、毒島先生？」"
+                                "Hmm...? What is it, Dokushima-sensei?"
                             ]
                         },
                         {
@@ -23937,21 +23104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前、最近の数学の成績良くないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちゃんと勉強してるのか？」"
+                                "Have you been studying properly?"
                             ]
                         },
                         {
@@ -23984,14 +23137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっと･････最近は少し、その～･････色々忙しくて･･････」"
+                                "Well... lately I've been a bit, you know... busy with various\nthings..."
                             ]
                         },
                         {
@@ -24008,14 +23154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「忙しい･････？学生のくせに何が忙しいんだ！？」"
+                                "Busy...? What could a student possibly be so busy with!?"
                             ]
                         },
                         {
@@ -24032,14 +23171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ってか、さっきの会話はなんだ！？」"
+                                "And what was that conversation just now!?"
                             ]
                         },
                         {
@@ -24056,21 +23188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前の家に天沢が泊まるだと！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　学生の分際でそんな事していいと思ってるのか！」"
+                                "You think it's okay to do such things while being a student!?"
                             ]
                         },
                         {
@@ -24112,21 +23230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「か、かぁーーー！！ち、違いますーーー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私達の親同士がとても仲良くて、そ、それで！」"
+                                "Our parents are really close friends, and so, that's why!"
                             ]
                         },
                         {
@@ -24143,14 +23247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お、親同士が今日から沖縄に旅行に行ってて―」"
+                                "The parents are off to Okinawa on a trip starting today-"
                             ]
                         },
                         {
@@ -24167,21 +23264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そ、それで家に一人は危ないからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ギンガが一緒にいてくれる事になって―」"
+                                "And Ginga has agreed to stay with me-"
                             ]
                         },
                         {
@@ -24198,21 +23281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほら、最近ザイダーグも街に出没してるみたいだがら･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女の子一人じゃ危険だって言うし･････」"
+                                "They say it's dangerous for a girl to be alone..."
                             ]
                         },
                         {
@@ -24229,21 +23298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ようするに、私が決めたんじゃありません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あくまで親が決めたことなので！」"
+                                "It was all decided by our parents!"
                             ]
                         },
                         {
@@ -24307,14 +23362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねっ、ねっ、そうだよねギンガ！！」"
+                                "Right, right, that's how it is, Ginga!!"
                             ]
                         },
                         {
@@ -24365,14 +23413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う、うん･････親同士が勝手に･････」"
+                                "Yeah, yeah... the parents decided on their own..."
                             ]
                         },
                         {
@@ -24454,14 +23495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「という訳で、誤解しないで下さいね先生」"
+                                "So please don't misunderstand, sensei"
                             ]
                         },
                         {
@@ -24512,14 +23546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういうことなら仕方ないか･････」"
+                                "If that's the case, then I guess it can't be helped..."
                             ]
                         },
                         {
@@ -24591,21 +23618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くそっ、天沢のやつ･････守崎の家に泊まりだと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　正直、くそ羨ましいぜ！）"
+                                "Honestly, I'm so damn jealous!"
                             ]
                         },
                         {
@@ -24622,14 +23635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（これだぞ、これ！）"
+                                "(This is it, this!)"
                             ]
                         },
                         {
@@ -24714,14 +23720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（良い匂いのしそうなふとももに･････）"
+                                "(Those thighs that must smell so good...)"
                             ]
                         },
                         {
@@ -24756,14 +23755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ガキのくせに堪らなく美味そうな身体･････）"
+                                "(Despite being a brat, she has an irresistibly delicious-looking\nbody...)"
                             ]
                         },
                         {
@@ -24832,21 +23824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（それに、なにより･･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この巨乳を一ヶ月も間近で堪能できるのかよ！）"
+                                "To think I could enjoy those big breasts up close for a whole month!"
                             ]
                         },
                         {
@@ -24906,14 +23884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかも、男女が一つ屋根の下ということは･････くそぉ！！）"
+                                "(And with a boy and girl under one roof... damn it!!)"
                             ]
                         },
                         {
@@ -24930,14 +23901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（守崎は俺が先に狙ってたのに･････ちきしょう！なんとかしないと！）"
+                                "(Morisaki was the one I had my eye on first... damn it! I have to do\nsomething about this!)"
                             ]
                         },
                         {
@@ -25000,21 +23964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ･････お前は少し残れ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生がワンツーマンで補修してやる。」"
+                                "I'll give you one-on-one supplementary lessons."
                             ]
                         },
                         {
@@ -25083,14 +24033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！！」"
+                                "\"Eh!!\""
                             ]
                         },
                         {
@@ -25114,21 +24057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか数学が赤点だったよな、守崎ィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この毒島先生が三時間みっちり補修してやる！」"
+                                "This Dokushima-sensei will give you a thorough three-hour\nsupplementary lesson!\""
                             ]
                         },
                         {
@@ -25145,21 +24074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「補修が終われば、その後にテストもあるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしテストが悪ければ明日も追加で補修だ！」"
+                                "If your test results are bad, you'll have additional lessons tomorrow\ntoo!\""
                             ]
                         },
                         {
@@ -25176,14 +24091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「がははははっ、覚悟はいいな！」"
+                                "\"Gahaha, you better be prepared!\""
                             ]
                         },
                         {
@@ -25276,14 +24184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな･････嘘でしょぉぉ･･････」"
+                                "\"No way... You're kidding, right...?\""
                             ]
                         },
                         {
@@ -25300,21 +24201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（嫌いな数学を、さ、さ、３時間！！････あぁ････もうだめ･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかもテストが悪いと明日も･････あ、頭くらくらしてきた･･････）"
+                                "(And if the test goes poorly, there's more tomorrow... Ah, my head's\nstarting to spin...)"
                             ]
                         },
                         {
@@ -25395,14 +24282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はははっ、我ながら最高のアイデアだぜ。）"
+                                "(Hahaha, this has got to be the best idea I've ever had.)"
                             ]
                         },
                         {
@@ -25419,21 +24299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（じっくり時間をかけてこの巨乳に教育してやるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうだ！俺の家で夜の追加補修も考えとくか･････ぐふふふふ。）"
+                                "That's it! Maybe I should consider extra lessons at my place\ntonight... gufufufu."
                             ]
                         },
                         {
@@ -25471,21 +24337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「天沢、そういうわけだ。守崎は居残り補修になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前は先に帰ってろ！」"
+                                "You go on ahead and head back first!\""
                             ]
                         },
                         {
@@ -25567,14 +24419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ、俺はどこかで時間を潰して待ってるよ。」"
+                                "\"Then, I'll kill some time somewhere and wait.\""
                             ]
                         },
                         {
@@ -25591,14 +24436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「補修頑張れよ、ユイ！」"
+                                "\"Good luck with the supplementary lessons, Yui!\""
                             ]
                         },
                         {
@@ -25889,14 +24727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ま、待ってよ、ギンガーーー！！」"
+                                "\"W-Wait, Ginga---!!\""
                             ]
                         },
                         {
@@ -25963,14 +24794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ、自分の席に着け。補修を始めるぞ。」"
+                                "\"Now, take your seat. We're starting the supplementary lesson.\""
                             ]
                         },
                         {
@@ -26034,14 +24858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふにゅうぅ～～～～」"
+                                "\"Funiyuuu~~~\""
                             ]
                         },
                         {
@@ -26222,14 +25039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校内放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「緊急連絡、緊急連絡！」"
+                                "\"Emergency announcement, emergency announcement!\""
                             ]
                         },
                         {
@@ -26246,21 +25056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校内放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「現在、アーバン地区にザイダーグが現れました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下校の際はアーバン地区を避け、気をつけて帰宅して下さい。」"
+                                "Please avoid the Arban district when heading home and be careful.\""
                             ]
                         },
                         {
@@ -26315,14 +25111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校内放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「繰り返します！」"
+                                "\"I repeat!\""
                             ]
                         },
                         {
@@ -26339,21 +25128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校内放送"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「現在、アーバン地区にザイダーグが現れました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　下校の際はアーバン地区を避け、気をつけて帰宅して下さい。」"
+                                "Please avoid the Arban district when heading home and be careful.\""
                             ]
                         },
                         {
@@ -26413,14 +25188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザイダーグ！！！」"
+                                "\"ZAIDA-GR!!!\""
                             ]
                         },
                         {
@@ -26467,21 +25235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もう～！なんてタイミングに現れるのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　先生に目を付けられて大変なときに･････）"
+                                "(This is the worst time to get on the teacher's radar...)"
                             ]
                         },
                         {
@@ -26514,21 +25268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なにか理由を付けて現場に向うしかないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　う～ん、毒島先生が納得しそうな理由･････）"
+                                "(Hmm, I need a reason that would convince Dokushima-sensei...)"
                             ]
                         },
                         {
@@ -26570,21 +25310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（駄目だ･････補修のショックで頭が回らない･････"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しょうがない、こうなったら！）"
+                                "(No choice, this is what I'll have to do!)"
                             ]
                         },
                         {
@@ -26631,14 +25357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生、お手洗い行って来てもいいですか？」"
+                                "\"Sensei, may I go to the restroom?\""
                             ]
                         },
                         {
@@ -26655,14 +25374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに戻ってきますね！」"
+                                "\"I'll be right back!\""
                             ]
                         },
                         {
@@ -26713,14 +25425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トイレとか言いつつ、こっそり帰るんじゃないだろな！？」"
+                                "\"Don't even think about sneaking off home while saying you're going to\nthe toilet!?\""
                             ]
                         },
                         {
@@ -26753,14 +25458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げないように俺がトイレまで付いていって―」"
+                                "\"To make sure you don't run away, I'll accompany you to the restroom—\""
                             ]
                         },
                         {
@@ -26819,14 +25517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{「良いわけないでしょ！！！！！」"
+                                "\"As if that would be okay!!!!!\""
                             ]
                         },
                         {
@@ -26882,14 +25573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！！」"
+                                "\"Tch!!\""
                             ]
                         },
                         {
@@ -26906,14 +25590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒島"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ないな･････早く済ませてこいよ。」"
+                                "\"Can't be helped... Hurry up and get it over with.\""
                             ]
                         },
                         {
@@ -26955,14 +25632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、はい･････すぐ戻りますので！いったん失礼します。」"
+                                "\"Yes, yes... I'll be right back! Please excuse me for a moment.\""
                             ]
                         },
                         {
