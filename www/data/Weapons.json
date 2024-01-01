@@ -1,0 +1,1748 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 6,
+        "description": "女子力アップのジュエリー\n［攻撃力＋５］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 171,
+        "name": "ピンクオパール",
+        "note": "初期装備",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 2,
+        "animationId": 6,
+        "description": "クリアブルーが魅力のブルートパーズ\n［攻撃力＋８］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 161,
+        "name": "ブルートパーズ",
+        "note": "１章",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500,
+        "wtypeId": 1
+    },
+    {
+        "id": 3,
+        "animationId": 8,
+        "description": "透明感のある美しいレッドピンク\n［攻撃力＋１３］［属性：炎］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 162,
+        "name": "インカローズ",
+        "note": "１章\n３章のダンジョン内",
+        "params": [
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 800,
+        "wtypeId": 1
+    },
+    {
+        "id": 4,
+        "animationId": 6,
+        "description": "明るいオリーブグリーンが魅力\n［攻撃力＋１７］［スピード＋３］［属性：風］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 164,
+        "name": "ペリドット",
+        "note": "１章",
+        "params": [
+            0,
+            0,
+            17,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "price": 1100,
+        "wtypeId": 1
+    },
+    {
+        "id": 5,
+        "animationId": 10,
+        "description": "太古の自然が作り出した芸術的琥珀色\n［攻撃力＋２５］［最大ＨＰ＋５％］［属性：雷］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.05
+            }
+        ],
+        "iconIndex": 168,
+        "name": "アンバー",
+        "note": "１章",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000,
+        "wtypeId": 1
+    },
+    {
+        "id": 6,
+        "animationId": 6,
+        "description": "深みのあるすみれ色に心が落ち着く\n［攻撃力＋２５］［最大ＨＰ＋７％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.07
+            }
+        ],
+        "iconIndex": 166,
+        "name": "アイオライト",
+        "note": "２章",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2200,
+        "wtypeId": 1
+    },
+    {
+        "id": 7,
+        "animationId": 8,
+        "description": "燃えるような赤　情熱と熱意の印\n［攻撃力＋３０］［防御力＋２］［最大ＨＰ＋７％］［属性：炎］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.07
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ガーネット",
+        "note": "２章\nイートダーグ戦に有効",
+        "params": [
+            0,
+            0,
+            30,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2800,
+        "wtypeId": 1
+    },
+    {
+        "id": 8,
+        "animationId": 6,
+        "description": "美しい海の模様を持つカリブ海の宝石\n［攻撃力＋４０］［防御力＋３］［最大ＨＰ＋８％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.08
+            }
+        ],
+        "iconIndex": 172,
+        "name": "ラリマー",
+        "note": "３章",
+        "params": [
+            0,
+            0,
+            40,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 4600,
+        "wtypeId": 1
+    },
+    {
+        "id": 9,
+        "animationId": 9,
+        "description": "名前の由来は月の女神\n［攻撃力＋４２］［聖心力＋３］［最大ＨＰ＋８％］［属性：風］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.08
+            }
+        ],
+        "iconIndex": 169,
+        "name": "セレナイト",
+        "note": "３章\nマッスルダーグ戦に有効",
+        "params": [
+            0,
+            0,
+            42,
+            0,
+            3,
+            0,
+            0,
+            0
+        ],
+        "price": 4800,
+        "wtypeId": 1
+    },
+    {
+        "id": 10,
+        "animationId": 6,
+        "description": "シャーマンの名を持つ希少な天然石\n［攻撃力＋５５］［防御力＋５］［最大ＨＰ＋１０％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 170,
+        "name": "シャーマナイト",
+        "note": "４章",
+        "params": [
+            0,
+            0,
+            55,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 7000,
+        "wtypeId": 1
+    },
+    {
+        "id": 11,
+        "animationId": 10,
+        "description": "虎の目のようなしたたかな光を放つ\n［攻撃力＋５８］［聖心力＋５］［最大ＨＰ＋１０％］［属性：雷］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 168,
+        "name": "タイガーアイ",
+        "note": "４章",
+        "params": [
+            0,
+            0,
+            58,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "price": 7500,
+        "wtypeId": 1
+    },
+    {
+        "id": 12,
+        "animationId": 6,
+        "description": "幸福をもたらす聖なる石\n［攻撃力＋７０］［防御力＋８］［最大ＨＰ＋１０％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 161,
+        "name": "ラピスラズリ",
+        "note": "５章",
+        "params": [
+            0,
+            0,
+            70,
+            8,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 9200,
+        "wtypeId": 1
+    },
+    {
+        "id": 13,
+        "animationId": 6,
+        "description": "オーロラのような美しい輝きを放つ\n［攻撃力＋７５］［聖心力＋８］［最大ＨＰ＋１２％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.12
+            }
+        ],
+        "iconIndex": 171,
+        "name": "ローズオーラ",
+        "note": "５章",
+        "params": [
+            0,
+            0,
+            75,
+            0,
+            8,
+            0,
+            0,
+            0
+        ],
+        "price": 9800,
+        "wtypeId": 1
+    },
+    {
+        "id": 14,
+        "animationId": 6,
+        "description": "その光が真実の愛をもたらすと伝えられている\n［攻撃力＋８８］［防御力＋１０］［最大ＨＰ＋１２％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.12
+            }
+        ],
+        "iconIndex": 166,
+        "name": "アメジスト",
+        "note": "６章",
+        "params": [
+            0,
+            0,
+            88,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12500,
+        "wtypeId": 1
+    },
+    {
+        "id": 15,
+        "animationId": 8,
+        "description": "龍の目のように鋭い光を放つオパール\n［攻撃力＋９０］［聖心力＋１０］［最大ＨＰ＋１５％］［属性：炎］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ドラゴンアイ",
+        "note": "６章\nサイミンダーグ（ザイボーグ戦に有効）",
+        "params": [
+            0,
+            0,
+            90,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 13800,
+        "wtypeId": 1
+    },
+    {
+        "id": 16,
+        "animationId": 6,
+        "description": "隕石が生み出すグリーンカラー\n［攻撃力＋１００］［防御力＋１３］［最大ＨＰ＋１５％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 164,
+        "name": "モルダバイト",
+        "note": "７章",
+        "params": [
+            0,
+            0,
+            100,
+            13,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 16000,
+        "wtypeId": 1
+    },
+    {
+        "id": 17,
+        "animationId": 9,
+        "description": "知性とカリスマ性を兼ね備えた光輝く宝石\n［攻撃力＋１０８］［聖心力＋１３］［最大ＨＰ＋１７％］［属性：風］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.17
+            }
+        ],
+        "iconIndex": 167,
+        "name": "サファイア",
+        "note": "７章\nドムドラ戦に有効",
+        "params": [
+            0,
+            0,
+            108,
+            0,
+            13,
+            0,
+            0,
+            0
+        ],
+        "price": 16500,
+        "wtypeId": 1
+    },
+    {
+        "id": 18,
+        "animationId": 6,
+        "description": "全てを見通すような澄んだ水晶\n［攻撃力＋１２２］［防御力＋１５］［最大ＨＰ＋１８％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.18
+            }
+        ],
+        "iconIndex": 169,
+        "name": "クリスタル",
+        "note": "８章",
+        "params": [
+            0,
+            0,
+            122,
+            15,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 20000,
+        "wtypeId": 1
+    },
+    {
+        "id": 19,
+        "animationId": 10,
+        "description": "クレオパトラが愛したとされる四大宝石の一つ\n［攻撃力＋１２５］［聖心力＋１５］［最大ＨＰ＋２０％］［属性：雷］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 164,
+        "name": "エメラルド",
+        "note": "８章\nカリーヌ戦に有効",
+        "params": [
+            0,
+            0,
+            125,
+            0,
+            15,
+            0,
+            0,
+            0
+        ],
+        "price": 23200,
+        "wtypeId": 1
+    },
+    {
+        "id": 20,
+        "animationId": 6,
+        "description": "ダイヤモンドに次ぐ高度を持った真紅の宝石\n［攻撃力＋１４０］［防御力＋１８］［最大ＨＰ＋２２％］［属性：炎］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.22
+            }
+        ],
+        "iconIndex": 162,
+        "name": "ルビー",
+        "note": "１０章",
+        "params": [
+            0,
+            0,
+            140,
+            18,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 28000,
+        "wtypeId": 1
+    },
+    {
+        "id": 21,
+        "animationId": 6,
+        "description": "その光は唯一無二の輝き　それは不滅であり悠久の時を過ごす\n［攻撃力＋１５０］［聖心力＋１８］［最大ＨＰ＋２５％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.25
+            }
+        ],
+        "iconIndex": 169,
+        "name": "ダイヤモンド",
+        "note": "１０章",
+        "params": [
+            0,
+            0,
+            150,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "price": 33000,
+        "wtypeId": 1
+    },
+    {
+        "id": 22,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 23,
+        "animationId": 6,
+        "description": "宇宙から飛来した希少なパワーストーン\n［攻撃力＋１８０］［防御力＋１５］［聖心力＋１５］［最大ＨＰ＋２５％］",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.25
+            }
+        ],
+        "iconIndex": 169,
+        "name": "★ギベオン★",
+        "note": "※地下最下層報酬スフィア",
+        "params": [
+            0,
+            0,
+            180,
+            15,
+            15,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 1
+    },
+    {
+        "id": 24,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 25,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 26,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 27,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 28,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 29,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 30,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 31,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 32,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 33,
+        "animationId": 6,
+        "description": "？？？\n【攻撃力？？？】",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 194,
+        "name": "？？？",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 35,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 36,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 37,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 38,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 41,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 42,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 43,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 44,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 45,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 46,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 47,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 48,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 49,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 50,
+        "animationId": 0,
+        "description": "章が進むと入荷するかも……",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 224,
+        "name": "未入荷",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999,
+        "wtypeId": 1
+    }
+]

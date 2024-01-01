@@ -1,0 +1,3360 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": false,
+        "name": "優衣の家周辺",
+        "order": 17,
+        "parentId": 81,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1009.3333333333334
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "優衣の家１Ｆ",
+        "order": 18,
+        "parentId": 1,
+        "scrollX": 1320,
+        "scrollY": 790
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "優衣の家２Ｆ",
+        "order": 20,
+        "parentId": 1,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 684
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "優衣の部屋",
+        "order": 21,
+        "parentId": 3,
+        "scrollX": 1262,
+        "scrollY": 658
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "オープニングＥ",
+        "order": 10,
+        "parentId": 59,
+        "scrollX": 1082,
+        "scrollY": 1296
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "優衣の家_地下室",
+        "order": 22,
+        "parentId": 1,
+        "scrollX": 1298,
+        "scrollY": 1037.3333333333333
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "下水道",
+        "order": 23,
+        "parentId": 1,
+        "scrollX": 1076.6666666666667,
+        "scrollY": 562.6666666666666
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "ユイ潜入用のアガース",
+        "order": 185,
+        "parentId": 27,
+        "scrollX": 1472,
+        "scrollY": 794.6666666666666
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "ユイ潜入用のアガースＢ１",
+        "order": 186,
+        "parentId": 8,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 688
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "歓楽街北",
+        "order": 196,
+        "parentId": 27,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "プール前",
+        "order": 175,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "学校周辺",
+        "order": 31,
+        "parentId": 81,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 766.6666666666666
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "運動場",
+        "order": 32,
+        "parentId": 12,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "学校２Ｆ",
+        "order": 45,
+        "parentId": 12,
+        "scrollX": 2290.6666666666665,
+        "scrollY": 738.6666666666666
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "ユイの教室(２－２)",
+        "order": 46,
+        "parentId": 14,
+        "scrollX": 1150,
+        "scrollY": 936
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "商店街屋根上",
+        "order": 66,
+        "parentId": 18,
+        "scrollX": 770,
+        "scrollY": 1520
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "体育館",
+        "order": 33,
+        "parentId": 12,
+        "scrollX": 1150,
+        "scrollY": 712
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "大門商店街周辺",
+        "order": 57,
+        "parentId": 81,
+        "scrollX": 1293.3333333333333,
+        "scrollY": 657.3333333333334
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "地下道",
+        "order": 58,
+        "parentId": 18,
+        "scrollX": 2450,
+        "scrollY": 604
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "大門商店街北側",
+        "order": 61,
+        "parentId": 18,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 977.3333333333334
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "大門駅前",
+        "order": 103,
+        "parentId": 81,
+        "scrollX": 848,
+        "scrollY": 624
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "コロッケ屋(未解決1章用)",
+        "order": 77,
+        "parentId": 18,
+        "scrollX": 1306,
+        "scrollY": 1052
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "コインの家１Ｆ（計１０個）",
+        "order": 67,
+        "parentId": 18,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1116
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "コインの店に通じる家",
+        "order": 71,
+        "parentId": 18,
+        "scrollX": 1342,
+        "scrollY": 916
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "戦闘員アジトＡ",
+        "order": 72,
+        "parentId": 18,
+        "scrollX": 1174.6666666666667,
+        "scrollY": 996
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "■■フォルス地区■■",
+        "order": 142,
+        "parentId": 0,
+        "scrollX": 1286.6666666666667,
+        "scrollY": 1764
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "歓楽街中央",
+        "order": 184,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "フォルス地区郊外北",
+        "order": 109,
+        "parentId": 81,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 633.3333333333334
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "フィットネスビル",
+        "order": 212,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 870.6666666666666
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "■■グルダス地区■■",
+        "order": 268,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "海水浴場内Ａ",
+        "order": 176,
+        "parentId": 11,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 721.3333333333334
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "海水浴場内Ｃ",
+        "order": 179,
+        "parentId": 11,
+        "scrollX": 1067.142857142857,
+        "scrollY": 760.2857142857142
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "海水浴場内Ｂ",
+        "order": 178,
+        "parentId": 11,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "海水浴場内Ｄ",
+        "order": 180,
+        "parentId": 11,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 921.3333333333334
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "地下研究所Ｂ",
+        "order": 160,
+        "parentId": 44,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 604
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "小部屋Ａ",
+        "order": 159,
+        "parentId": 55,
+        "scrollX": 747.3333333333334,
+        "scrollY": 616
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "フィットネスビル２F",
+        "order": 213,
+        "parentId": 29,
+        "scrollX": 2446.6666666666665,
+        "scrollY": 1460
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "フィットネスビル３F",
+        "order": 214,
+        "parentId": 29,
+        "scrollX": 1194.6666666666667,
+        "scrollY": 676
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "フィットネスビル４F",
+        "order": 215,
+        "parentId": 29,
+        "scrollX": 1798,
+        "scrollY": 1060
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "部屋Ａ",
+        "order": 216,
+        "parentId": 39,
+        "scrollX": 1490.6666666666667,
+        "scrollY": 642.6666666666666
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "ボス部屋",
+        "order": 217,
+        "parentId": 29,
+        "scrollX": 1237.3333333333333,
+        "scrollY": 821.3333333333334
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "アーバン地区Ｄ区画",
+        "order": 259,
+        "parentId": 86,
+        "scrollX": 1158,
+        "scrollY": 2110
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "スラム街周辺南",
+        "order": 269,
+        "parentId": 30,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 864
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "西園寺製薬周辺",
+        "order": 157,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "地下研究所Ｃ",
+        "order": 164,
+        "parentId": 44,
+        "scrollX": 1798.6666666666667,
+        "scrollY": 1018.6666666666666
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "スラム街周辺北",
+        "order": 273,
+        "parentId": 30,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 604
+    },
+    {
+        "id": 47,
+        "expanded": false,
+        "name": "地下研究所Ｄ",
+        "order": 167,
+        "parentId": 44,
+        "scrollX": 1702.6666666666667,
+        "scrollY": 1018.6666666666666
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "地下研究所Ｅ",
+        "order": 169,
+        "parentId": 44,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1258.6666666666667
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "■■システムテスト部屋■■",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1124
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "小部屋Ｂ",
+        "order": 161,
+        "parentId": 35,
+        "scrollX": 1092,
+        "scrollY": 600.6666666666666
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "小部屋Ｃ",
+        "order": 162,
+        "parentId": 35,
+        "scrollX": 1092,
+        "scrollY": 600.6666666666666
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "小部屋Ｄ",
+        "order": 163,
+        "parentId": 35,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 839.3333333333334
+    },
+    {
+        "id": 53,
+        "expanded": false,
+        "name": "学校３Ｆ",
+        "order": 51,
+        "parentId": 12,
+        "scrollX": 1241.3333333333333,
+        "scrollY": 1658.6666666666667
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "教室（３－１）",
+        "order": 52,
+        "parentId": 53,
+        "scrollX": 983.9999999999999,
+        "scrollY": 1608.8571428571427
+    },
+    {
+        "id": 55,
+        "expanded": false,
+        "name": "地下研究所Ａ",
+        "order": 158,
+        "parentId": 44,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 940
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "小屋Ａ",
+        "order": 270,
+        "parentId": 43,
+        "scrollX": 1216,
+        "scrollY": 842.6666666666666
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "南詰所",
+        "order": 271,
+        "parentId": 43,
+        "scrollX": 1288,
+        "scrollY": 1050.6666666666667
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "民家Ａ",
+        "order": 104,
+        "parentId": 21,
+        "scrollX": 1272,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 59,
+        "expanded": false,
+        "name": "オープニング開始処理",
+        "order": 5,
+        "parentId": 0,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1296
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "民家Ｂ",
+        "order": 105,
+        "parentId": 21,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 862.6666666666666
+    },
+    {
+        "id": 61,
+        "expanded": false,
+        "name": "居酒屋",
+        "order": 62,
+        "parentId": 20,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1129.3333333333333
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "八百屋",
+        "order": 64,
+        "parentId": 20,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1004
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "オープニングＡ",
+        "order": 6,
+        "parentId": 59,
+        "scrollX": 960.6666666666666,
+        "scrollY": 1017.3333333333334
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "オープニングＢ",
+        "order": 7,
+        "parentId": 59,
+        "scrollX": 1903.3333333333333,
+        "scrollY": 1000
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "オープニングＣ",
+        "order": 8,
+        "parentId": 59,
+        "scrollX": 1622,
+        "scrollY": 752
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "オープニングＤ",
+        "order": 9,
+        "parentId": 59,
+        "scrollX": 770,
+        "scrollY": 1296
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "オープニングＦ",
+        "order": 11,
+        "parentId": 59,
+        "scrollX": 902,
+        "scrollY": 786.6666666666666
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "オープニングＧ",
+        "order": 12,
+        "parentId": 59,
+        "scrollX": 1307.3333333333333,
+        "scrollY": 890.6666666666666
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "オープニングＨ",
+        "order": 13,
+        "parentId": 59,
+        "scrollX": 1307.3333333333333,
+        "scrollY": 792
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "オープニングI",
+        "order": 14,
+        "parentId": 59,
+        "scrollX": 1306,
+        "scrollY": 926.6666666666666
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "オープニングJ",
+        "order": 15,
+        "parentId": 59,
+        "scrollX": 1071.3333333333333,
+        "scrollY": 762.6666666666666
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "赤い家",
+        "order": 24,
+        "parentId": 1,
+        "scrollX": 959.3333333333334,
+        "scrollY": 978.6666666666666
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "優衣の家周辺の北",
+        "order": 25,
+        "parentId": 1,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 692
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "学校１Ｆ",
+        "order": 39,
+        "parentId": 12,
+        "scrollX": 1583.3333333333333,
+        "scrollY": 1517.3333333333333
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "コンビニ",
+        "order": 65,
+        "parentId": 20,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 761.3333333333334
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "なんでも屋",
+        "order": 74,
+        "parentId": 18,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1316
+    },
+    {
+        "id": 77,
+        "expanded": false,
+        "name": "戦闘員アジトＡ地下",
+        "order": 73,
+        "parentId": 25,
+        "scrollX": 1143.4285714285713,
+        "scrollY": 979.7142857142857
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "隠し部屋",
+        "order": 55,
+        "parentId": 12,
+        "scrollX": 1253.142857142857,
+        "scrollY": 1178.5714285714284
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "ドラッグストア",
+        "order": 75,
+        "parentId": 18,
+        "scrollX": 1216,
+        "scrollY": 1129.3333333333333
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "駅中",
+        "order": 106,
+        "parentId": 21,
+        "scrollX": 770,
+        "scrollY": 1753.3333333333333
+    },
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "■■ダイノス地区■■",
+        "order": 16,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "フォルス地区郊外南",
+        "order": 112,
+        "parentId": 81,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "心宿駅周辺と駅内",
+        "order": 143,
+        "parentId": 26,
+        "scrollX": 2257.3333333333335,
+        "scrollY": 2906.6666666666665
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "四越屋デパート１Ｆ",
+        "order": 147,
+        "parentId": 26,
+        "scrollX": 1086,
+        "scrollY": 2736
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "アーバン地区Ａ区画",
+        "order": 256,
+        "parentId": 86,
+        "scrollX": 1205.4545454545455,
+        "scrollY": 1234.909090909091
+    },
+    {
+        "id": 86,
+        "expanded": false,
+        "name": "■■アーバン地区■■",
+        "order": 255,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 87,
+        "expanded": true,
+        "name": "教室（３－２）",
+        "order": 53,
+        "parentId": 53,
+        "scrollX": 983.9999999999999,
+        "scrollY": 1566
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "駅中地下",
+        "order": 144,
+        "parentId": 83,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1545.3333333333333
+    },
+    {
+        "id": 89,
+        "expanded": false,
+        "name": "駅中地上",
+        "order": 145,
+        "parentId": 83,
+        "scrollX": 2374.6666666666665,
+        "scrollY": 1153.3333333333333
+    },
+    {
+        "id": 90,
+        "expanded": false,
+        "name": "デパート２Ｆ",
+        "order": 148,
+        "parentId": 84,
+        "scrollX": 2568.6666666666665,
+        "scrollY": 2520
+    },
+    {
+        "id": 91,
+        "expanded": false,
+        "name": "デパート３Ｆ",
+        "order": 150,
+        "parentId": 84,
+        "scrollX": 2279.3333333333335,
+        "scrollY": 985.3333333333334
+    },
+    {
+        "id": 92,
+        "expanded": true,
+        "name": "デパート３Ｆ回想用",
+        "order": 151,
+        "parentId": 91,
+        "scrollX": 1679.142857142857,
+        "scrollY": 1110
+    },
+    {
+        "id": 93,
+        "expanded": false,
+        "name": "スタッフルーム",
+        "order": 153,
+        "parentId": 84,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "敗北パターンＡ",
+        "order": 149,
+        "parentId": 90,
+        "scrollX": 1947.3333333333333,
+        "scrollY": 1176
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "勝利パターンＡ",
+        "order": 154,
+        "parentId": 84,
+        "scrollX": 1735.3333333333333,
+        "scrollY": 786.6666666666666
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "デパート３Ｆエンディング",
+        "order": 155,
+        "parentId": 84,
+        "scrollX": 1668.6666666666667,
+        "scrollY": 1434.6666666666667
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "１章勝利後ガルベス基地",
+        "order": 304,
+        "parentId": 118,
+        "scrollX": 1216.6666666666667,
+        "scrollY": 746.6666666666666
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "１章勝利後自宅",
+        "order": 303,
+        "parentId": 118,
+        "scrollX": 1218,
+        "scrollY": 887.1428571428571
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 3,
+        "parentId": 49,
+        "scrollX": 1150,
+        "scrollY": 1577.3333333333333
+    },
+    {
+        "id": 100,
+        "expanded": false,
+        "name": "■■イベントシーン■■",
+        "order": 297,
+        "parentId": 0,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 681.3333333333334
+    },
+    {
+        "id": 101,
+        "expanded": true,
+        "name": "ポルカとの出会い_01",
+        "order": 298,
+        "parentId": 100,
+        "scrollX": 1306,
+        "scrollY": 1162.6666666666667
+    },
+    {
+        "id": 102,
+        "expanded": true,
+        "name": "ポルカとの出会い_02",
+        "order": 299,
+        "parentId": 100,
+        "scrollX": 1306,
+        "scrollY": 1037.3333333333333
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "天晶堂一号店",
+        "order": 76,
+        "parentId": 18,
+        "scrollX": 1216,
+        "scrollY": 836
+    },
+    {
+        "id": 104,
+        "expanded": true,
+        "name": "2章イベント優衣教室",
+        "order": 47,
+        "parentId": 15,
+        "scrollX": 1150,
+        "scrollY": 722.6666666666666
+    },
+    {
+        "id": 105,
+        "expanded": true,
+        "name": "勝負エリア：アイテム装備あり",
+        "order": 35,
+        "parentId": 17,
+        "scrollX": 1082,
+        "scrollY": 801.3333333333334
+    },
+    {
+        "id": 106,
+        "expanded": true,
+        "name": "コロッケ屋(解決後)",
+        "order": 79,
+        "parentId": 18,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 922.6666666666666
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "コロッケ屋(未解決2章用)",
+        "order": 78,
+        "parentId": 18,
+        "scrollX": 1367.3333333333333,
+        "scrollY": 817.3333333333334
+    },
+    {
+        "id": 108,
+        "expanded": true,
+        "name": "勝負エリア：アイテム装備無し",
+        "order": 34,
+        "parentId": 17,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1034.6666666666667
+    },
+    {
+        "id": 109,
+        "expanded": true,
+        "name": "触手エリア",
+        "order": 80,
+        "parentId": 18,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "貯蔵庫",
+        "order": 81,
+        "parentId": 109,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "北通路",
+        "order": 82,
+        "parentId": 109,
+        "scrollX": 810,
+        "scrollY": 1102.6666666666667
+    },
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "小部屋Ａ",
+        "order": 83,
+        "parentId": 111,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 969.3333333333334
+    },
+    {
+        "id": 113,
+        "expanded": true,
+        "name": "南通路",
+        "order": 84,
+        "parentId": 109,
+        "scrollX": 1205.4545454545455,
+        "scrollY": 994.909090909091
+    },
+    {
+        "id": 114,
+        "expanded": false,
+        "name": "中央通路",
+        "order": 85,
+        "parentId": 109,
+        "scrollX": 1434,
+        "scrollY": 969.3333333333334
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "ボス部屋",
+        "order": 87,
+        "parentId": 109,
+        "scrollX": 1128.6666666666667,
+        "scrollY": 893.3333333333334
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "小部屋Ｂ",
+        "order": 86,
+        "parentId": 114,
+        "scrollX": 1205.4545454545455,
+        "scrollY": 968.7272727272727
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "ボス前エリア",
+        "order": 89,
+        "parentId": 109,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1254.6666666666667
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "■■章またぎイベント■■",
+        "order": 302,
+        "parentId": 0,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "２章勝利後自宅",
+        "order": 305,
+        "parentId": 118,
+        "scrollX": 1206,
+        "scrollY": 818.6666666666666
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "２章勝利後ドムドラ基地",
+        "order": 306,
+        "parentId": 118,
+        "scrollX": 1322,
+        "scrollY": 758.6666666666666
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "カレンの教室(２－１)",
+        "order": 48,
+        "parentId": 14,
+        "scrollX": 983.9999999999999,
+        "scrollY": 1478.5714285714284
+    },
+    {
+        "id": 122,
+        "expanded": true,
+        "name": "大門二丁目交番",
+        "order": 90,
+        "parentId": 18,
+        "scrollX": 1601.3333333333333,
+        "scrollY": 804
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "コンピューター室",
+        "order": 40,
+        "parentId": 74,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1458.6666666666667
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "美術室",
+        "order": 41,
+        "parentId": 74,
+        "scrollX": 1150,
+        "scrollY": 1458.6666666666667
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "音楽室",
+        "order": 42,
+        "parentId": 74,
+        "scrollX": 1343.3333333333333,
+        "scrollY": 1458.6666666666667
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "教室（１－１）",
+        "order": 43,
+        "parentId": 74,
+        "scrollX": 1094.5714285714284,
+        "scrollY": 1627.7142857142856
+    },
+    {
+        "id": 127,
+        "expanded": true,
+        "name": "教室（１－２）",
+        "order": 44,
+        "parentId": 74,
+        "scrollX": 1094.5714285714284,
+        "scrollY": 1156.2857142857142
+    },
+    {
+        "id": 128,
+        "expanded": true,
+        "name": "想い出預かり屋",
+        "order": 91,
+        "parentId": 18,
+        "scrollX": 1179.3333333333333,
+        "scrollY": 1164
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "戦闘員アジトＢ",
+        "order": 59,
+        "parentId": 19,
+        "scrollX": 1486,
+        "scrollY": 1084
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "戦闘員アジトＢ地下",
+        "order": 60,
+        "parentId": 19,
+        "scrollX": 1618,
+        "scrollY": 1009
+    },
+    {
+        "id": 131,
+        "expanded": true,
+        "name": "勝負エリア：勝利パターン",
+        "order": 36,
+        "parentId": 17,
+        "scrollX": 770,
+        "scrollY": 1017.3333333333334
+    },
+    {
+        "id": 132,
+        "expanded": true,
+        "name": "体育館（勝利後）",
+        "order": 37,
+        "parentId": 17,
+        "scrollX": 1028.6666666666667,
+        "scrollY": 762.6666666666666
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "アーバン地区Ｂ区画",
+        "order": 257,
+        "parentId": 86,
+        "scrollX": 1206,
+        "scrollY": 1104
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "アーバン地区Ｃ区画",
+        "order": 258,
+        "parentId": 86,
+        "scrollX": 1080,
+        "scrollY": 767.1428571428571
+    },
+    {
+        "id": 135,
+        "expanded": true,
+        "name": "倉庫室",
+        "order": 54,
+        "parentId": 53,
+        "scrollX": 1172.6666666666667,
+        "scrollY": 1552
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "職員室",
+        "order": 49,
+        "parentId": 14,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 776
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "女子トイレ",
+        "order": 50,
+        "parentId": 14,
+        "scrollX": 1568,
+        "scrollY": 872
+    },
+    {
+        "id": 138,
+        "expanded": false,
+        "name": "北詰所",
+        "order": 274,
+        "parentId": 46,
+        "scrollX": 1288.6666666666667,
+        "scrollY": 744
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "小屋Ｄ",
+        "order": 275,
+        "parentId": 46,
+        "scrollX": 1318,
+        "scrollY": 1358
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "カリーヌの部屋",
+        "order": 280,
+        "parentId": 46,
+        "scrollX": 1214,
+        "scrollY": 1061.3333333333333
+    },
+    {
+        "id": 141,
+        "expanded": false,
+        "name": "大門駅バス停",
+        "order": 108,
+        "parentId": 21,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "カレンとギンガのイベントＡ",
+        "order": 300,
+        "parentId": 100,
+        "scrollX": 1082,
+        "scrollY": 1134.6666666666667
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "■■セクハライベントマップ■■",
+        "order": 301,
+        "parentId": 0,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 144,
+        "expanded": false,
+        "name": "地下マップ",
+        "order": 218,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 145,
+        "expanded": false,
+        "name": "電車の中",
+        "order": 107,
+        "parentId": 80,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 884
+    },
+    {
+        "id": 146,
+        "expanded": false,
+        "name": "地下Ｂ１(３章～４章レベル)",
+        "order": 219,
+        "parentId": 144,
+        "scrollX": 1128,
+        "scrollY": 604
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "神社",
+        "order": 228,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "高架下Ａ",
+        "order": 230,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "病院（戦闘員アジトあり）",
+        "order": 231,
+        "parentId": 26,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1084
+    },
+    {
+        "id": 150,
+        "expanded": false,
+        "name": "戦闘員アジトＤ(学校横)",
+        "order": 238,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 658.6666666666666
+    },
+    {
+        "id": 151,
+        "expanded": false,
+        "name": "スーパー（戦闘員アジトあり）",
+        "order": 234,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 152,
+        "expanded": false,
+        "name": "壱番館アパート１階",
+        "order": 239,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 633.3333333333334
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "弐番館１０１",
+        "order": 119,
+        "parentId": 160,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 650.6666666666666
+    },
+    {
+        "id": 154,
+        "expanded": false,
+        "name": "壱番館アパート２階",
+        "order": 241,
+        "parentId": 152,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1076
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "戦闘員アジトＣ",
+        "order": 235,
+        "parentId": 151,
+        "scrollX": 2011.3333333333333,
+        "scrollY": 562.6666666666666
+    },
+    {
+        "id": 156,
+        "expanded": true,
+        "name": "コンビニ",
+        "order": 243,
+        "parentId": 26,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1316
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "壱番館１階１号室",
+        "order": 240,
+        "parentId": 152,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 889.3333333333334
+    },
+    {
+        "id": 158,
+        "expanded": true,
+        "name": "壱番館２階３号室",
+        "order": 242,
+        "parentId": 154,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 717.3333333333334
+    },
+    {
+        "id": 159,
+        "expanded": false,
+        "name": "参番館",
+        "order": 113,
+        "parentId": 82,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 633.3333333333334
+    },
+    {
+        "id": 160,
+        "expanded": true,
+        "name": "弐番館",
+        "order": 118,
+        "parentId": 195,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "高架下Ｂ",
+        "order": 244,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 777.3333333333334
+    },
+    {
+        "id": 162,
+        "expanded": true,
+        "name": "三番館１０３",
+        "order": 114,
+        "parentId": 159,
+        "scrollX": 1216,
+        "scrollY": 866.6666666666666
+    },
+    {
+        "id": 163,
+        "expanded": false,
+        "name": "戦闘員アジトＥ",
+        "order": 232,
+        "parentId": 149,
+        "scrollX": 1104,
+        "scrollY": 848
+    },
+    {
+        "id": 164,
+        "expanded": true,
+        "name": "戦闘員アジトＦ",
+        "order": 110,
+        "parentId": 28,
+        "scrollX": 1266.6666666666667,
+        "scrollY": 826.6666666666666
+    },
+    {
+        "id": 165,
+        "expanded": false,
+        "name": "部屋Ａ",
+        "order": 111,
+        "parentId": 164,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 826.6666666666666
+    },
+    {
+        "id": 166,
+        "expanded": false,
+        "name": "神社内",
+        "order": 229,
+        "parentId": 147,
+        "scrollX": 1410.5454545454545,
+        "scrollY": 982.909090909091
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "天晶堂ニ号店",
+        "order": 245,
+        "parentId": 26,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 836
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "四越屋裏手側侵入用",
+        "order": 156,
+        "parentId": 84,
+        "scrollX": 1656.6666666666667,
+        "scrollY": 1600
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "タクミマンション１階",
+        "order": 197,
+        "parentId": 10,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 836
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "タクミマンション５階",
+        "order": 198,
+        "parentId": 10,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 613.3333333333334
+    },
+    {
+        "id": 171,
+        "expanded": false,
+        "name": "マンション５－１",
+        "order": 199,
+        "parentId": 170,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 836
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "ユイ潜入用のアガースＢ２",
+        "order": 187,
+        "parentId": 8,
+        "scrollX": 1082,
+        "scrollY": 1760
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "接待部屋",
+        "order": 188,
+        "parentId": 172,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1604
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "３章開始自宅",
+        "order": 307,
+        "parentId": 118,
+        "scrollX": 1195.3333333333333,
+        "scrollY": 701.3333333333334
+    },
+    {
+        "id": 175,
+        "expanded": true,
+        "name": "カレンの部屋一人ごと",
+        "order": 308,
+        "parentId": 118,
+        "scrollX": 770,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 176,
+        "expanded": false,
+        "name": "カレンの部屋タクミと",
+        "order": 309,
+        "parentId": 118,
+        "scrollX": 770,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 177,
+        "expanded": true,
+        "name": "３章勝利後ガルベス基地",
+        "order": 310,
+        "parentId": 118,
+        "scrollX": 1195.3333333333333,
+        "scrollY": 728
+    },
+    {
+        "id": 178,
+        "expanded": true,
+        "name": "３章勝利後自宅",
+        "order": 311,
+        "parentId": 118,
+        "scrollX": 1206,
+        "scrollY": 594.6666666666666
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "４章開始学校教室",
+        "order": 312,
+        "parentId": 118,
+        "scrollX": 1205.4545454545455,
+        "scrollY": 929.4545454545455
+    },
+    {
+        "id": 180,
+        "expanded": true,
+        "name": "４章開始廊下A",
+        "order": 313,
+        "parentId": 118,
+        "scrollX": 2281.090909090909,
+        "scrollY": 1095.2727272727273
+    },
+    {
+        "id": 181,
+        "expanded": true,
+        "name": "４章開始廊下B",
+        "order": 314,
+        "parentId": 118,
+        "scrollX": 1713.4285714285713,
+        "scrollY": 758.5714285714286
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "イベント用",
+        "order": 177,
+        "parentId": 31,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 760
+    },
+    {
+        "id": 183,
+        "expanded": false,
+        "name": "海水浴場内Ｅ",
+        "order": 181,
+        "parentId": 11,
+        "scrollX": 1071.3333333333333,
+        "scrollY": 792
+    },
+    {
+        "id": 184,
+        "expanded": false,
+        "name": "４章勝利後プール",
+        "order": 315,
+        "parentId": 118,
+        "scrollX": 1140.857142857143,
+        "scrollY": 746.5714285714286
+    },
+    {
+        "id": 185,
+        "expanded": false,
+        "name": "４章ポルカとの話",
+        "order": 316,
+        "parentId": 118,
+        "scrollX": 1319.3333333333333,
+        "scrollY": 1292
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "５章リビング",
+        "order": 319,
+        "parentId": 118,
+        "scrollX": 1205.4545454545455,
+        "scrollY": 994.909090909091
+    },
+    {
+        "id": 187,
+        "expanded": true,
+        "name": "４章勝利後ドムドラ基地",
+        "order": 318,
+        "parentId": 118,
+        "scrollX": 1206,
+        "scrollY": 701.3333333333334
+    },
+    {
+        "id": 188,
+        "expanded": true,
+        "name": "保険用仮マップ",
+        "order": 323,
+        "parentId": 118,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1555.3333333333333
+    },
+    {
+        "id": 189,
+        "expanded": false,
+        "name": "西園寺製薬１Ｆロビー",
+        "order": 171,
+        "parentId": 44,
+        "scrollX": 1356,
+        "scrollY": 1185.3333333333333
+    },
+    {
+        "id": 190,
+        "expanded": false,
+        "name": "５章勝利後ダーグノア",
+        "order": 324,
+        "parentId": 118,
+        "scrollX": 1250,
+        "scrollY": 1560
+    },
+    {
+        "id": 191,
+        "expanded": false,
+        "name": "西園寺製薬１０Ｆ",
+        "order": 172,
+        "parentId": 44,
+        "scrollX": 1798.6666666666667,
+        "scrollY": 1017.3333333333334
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "カレンの部屋",
+        "order": 173,
+        "parentId": 191,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 681.3333333333334
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "小部屋",
+        "order": 152,
+        "parentId": 91,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "工事現場",
+        "order": 116,
+        "parentId": 195,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 195,
+        "expanded": false,
+        "name": "フォルス地区郊外中央",
+        "order": 115,
+        "parentId": 81,
+        "scrollX": 1092,
+        "scrollY": 604
+    },
+    {
+        "id": 196,
+        "expanded": true,
+        "name": "体育館から外に出た時用",
+        "order": 38,
+        "parentId": 17,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1086.6666666666667
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "学校の地下",
+        "order": 56,
+        "parentId": 12,
+        "scrollX": 1254,
+        "scrollY": 1216
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "ハルヒコの家",
+        "order": 29,
+        "parentId": 1,
+        "scrollX": 1306.6666666666667,
+        "scrollY": 969.3333333333334
+    },
+    {
+        "id": 199,
+        "expanded": true,
+        "name": "ピエル隠し場所",
+        "order": 88,
+        "parentId": 115,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1144
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "近藤ヤスノブイベント",
+        "order": 63,
+        "parentId": 61,
+        "scrollX": 1306.2857142857142,
+        "scrollY": 921.4285714285713
+    },
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "家周辺タクミと会話",
+        "order": 320,
+        "parentId": 118,
+        "scrollX": 1082,
+        "scrollY": 746.6666666666666
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "ハルヒコの家イベント用",
+        "order": 321,
+        "parentId": 118,
+        "scrollX": 1308.8571428571427,
+        "scrollY": 854.5714285714286
+    },
+    {
+        "id": 203,
+        "expanded": true,
+        "name": "優衣の部屋イベント用",
+        "order": 322,
+        "parentId": 118,
+        "scrollX": 1205.25,
+        "scrollY": 925.5
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "回想用マップだけ",
+        "order": 261,
+        "parentId": 42,
+        "scrollX": 1206,
+        "scrollY": 994
+    },
+    {
+        "id": 205,
+        "expanded": false,
+        "name": "サイミンダーグ用の学園",
+        "order": 120,
+        "parentId": 81,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 206,
+        "expanded": true,
+        "name": "催眠中の学校１Ｆ",
+        "order": 121,
+        "parentId": 205,
+        "scrollX": 2035.3333333333333,
+        "scrollY": 722.6666666666666
+    },
+    {
+        "id": 207,
+        "expanded": false,
+        "name": "催眠中の学校２Ｆ",
+        "order": 128,
+        "parentId": 205,
+        "scrollX": 770,
+        "scrollY": 1118.6666666666667
+    },
+    {
+        "id": 208,
+        "expanded": false,
+        "name": "催眠中の学校３Ｆ",
+        "order": 133,
+        "parentId": 205,
+        "scrollX": 1254,
+        "scrollY": 806.6666666666666
+    },
+    {
+        "id": 209,
+        "expanded": false,
+        "name": "催眠中の地下",
+        "order": 127,
+        "parentId": 206,
+        "scrollX": 1253.142857142857,
+        "scrollY": 1178.5714285714284
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "催：コンピューター室",
+        "order": 122,
+        "parentId": 206,
+        "scrollX": 1150,
+        "scrollY": 722.6666666666666
+    },
+    {
+        "id": 211,
+        "expanded": true,
+        "name": "催：美術室",
+        "order": 123,
+        "parentId": 206,
+        "scrollX": 1150,
+        "scrollY": 1456
+    },
+    {
+        "id": 212,
+        "expanded": true,
+        "name": "催：音楽室",
+        "order": 124,
+        "parentId": 206,
+        "scrollX": 1254,
+        "scrollY": 1456
+    },
+    {
+        "id": 213,
+        "expanded": true,
+        "name": "催：教室（１－１）",
+        "order": 125,
+        "parentId": 206,
+        "scrollX": 1150,
+        "scrollY": 1757.3333333333333
+    },
+    {
+        "id": 214,
+        "expanded": true,
+        "name": "催：教室（１－２）",
+        "order": 126,
+        "parentId": 206,
+        "scrollX": 1082,
+        "scrollY": 1252
+    },
+    {
+        "id": 215,
+        "expanded": false,
+        "name": "催：ユイの教室(２－２)",
+        "order": 129,
+        "parentId": 207,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1404
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "催：カレンの教室(２－１)",
+        "order": 130,
+        "parentId": 207,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1438.6666666666667
+    },
+    {
+        "id": 217,
+        "expanded": true,
+        "name": "催：職員室",
+        "order": 131,
+        "parentId": 207,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1456
+    },
+    {
+        "id": 218,
+        "expanded": true,
+        "name": "催：女子トイレ",
+        "order": 132,
+        "parentId": 207,
+        "scrollX": 1253.3333333333333,
+        "scrollY": 1438.6666666666667
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "催：教室（３－１）",
+        "order": 134,
+        "parentId": 208,
+        "scrollX": 1150,
+        "scrollY": 1366.6666666666667
+    },
+    {
+        "id": 220,
+        "expanded": true,
+        "name": "催：教室（３－２）",
+        "order": 135,
+        "parentId": 208,
+        "scrollX": 983.3333333333334,
+        "scrollY": 1010.6666666666666
+    },
+    {
+        "id": 221,
+        "expanded": true,
+        "name": "催：倉庫室ボス部屋",
+        "order": 136,
+        "parentId": 208,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1534
+    },
+    {
+        "id": 222,
+        "expanded": false,
+        "name": "イベント用学園１Ｆ",
+        "order": 137,
+        "parentId": 205,
+        "scrollX": 922,
+        "scrollY": 869.3333333333334
+    },
+    {
+        "id": 223,
+        "expanded": true,
+        "name": "イベント用教室１－２",
+        "order": 138,
+        "parentId": 205,
+        "scrollX": 1082,
+        "scrollY": 1438.6666666666667
+    },
+    {
+        "id": 224,
+        "expanded": true,
+        "name": "催眠中の運動場",
+        "order": 140,
+        "parentId": 205,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 896.6666666666666
+    },
+    {
+        "id": 225,
+        "expanded": true,
+        "name": "イベント用３－２",
+        "order": 139,
+        "parentId": 205,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1708
+    },
+    {
+        "id": 226,
+        "expanded": true,
+        "name": "６章勝利後カレンと",
+        "order": 325,
+        "parentId": 118,
+        "scrollX": 1079.25,
+        "scrollY": 925.5
+    },
+    {
+        "id": 227,
+        "expanded": true,
+        "name": "６章カレンイベントＡ",
+        "order": 326,
+        "parentId": 118,
+        "scrollX": 1253.3333333333333,
+        "scrollY": 1180
+    },
+    {
+        "id": 228,
+        "expanded": true,
+        "name": "６章カレンイベントＢ",
+        "order": 327,
+        "parentId": 118,
+        "scrollX": 881.3333333333334,
+        "scrollY": 692
+    },
+    {
+        "id": 229,
+        "expanded": true,
+        "name": "小部屋",
+        "order": 174,
+        "parentId": 191,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 681.3333333333334
+    },
+    {
+        "id": 230,
+        "expanded": true,
+        "name": "６章カレンイベントＣ",
+        "order": 328,
+        "parentId": 118,
+        "scrollX": 997.7142857142857,
+        "scrollY": 755.1428571428571
+    },
+    {
+        "id": 231,
+        "expanded": false,
+        "name": "７章西園寺製薬前Ａ",
+        "order": 329,
+        "parentId": 118,
+        "scrollX": 971.25,
+        "scrollY": 645
+    },
+    {
+        "id": 232,
+        "expanded": true,
+        "name": "７章ユイの家１階",
+        "order": 330,
+        "parentId": 118,
+        "scrollX": 1304.5714285714284,
+        "scrollY": 928.2857142857142
+    },
+    {
+        "id": 233,
+        "expanded": false,
+        "name": "７章西園寺製薬前Ｂ",
+        "order": 331,
+        "parentId": 118,
+        "scrollX": 997.7142857142857,
+        "scrollY": 755.1428571428571
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "イベント用Ａ",
+        "order": 168,
+        "parentId": 47,
+        "scrollX": 1416.6666666666667,
+        "scrollY": 1050.6666666666667
+    },
+    {
+        "id": 235,
+        "expanded": true,
+        "name": "地下研究所Ｆ",
+        "order": 170,
+        "parentId": 44,
+        "scrollX": 1319.3333333333333,
+        "scrollY": 1384
+    },
+    {
+        "id": 236,
+        "expanded": true,
+        "name": "イベント用",
+        "order": 272,
+        "parentId": 43,
+        "scrollX": 1390.6666666666667,
+        "scrollY": 1462.6666666666667
+    },
+    {
+        "id": 237,
+        "expanded": true,
+        "name": "■■イベントテスト部屋■■",
+        "order": 2,
+        "parentId": 49,
+        "scrollX": 770,
+        "scrollY": 1577.3333333333333
+    },
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "小屋Ｅ",
+        "order": 279,
+        "parentId": 46,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 878
+    },
+    {
+        "id": 239,
+        "expanded": false,
+        "name": "カリーヌ部屋奥",
+        "order": 281,
+        "parentId": 140,
+        "scrollX": 1769.3333333333333,
+        "scrollY": 1220
+    },
+    {
+        "id": 240,
+        "expanded": false,
+        "name": "カリーヌ部屋奥イベント用",
+        "order": 282,
+        "parentId": 140,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1220
+    },
+    {
+        "id": 241,
+        "expanded": false,
+        "name": "９章ボス前",
+        "order": 291,
+        "parentId": 30,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1334.6666666666667
+    },
+    {
+        "id": 242,
+        "expanded": true,
+        "name": "９章心宿駅前にてポニーセレス陵辱",
+        "order": 332,
+        "parentId": 118,
+        "scrollX": 770,
+        "scrollY": 1637.3333333333333
+    },
+    {
+        "id": 243,
+        "expanded": true,
+        "name": "１０章優衣の部屋１",
+        "order": 333,
+        "parentId": 118,
+        "scrollX": 1391.3333333333333,
+        "scrollY": 928
+    },
+    {
+        "id": 244,
+        "expanded": true,
+        "name": "１０章地下室回想",
+        "order": 334,
+        "parentId": 118,
+        "scrollX": 1294.2857142857142,
+        "scrollY": 1252.2857142857142
+    },
+    {
+        "id": 245,
+        "expanded": true,
+        "name": "１０章優衣の部屋２",
+        "order": 335,
+        "parentId": 118,
+        "scrollX": 1294.2857142857142,
+        "scrollY": 928.2857142857142
+    },
+    {
+        "id": 246,
+        "expanded": false,
+        "name": "１０章ダンジョン",
+        "order": 284,
+        "parentId": 30,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 1796
+    },
+    {
+        "id": 247,
+        "expanded": true,
+        "name": "ザイダーグ本拠地南区画",
+        "order": 285,
+        "parentId": 246,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 1982.6666666666667
+    },
+    {
+        "id": 248,
+        "expanded": true,
+        "name": "ザイダーグ本拠地東区画",
+        "order": 287,
+        "parentId": 246,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 2852
+    },
+    {
+        "id": 249,
+        "expanded": true,
+        "name": "敗北イベント用",
+        "order": 260,
+        "parentId": 42,
+        "scrollX": 1158.6666666666667,
+        "scrollY": 1280
+    },
+    {
+        "id": 250,
+        "expanded": true,
+        "name": "隠し部屋",
+        "order": 290,
+        "parentId": 251,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 748
+    },
+    {
+        "id": 251,
+        "expanded": true,
+        "name": "ザイダーグ本拠地北区画",
+        "order": 289,
+        "parentId": 246,
+        "scrollX": 1798.6666666666667,
+        "scrollY": 1414.6666666666667
+    },
+    {
+        "id": 252,
+        "expanded": false,
+        "name": "ダーグノア前",
+        "order": 295,
+        "parentId": 30,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1334.6666666666667
+    },
+    {
+        "id": 253,
+        "expanded": false,
+        "name": "牢屋",
+        "order": 296,
+        "parentId": 252,
+        "scrollX": 1319.3333333333333,
+        "scrollY": 1486.6666666666667
+    },
+    {
+        "id": 254,
+        "expanded": false,
+        "name": "■■エンディング■■",
+        "order": 336,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 255,
+        "expanded": true,
+        "name": "ノーマルエンド",
+        "order": 337,
+        "parentId": 254,
+        "scrollX": 1798.6666666666667,
+        "scrollY": 1249.3333333333333
+    },
+    {
+        "id": 256,
+        "expanded": true,
+        "name": "トゥルーエンドＡ",
+        "order": 338,
+        "parentId": 254,
+        "scrollX": 1489.3333333333333,
+        "scrollY": 1300
+    },
+    {
+        "id": 257,
+        "expanded": false,
+        "name": "トゥルーエンドＢ",
+        "order": 339,
+        "parentId": 254,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 258,
+        "expanded": true,
+        "name": "トゥルーエンドＣ",
+        "order": 340,
+        "parentId": 254,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 790.6666666666666
+    },
+    {
+        "id": 259,
+        "expanded": true,
+        "name": "小部屋Ｂ",
+        "order": 288,
+        "parentId": 248,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1209.3333333333333
+    },
+    {
+        "id": 260,
+        "expanded": true,
+        "name": "小部屋Ａ",
+        "order": 286,
+        "parentId": 247,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 261,
+        "expanded": true,
+        "name": "戦闘員本拠地アジト",
+        "order": 276,
+        "parentId": 139,
+        "scrollX": 1982,
+        "scrollY": 1437.3333333333333
+    },
+    {
+        "id": 262,
+        "expanded": false,
+        "name": "店長室",
+        "order": 190,
+        "parentId": 172,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 726.6666666666666
+    },
+    {
+        "id": 263,
+        "expanded": false,
+        "name": "湘西学園体育館",
+        "order": 246,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 745.3333333333334
+    },
+    {
+        "id": 264,
+        "expanded": true,
+        "name": "心宿前交番",
+        "order": 247,
+        "parentId": 26,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1065.3333333333333
+    },
+    {
+        "id": 265,
+        "expanded": false,
+        "name": "スターベックス",
+        "order": 248,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 266,
+        "expanded": true,
+        "name": "足つぼマッサージ店",
+        "order": 192,
+        "parentId": 267,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 954.6666666666666
+    },
+    {
+        "id": 267,
+        "expanded": false,
+        "name": "複合施設ビル",
+        "order": 191,
+        "parentId": 27,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 794.6666666666666
+    },
+    {
+        "id": 268,
+        "expanded": true,
+        "name": "空き店舗",
+        "order": 194,
+        "parentId": 267,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1257.3333333333333
+    },
+    {
+        "id": 269,
+        "expanded": false,
+        "name": "足つぼマッサージ店奥",
+        "order": 193,
+        "parentId": 266,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1117.3333333333333
+    },
+    {
+        "id": 270,
+        "expanded": false,
+        "name": "お仕置き拷問部屋AV撮影",
+        "order": 189,
+        "parentId": 172,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 804
+    },
+    {
+        "id": 271,
+        "expanded": false,
+        "name": "スターベックス奥",
+        "order": 249,
+        "parentId": 265,
+        "scrollX": 1092,
+        "scrollY": 624
+    },
+    {
+        "id": 272,
+        "expanded": false,
+        "name": "エロバイト用のアガース",
+        "order": 203,
+        "parentId": 27,
+        "scrollX": 1386.6666666666667,
+        "scrollY": 1193.3333333333333
+    },
+    {
+        "id": 273,
+        "expanded": true,
+        "name": "エロバイト用のアガースＢ１",
+        "order": 204,
+        "parentId": 272,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1193.3333333333333
+    },
+    {
+        "id": 274,
+        "expanded": true,
+        "name": "エロバイト用のアガースＢ２",
+        "order": 205,
+        "parentId": 272,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1284
+    },
+    {
+        "id": 275,
+        "expanded": false,
+        "name": "エロバイト用の接待部屋",
+        "order": 206,
+        "parentId": 274,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1604
+    },
+    {
+        "id": 276,
+        "expanded": true,
+        "name": "工事現場下エリアから潜入用",
+        "order": 117,
+        "parentId": 195,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 277,
+        "expanded": false,
+        "name": "橋の下",
+        "order": 250,
+        "parentId": 26,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 278,
+        "expanded": true,
+        "name": "戦闘員本拠地アジトイベント用",
+        "order": 277,
+        "parentId": 261,
+        "scrollX": 1082,
+        "scrollY": 1305.3333333333333
+    },
+    {
+        "id": 279,
+        "expanded": true,
+        "name": "戦闘員本拠地勝利用",
+        "order": 278,
+        "parentId": 261,
+        "scrollX": 1150,
+        "scrollY": 1357.3333333333333
+    },
+    {
+        "id": 280,
+        "expanded": true,
+        "name": "小部屋",
+        "order": 233,
+        "parentId": 149,
+        "scrollX": 1456,
+        "scrollY": 1013.3333333333334
+    },
+    {
+        "id": 281,
+        "expanded": true,
+        "name": "バックヤード",
+        "order": 237,
+        "parentId": 151,
+        "scrollX": 1350,
+        "scrollY": 644
+    },
+    {
+        "id": 282,
+        "expanded": false,
+        "name": "戦闘員アジト小部屋",
+        "order": 236,
+        "parentId": 155,
+        "scrollX": 1966,
+        "scrollY": 749.3333333333334
+    },
+    {
+        "id": 283,
+        "expanded": true,
+        "name": "ハルヒコの部屋",
+        "order": 30,
+        "parentId": 198,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 784
+    },
+    {
+        "id": 284,
+        "expanded": true,
+        "name": "トリップストア",
+        "order": 195,
+        "parentId": 267,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 954.6666666666666
+    },
+    {
+        "id": 285,
+        "expanded": true,
+        "name": "フェイの第四倉庫",
+        "order": 99,
+        "parentId": 344,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1092
+    },
+    {
+        "id": 286,
+        "expanded": true,
+        "name": "フェイの第五倉庫",
+        "order": 101,
+        "parentId": 344,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 2388
+    },
+    {
+        "id": 287,
+        "expanded": false,
+        "name": "■■ＮＴＲルート■■",
+        "order": 341,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 288,
+        "expanded": false,
+        "name": "ＮＴＲハルヒコの家",
+        "order": 342,
+        "parentId": 287,
+        "scrollX": 1082,
+        "scrollY": 877.3333333333334
+    },
+    {
+        "id": 289,
+        "expanded": true,
+        "name": "ＮＴＲユイの家の前１",
+        "order": 344,
+        "parentId": 287,
+        "scrollX": 1082,
+        "scrollY": 937.3333333333334
+    },
+    {
+        "id": 290,
+        "expanded": true,
+        "name": "ＮＴＲハルヒコの部屋",
+        "order": 343,
+        "parentId": 288,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 626
+    },
+    {
+        "id": 291,
+        "expanded": true,
+        "name": "ＮＴＲ回想",
+        "order": 345,
+        "parentId": 287,
+        "scrollX": 1083.3333333333333,
+        "scrollY": 798.6666666666666
+    },
+    {
+        "id": 292,
+        "expanded": true,
+        "name": "ＮＴＲユイの家の前２",
+        "order": 346,
+        "parentId": 287,
+        "scrollX": 1083.3333333333333,
+        "scrollY": 784
+    },
+    {
+        "id": 293,
+        "expanded": false,
+        "name": "ＮＴＲユイの教室",
+        "order": 347,
+        "parentId": 287,
+        "scrollX": 1082,
+        "scrollY": 1317.3333333333333
+    },
+    {
+        "id": 294,
+        "expanded": true,
+        "name": "ＮＴＲカレンの部屋",
+        "order": 348,
+        "parentId": 287,
+        "scrollX": 1082,
+        "scrollY": 1261.3333333333333
+    },
+    {
+        "id": 295,
+        "expanded": true,
+        "name": "ＮＴＲ歓楽街中央Ａ",
+        "order": 349,
+        "parentId": 287,
+        "scrollX": 851.3333333333334,
+        "scrollY": 562.6666666666666
+    },
+    {
+        "id": 296,
+        "expanded": false,
+        "name": "ＮＴＲ歓楽街北Ａ",
+        "order": 350,
+        "parentId": 287,
+        "scrollX": 851.3333333333334,
+        "scrollY": 562.6666666666666
+    },
+    {
+        "id": 297,
+        "expanded": true,
+        "name": "ＮＴＲマンション１階Ａ",
+        "order": 351,
+        "parentId": 296,
+        "scrollX": 1376.6666666666667,
+        "scrollY": 793.3333333333334
+    },
+    {
+        "id": 298,
+        "expanded": true,
+        "name": "ＮＴＲ歓楽街中央Ｂ",
+        "order": 361,
+        "parentId": 287,
+        "scrollX": 851.3333333333334,
+        "scrollY": 562.6666666666666
+    },
+    {
+        "id": 299,
+        "expanded": true,
+        "name": "ＮＴＲ歓楽街北Ｂ",
+        "order": 362,
+        "parentId": 287,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 300,
+        "expanded": false,
+        "name": "ＮＴＲ部屋の中Ａ",
+        "order": 352,
+        "parentId": 287,
+        "scrollX": 1319.3333333333333,
+        "scrollY": 793.3333333333334
+    },
+    {
+        "id": 301,
+        "expanded": true,
+        "name": "ＮＴＲユイの家２Ｆ",
+        "order": 353,
+        "parentId": 300,
+        "scrollX": 1027.3333333333333,
+        "scrollY": 780
+    },
+    {
+        "id": 302,
+        "expanded": true,
+        "name": "ＮＴＲユイの家１Ｆ",
+        "order": 354,
+        "parentId": 300,
+        "scrollX": 1319.3333333333333,
+        "scrollY": 764
+    },
+    {
+        "id": 303,
+        "expanded": false,
+        "name": "ＮＴＲユイの家の前３",
+        "order": 355,
+        "parentId": 287,
+        "scrollX": 770,
+        "scrollY": 764
+    },
+    {
+        "id": 304,
+        "expanded": true,
+        "name": "ＮＴＲユイの家の前４",
+        "order": 356,
+        "parentId": 303,
+        "scrollX": 770,
+        "scrollY": 978.6666666666666
+    },
+    {
+        "id": 305,
+        "expanded": true,
+        "name": "ＮＴＲユイの家の前５",
+        "order": 357,
+        "parentId": 303,
+        "scrollX": 770,
+        "scrollY": 764
+    },
+    {
+        "id": 306,
+        "expanded": false,
+        "name": "ＮＴＲマンション内１",
+        "order": 358,
+        "parentId": 287,
+        "scrollX": 1376.6666666666667,
+        "scrollY": 764
+    },
+    {
+        "id": 307,
+        "expanded": true,
+        "name": "ＮＴＲ部屋の中Ａ",
+        "order": 359,
+        "parentId": 287,
+        "scrollX": 1319.3333333333333,
+        "scrollY": 764
+    },
+    {
+        "id": 308,
+        "expanded": false,
+        "name": "ＮＴＲ天沢の教室１",
+        "order": 360,
+        "parentId": 287,
+        "scrollX": 1150,
+        "scrollY": 764
+    },
+    {
+        "id": 309,
+        "expanded": true,
+        "name": "ＮＴＲマンション１階Ｂ",
+        "order": 363,
+        "parentId": 287,
+        "scrollX": 1107.3333333333333,
+        "scrollY": 920
+    },
+    {
+        "id": 310,
+        "expanded": true,
+        "name": "ＮＴＲマンション５階",
+        "order": 364,
+        "parentId": 287,
+        "scrollX": 1082,
+        "scrollY": 1056
+    },
+    {
+        "id": 311,
+        "expanded": false,
+        "name": "ＮＴＲマンション５０４Ａ",
+        "order": 365,
+        "parentId": 287,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 816
+    },
+    {
+        "id": 312,
+        "expanded": false,
+        "name": "ＮＴＲマンションＥＮＤ１",
+        "order": 367,
+        "parentId": 287,
+        "scrollX": 1360,
+        "scrollY": 604
+    },
+    {
+        "id": 313,
+        "expanded": false,
+        "name": "ＮＴＲマンションベランダ",
+        "order": 366,
+        "parentId": 311,
+        "scrollX": 1354,
+        "scrollY": 702
+    },
+    {
+        "id": 314,
+        "expanded": false,
+        "name": "ＮＴＲプールＥＮＤ２",
+        "order": 368,
+        "parentId": 287,
+        "scrollX": 1126.6666666666667,
+        "scrollY": 604
+    },
+    {
+        "id": 315,
+        "expanded": false,
+        "name": "テキスト抽出用",
+        "order": 369,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 316,
+        "expanded": true,
+        "name": "４章ユイの部屋で",
+        "order": 317,
+        "parentId": 185,
+        "scrollX": 1206,
+        "scrollY": 1094.6666666666667
+    },
+    {
+        "id": 317,
+        "expanded": false,
+        "name": "地下Ｂ２(５章～６章レベル）",
+        "order": 220,
+        "parentId": 144,
+        "scrollX": 1281.3333333333333,
+        "scrollY": 916
+    },
+    {
+        "id": 318,
+        "expanded": false,
+        "name": "地下Ｂ３(７章～８章レベル）",
+        "order": 221,
+        "parentId": 144,
+        "scrollX": 1948,
+        "scrollY": 1484
+    },
+    {
+        "id": 319,
+        "expanded": false,
+        "name": "地下Ｂ４(９章～１０章レベル）",
+        "order": 224,
+        "parentId": 144,
+        "scrollX": 1945.3333333333333,
+        "scrollY": 2686.6666666666665
+    },
+    {
+        "id": 320,
+        "expanded": true,
+        "name": "隠し部屋",
+        "order": 226,
+        "parentId": 144,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 2042.6666666666667
+    },
+    {
+        "id": 321,
+        "expanded": false,
+        "name": "ザイボーグ精製部屋",
+        "order": 225,
+        "parentId": 319,
+        "scrollX": 1082,
+        "scrollY": 1776
+    },
+    {
+        "id": 322,
+        "expanded": true,
+        "name": "地下研究所（下水道から侵入時）",
+        "order": 227,
+        "parentId": 144,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1512
+    },
+    {
+        "id": 323,
+        "expanded": false,
+        "name": "西部屋",
+        "order": 222,
+        "parentId": 318,
+        "scrollX": 1965.6,
+        "scrollY": 1017.5999999999999
+    },
+    {
+        "id": 324,
+        "expanded": false,
+        "name": "東部屋",
+        "order": 223,
+        "parentId": 318,
+        "scrollX": 973.1999999999999,
+        "scrollY": 691.1999999999999
+    },
+    {
+        "id": 325,
+        "expanded": false,
+        "name": "出産敗北用",
+        "order": 182,
+        "parentId": 183,
+        "scrollX": 1082,
+        "scrollY": 736
+    },
+    {
+        "id": 326,
+        "expanded": true,
+        "name": "天沢視点Ａ",
+        "order": 262,
+        "parentId": 42,
+        "scrollX": 1080,
+        "scrollY": 1658.5714285714284
+    },
+    {
+        "id": 327,
+        "expanded": true,
+        "name": "天沢視点Ａ区画",
+        "order": 263,
+        "parentId": 326,
+        "scrollX": 1105.7142857142856,
+        "scrollY": 1281.4285714285713
+    },
+    {
+        "id": 328,
+        "expanded": true,
+        "name": "天沢視点Ｂ区画",
+        "order": 264,
+        "parentId": 326,
+        "scrollX": 1105.7142857142856,
+        "scrollY": 1320.8571428571427
+    },
+    {
+        "id": 329,
+        "expanded": true,
+        "name": "天沢支店Ｃ区画",
+        "order": 265,
+        "parentId": 326,
+        "scrollX": 1082,
+        "scrollY": 770.6666666666666
+    },
+    {
+        "id": 330,
+        "expanded": true,
+        "name": "天沢視点Ｄ区画",
+        "order": 266,
+        "parentId": 326,
+        "scrollX": 1082,
+        "scrollY": 2173.3333333333335
+    },
+    {
+        "id": 331,
+        "expanded": true,
+        "name": "海水浴場奥",
+        "order": 183,
+        "parentId": 183,
+        "scrollX": 828.6666666666666,
+        "scrollY": 877.3333333333334
+    },
+    {
+        "id": 332,
+        "expanded": true,
+        "name": "カリーヌ戦敗北イベントＢ",
+        "order": 283,
+        "parentId": 140,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 333,
+        "expanded": true,
+        "name": "サイミンダーグ敗北１",
+        "order": 141,
+        "parentId": 224,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 896.6666666666666
+    },
+    {
+        "id": 334,
+        "expanded": false,
+        "name": "駐車場",
+        "order": 146,
+        "parentId": 83,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 335,
+        "expanded": false,
+        "name": "歓楽街南",
+        "order": 207,
+        "parentId": 27,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 336,
+        "expanded": false,
+        "name": "テキスト抽出用",
+        "order": 370,
+        "parentId": 315,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 337,
+        "expanded": false,
+        "name": "店長室",
+        "order": 209,
+        "parentId": 338,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 338,
+        "expanded": true,
+        "name": "ホストクラブ(戦闘員アジト)",
+        "order": 208,
+        "parentId": 335,
+        "scrollX": 1492,
+        "scrollY": 1510.6666666666667
+    },
+    {
+        "id": 339,
+        "expanded": false,
+        "name": "スタッフルーム",
+        "order": 210,
+        "parentId": 338,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 790.6666666666666
+    },
+    {
+        "id": 340,
+        "expanded": true,
+        "name": "地下",
+        "order": 211,
+        "parentId": 338,
+        "scrollX": 1390.6666666666667,
+        "scrollY": 1720
+    },
+    {
+        "id": 341,
+        "expanded": false,
+        "name": "橋の下の戦闘員アジト",
+        "order": 251,
+        "parentId": 277,
+        "scrollX": 1333.3333333333333,
+        "scrollY": 812
+    },
+    {
+        "id": 342,
+        "expanded": false,
+        "name": "マンションベランダ",
+        "order": 202,
+        "parentId": 170,
+        "scrollX": 1968,
+        "scrollY": 836
+    },
+    {
+        "id": 343,
+        "expanded": true,
+        "name": "地下",
+        "order": 102,
+        "parentId": 286,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1038.6666666666667
+    },
+    {
+        "id": 344,
+        "expanded": false,
+        "name": "フェイの倉庫一覧",
+        "order": 92,
+        "parentId": 18,
+        "scrollX": 780.6666666666666,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 345,
+        "expanded": true,
+        "name": "建物Ａ",
+        "order": 26,
+        "parentId": 73,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1093.3333333333333
+    },
+    {
+        "id": 346,
+        "expanded": true,
+        "name": "コインの家２Ｆ（計１０個）",
+        "order": 68,
+        "parentId": 23,
+        "scrollX": 1386,
+        "scrollY": 1174
+    },
+    {
+        "id": 347,
+        "expanded": true,
+        "name": "コインの家３Ｆ（計５個）",
+        "order": 69,
+        "parentId": 23,
+        "scrollX": 1390.6666666666667,
+        "scrollY": 776
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "コインの家４Ｆ（計５個）",
+        "order": 70,
+        "parentId": 23,
+        "scrollX": 1391.3333333333333,
+        "scrollY": 1064
+    },
+    {
+        "id": 349,
+        "expanded": true,
+        "name": "マンション５－５",
+        "order": 200,
+        "parentId": 170,
+        "scrollX": 1322,
+        "scrollY": 624
+    },
+    {
+        "id": 350,
+        "expanded": true,
+        "name": "追加外装店",
+        "order": 252,
+        "parentId": 26,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1156
+    },
+    {
+        "id": 351,
+        "expanded": true,
+        "name": "情報屋ポンペイ",
+        "order": 253,
+        "parentId": 26,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 1316
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "両親の寝室",
+        "order": 19,
+        "parentId": 2,
+        "scrollX": 1294.6666666666667,
+        "scrollY": 1056
+    },
+    {
+        "id": 353,
+        "expanded": true,
+        "name": "小部屋Ｆ",
+        "order": 165,
+        "parentId": 45,
+        "scrollX": 1240.3636363636365,
+        "scrollY": 955.6363636363636
+    },
+    {
+        "id": 354,
+        "expanded": true,
+        "name": "隠し奥",
+        "order": 166,
+        "parentId": 45,
+        "scrollX": 840.75,
+        "scrollY": 747
+    },
+    {
+        "id": 355,
+        "expanded": true,
+        "name": "隠し通路先",
+        "order": 292,
+        "parentId": 241,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 356,
+        "expanded": true,
+        "name": "地下",
+        "order": 100,
+        "parentId": 285,
+        "scrollX": 1274.6666666666667,
+        "scrollY": 1296
+    },
+    {
+        "id": 357,
+        "expanded": false,
+        "name": "小部屋",
+        "order": 201,
+        "parentId": 349,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 358,
+        "expanded": true,
+        "name": "フェイの第一倉庫",
+        "order": 93,
+        "parentId": 344,
+        "scrollX": 1630,
+        "scrollY": 710.6666666666666
+    },
+    {
+        "id": 359,
+        "expanded": true,
+        "name": "フェイの第二倉庫",
+        "order": 95,
+        "parentId": 344,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 958.6666666666666
+    },
+    {
+        "id": 360,
+        "expanded": true,
+        "name": "地下",
+        "order": 94,
+        "parentId": 358,
+        "scrollX": 1311.3333333333333,
+        "scrollY": 1038.6666666666667
+    },
+    {
+        "id": 361,
+        "expanded": true,
+        "name": "地下",
+        "order": 96,
+        "parentId": 359,
+        "scrollX": 1310.6666666666667,
+        "scrollY": 1038.6666666666667
+    },
+    {
+        "id": 362,
+        "expanded": true,
+        "name": "フェイの第三倉庫",
+        "order": 97,
+        "parentId": 344,
+        "scrollX": 1273.3333333333333,
+        "scrollY": 1092
+    },
+    {
+        "id": 363,
+        "expanded": true,
+        "name": "小部屋",
+        "order": 98,
+        "parentId": 362,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 1066.6666666666667
+    },
+    {
+        "id": 364,
+        "expanded": true,
+        "name": "地下",
+        "order": 293,
+        "parentId": 241,
+        "scrollX": 1282.6666666666667,
+        "scrollY": 1736
+    },
+    {
+        "id": 365,
+        "expanded": true,
+        "name": "隠し小部屋",
+        "order": 294,
+        "parentId": 364,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 825.3333333333334
+    },
+    {
+        "id": 366,
+        "expanded": true,
+        "name": "建物Ａイベント用",
+        "order": 27,
+        "parentId": 73,
+        "scrollX": 1296,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 367,
+        "expanded": true,
+        "name": "建物Ａ回想用",
+        "order": 28,
+        "parentId": 73,
+        "scrollX": 1296,
+        "scrollY": 970.6666666666666
+    },
+    {
+        "id": 368,
+        "expanded": true,
+        "name": "回想用：バッドエンド",
+        "order": 267,
+        "parentId": 330,
+        "scrollX": 1072,
+        "scrollY": 2085.3333333333335
+    },
+    {
+        "id": 369,
+        "expanded": false,
+        "name": "雑魚敵敗北用部屋",
+        "order": 4,
+        "parentId": 99,
+        "scrollX": 770,
+        "scrollY": 866.6666666666666
+    },
+    {
+        "id": 370,
+        "expanded": false,
+        "name": "宗善町",
+        "order": 371,
+        "parentId": 0,
+        "scrollX": 968.6666666666666,
+        "scrollY": 562.6666666666666
+    },
+    {
+        "id": 371,
+        "expanded": false,
+        "name": "宗善町中道",
+        "order": 372,
+        "parentId": 370,
+        "scrollX": 894,
+        "scrollY": 624
+    },
+    {
+        "id": 372,
+        "expanded": false,
+        "name": "小屋",
+        "order": 373,
+        "parentId": 370,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 373,
+        "expanded": true,
+        "name": "民家",
+        "order": 254,
+        "parentId": 26,
+        "scrollX": 1318.6666666666667,
+        "scrollY": 729.3333333333334
+    }
+]
