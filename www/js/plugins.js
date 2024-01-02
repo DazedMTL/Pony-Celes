@@ -169,7 +169,7 @@ var $plugins = [
       "List Hidden Title": "？？？？？",
       "List Hidden Description": "(未獲得)",
       "List Hidden Icon": "0",
-      "List Cancel Message": "閉じる",
+      "List Cancel Message": "Cancel",
       "■ 上級者向け設定": "",
       "Use Global Save": "ON",
     },

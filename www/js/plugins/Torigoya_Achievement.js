@@ -242,15 +242,15 @@
         var match;
         if (!id && (match = line.match(/^\s*id:\s*(\d+)/))) {
           id = ~~match[1];
-        } else if (!icon && (match = line.match(/^\s*icon:\s*(\d+)/))) {
+        } else if (!icon && (match = line.match(/^\s*icon:\s*(\d+)/s))) {
           icon = ~~match[1];
-        } else if (!title && (match = line.match(/^\s*title:\s*(.+)\s*$/))) {
+        } else if (!title && (match = line.match(/^\s*title:\s*(.+)\s*$/s))) {
           title = match[1];
-        } else if ((match = line.match(/^\s*secret:\s*(.+)\s*$/))) {
+        } else if ((match = line.match(/^\s*secret:\s*(.+)\s*$/s))) {
           secret = match[1] === "true";
-        } else if ((match = line.match(/^\s*secretTitle:\s*(.+)\s*$/))) {
+        } else if ((match = line.match(/^\s*secretTitle:\s*(.+)\s*$/s))) {
           secretTitle = match[1];
-        } else if ((match = line.match(/^\s*secretText:\s*(.+)\s*$/))) {
+        } else if ((match = line.match(/^\s*secretText:\s*(.+)\s*$/s))) {
           secretDescription = match[1];
         } else {
           description += line + "\n";
