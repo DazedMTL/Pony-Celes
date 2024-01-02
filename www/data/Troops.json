@@ -238,14 +238,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「その程度なの？ これじゃいつもと変わらないわよ 」"
+                            "Pony Celes: \"Is that all? This is no different from usual.\""
                         ]
                     },
                     {
@@ -308,14 +301,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦闘員Ａ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「くっ、ふざけやがって！」"
+                            "Combatant A: \"Damn, you're mocking us!\""
                         ]
                     },
                     {
@@ -332,14 +318,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦闘員Ｂ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「調子こきやがって、今に見てろ！！ 」"
+                            "Combatant B: \"Getting cocky, huh? Just you wait!!\""
                         ]
                     },
                     {
@@ -368,14 +347,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦闘員達は怒り状態になった！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "戦闘員達の攻撃力が上がった！"
+                            "The combatants are enraged! The combatants' attack power has\nincreased!"
                         ]
                     },
                     {
@@ -401,14 +373,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ちょっとはやる気が出たようね」"
+                            "Pony Celes: \"Looks like you're finally getting serious.\""
                         ]
                     },
                     {
@@ -425,14 +390,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "戦闘員Ｃ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これからが本番だ。覚悟しやがれ！」"
+                            "Combatant C: \"The real battle starts now. Brace yourself!\""
                         ]
                     },
                     {
@@ -11564,7 +11522,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグの両腕が僅かに光を帯び始めた！"
+                            "The Spider-G's arms began to emit a faint light!"
                         ]
                     },
                     {
@@ -11631,7 +11589,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグの両腕が色濃く輝き始めた！"
+                            "The Spider-G's arms began to glow intensely!"
                         ]
                     },
                     {
@@ -11698,7 +11656,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグの両腕から強烈な光が漏れている！"
+                            "Intense light is leaking from both arms of Spider-G!"
                         ]
                     },
                     {
@@ -11768,14 +11726,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「くっくっくっ、ようやくチャージ完了だ！」"
+                            "Spider-G: \"Kukkukku, the charge is finally complete!\""
                         ]
                     },
                     {
@@ -11792,14 +11743,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「覚悟しなポーニーセレス！」"
+                            "Spider-G: \"Prepare yourself, Pony Celes!\""
                         ]
                     },
                     {
@@ -11823,14 +11767,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「―ッ！？ 何か来る！」"
+                            "Pony Celes: \"-Gah!? Something's coming!\""
                         ]
                     },
                     {
@@ -11847,14 +11784,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「もう遅い！！」"
+                            "Spider-G: \"It's too late!!\""
                         ]
                     },
                     {
@@ -11871,14 +11801,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「スパイダープリズン！！」"
+                            "Spider-G: \"Spider Prison!!\""
                         ]
                     },
                     {
@@ -12011,14 +11934,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うわあああああぁーーーーっ！」"
+                            "Pony Celes: \"Uwaaaaaaaahhhhh----!\""
                         ]
                     },
                     {
@@ -12093,14 +12009,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「なにこの糸……\\|体が動かないっ！」"
+                            "Pony Celes: \"What's this thread... I can't move my body!\""
                         ]
                     },
                     {
@@ -12117,14 +12026,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「いい様だな、ポニーセレス！」"
+                            "Spider-G: \"You look splendid, Pony Celes!\""
                         ]
                     },
                     {
@@ -12141,14 +12043,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そこから抜け出すことは不可能！」"
+                            "Spider-G: \"It's impossible to escape from there!\""
                         ]
                     },
                     {
@@ -12172,14 +12067,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「くっ……！」"
+                            "Pony Celes: \"Grrr...!\""
                         ]
                     },
                     {
@@ -12196,14 +12084,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「さぁ、じっくりいたぶってやる！」"
+                            "Spider-G: \"Now, I'll take my time tormenting you!\""
                         ]
                     },
                     {
@@ -12292,14 +12173,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「もう……だめ……」"
+                            "Pony Celes: \"I can't... do it anymore...\""
                         ]
                     },
                     {
@@ -12427,14 +12301,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どうした！ もう終わりかポニーセレス！」"
+                            "Spider-G: \"What's the matter! Is it over already, Pony Celes!\""
                         ]
                     },
                     {
@@ -12523,14 +12390,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「もう……だめ……」"
+                            "Pony Celes: \"I can't... do it anymore...\""
                         ]
                     },
                     {
@@ -12679,14 +12539,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（だ、だめ……体が動かないわ）"
+                            "Pony Celes: (No good... I can't move my body.)"
                         ]
                     },
                     {
@@ -12710,14 +12563,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（なんとかしないとこのままじゃやられちゃう……）"
+                            "Pony Celes: (I have to do something or I'll be done for...)"
                         ]
                     },
                     {
@@ -12741,14 +12587,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（……こうなったら！）"
+                            "Pony Celes: (...At this rate!)"
                         ]
                     },
                     {
@@ -12756,8 +12595,8 @@
                         "indent": 0,
                         "parameters": [
                             [
-                                "力任せに引き千切ってみせる！",
-                                "この糸は私の力じゃ引き千切れない……"
+                                "I'll tear it off with brute force!",
+                                "I can't tear this thread with my strength"
                             ],
                             1,
                             -1,
@@ -12794,14 +12633,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "（力ずくで引き千切ってみせる！）"
+                            "Pony Celes: (I'll tear it off with brute force!)"
                         ]
                     },
                     {
@@ -12865,14 +12697,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「見てなさい。こんな糸、すぐに引き千切ってあげるわ！」"
+                            "Pony Celes: \"Watch me. I'll tear off these threads in no time!\""
                         ]
                     },
                     {
@@ -12984,14 +12809,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「くっくっくっ、どうした？ 引き千切るんじゃなかったのか？」"
+                            "Spider-G: \"Kukukuku, what's wrong? Weren't you going to tear it off?\""
                         ]
                     },
                     {
@@ -13015,14 +12833,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「そんな……私の力じゃ、無理なの……」"
+                            "Pony Celes: \"It's no use... I can't do it with my strength...\""
                         ]
                     },
                     {
@@ -13039,14 +12850,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「勝負あったな！」"
+                            "Spider-G: \"The match is decided!\""
                         ]
                     },
                     {
@@ -13123,14 +12927,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "（この糸は私の力じゃ引き千切れない……）"
+                            "Pony Celes: (I can't tear off these threads with my strength...)"
                         ]
                     },
                     {
@@ -13166,14 +12963,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "（私ここで負けちゃうんだ……ごめんね、みんな……）"
+                            "Pony Celes: (I'm going to lose here... I'm sorry, everyone...)"
                         ]
                     },
                     {
@@ -13211,14 +13001,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "（ユイ……ちゃん……）"
+                            "Polka: (Yui-chan...)"
                         ]
                     },
                     {
@@ -13242,14 +13025,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "（ポルカ･･････？）"
+                            "Pony Celes: (Polka...?)"
                         ]
                     },
                     {
@@ -13292,14 +13068,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「ユイちゃん……諦めちゃダメ！」"
+                            "Polka: \"Yui-chan... you mustn't give up!\""
                         ]
                     },
                     {
@@ -13316,14 +13085,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「この世界を守れるのはあなたしかいないの！」"
+                            "Polka: \"You're the only one who can protect this world!\""
                         ]
                     },
                     {
@@ -13340,14 +13102,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「自分の力を信じて！ あなたならきっと勝てるわ！」"
+                            "Polka: \"Believe in your own strength! You can surely win!\""
                         ]
                     },
                     {
@@ -13371,14 +13126,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「でも、もう力が入らない……」"
+                            "Pony Celes: \"But, I don't have any strength left...\""
                         ]
                     },
                     {
@@ -13395,14 +13143,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「ホーリーパワーを爆発させて糸を焼き切るのよ！」"
+                            "Polka: \"Explode the Holy Power and burn through the threads!\""
                         ]
                     },
                     {
@@ -13419,21 +13160,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「どんな状況だったとしても、正義の心で念じれば"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "　ホーリーブローチはきっと呼応するわ！」"
+                            "Polka: \"No matter the situation, if you pray with a heart of justice,\nthe Holy Brooch will surely respond!\""
                         ]
                     },
                     {
@@ -13457,14 +13184,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「正義の心……」"
+                            "Pony Celes: \"A heart of justice...\""
                         ]
                     },
                     {
@@ -13481,21 +13201,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「そう、正義の心よ！ どんなに困難だろうが決して諦めない正義の心。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "　それがあなたにはあるの」"
+                            "Polka: \"Yes, a heart of justice! No matter how difficult it may be,\nnever give up. That's what you have.\""
                         ]
                     },
                     {
@@ -13512,14 +13218,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポルカ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「それに、弱気なんてユイちゃんらしくないじゃない！」"
+                            "Polka: \"Besides, being faint-hearted isn't like you, Yui-chan!\""
                         ]
                     },
                     {
@@ -13536,14 +13235,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「！！」"
+                            "Pony Celes: \"!!\""
                         ]
                     },
                     {
@@ -13567,14 +13259,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「そうよね……こんなの私らしくない！」"
+                            "Pony Celes: \"That's right... This isn't like me at all!\""
                         ]
                     },
                     {
@@ -13598,14 +13283,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「わかったわポルカ！」"
+                            "Pony Celes: \"I understand, Polka!\""
                         ]
                     },
                     {
@@ -13629,14 +13307,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「私……\\| \\{諦めない！」"
+                            "Pony Celes: \"I... won't give up!\""
                         ]
                     },
                     {
@@ -13660,14 +13331,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「絶対に勝ってみせるわ！」"
+                            "Pony Celes: \"I will definitely win!\""
                         ]
                     },
                     {
@@ -13705,14 +13369,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「くっくっく、ずいぶん大人しくなったじゃないか！」"
+                            "Spider-G: \"Kukukuku, you've become quite docile, haven't you!\""
                         ]
                     },
                     {
@@ -13729,14 +13386,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「さぁ、とどめを刺してやろう！」"
+                            "Spider-G: \"Now, let me put an end to this!\""
                         ]
                     },
                     {
@@ -13788,14 +13438,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「私はあなたなんかに……\\|絶対に負けないッ！！」"
+                            "Pony Celes: \"I will never lose to someone like you!!\""
                         ]
                     },
                     {
@@ -13812,14 +13455,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「―ッ！？」"
+                            "Spider-G: \"-Wha!? \""
                         ]
                     },
                     {
@@ -13889,14 +13525,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「聖なる光よ、私に力を！！」"
+                            "Pony Celes: \"Holy light, grant me strength!!\""
                         ]
                     },
                     {
@@ -13959,14 +13588,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「ホーリージャッジメントーーーッ！！」"
+                            "Pony Celes: \"Holy Judgment---!!\""
                         ]
                     },
                     {
@@ -14099,14 +13721,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「そんな、馬鹿な……っ！ お前如きがどうして……」"
+                            "Spider-G: \"Such nonsense...! How could someone like you...\""
                         ]
                     },
                     {
@@ -14130,14 +13745,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「残念だったわねスパイダーグ！」"
+                            "Pony Celes: \"Too bad for you, Spider-G!\""
                         ]
                     },
                     {
@@ -14161,14 +13769,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「たとえ私の体を縛る事は出来ても……」"
+                            "Pony Celes: \"Even if you can bind my body...\""
                         ]
                     },
                     {
@@ -14192,14 +13793,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "\\{「正義の心までは縛れないッ！！」"
+                            "Pony Celes: \"You can't bind the heart of justice!!\""
                         ]
                     },
                     {
@@ -14216,21 +13810,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "スパイダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「ぐっ……小娘、調子にのりやがって！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "　お、おのれぇーーーーっ！」"
+                            "Spider-G: \"Guh... You little brat, getting cocky! You'll regret\nthis----!\""
                         ]
                     },
                     {
@@ -14254,14 +13834,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「あなたの技はもう通用しないわ。一気にケリをつけてあげる！」"
+                            "Pony Celes: \"Your techniques won't work on me anymore. I'll finish\nthis in one fell swoop!\""
                         ]
                     },
                     {
@@ -14290,7 +13863,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ポニーセレスは\\C[23]必殺技：ホーリージャッジメント\\C[0]を習得した！"
+                            "Pony Celes has learned the special move: \\C[23]Holy Judgment\\C[0]!"
                         ]
                     },
                     {
@@ -14830,14 +14403,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ガードを固めたポニーセレスだったが、あまりの衝撃に"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "コスチュームがバラバラになりながら大きく吹き飛んだ！"
+                            "Pony Celes braced herself, but the impact was so great that her\ncostume came apart as she was blown away!"
                         ]
                     },
                     {
@@ -14854,7 +14420,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "体が痺れて立ち上がる事が出来ない。"
+                            "My body is numb and I can't stand up."
                         ]
                     },
                     {
@@ -14871,14 +14437,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「さぁ、始めようか！」"
+                            "Muscle-Doug: \"Well, shall we begin?\""
                         ]
                     },
                     {
@@ -14976,14 +14535,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "反撃を試みたポニーセレスだったが、あまりの衝撃にコスチュームが"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "バラバラになりながら大きく吹き飛んだ！"
+                            "Pony Celes attempted a counterattack, but the shock was so intense\nthat her costume shattered as she was sent flying!"
                         ]
                     },
                     {
@@ -15000,7 +14552,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "体が痺れて立ち上がる事が出来ない。"
+                            "My body is numb and I can't stand up."
                         ]
                     },
                     {
@@ -15017,14 +14569,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「さぁ、始めようか！」"
+                            "Muscle-Doug: \"Well, shall we begin?\""
                         ]
                     },
                     {
@@ -15144,14 +14689,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ぐぬぬぬぬ！ なかなかやるではないか！」"
+                            "Muscle-Doug: \"Grrrrr! You're quite good, aren't you!\""
                         ]
                     },
                     {
@@ -15231,14 +14769,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな単調な攻撃じゃ私に勝てはしないわよ！」"
+                            "Pony Celes: \"You won't win against me with such monotonous attacks!\""
                         ]
                     },
                     {
@@ -15278,14 +14809,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの筋肉は飾り物なの？」"
+                            "Pony Celes: \"Are your muscles just for show?\""
                         ]
                     },
                     {
@@ -15302,14 +14826,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「許せん、許せん！ 私の美しい筋肉を飾り物だと！」"
+                            "Muscle-Doug: \"Unforgivable, unforgivable! To call my beautiful muscles\nmere decorations!\""
                         ]
                     },
                     {
@@ -15326,14 +14843,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「壊してやる！ 壊してやるぞ！」"
+                            "Muscle-Doug: \"I'll destroy you! I will break you!\""
                         ]
                     },
                     {
@@ -15679,14 +15189,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ガードを固めたポニーセレスだったが、あまりの衝撃に"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "コスチュームがバラバラになりながら大きく吹き飛んだ！"
+                            "Pony Celes braced herself, but the impact was so great that her\ncostume came apart as she was blown away!"
                         ]
                     },
                     {
@@ -15703,7 +15206,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "体が痺れて立ち上がる事が出来ない。"
+                            "Her body was numb, unable to stand up."
                         ]
                     },
                     {
@@ -15720,14 +15223,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「さぁ、始めようか！」"
+                            "Muscle Doug: \"Well, shall we begin?\""
                         ]
                     },
                     {
@@ -15825,14 +15321,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "反撃を試みたポニーセレスだったが、あまりの衝撃にコスチュームが"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "バラバラになりながら大きく吹き飛んだ！"
+                            "Pony Celes attempted to counterattack, but the shock was so intense\nthat her costume shattered as she was sent flying!"
                         ]
                     },
                     {
@@ -15849,7 +15338,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "体が痺れて立ち上がる事が出来ない。"
+                            "Her body was numb, unable to stand up."
                         ]
                     },
                     {
@@ -15866,14 +15355,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「さぁ、始めようか！」"
+                            "Muscle Doug: \"Well, shall we begin?\""
                         ]
                     },
                     {
@@ -15993,14 +15475,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ぐぬぬぬぬ！ 貧弱な筋肉の君がここまで私に肉迫するとは！」"
+                            "Muscle-Doug: \"Grrrrr! To think that someone with such puny muscles\ncould challenge me this far!\""
                         ]
                     },
                     {
@@ -16080,14 +15555,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな単調な攻撃じゃ私に勝てはしないわよ！」"
+                            "Pony Celes: \"You won't win against me with such monotonous attacks!\""
                         ]
                     },
                     {
@@ -16127,14 +15595,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの筋肉は飾り物なの？」"
+                            "Pony Celes: \"Are your muscles just for show?\""
                         ]
                     },
                     {
@@ -16151,14 +15612,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「許せん、許せん！ 私の美しい筋肉を飾り物だと！」"
+                            "Muscle-Doug: \"Unforgivable, unforgivable! To call my beautiful muscles\nmere decorations!\""
                         ]
                     },
                     {
@@ -16175,14 +15629,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「壊してやる！ 壊してやるぞ！」"
+                            "Muscle-Doug: \"I'll destroy you! I will break you!\""
                         ]
                     },
                     {
@@ -16516,14 +15963,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そろそろ、諦めたらどうだい？」"
+                            "Octodrag: \"Isn't it about time you gave up?\""
                         ]
                     },
                     {
@@ -16540,14 +15980,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「大怪我しない内に大人しく僕の花嫁になった方がいいよ！」"
+                            "Octodrag: \"You'd better become my bride quietly before you get\nseriously hurt!\""
                         ]
                     },
                     {
@@ -16627,14 +16060,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「馬鹿言わないでっ！」"
+                            "Pony Celes: \"Don't be ridiculous!\""
                         ]
                     },
                     {
@@ -16658,14 +16084,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの花嫁なんか死んでもお断りよ！」"
+                            "Pony Celes: \"I'd rather die than become your bride!\""
                         ]
                     },
                     {
@@ -16682,14 +16101,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「むむっ！」"
+                            "Octodrag: \"Hmmph!\""
                         ]
                     },
                     {
@@ -16706,21 +16118,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「\\C[17]超絶イケメン\\C[0]の僕がプロポーズしているのに、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　君はどこまでも頑固だね」"
+                            "Octodrag: \"\\C[17]Despite being a super handsome guy\\C[0] like me\nproposing, you're still so stubborn.\""
                         ]
                     },
                     {
@@ -16745,7 +16143,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "宝来の手鏡を使いますか？"
+                            "Would you like to use the Treasure Mirror?"
                         ]
                     },
                     {
@@ -16753,8 +16151,8 @@
                         "indent": 1,
                         "parameters": [
                             [
-                                "はい",
-                                "いいえ"
+                                "Yes",
+                                "No"
                             ],
                             1,
                             -1,
@@ -16800,21 +16198,7 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "「だから何度も言ってるでしょ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "　どこがイケメンなわけよ！」"
+                            "Pony Celes: \"That's what I've been saying over and over. Where do you\nsee a handsome guy?!\""
                         ]
                     },
                     {
@@ -16838,14 +16222,7 @@
                         "code": 401,
                         "indent": 2,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 2,
-                        "parameters": [
-                            "「自分の顔をよく見てみなさい！」"
+                            "Pony Celes: \"Take a good look at your own face!\""
                         ]
                     },
                     {
@@ -17201,21 +16578,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ぐぬぬっ、しっかりしろ僕！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　ショックを受ける暇なんてないんだ！」"
+                            "Octodrag: \"Gnununu, pull yourself together, me! There's no time to be\nshocked!\""
                         ]
                     },
                     {
@@ -17232,14 +16595,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「僕はイケメンだ！ 僕はイケメンだー！！」"
+                            "Octodrag: \"I am handsome! I am handsome!!\""
                         ]
                     },
                     {
@@ -17317,7 +16673,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグの頭に乗っかっている小蛸がもぞもぞしだした。"
+                            "The little octopus perched on Octo-Dog's head started to squirm."
                         ]
                     },
                     {
@@ -17334,7 +16690,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "体を真っ赤にして湯気が立ち込める。"
+                            "The body turned bright red, and steam began to billow."
                         ]
                     },
                     {
@@ -17416,21 +16772,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「おおっ！ お前もポニーセレスの事が大好きなんだね。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　お父さんと一緒で嬉しいよ」"
+                            "Octo-Dog: \"Oh! You must really love Pony Celes too. I'm happy we share\nthat in common.\""
                         ]
                     },
                     {
@@ -17447,14 +16789,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うん、うん、やっぱりそうか。そうだと思ったよ！」"
+                            "Octo-Dog: \"Yeah, yeah, I thought so. That's what I thought!\""
                         ]
                     },
                     {
@@ -17541,14 +16876,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「戦闘中に独り言？」"
+                            "Pony Celes: \"Talking to yourself during battle?\""
                         ]
                     },
                     {
@@ -17572,14 +16900,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「何を言ってるの……？」"
+                            "Pony Celes: \"What are you saying...?\""
                         ]
                     },
                     {
@@ -17596,14 +16917,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ふふっ、直ぐに分かるよ」"
+                            "Octo-Dog: \"Hehe, you'll understand soon enough.\""
                         ]
                     },
                     {
@@ -17629,21 +16943,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「僕が不細工だって騙そうとした罰は、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "　たっぷり受けてもらわないとね！」"
+                            "Octo-Dog: \"The punishment for trying to trick me into thinking I'm\nugly... you'll have to take it all!\""
                         ]
                     },
                     {
@@ -17680,14 +16980,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「えっ！？」"
+                            "Pony Celes: \"Eh!? What!?\""
                         ]
                     },
                     {
@@ -17704,14 +16997,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「さぁ、行くんだ！！」"
+                            "Octo-Dog: \"Alright, let's go!!\""
                         ]
                     },
                     {
@@ -17891,14 +17177,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「いやあああああぁーーーーっ！」"
+                            "Pony Celes: \"Noooooo----!\""
                         ]
                     },
                     {
@@ -17915,7 +17194,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレスの顔面に子蛸がへばりついた！"
+                            "A baby octopus clung to Pony Celes' face!"
                         ]
                     },
                     {
@@ -17939,14 +17218,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「なにこれっ！ はっ、離れなさいよっ！」"
+                            "Pony Celes: \"What is this! Ha, get off me!\""
                         ]
                     },
                     {
@@ -17963,14 +17235,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「無理、無理、無理。僕の合図が無いとその子は離れないよ」"
+                            "Octo-Dad: \"Impossible, impossible, impossible. Without my signal, it\nwon't let go.\""
                         ]
                     },
                     {
@@ -17987,14 +17252,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これからお母さんになる君をとっても気に入ってるってさ！」"
+                            "Octo-Dad: \"It seems to really like you, the one who's about to become\nits mother!\""
                         ]
                     },
                     {
@@ -18018,14 +17276,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うっ、馬鹿なこと言わないでっ！」"
+                            "Pony Celes: \"Ugh, don't say such stupid things!\""
                         ]
                     },
                     {
@@ -18042,21 +17293,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「僕の息子はとても面食いだから、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　気に入られた事を光栄に思わなきゃ！」"
+                            "Octo-Dad: \"My son is very picky about looks, so you should feel\nhonored to be liked!\""
                         ]
                     },
                     {
@@ -18080,21 +17317,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの息子！？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　いやっ、気持ち悪い！ いやっ、いやあああぁっ！」"
+                            "Pony Celes: \"Your son!? No, that's disgusting! Nooo, noooooo!\""
                         ]
                     },
                     {
@@ -18111,14 +17334,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「むっ！ 僕の可愛い息子が気持ち悪いだって？」"
+                            "Octo-Dad: \"Hmph! My cute son is disgusting, you say?\""
                         ]
                     },
                     {
@@ -18135,14 +17351,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「いくら君でもそれは聞き捨てならないな！」"
+                            "Octo-Dad: \"Even coming from you, I can't let that comment slide!\""
                         ]
                     },
                     {
@@ -18159,14 +17368,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「たっぷりお仕置きが必要だね♡」"
+                            "Octo-Dad: \"You need a good punishment♡\""
                         ]
                     },
                     {
@@ -18190,14 +17392,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「な、なにっ！ 何する気よっ！！」"
+                            "Pony Celes: \"Wha, what! What are you going to do!!\""
                         ]
                     },
                     {
@@ -18214,21 +17409,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「さぁ、息子よ！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　ポニーセレスをヘナヘナにしてしまえーーー！」"
+                            "Octo-Dad: \"Now, my son! Make Pony Celes weak and helpless---!\""
                         ]
                     },
                     {
@@ -18245,7 +17426,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "子蛸は触手を伸ばし、ポニーセレスの耳の中に滑り込ませた。"
+                            "The baby octopus extended its tentacles and slipped them into Pony\nCeles' ears."
                         ]
                     },
                     {
@@ -18312,14 +17493,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「いやっ、いやあああぁーーーっ！」"
+                            "Pony Celes: \"No, nooooo---!\""
                         ]
                     },
                     {
@@ -18336,7 +17510,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "同時に触手から媚薬交じりの粘液が耳の中に放出された！"
+                            "At the same time, the tentacles released an aphrodisiac-laced mucus\ninto her ears!"
                         ]
                     },
                     {
@@ -18360,21 +17534,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「口より耳の中か……さすが僕の息子だ！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　雌を味わう時の好みも僕と同じってわけだ！」"
+                            "Octo-Dad: \"Preferring the ears over the mouth... Just like me! My son\nhas the same taste in females when it comes to savoring them!\""
                         ]
                     },
                     {
@@ -18455,14 +17615,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「おやおや、どうしちゃったのかなポニーセレスちゃん！」"
+                            "Octodrag: \"Oh my, what seems to be the matter, Pony Celes-chan!\""
                         ]
                     },
                     {
@@ -18479,14 +17632,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「力を奪われる瞬間って気持ちいいでしょ？」"
+                            "Octodrag: \"Doesn't it feel good when your power is being drained?\""
                         ]
                     },
                     {
@@ -18503,14 +17649,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「同時に耳の中を舐め回されて、おマンコ濡れ濡れじゃないの～♡」"
+                            "Octodrag: \"At the same time, having your ears licked all over, isn't\nyour pussy getting all wet~♡\""
                         ]
                     },
                     {
@@ -18548,21 +17687,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（あっ、ああぁっ……だめ……"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　耳の中……頭の中も変になってくる……）"
+                            "Pony Celes: (Ah, aahh... no... inside my ears... it's making my head\ngo weird...)"
                         ]
                     },
                     {
@@ -18586,14 +17711,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（それに……力も吸われて……ああっ、あああっ……）"
+                            "Pony Celes: (And... my power is being sucked away too... aah, aahh...)"
                         ]
                     },
                     {
@@ -18655,14 +17773,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「良い子だ、良い子だ！」"
+                            "Octodrag: \"Good girl, good girl!\""
                         ]
                     },
                     {
@@ -18679,14 +17790,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ポニーセレスからエネルギーを沢山奪えたみたいだね！」"
+                            "Octodrag: \"It seems like we've taken a lot of energy from Pony Celes!\""
                         ]
                     },
                     {
@@ -18703,14 +17807,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「じゃあ、そろそろ僕が相手してあげよっかな～♡」"
+                            "Octodrag: \"Well then, maybe it's about time I took care of you~♡\""
                         ]
                     },
                     {
@@ -18727,14 +17824,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「帰っておいで！」"
+                            "Octodrag: \"Come back!\""
                         ]
                     },
                     {
@@ -18826,14 +17916,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「お帰り！ さぁ、ポニーセレスのエネルギーを僕に！」"
+                            "Octodarg: \"Welcome back! Now, give me your energy, Pony Celes!\""
                         ]
                     },
                     {
@@ -18906,14 +17989,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「う～ん、デリシャス！」"
+                            "Octodarg: \"Mmm, delicious!\""
                         ]
                     },
                     {
@@ -18930,21 +18006,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「君のエネルギー！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　僕への愛の大きさが良くわかる味だったよ！」"
+                            "Octodarg: \"Your energy! The taste tells me so much about the size of\nyour love for me!\""
                         ]
                     },
                     {
@@ -18968,14 +18030,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あぁ……はぁ……気持ち悪いこと……いわないでっ！」"
+                            "Pony Celes: \"Ahh... hah... Don't say... such creepy things!\""
                         ]
                     },
                     {
@@ -18999,14 +18054,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「はぁ……はぁ……\\|もう……許さないんだからっ！」"
+                            "Pony Celes: \"Hah... hah... I won't... forgive you anymore!\""
                         ]
                     },
                     {
@@ -19023,14 +18071,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「力を奪われて気持ち良くされちゃったのに、なに言ってんの？」"
+                            "Octodarg: \"Even after having your power drained and feeling good, what\nare you saying?\""
                         ]
                     },
                     {
@@ -19047,14 +18088,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな状態で僕に勝てるわけないでしょ」"
+                            "Octodarg: \"There's no way you can beat me in such a state, right?\""
                         ]
                     },
                     {
@@ -19071,14 +18105,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "オクトダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「さぁ、仕上げといくよ！」"
+                            "Octodarg: \"Now, let's finish this!\""
                         ]
                     },
                     {
@@ -19365,14 +18392,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「さすがのお前でも動けなければ勝つ事が出来んぞ」"
+                            "Hypnotist-Drag: \"Even someone as skilled as you can't win if you can't\nmove.\""
                         ]
                     },
                     {
@@ -19452,14 +18472,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うるさい！」"
+                            "Pony Celes: \"Shut up!\""
                         ]
                     },
                     {
@@ -19483,14 +18496,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「こんな陳腐な催眠術、すぐに解いてやるんだから！」"
+                            "Pony Celes: \"I'll break free from such a trite hypnotic spell in no\ntime!\""
                         ]
                     },
                     {
@@ -19649,21 +18655,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「クックック、どうした？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "  陳腐な催眠術にかかりっぱなしだぞ」"
+                            "サイミンダ-グ: \"Kukuku, what's the matter? Still caught in my trite\nhypnosis?\""
                         ]
                     },
                     {
@@ -19743,14 +18735,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの攻撃なんて痛くもかゆくもないわ」"
+                            "ポニ-セレス: \"Your attacks don't hurt or itch in the slightest.\""
                         ]
                     },
                     {
@@ -19774,14 +18759,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな攻撃じゃ私に勝てないわよ」"
+                            "ポニ-セレス: \"With such attacks, you can't possibly defeat me.\""
                         ]
                     },
                     {
@@ -19798,21 +18776,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「たしかにワシは戦闘が苦手だ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　しかし、蜂の一撃でも熊は倒れるのを知っているか？」"
+                            "サイミンダ-グ: \"Indeed, I am not good at combat. But do you know that even a\nbear can fall to a bee's sting?\""
                         ]
                     },
                     {
@@ -19829,14 +18793,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「こうやって何度も何度も刺せばな！」"
+                            "サイミンダ-グ: \"If I sting over and over again like this!\""
                         ]
                     },
                     {
@@ -19995,14 +18952,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どうしたポニーセレス。顔色が悪いぞ、クククッ」"
+                            "Hypnodrug: \"What's the matter, Pony Celes? You look pale, kukuku...\""
                         ]
                     },
                     {
@@ -20082,14 +19032,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（だめ……催眠が解けない……)"
+                            "Pony Celes: \"(No good... I can't break the hypnosis...)\""
                         ]
                     },
                     {
@@ -20113,14 +19056,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（どうすればいいの？ このままじゃ……)"
+                            "Pony Celes: \"(What should I do? At this rate...)\""
                         ]
                     },
                     {
@@ -20279,14 +19215,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「このままなぶり殺すのもいいが……」"
+                            "Hypnotist: \"It might be fun to torment you to death, but...\""
                         ]
                     },
                     {
@@ -20303,14 +19232,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ふふふっ、面白い事を思いついたぞ」"
+                            "Hypnotist: \"Hehehe, I've thought of something interesting.\""
                         ]
                     },
                     {
@@ -20390,14 +19312,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これ以上なにをする気……！？」"
+                            "Pony Celes: \"What more do you intend to do...!?\""
                         ]
                     },
                     {
@@ -20414,14 +19329,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「催眠術をバカにした罰だ、たっぷりと痴態を晒させてやろう」"
+                            "Hypnotist: \"This is the punishment for mocking hypnosis, I'll make you\nexpose your lewdness thoroughly.\""
                         ]
                     },
                     {
@@ -20750,14 +19658,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「クククッ、動かぬ両手でどうやって私に勝とうというのだ？」"
+                            "Hypnotist-Dragon: \"Kukuku... How do you plan to defeat me with both\nhands immobilized?\""
                         ]
                     },
                     {
@@ -20774,14 +19675,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「魔法が使えなければお前など恐るるに足らんぞ」"
+                            "Hypnotist-Dragon: \"Without the ability to use magic, you are nothing\nto fear.\""
                         ]
                     },
                     {
@@ -20861,14 +19755,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うるさい！ 両手が使えなくったって空手には足技があるの」"
+                            "Pony Celes: \"Quiet! Even if I can't use my hands, karate has kicks.\""
                         ]
                     },
                     {
@@ -20892,14 +19779,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「足さえ動けば勝機はあるわ！」"
+                            "Pony Celes: \"As long as I can move my legs, there's a chance to win!\""
                         ]
                     },
                     {
@@ -21058,14 +19938,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「クックックッ、必ず蹴りがくると分かっているのだ」"
+                            "サイミンダ-グ: \"Kukukuku, I know a kick is definitely coming.\""
                         ]
                     },
                     {
@@ -21082,14 +19955,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「避ける事など容易いわ！」"
+                            "サイミンダ-グ: \"Dodging it is a piece of cake!\""
                         ]
                     },
                     {
@@ -21169,14 +20035,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「絶対に当ててやるんだから」"
+                            "ポニ-セレス: \"I'll definitely hit you with it, just you wait.\""
                         ]
                     },
                     {
@@ -21200,14 +20059,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「今に見てなさい！」"
+                            "ポニ-セレス: \"Just watch me!\""
                         ]
                     },
                     {
@@ -21366,14 +20218,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どうしたポニーセレス。弱い！ 弱わすぎるぞ！」"
+                            "サイミンダ-グ: \"What's the matter, Pony Celes? Weak! You're too weak!\""
                         ]
                     },
                     {
@@ -21453,14 +20298,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（だめ……攻撃が当たらない……)"
+                            "Pony Celes: \"(No good... My attacks aren't hitting...)\""
                         ]
                     },
                     {
@@ -21484,14 +20322,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（どうすればいいの？ このままじゃ……)"
+                            "Pony Celes: \"(What should I do? At this rate...)\""
                         ]
                     },
                     {
@@ -21508,14 +20339,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「足に催眠をかけるまでもなかったな。ははははっ！」"
+                            "サイミンダ-グ: \"There was no need to hypnotize your legs. Hahahaha!\""
                         ]
                     },
                     {
@@ -21674,14 +20498,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんなバレバレの攻撃、当たらないと言っているのだ！」"
+                            "Saimindar-G: \"Such an obvious attack will never hit me!\""
                         ]
                     },
                     {
@@ -21698,21 +20515,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「戦闘が苦手なワシでもこうやってジワジワと"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　なぶっていけば、お前の体力は次第に底を付く」"
+                            "Saimindar-G: \"Even someone like me who's not good at combat can\nwhittle you down slowly like this, and your stamina will gradually run\nout.\""
                         ]
                     },
                     {
@@ -21729,14 +20532,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「お前の負けは確実だ！」"
+                            "Saimindar-G: \"Your defeat is certain!\""
                         ]
                     },
                     {
@@ -21816,14 +20612,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（悔しいけど、あいつの言う通りだわ……）"
+                            "Pony Celes: (It's frustrating, but what he's saying is true...)"
                         ]
                     },
                     {
@@ -21847,14 +20636,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（このままじゃ、ジワジワ体力が奪われていくだけ……）"
+                            "Pony Celes: (At this rate, my stamina will just be drained away\nslowly...)"
                         ]
                     },
                     {
@@ -22013,14 +20795,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「もう十分遊んだ。そろそろ頃合いだな」"
+                            "Hypno-Drag \"We've played enough. It's about time now.\""
                         ]
                     },
                     {
@@ -22100,14 +20875,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「頃合い？ どういうこと！？」"
+                            "Pony Celes \"About time? What do you mean!?\""
                         ]
                     },
                     {
@@ -22124,14 +20892,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「催眠術の本当の恐ろしさを見せてやると言っているのだ」"
+                            "Hypno-Drag \"I'm saying I'll show you the true terror of hypnotism.\""
                         ]
                     },
                     {
@@ -22634,7 +21395,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ガルベスの体が電気を帯び始めた！"
+                            "Garubesu's body has started to become electrified!"
                         ]
                     },
                     {
@@ -22730,21 +21491,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「その程度かポニーセレス！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "  そんな攻撃で俺が倒せるとでも思ったか」"
+                            "General Galvez: \"Is that all you've got, Pony Celes! Did you really\nthink such an attack could defeat me?\""
                         ]
                     },
                     {
@@ -22824,14 +21571,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「見てなさい！ そう言ってられるのも今のうちよ」"
+                            "Pony Celes: \"Just watch! You won't be able to talk so big for much\nlonger.\""
                         ]
                     },
                     {
@@ -22855,14 +21595,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ポニーセレスの力、聖なる力はまだまだこんなもんじゃないわ」"
+                            "Pony Celes: \"The power of Pony Celes, the holy power, is far from\nbeing just this.\""
                         ]
                     },
                     {
@@ -22879,21 +21612,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「くくっ、そうかそれは良かった。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　本気を出した俺にどこまで肉迫できるか、もっと楽しませてくれよ！」"
+                            "General Galvez: \"Haha, is that so? That's good to hear. Show me how\nclose you can get to the real me when I'm serious, make it more\nentertaining!\""
                         ]
                     },
                     {
@@ -23052,21 +21771,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「お前が負ければ街の奴らは全員死刑だ！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　せいぜい頑張るんだな」"
+                            "General Galvez: \"If you lose, everyone in the town will be executed!\nDo your best now.\""
                         ]
                     },
                     {
@@ -23146,14 +21851,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「言ってなさい！ 負ける気なんてさらさらないわ！」"
+                            "Pony Celes: \"Keep talking! I don't feel like losing at all!\""
                         ]
                     },
                     {
@@ -23170,21 +21868,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「安心しろ。お前は殺さない。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　死んだほうがいいと思えるくらい犯しまくってやるからな」"
+                            "General Galvez: \"Relax. I won't kill you. I'll just rape you so much\nyou'll wish you were dead.\""
                         ]
                     },
                     {
@@ -23201,21 +21885,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「子宮の中までパンパンに精子を注ぎ込んでやる。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　その生意気な態度がどう変わるか今から楽しみだぜ！」"
+                            "General Galvez: \"I'll fill your womb to the brim with my sperm. I\ncan't wait to see how that cocky attitude of yours changes!\""
                         ]
                     },
                     {
@@ -23255,21 +21925,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どこまでもクズね！ あなたみたいな男、一番嫌いなの！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　絶対にぶっとばしてあげるわ」"
+                            "Pony Celes: \"You're the worst kind of scum! I hate men like you the\nmost! I'll definitely knock you down.\""
                         ]
                     },
                     {
@@ -23293,14 +21949,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「いくら謝っても許さないんだから！」"
+                            "Pony Celes: \"I won't forgive you no matter how much you apologize!\""
                         ]
                     },
                     {
@@ -23459,21 +22108,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「やるな、ポニーセレス！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　俺様をここまで追い詰めるとは……」"
+                            "猛将ガルベス「Well done, Pony Celes! To push me this far...」"
                         ]
                     },
                     {
@@ -23490,21 +22125,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「だが、ダーグノア様の側近、猛将ガルベスの力"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　まだまだこんなものではないぞ！」"
+                            "猛将ガルベス「But, as the right-hand man of Lord Dargnoa, the mighty General\nGarves's power is not yet fully shown!」"
                         ]
                     },
                     {
@@ -23627,14 +22248,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「うおおおおおおおぉぉぉ！！！」"
+                            "猛将ガルベス「Uooooooohhhhhhh!!」"
                         ]
                     },
                     {
@@ -23748,14 +22362,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ほら、どうしたの？ 息切れしちゃってるわよ」"
+                            "Pony Celes: \"What's the matter? You're out of breath.\""
                         ]
                     },
                     {
@@ -23818,14 +22425,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ぐっ、この小娘がっ！」"
+                            "General Galvez: \"Guh, you little brat!\""
                         ]
                     },
                     {
@@ -23849,14 +22449,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「大勢の戦闘員に助けてもらわなきゃ、一人じゃ何もできないのね！」"
+                            "Pony Celes: \"Without a bunch of minions to help you, you can't do\nanything on your own, can you?\""
                         ]
                     },
                     {
@@ -23873,14 +22466,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "猛将ガルベス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「調子に乗りやがって！ 犯す！ 絶対に犯してやる！！」"
+                            "General Galvez: \"Getting cocky, huh! I'll rape you! I'll definitely\nrape you!!\""
                         ]
                     },
                     {
@@ -23920,21 +22506,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ガルベス、あなたに未来は無いわ！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　今ここで終わらしてあげる！」"
+                            "Pony Celes: \"Galvez, you have no future! I'll end it for you right\nhere and now!\""
                         ]
                     },
                     {
@@ -24380,14 +22952,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どういう事なの？」"
+                            "Pony Celes: \"What's going on?\""
                         ]
                     },
                     {
@@ -24411,14 +22976,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「攻撃が当たっているはずなのに手ごたえが無いわ」"
+                            "Pony Celes: \"My attacks should be hitting, but there's no feedback.\""
                         ]
                     },
                     {
@@ -24481,14 +23039,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ふぉふぉふぉっ。お気づきになりましたか」"
+                            "Wisdom General Domudora: \"Foh foh foh. Have you noticed?\""
                         ]
                     },
                     {
@@ -24505,14 +23056,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「魔法防壁を展開させてもらいました」"
+                            "Wisdom General Domudora: \"I have deployed a magical barrier.\""
                         ]
                     },
                     {
@@ -24529,14 +23073,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの攻撃をまともに食らうわけにはいきませんからね」"
+                            "Wisdom General Domudora: \"I cannot afford to take your attacks head-\non, you see.\""
                         ]
                     },
                     {
@@ -24560,14 +23097,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんなもの突き破ってみせるわ！」"
+                            "Pony Celes: \"I'll break through that thing!\""
                         ]
                     },
                     {
@@ -24735,14 +23265,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そろそろ分かったでしょう」"
+                            "Wisdom General Domudora: \"You must understand by now.\""
                         ]
                     },
                     {
@@ -24759,14 +23282,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな攻撃では私の魔法防壁を突破できません」"
+                            "Wisdom General Domudora: \"Such attacks cannot penetrate my magical\nbarrier.\""
                         ]
                     },
                     {
@@ -24783,14 +23299,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「私はこれがある限り誰にも負けはしないのです！」"
+                            "Wisdom General Domudora: \"As long as I have this, I will not lose to\nanyone!\""
                         ]
                     },
                     {
@@ -24956,14 +23465,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どうすればいいの……このままじゃ負けちゃう……」"
+                            "Pony Celes: \"What should I do... At this rate, I'm going to lose...\""
                         ]
                     },
                     {
@@ -25026,14 +23528,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これは私の叡智によって開発した代物」"
+                            "Wisdom General Domdora: \"This is something developed by my own\nwisdom.\""
                         ]
                     },
                     {
@@ -25050,14 +23545,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「私に致命傷を与える事はできませんよ」"
+                            "Wisdom General Domdora: \"You cannot deal a fatal blow to me.\""
                         ]
                     },
                     {
@@ -25074,21 +23562,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「この魔法防壁がある以上、長期戦なら私の方が"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　圧倒的に分があるのです」"
+                            "Wisdom General Domdora: \"As long as this magical barrier exists, I\nhave an overwhelming advantage in a battle of attrition.\""
                         ]
                     },
                     {
@@ -25105,14 +23579,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これからその意味を理解させてあげましょう。ふぉふぉふぉっ！」"
+                            "Wisdom General Domdora: \"Now, let me make you understand what that\nmeans. Foh foh foh!\""
                         ]
                     },
                     {
@@ -25136,14 +23603,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（討つ手がないわ。どうすればいいの……）"
+                            "Pony Celes: (There's no way to defeat him. What should I do...)"
                         ]
                     },
                     {
@@ -25348,14 +23808,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ば、ばかな！ 私の闇の魔法防壁が……」"
+                            "Wisdom General Domdora: \"I-Impossible! My dark magic barrier has...\""
                         ]
                     },
                     {
@@ -25435,14 +23888,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これであなたは無防備な状態よ」"
+                            "Pony Celes: \"Now you're defenseless.\""
                         ]
                     },
                     {
@@ -25466,14 +23912,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「今までの分、たっぷりお返しさせてもらうわ」"
+                            "Pony Celes: \"I'm going to give you a taste of your own medicine, for\neverything up until now.\""
                         ]
                     },
                     {
@@ -25490,14 +23929,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "智将ドムドラ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ぬっ……ぐぐぐぐっ！」"
+                            "Wisdom General Domdora: \"Ngh... grrrrr!\""
                         ]
                     },
                     {
@@ -25996,7 +24428,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "カリーヌの髪が怪しくなびき始めた！"
+                            "Karin's hair began to ominously sway!"
                         ]
                     },
                     {
@@ -26066,14 +24498,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ちょこまかとうっとおしいわね」"
+                            "Strategist Karin: \"You're so annoyingly fidgety.\""
                         ]
                     },
                     {
@@ -26090,14 +24515,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「スピードが自慢のようだけど……」"
+                            "Strategist Karin: \"It seems speed is your pride, but...\""
                         ]
                     },
                     {
@@ -26121,14 +24539,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「―ッ！？ 何か来る？」"
+                            "Pony Celes: \"-Huh!? Is something coming?\""
                         ]
                     },
                     {
@@ -26145,14 +24556,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "\\{「そこよ！！」"
+                            "Strategist Karin: \"Right there!!\""
                         ]
                     },
                     {
@@ -26273,14 +24677,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うあああああぁーーーーっ！」"
+                            "Pony Celes: \"Aaaaaaahhhhh----!\""
                         ]
                     },
                     {
@@ -26355,14 +24752,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「何これっ……\\|体がっ、動かない！」"
+                            "Pony Celes: \"What's this... My body, I can't move!\""
                         ]
                     },
                     {
@@ -26432,14 +24822,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ふふっ、捕まえたわよ」"
+                            "Strategist Karin: \"Hehe, I've caught you.\""
                         ]
                     },
                     {
@@ -26456,14 +24839,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「じわりじわりと締め上げてあげるわ」"
+                            "Strategist Karin: \"I'll tighten the grip slowly and steadily.\""
                         ]
                     },
                     {
@@ -26611,14 +24987,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「何も出来ないあなたを見るのはとても気分がいいわ」"
+                            "Conspirator Karin: \"It feels so good to see you unable to do\nanything.\""
                         ]
                     },
                     {
@@ -26635,14 +25004,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「その心地よい悲鳴をもっと聞かせてちょうだい」"
+                            "Conspirator Karin: \"Let me hear more of those pleasant screams.\""
                         ]
                     },
                     {
@@ -26780,14 +25142,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どう？ 苦しい？」"
+                            "Strategist Karen: \"How is it? Are you in pain?\""
                         ]
                     },
                     {
@@ -26804,14 +25159,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「私が味わった苦しみはそんなもんじゃないわよ」"
+                            "Strategist Karen: \"The suffering I've endured is nothing like that.\""
                         ]
                     },
                     {
@@ -27309,14 +25657,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ふふっ、さっきまでの威勢はどこにいったのかしら？」"
+                            "Conspirator Karin: \"Hehe, where did all that bravado from earlier go?\""
                         ]
                     },
                     {
@@ -27333,14 +25674,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな攻撃じゃ、私は倒せないわよ」"
+                            "Conspirator Karin: \"With such attacks, you won't be able to defeat\nme.\""
                         ]
                     },
                     {
@@ -27420,14 +25754,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「だめ……力が出ない……」"
+                            "Pony Celes: \"No good... I can't muster any strength...\""
                         ]
                     },
                     {
@@ -27451,14 +25778,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「このままじゃ、負けちゃう……」"
+                            "Pony Celes: \"At this rate, I'm going to lose...\""
                         ]
                     },
                     {
@@ -27475,14 +25795,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「もっともっと苦しみなさい！」"
+                            "Conspirator Karin: \"Suffer more and more!\""
                         ]
                     },
                     {
@@ -27499,14 +25812,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「私以上に苦しんで、無様に朽ち果てなさい！」"
+                            "Conspirator Karin: \"Suffer beyond me, and perish in disgrace!\""
                         ]
                     },
                     {
@@ -27672,14 +25978,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ああ、うっとおしい！ うっとおしい！」"
+                            "Conspirator Karin: \"Ahh, how annoying! So annoying!\""
                         ]
                     },
                     {
@@ -27696,14 +25995,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「いい加減、とっとと倒れなさいよ！」"
+                            "Conspirator Karin: \"Enough already, just fall already!\""
                         ]
                     },
                     {
@@ -27720,21 +26012,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「むかつく！ むかつく！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　あんたなんか！ あんたなんか！！」"
+                            "Conspirator Karin: \"It's infuriating! Infuriating! You... You!!\""
                         ]
                     },
                     {
@@ -27814,14 +26092,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どんな攻撃をしてこようと耐えてみせるわ」"
+                            "Pony Celes: \"No matter what attack you throw at me, I'll withstand\nit.\""
                         ]
                     },
                     {
@@ -27845,14 +26116,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「悪に心を委ねた、あなたになんか負けない！」"
+                            "Pony Celes: \"I won't lose to someone who has surrendered their heart\nto evil!\""
                         ]
                     },
                     {
@@ -27869,14 +26133,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「それの何が悪い！」"
+                            "Conspirator Karin: \"What's so wrong with that!\""
                         ]
                     },
                     {
@@ -27893,21 +26150,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "謀将カリーヌ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「私は西園寺花蓮！ 何しようが全て許される！"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　全て私の思い通りになるの！」"
+                            "Conspirator Karin: \"I am Saionji Karen! Whatever I do is permitted!\nEverything will go my way!\""
                         ]
                     },
                     {
@@ -44057,14 +42300,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ガードを固めたポニーセレスだったが、あまりの衝撃に"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "コスチュームがバラバラになりながら大きく吹き飛んだ！"
+                            "Pony Celes had her guard up, but the sheer impact caused her costume\nto come apart as she was blown away!"
                         ]
                     },
                     {
@@ -44081,7 +42317,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "体が痺れて立ち上がる事が出来ない。"
+                            "My body is numb and I can't stand up."
                         ]
                     },
                     {
@@ -44098,14 +42334,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "マッスルダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「さぁ、始めようか！」"
+                            "Muscle-Doug: \"Well then, shall we begin?\""
                         ]
                     },
                     {
@@ -44257,14 +42486,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「さすがのお前でも動けなければ勝つ事が出来んぞ」"
+                            "Hypno-Drag \"Even someone like you can't win if you can't move.\""
                         ]
                     },
                     {
@@ -44344,14 +42566,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「うるさい！」"
+                            "Pony Celes \"Shut up!\""
                         ]
                     },
                     {
@@ -44375,14 +42590,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「こんな陳腐な催眠術、すぐに解いてやるんだから！」"
+                            "Pony Celes \"I'll break free from this trite hypnosis in no time!\""
                         ]
                     },
                     {
@@ -44541,21 +42749,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「クックック、どうした？"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "  陳腐な催眠術にかかりっぱなしだぞ」"
+                            "Saimindar-g: \"Kukuku, what's the matter? Still caught in my trite\nhypnosis?\""
                         ]
                     },
                     {
@@ -44635,14 +42829,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「あなたの攻撃なんて痛くもかゆくもないわ」"
+                            "Pony Celes: \"Your attacks don't hurt or itch one bit.\""
                         ]
                     },
                     {
@@ -44666,14 +42853,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「そんな攻撃じゃ私に勝てないわよ」"
+                            "Pony Celes: \"With such attacks, you can't possibly defeat me.\""
                         ]
                     },
                     {
@@ -44690,21 +42870,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「たしかにワシは戦闘が苦手だ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "　しかし、蜂の一撃でも熊は倒れるのを知っているか？」"
+                            "Saimindar-g: \"Indeed, I am not good at combat. But do you know that\neven a bear can fall to a bee's sting?\""
                         ]
                     },
                     {
@@ -44721,14 +42887,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「こうやって何度も何度も刺せばな！」"
+                            "Saimindar-g: \"Like this, if I sting over and over again!\""
                         ]
                     },
                     {
@@ -44887,14 +43046,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「どうしたポニーセレス。顔色が悪いぞ、クククッ」"
+                            "Hypnodrug: \"What's the matter, Pony Celes? You look pale, kukuku...\""
                         ]
                     },
                     {
@@ -44974,14 +43126,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（だめ……催眠が解けない……)"
+                            "Pony Celes: \"(No good... I can't break the hypnosis...)\""
                         ]
                     },
                     {
@@ -45005,14 +43150,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "（どうすればいいの？ このままじゃ……)"
+                            "Pony Celes: \"(What should I do? At this rate...)\""
                         ]
                     },
                     {
@@ -45171,14 +43309,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「このままなぶり殺すのもいいが……」"
+                            "Hypnotist: \"It might be fun to torment you to death, but...\""
                         ]
                     },
                     {
@@ -45195,14 +43326,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ふふふっ、面白い事を良い事を思いついたぞ」"
+                            "Hypnotist: \"Hehehe, I've just thought of something even more\ninteresting.\""
                         ]
                     },
                     {
@@ -45282,14 +43406,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ポニーセレス"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「これ以上なにをする気……！？」"
+                            "Pony Celes: \"What more do you intend to do...!?\""
                         ]
                     },
                     {
@@ -45306,14 +43423,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "サイミンダーグ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「催眠術をバカにした罰だ、たっぷりと痴態を晒させてやろう」"
+                            "Hypnotist: \"This is the punishment for mocking hypnosis, I'll make you\nexpose your lewdness thoroughly.\""
                         ]
                     },
                     {
