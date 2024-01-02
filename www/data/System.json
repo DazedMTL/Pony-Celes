@@ -94,7 +94,7 @@
         "startX": 0,
         "startY": 0
     },
-    "currencyUnit": "円",
+    "currencyUnit": "Yen",
     "defeatMe": {
         "name": "Defeat2",
         "pan": 0,
@@ -124,7 +124,7 @@
         "",
         "Jewelry (Stone)",
         "Accessory (Ears)",
-        "Accessory (finger)",
+        "Accessory (Finger)",
         "Additional Exterior"
     ],
     "gameTitle": "",
@@ -1375,10 +1375,10 @@
             "Max SP",
             "Attack",
             "Defense",
-            "Sacred Heart Power",
+            "♥ Power",
             "Resistance",
             "Speed",
-            "Lewdness Level",
+            "Lewdness",
             "Hit Rate",
             "Evasion Rate"
         ],

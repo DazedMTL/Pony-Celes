@@ -45,7 +45,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "A sturdy titanium ring with no design [Defense\n+12][Resistance +10][Max HP +50]",
+        "description": "A sturdy titanium ring with no design [Defense +12][Resistance\n+10][Max HP +50]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -108,7 +108,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "A ring said to be inhabited by an indomitable spirit\n[Defense +22] [Resistance +16] [Max HP +100]",
+        "description": "A ring said to be inhabited by an indomitable spirit [Defense +22]\n[Resistance +16] [Max HP +100]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -129,7 +129,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "Only those who face their fears find a path to survival\n[Defense +5] [Resistance +5] [Attack Power +20]",
+        "description": "Only those who face their fears find a path to survival [Defense +5]\n[Resistance +5] [Attack Power +20]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -150,7 +150,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "A beautiful ring made of crystal [Defense +27] [Resistance\n+32]",
+        "description": "A beautiful ring made of crystal [Defense +27] [Resistance +32]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -171,7 +171,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "A ring adorned with coral fragments [Defense +38]\n[Resistance +43] [Max HP +200]",
+        "description": "A ring adorned with coral fragments [Defense +38] [Resistance +43]\n[Max HP +200]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -192,7 +192,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "A pure white ring made of white opal [Defense +53]\n[Resistance +48]",
+        "description": "A pure white ring made of white opal [Defense +53] [Resistance +48]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -213,7 +213,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "The inside of the ring is engraved with a picture of an\nhourglass [Defense +73] [Resistance +80]",
+        "description": "The inside of the ring is engraved with a picture of an hourglass\n[Defense +73] [Resistance +80]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -234,7 +234,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "A unique ring made from the new material, tantalum [Defense\n+80] [Resistance +72]",
+        "description": "A unique ring made from the new material, tantalum [Defense +80]\n[Resistance +72]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -255,7 +255,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "The amulet ring worn by the saint [Defense +98] [Resistance\n+108]",
+        "description": "The amulet ring worn by the saint [Defense +98] [Resistance +108]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -276,7 +276,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "A valuable ring made of rare metal, gold [Defense +120]\n[Resistance +108]",
+        "description": "A valuable ring made of rare metal, gold [Defense +120] [Resistance\n+108]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -297,7 +297,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "A ring studded with gems that sparkle like stardust [Defense\n+135] [Resistance +160]",
+        "description": "A ring studded with gems that sparkle like stardust [Defense +135]\n[Resistance +160]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -318,7 +318,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "A very expensive ring made of rare metals, platinum [Defense\n+170] [Resistance +150]",
+        "description": "A very expensive ring made of rare metals, platinum [Defense +170]\n[Resistance +150]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -381,7 +381,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "A ring said to bestow the wearer with the goddess's\nprotection [Defense +250] [Resistance +250]",
+        "description": "A ring said to bestow the wearer with the goddess's protection\n[Defense +250] [Resistance +250]",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 194,
@@ -423,7 +423,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "Simple and classic earrings with silverwork [Sacred Heart\nPower +5]",
+        "description": "Simple and classic earrings with silverwork [Sacred Heart Power +5]",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 219,
@@ -465,7 +465,7 @@
     {
         "id": 23,
         "atypeId": 1,
-        "description": "The round, distorted natural lines give off a sense of\nwarmth. [Sacred Heart Power +18]",
+        "description": "The round, distorted natural lines give off a sense of warmth. [Sacred\nHeart Power +18]",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 219,
@@ -486,7 +486,7 @@
     {
         "id": 24,
         "atypeId": 1,
-        "description": "Earrings adorned with moon fragments [Sacred Power +24] [Max\nSP +3%]",
+        "description": "Earrings adorned with moon fragments [Sacred Power +24] [Max SP +3%]",
         "etypeId": 2,
         "traits": [
             {
@@ -513,7 +513,7 @@
     {
         "id": 25,
         "atypeId": 1,
-        "description": "Earrings made from a meteorite [Sacred Power +38]\n[Resistance +3] [Max SP +5%]",
+        "description": "Earrings made from a meteorite [Sacred Power +38] [Resistance +3] [Max\nSP +5%]",
         "etypeId": 2,
         "traits": [
             {
@@ -540,7 +540,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "Earrings with a lightning bolt mark [Sacred Power +42]\n[Attack Power +3] [Max SP +5%]",
+        "description": "Earrings with a lightning bolt mark [Sacred Power +42] [Attack Power\n+3] [Max SP +5%]",
         "etypeId": 2,
         "traits": [
             {
@@ -567,7 +567,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "Amber-adorned Earrings [Sacred Power +52] [Resistance +5]\n[Max SP +8%]",
+        "description": "Amber-adorned Earrings [Sacred Power +52] [Resistance +5] [Max SP +8%]",
         "etypeId": 2,
         "traits": [
             {
@@ -594,7 +594,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "Sun-patterned earrings [Sacred Power +56] [Attack Power +5]\n[Max SP +8%]",
+        "description": "Sun-patterned earrings [Sacred Power +56] [Attack Power +5] [Max SP\n+8%]",
         "etypeId": 2,
         "traits": [
             {
@@ -621,7 +621,7 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "Earrings said to draw out the power of the wearer [Sacred\nPower +73] [Resistance +8] [Max SP +10%]",
+        "description": "Earrings said to draw out the power of the wearer [Sacred Power +73]\n[Resistance +8] [Max SP +10%]",
         "etypeId": 2,
         "traits": [
             {
@@ -648,7 +648,7 @@
     {
         "id": 30,
         "atypeId": 1,
-        "description": "Earrings adorned with a beautiful star pattern [Sacred Power\n+79] [Attack Power +8] [Max SP +10%]",
+        "description": "Earrings adorned with a beautiful star pattern [Sacred Power +79]\n[Attack Power +8] [Max SP +10%]",
         "etypeId": 2,
         "traits": [
             {
@@ -675,7 +675,7 @@
     {
         "id": 31,
         "atypeId": 1,
-        "description": "Earrings of Pitch-Black Night [Sacred Power +92] [Resistance\n+10] [Max SP +12%]",
+        "description": "Earrings of Pitch-Black Night [Sacred Power +92] [Resistance +10] [Max\nSP +12%]",
         "etypeId": 2,
         "traits": [
             {
@@ -702,7 +702,7 @@
     {
         "id": 32,
         "atypeId": 1,
-        "description": "Earrings engraved with a wing pattern [Sacred Power +99]\n[Attack Power +10] [Max SP +12%]",
+        "description": "Earrings engraved with a wing pattern [Sacred Power +99] [Attack Power\n+10] [Max SP +12%]",
         "etypeId": 2,
         "traits": [
             {
@@ -729,7 +729,7 @@
     {
         "id": 33,
         "atypeId": 1,
-        "description": "Earrings made of the rare mineral Mithril [Sacred Power\n+110] [Resistance +13] [Max SP +14%]",
+        "description": "Earrings made of the rare mineral Mithril [Sacred Power +110]\n[Resistance +13] [Max SP +14%]",
         "etypeId": 2,
         "traits": [
             {
@@ -756,7 +756,7 @@
     {
         "id": 34,
         "atypeId": 1,
-        "description": "Tear-shaped sparkling earrings [Sacred Power +114] [Attack\nPower +13] [Max SP +14%]",
+        "description": "Tear-shaped sparkling earrings [Sacred Power +114] [Attack Power +13]\n[Max SP +14%]",
         "etypeId": 2,
         "traits": [
             {
@@ -783,7 +783,7 @@
     {
         "id": 35,
         "atypeId": 1,
-        "description": "Earrings rumored to bestow mystical power [Sacred Power\n+122] [Resistance +15] [Max SP +16%]",
+        "description": "Earrings rumored to bestow mystical power [Sacred Power +122]\n[Resistance +15] [Max SP +16%]",
         "etypeId": 2,
         "traits": [
             {
@@ -810,7 +810,7 @@
     {
         "id": 36,
         "atypeId": 1,
-        "description": "Earrings that shine in seven colors [Sacred Power +125]\n[Attack Power +15] [Max SP +16%]",
+        "description": "Earrings that shine in seven colors [Sacred Power +125] [Attack Power\n+15] [Max SP +16%]",
         "etypeId": 2,
         "traits": [
             {
@@ -837,7 +837,7 @@
     {
         "id": 37,
         "atypeId": 1,
-        "description": "Twin Angel Decorated Earrings [Sacred Power +140]\n[Resistance +18] [Max SP +18%]",
+        "description": "Twin Angel Decorated Earrings [Sacred Power +140] [Resistance +18]\n[Max SP +18%]",
         "etypeId": 2,
         "traits": [
             {
@@ -864,7 +864,7 @@
     {
         "id": 38,
         "atypeId": 1,
-        "description": "Earrings that shine brightly as if sweeping away the\ndarkness [Sacred Power +150] [Attack Power +18] [Max SP\n+20%]",
+        "description": "Earrings that shine brightly as if sweeping away the darkness [Sacred\nPower +150] [Attack Power +18] [Max SP +20%]",
         "etypeId": 2,
         "traits": [
             {
@@ -891,7 +891,7 @@
     {
         "id": 39,
         "atypeId": 1,
-        "description": "Only those with pure hearts are granted the sacred power\n[Holy Heart Power +180] [Attack Power +20] [Max SP +20%]",
+        "description": "Only those with pure hearts are granted the sacred power [Holy Heart\nPower +180] [Attack Power +20] [Max SP +20%]",
         "etypeId": 2,
         "traits": [
             {
@@ -939,7 +939,7 @@
     {
         "id": 41,
         "atypeId": 1,
-        "description": "Ribbon [Additional Exterior] given as a birthday present\nfrom \\n[6] [Speed +10]",
+        "description": "Ribbon [Additional Exterior] given as a birthday present from \\n[6]\n[Speed +10]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -960,7 +960,7 @@
     {
         "id": 42,
         "atypeId": 1,
-        "description": "Precepts for those who aspire to Judo. [Additional Gear]\nEquipping this will give you an advantage in matches against\njudo practitioners.",
+        "description": "Precepts for those who aspire to Judo. [Additional Gear] Equipping\nthis will give you an advantage in matches against judo practitioners.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -981,7 +981,7 @@
     {
         "id": 43,
         "atypeId": 1,
-        "description": "Famous Shrine's Amulet [Additional Exterior] [Max HP +100]\n[Speed +10]",
+        "description": "Famous Shrine's Amulet [Additional Exterior] [Max HP +100] [Speed +10]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1002,7 +1002,7 @@
     {
         "id": 44,
         "atypeId": 1,
-        "description": "Floral Embroidered Scrunchie [Additional Outerwear] [Max SP\n+20] [Speed +5]",
+        "description": "Floral Embroidered Scrunchie [Additional Outerwear] [Max SP +20]\n[Speed +5]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1050,7 +1050,7 @@
     {
         "id": 46,
         "atypeId": 1,
-        "description": "Track athlete's running shoes [Additional Outer Gear]\n[Defense +5] [Speed +15]",
+        "description": "Track athlete's running shoes [Additional Outer Gear] [Defense +5]\n[Speed +15]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1071,7 +1071,7 @@
     {
         "id": 47,
         "atypeId": 1,
-        "description": "Common off-the-shelf sunglasses [Additional Gear] [Defense\n+5] [Immunity to Darkness]",
+        "description": "Common off-the-shelf sunglasses [Additional Gear] [Defense +5]\n[Immunity to Darkness]",
         "etypeId": 4,
         "traits": [
             {
@@ -1098,7 +1098,7 @@
     {
         "id": 48,
         "atypeId": 1,
-        "description": "Slightly naughty black fishnet tights [Additional Outerwear]\n[Defense +2] [Lewdness +6]",
+        "description": "Slightly naughty black fishnet tights [Additional Outerwear] [Defense\n+2] [Lewdness +6]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 288,
@@ -1119,7 +1119,7 @@
     {
         "id": 49,
         "atypeId": 1,
-        "description": "Medical Mask Capable of Effectively Blocking Bacteria\n[Additional Outer Gear] [Defense +2] [Poison Nullification]",
+        "description": "Medical Mask Capable of Effectively Blocking Bacteria [Additional\nOuter Gear] [Defense +2] [Poison Nullification]",
         "etypeId": 4,
         "traits": [
             {
@@ -1146,7 +1146,7 @@
     {
         "id": 50,
         "atypeId": 1,
-        "description": "Shoto Academy's Gym Uniform, Bloomers Set [Additional Gear]\n[Defense +8] [Speed +18]",
+        "description": "Shoto Academy's Gym Uniform, Bloomers Set [Additional Gear] [Defense\n+8] [Speed +18]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1167,7 +1167,7 @@
     {
         "id": 51,
         "atypeId": 1,
-        "description": "A cute pink scrunchie [Additional Outerwear] [Defense\n+10][Speed +5][Maximum HP +5% UP]",
+        "description": "A cute pink scrunchie [Additional Outerwear] [Defense +10][Speed\n+5][Maximum HP +5% UP]",
         "etypeId": 4,
         "traits": [
             {
@@ -1194,7 +1194,7 @@
     {
         "id": 52,
         "atypeId": 1,
-        "description": "Silk-made Luxury Scarf [Additional Outerwear] [Sacred Power\n+10] [Resistance +10] [Speed +10] [Paralysis Immunity]",
+        "description": "Silk-made Luxury Scarf [Additional Outerwear] [Sacred Power +10]\n[Resistance +10] [Speed +10] [Paralysis Immunity]",
         "etypeId": 4,
         "traits": [
             {
@@ -1221,7 +1221,7 @@
     {
         "id": 53,
         "atypeId": 1,
-        "description": "Badge of Justice [Additional Exterior] [Defense +5] [Speed\n+10] [Slightly restores holy power at the end of the turn]",
+        "description": "Badge of Justice [Additional Exterior] [Defense +5] [Speed +10]\n[Slightly restores holy power at the end of the turn]",
         "etypeId": 4,
         "traits": [
             {
@@ -1248,7 +1248,7 @@
     {
         "id": 54,
         "atypeId": 1,
-        "description": "Bright red high heels that seem to be worn by a mature, sexy\nwoman [Additional Equipment] [Attack Power +10] [Speed +10]",
+        "description": "Bright red high heels that seem to be worn by a mature, sexy woman\n[Additional Equipment] [Attack Power +10] [Speed +10]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 160,
@@ -1269,7 +1269,7 @@
     {
         "id": 55,
         "atypeId": 1,
-        "description": "Famous brand, Nykin's popular shoes [Additional Exterior]\n[Defense +10] [Speed +20]",
+        "description": "Famous brand, Nykin's popular shoes [Additional Exterior] [Defense\n+10] [Speed +20]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1290,7 +1290,7 @@
     {
         "id": 56,
         "atypeId": 1,
-        "description": "Sacred Charm [Additional Outfit] [Speed +10] [Slightly\nrestores holy power at the end of the turn]",
+        "description": "Sacred Charm [Additional Outfit] [Speed +10] [Slightly restores holy\npower at the end of the turn]",
         "etypeId": 4,
         "traits": [
             {
@@ -1317,7 +1317,7 @@
     {
         "id": 57,
         "atypeId": 1,
-        "description": "A pendant with a hidden compartment for a photo of a loved\none [Additional Accessory] [Attack Power +10] [Defense Power\n+10] [Resistance Power +10] [Speed +10]",
+        "description": "A pendant with a hidden compartment for a photo of a loved one\n[Additional Accessory] [Attack Power +10] [Defense Power +10]\n[Resistance Power +10] [Speed +10]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 199,
@@ -1338,7 +1338,7 @@
     {
         "id": 58,
         "atypeId": 1,
-        "description": "Super popular brand, Gallex's luxury wristwatch [Additional\nExterior] [Attack Power +25]",
+        "description": "Super popular brand, Gallex's luxury wristwatch [Additional Exterior]\n[Attack Power +25]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 224,
@@ -1359,7 +1359,7 @@
     {
         "id": 59,
         "atypeId": 1,
-        "description": "A warm scarf knitted with cotton [Additional Outerwear]\n[Defense +15] [Resistance +15] [Speed +20]",
+        "description": "A warm scarf knitted with cotton [Additional Outerwear] [Defense +15]\n[Resistance +15] [Speed +20]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1380,7 +1380,7 @@
     {
         "id": 60,
         "atypeId": 1,
-        "description": "Sturdy Life-Protecting Special Vest [Additional Outerwear]\n[Defense +25] [Speed -5]",
+        "description": "Sturdy Life-Protecting Special Vest [Additional Outerwear] [Defense\n+25] [Speed -5]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 220,
@@ -1401,7 +1401,7 @@
     {
         "id": 61,
         "atypeId": 1,
-        "description": "A girl's essential item, grooming is more important than\nanything [Additional Outerwear] [Defense -15] [Resistance\n-15] [Holy Heart Power +20]",
+        "description": "A girl's essential item, grooming is more important than anything\n[Additional Outerwear] [Defense -15] [Resistance -15] [Holy Heart\nPower +20]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 160,
@@ -1422,7 +1422,7 @@
     {
         "id": 62,
         "atypeId": 1,
-        "description": "The legendary idol Princess Himemiya's sailor uniform\n[Additional Outfit] [Immunity to poison and paralysis]\n[Slightly recovers HP, SP, and Holy Power at the end of each\nturn]",
+        "description": "The legendary idol Princess Himemiya's sailor uniform [Additional\nOutfit] [Immunity to poison and paralysis] [Slightly recovers HP, SP,\nand Holy Power at the end of each turn]",
         "etypeId": 4,
         "traits": [
             {
@@ -1469,7 +1469,7 @@
     {
         "id": 63,
         "atypeId": 1,
-        "description": "A stone said to bring blessings just by possessing it\n[Additional Exterior] [Resistance +18] [Speed +18]\n[Experience Gained +20%]",
+        "description": "A stone said to bring blessings just by possessing it [Additional\nExterior] [Resistance +18] [Speed +18] [Experience Gained +20%]",
         "etypeId": 4,
         "traits": [
             {
@@ -1496,7 +1496,7 @@
     {
         "id": 64,
         "atypeId": 1,
-        "description": "A luxurious rosary made of tortoiseshell [Additional\nExterior] [Sacred Power +10] [Max SP +50] [Slightly reduces\nSP consumption]",
+        "description": "A luxurious rosary made of tortoiseshell [Additional Exterior] [Sacred\nPower +10] [Max SP +50] [Slightly reduces SP consumption]",
         "etypeId": 4,
         "traits": [
             {
@@ -1523,7 +1523,7 @@
     {
         "id": 65,
         "atypeId": 1,
-        "description": "A cute and stylish belt made for girls [Additional\nOuterwear] [Defense +20] [Resistance +20] [Speed +20]\n[Paralysis Immunity]",
+        "description": "A cute and stylish belt made for girls [Additional Outerwear] [Defense\n+20] [Resistance +20] [Speed +20] [Paralysis Immunity]",
         "etypeId": 4,
         "traits": [
             {
@@ -1550,7 +1550,7 @@
     {
         "id": 66,
         "atypeId": 1,
-        "description": "A beautifully shining tiara adorned with crystals\n[Additional Gear] [Resistance +25] [Speed +30] [Occasionally\nallows for two actions to occur]",
+        "description": "A beautifully shining tiara adorned with crystals [Additional Gear]\n[Resistance +25] [Speed +30] [Occasionally allows for two actions to\noccur]",
         "etypeId": 4,
         "traits": [
             {
@@ -1577,7 +1577,7 @@
     {
         "id": 67,
         "atypeId": 1,
-        "description": "Sakura-colored cute anklet [Additional Gear] [Defense +10]\n[Speed +35]",
+        "description": "Sakura-colored cute anklet [Additional Gear] [Defense +10] [Speed +35]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 160,
@@ -1625,7 +1625,7 @@
     {
         "id": 69,
         "atypeId": 1,
-        "description": "A pendant that emits a dazzling light from its cross-shaped\nhead [Additional Outerwear] [Defense +20][Resistance\n+20][Holy Heart Power +20][Max SP +10%]",
+        "description": "A pendant that emits a dazzling light from its cross-shaped head\n[Additional Outerwear] [Defense +20][Resistance +20][Holy Heart Power\n+20][Max SP +10%]",
         "etypeId": 4,
         "traits": [
             {
@@ -1652,7 +1652,7 @@
     {
         "id": 70,
         "atypeId": 1,
-        "description": "A rare four-leaf clover [Additional Exterior] [Healing\nEffect +15%]",
+        "description": "A rare four-leaf clover [Additional Exterior] [Healing Effect +15%]",
         "etypeId": 4,
         "traits": [
             {
@@ -1679,7 +1679,7 @@
     {
         "id": 71,
         "atypeId": 1,
-        "description": "A rare five-leaf clover discovered with a one in a million\nchance [Additional Exterior] [Healing Effect +20%]",
+        "description": "A rare five-leaf clover discovered with a one in a million chance\n[Additional Exterior] [Healing Effect +20%]",
         "etypeId": 4,
         "traits": [
             {
@@ -1760,7 +1760,7 @@
     {
         "id": 74,
         "atypeId": 1,
-        "description": "A hair tie that a certain girl was wearing. It has white\nstains on it. [Attack Power +10] [Defense Power +30]\n[Resistance Power +30] [Speed +30]",
+        "description": "A hair tie that a certain girl was wearing. It has white stains on it.\n[Attack Power +10] [Defense Power +30] [Resistance Power +30] [Speed\n+30]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 240,
@@ -2429,7 +2429,7 @@
     {
         "id": 99,
         "atypeId": 1,
-        "description": "Wearing it alone brings happiness, the [\\C[17]Easy Mode\nExclusive Additional Outfit\\C[0]] [Enemy Experience Gained\nDoubled][Enemy Money Drop Doubled]",
+        "description": "Wearing it alone brings happiness, the [\\C[17]Easy Mode Exclusive\nAdditional Outfit\\C[0]] [Enemy Experience Gained Doubled][Enemy Money\nDrop Doubled]",
         "etypeId": 4,
         "traits": [
             {

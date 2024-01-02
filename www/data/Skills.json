@@ -479,7 +479,7 @@
             "type": 3,
             "variance": 7
         },
-        "description": "Restore a small amount of your own HP [About 200 HP\nrecovery]",
+        "description": "Restore a small amount of your own HP [About 200 HP recovery]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 81,
@@ -509,7 +509,7 @@
             "type": 3,
             "variance": 5
         },
-        "description": "Significantly restores one's own HP \\C[10]CT: 1\\C[0] [HP\nRecovery about 350]",
+        "description": "Significantly restores one's own HP \\C[10]CT: 1\\C[0] [HP Recovery about 350]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 81,
@@ -539,7 +539,7 @@
             "type": 3,
             "variance": 5
         },
-        "description": "Significantly restores one's own HP \\C[10]CT: 2\\C[0] [HP\nrecovery of about 500]",
+        "description": "Significantly restores one's own HP \\C[10]CT: 2\\C[0] [HP recovery of about 500]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 81,
@@ -569,7 +569,7 @@
             "type": 3,
             "variance": 5
         },
-        "description": "Significantly restores own HP \\C[10]CT: 3\\C[0] [HP recovery\nof about 800]",
+        "description": "Significantly restores own HP \\C[10]CT: 3\\C[0] [HP recovery of about 800]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 81,
@@ -599,7 +599,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Fully restore your own HP to maximum \\C[10]CT: 10\\C[0] [Full\nHP Recovery]",
+        "description": "Fully restore your own HP to maximum \\C[10]CT: 10\\C[0] [Full HP Recovery]",
         "effects": [
             {
                 "code": 11,
@@ -636,7 +636,7 @@
             "type": 1,
             "variance": 7
         },
-        "description": "Release the holy arrow and pierce through the enemy\n\\C[10]CT: 2\\C[0] [Damage dependent on Holy Heart Power]\n[Attribute: Holy]",
+        "description": "Release the holy arrow and pierce through the enemy \\C[10]CT: 2\\C[0] [Damage\ndependent on Holy Heart Power] [Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -696,7 +696,7 @@
             "type": 1,
             "variance": 7
         },
-        "description": "Strike the enemy with fists clad in flames \\C[10]CT: 2\\C[0]\n[Holy Power Dependent Damage] [Attribute: Flame]",
+        "description": "Strike the enemy with fists clad in flames \\C[10]CT: 2\\C[0] [Holy Power\nDependent Damage] [Attribute: Flame]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 64,
@@ -756,7 +756,7 @@
             "type": 1,
             "variance": 7
         },
-        "description": "Fires an arrow of light, piercing through all enemies. CT: 2\n[Damage dependent on Holy Power] [Attribute: Holy]",
+        "description": "Fires an arrow of light, piercing through all enemies. CT: 2 [Damage dependent\non Holy Power] [Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -816,7 +816,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Materializes a spear of light and unleashes a rapid barrage\nof thrusting attacks \\C[10]CT: 3\\C[0] [Holy Power Dependent\nDamage] [Attribute: Holy]",
+        "description": "Materializes a spear of light and unleashes a rapid barrage of thrusting attacks\n\\C[10]CT: 3\\C[0] [Holy Power Dependent Damage] [Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -876,7 +876,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Slice enemies with a blade of vacuum \\C[10]CT: 3\\C[0]\n[Damage dependent on Sacred Heart Power] [Attribute: Wind]",
+        "description": "Slice enemies with a blade of vacuum \\C[10]CT: 3\\C[0] [Damage dependent on\nSacred Heart Power] [Attribute: Wind]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 69,
@@ -936,7 +936,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Slash the enemy with a lightning-charged strike \\C[10]CT:\n3\\C[0] [Holy Power Dependent Damage] [Attribute: Lightning]",
+        "description": "Slash the enemy with a lightning-charged strike \\C[10]CT: 3\\C[0] [Holy Power\nDependent Damage] [Attribute: Lightning]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 66,
@@ -996,7 +996,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Deals major damage to a single enemy with a holy slash.\n\\C[10]CT: 4\\C[0] [Damage dependent on Holy Heart\nPower][Attribute: Holy]",
+        "description": "Deals major damage to a single enemy with a holy slash. \\C[10]CT: 4\\C[0] [Damage\ndependent on Holy Heart Power][Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -1056,7 +1056,7 @@
             "type": 1,
             "variance": 7
         },
-        "description": "Massive damage to all enemies with scorching flames. CT: 4\n[Damage dependent on Sacred Heart Power] [Attribute: Fire]",
+        "description": "Massive damage to all enemies with scorching flames. CT: 4 [Damage dependent on\nSacred Heart Power] [Attribute: Fire]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 64,
@@ -1116,7 +1116,7 @@
             "type": 1,
             "variance": 7
         },
-        "description": "Massive damage to a single enemy with countless wind blades\nCT: 4 [Holy Power Dependent Damage] [Attribute: Wind]",
+        "description": "Massive damage to a single enemy with countless wind blades CT: 4 [Holy Power\nDependent Damage] [Attribute: Wind]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 69,
@@ -1176,7 +1176,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Calls down a thunderbolt to deal heavy damage to a single\nenemy \\C[10]CT: 4\\C[0] [Sacred Power Dependent Damage]\n[Attribute: Thunder]",
+        "description": "Calls down a thunderbolt to deal heavy damage to a single enemy \\C[10]CT: 4\\C[0]\n[Sacred Power Dependent Damage] [Attribute: Thunder]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 66,
@@ -1236,7 +1236,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Unleash holy power to deal massive damage to a single enemy\n\\C[10]CT: 6\\C[0] [Damage dependent on Sacred Heart\nPower][Attribute: Holy]",
+        "description": "Unleash holy power to deal massive damage to a single enemy \\C[10]CT: 6\\C[0]\n[Damage dependent on Sacred Heart Power][Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -1296,7 +1296,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Annihilate the enemy with sacred power heightened to the\nextreme \\C[10]CT: 8\\C[0] [Sacred Heart Power Dependent\nDamage] [Attribute: Holy]",
+        "description": "Annihilate the enemy with sacred power heightened to the extreme \\C[10]CT:\n8\\C[0] [Sacred Heart Power Dependent Damage] [Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -1356,7 +1356,7 @@
             "type": 1,
             "variance": 7
         },
-        "description": "Release the sacred arrow to pierce through enemies \\C[10]CT:\n2\\C[0] [Holy Power Dependent Damage] [Attribute: Holy]",
+        "description": "Release the sacred arrow to pierce through enemies \\C[10]CT: 2\\C[0] [Holy Power\nDependent Damage] [Attribute: Holy]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -1596,7 +1596,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Planting her hips firmly, she punches through with her fist.\n[Damage dependent on attack power] [Attribute: Physical]",
+        "description": "Planting her hips firmly, she punches through with her fist. [Damage dependent\non attack power] [Attribute: Physical]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 78,
@@ -1626,7 +1626,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Deliver a knee strike, reducing the target's defense by 30%\nuntil their next turn. [Attack Power Dependent Damage]\n[Attribute: Physical]",
+        "description": "Deliver a knee strike, reducing the target's defense by 30% until their next\nturn. [Attack Power Dependent Damage] [Attribute: Physical]",
         "effects": [
             {
                 "code": 32,
@@ -1669,7 +1669,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Attack twice instantly with a returning blade [Attack Power\nDependent Damage] [Attribute: Physical]",
+        "description": "Attack twice instantly with a returning blade [Attack Power Dependent Damage]\n[Attribute: Physical]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 78,
@@ -1699,7 +1699,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cloaks in a robe of light, increasing resistance by 15% for\n5 turns. [Upon successful stacking: Up to a maximum of 30%\nincrease]",
+        "description": "Cloaks in a robe of light, increasing resistance by 15% for 5 turns. [Upon\nsuccessful stacking: Up to a maximum of 30% increase]",
         "effects": [
             {
                 "code": 31,
@@ -1736,7 +1736,7 @@
             "type": 0,
             "variance": 30
         },
-        "description": "Reckless Resolve [For 3 turns, reduce your own defense and\nresistance by 30% in exchange for increasing your attack\npower by 30%]",
+        "description": "Reckless Resolve [For 3 turns, reduce your own defense and resistance by 30% in\nexchange for increasing your attack power by 30%]",
         "effects": [
             {
                 "code": 31,
@@ -1803,7 +1803,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "High-speed consecutive strikes that don't allow the random\nenemy to catch their breath [Attack Power Dependent Damage]\n[Attribute: Physical]",
+        "description": "High-speed consecutive strikes that don't allow the random enemy to catch their\nbreath [Attack Power Dependent Damage] [Attribute: Physical]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 78,
@@ -1833,7 +1833,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Unify the spirit to increase defense by 15% for 5 turns\n[Stacking success: Up to 30% increase]",
+        "description": "Unify the spirit to increase defense by 15% for 5 turns [Stacking success: Up to\n30% increase]",
         "effects": [
             {
                 "code": 31,
@@ -1870,7 +1870,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Reduce resistance by 30% until the target's next turn.\n[Attack Power Dependent Damage] [Attribute: Physical]",
+        "description": "Reduce resistance by 30% until the target's next turn. [Attack Power Dependent\nDamage] [Attribute: Physical]",
         "effects": [
             {
                 "code": 32,
@@ -1913,7 +1913,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Blessed by the goddess, wounds heal instantly [HP 50%\nRecovery]",
+        "description": "Blessed by the goddess, wounds heal instantly [HP 50% Recovery]",
         "effects": [
             {
                 "code": 11,
@@ -1987,7 +1987,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "For 3 turns, 2 attacks are performed when selecting an\nattack.",
+        "description": "For 3 turns, 2 attacks are performed when selecting an attack.",
         "effects": [
             {
                 "code": 21,
@@ -2067,7 +2067,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Unleashes a spinning kick on all enemies [Attack Power\nDependent Damage] [Attribute: Physical]",
+        "description": "Unleashes a spinning kick on all enemies [Attack Power Dependent Damage]\n[Attribute: Physical]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 78,
@@ -2140,7 +2140,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "Create an illusion of oneself, allowing for three actions\nover the course of three turns.",
+        "description": "Create an illusion of oneself, allowing for three actions over the course of\nthree turns.",
         "effects": [
             {
                 "code": 21,
@@ -2807,7 +2807,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Vanquish the darkness with holy light, Pony Celes' ultimate\nspecial move [Holy Heart Power Dependent Damage] [Nullifies\nDark Attribute Effects] [Attribute: Holy]",
+        "description": "Vanquish the darkness with holy light, Pony Celes' ultimate special move [Holy\nHeart Power Dependent Damage] [Nullifies Dark Attribute Effects] [Attribute:\nHoly]",
         "effects": [
             {
                 "code": 22,
@@ -2844,7 +2844,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The ultimate magic that can seal the Dark Lord in exchange\nfor one's own life.",
+        "description": "The ultimate magic that can seal the Dark Lord in exchange for one's own life.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -5419,7 +5419,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mordran's special move. Takes a deep breath to gather\nstrength.",
+        "description": "Mordran's special move. Takes a deep breath to gather strength.",
         "effects": [
             {
                 "code": 22,
@@ -6507,7 +6507,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mordran's special move. Take a deep breath and gather\nstrength.",
+        "description": "Mordran's special move. Take a deep breath and gather strength.",
         "effects": [
             {
                 "code": 22,
@@ -7953,7 +7953,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Endure the young octopus's torment. [Holy power increases by\n5]",
+        "description": "Endure the young octopus's torment. [Holy power increases by 5]",
         "effects": [
             {
                 "code": 13,

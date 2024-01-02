@@ -11,7 +11,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "It's the best when drunk after a bath [Restores 20\nSP][Cannot be used during battle]",
+        "description": "It's the best when drunk after a bath [Restores 20 SP][Cannot be used during\nbattle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 237,
@@ -37,7 +37,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "A refreshing apple juice with a pleasant aftertaste\n[Restores 30 SP] [Cannot be used during battle]",
+        "description": "A refreshing apple juice with a pleasant aftertaste [Restores 30 SP] [Cannot be\nused during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 230,
@@ -63,7 +63,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "A perfect balance of refreshing tartness and rich sweetness\n[Restores 50 SP][Cannot be used during battle]",
+        "description": "A perfect balance of refreshing tartness and rich sweetness [Restores 50\nSP][Cannot be used during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 232,
@@ -89,7 +89,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Grape juice made from sweet grapes and pure water [Restores\n100 SP] [Cannot be used during battle]",
+        "description": "Grape juice made from sweet grapes and pure water [Restores 100 SP] [Cannot be\nused during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 231,
@@ -115,7 +115,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "A sour and sweet, lightly carbonated drink [Restores 15 SP]\n[Cannot be used during battle]",
+        "description": "A sour and sweet, lightly carbonated drink [Restores 15 SP] [Cannot be used\nduring battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 296,
@@ -141,7 +141,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "The legendary citrus soda makes a limited-time comeback\n[Restores 200 SP] [Cannot be used during battle]",
+        "description": "The legendary citrus soda makes a limited-time comeback [Restores 200 SP]\n[Cannot be used during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 296,
@@ -167,7 +167,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Refreshingly fizzy, a strong carbonated juice [Restores 300\nSP] [Cannot be used during battle]",
+        "description": "Refreshingly fizzy, a strong carbonated juice [Restores 300 SP] [Cannot be used\nduring battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 295,
@@ -193,7 +193,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Unwavering popularity, the king of carbonated drinks\n[Restores 400 SP] [Cannot be used during battle]",
+        "description": "Unwavering popularity, the king of carbonated drinks [Restores 400 SP] [Cannot\nbe used during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 295,
@@ -219,7 +219,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "Otani Pharmaceuticals' hugely popular drink [Restores 40%\nSP] [Cannot be used during battle]",
+        "description": "Otani Pharmaceuticals' hugely popular drink [Restores 40% SP] [Cannot be used\nduring battle]",
         "effects": [
             {
                 "code": 12,
@@ -252,7 +252,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "An energy drink that boosts your motivation [Restores 60%\nSP][Cannot be used during battle]",
+        "description": "An energy drink that boosts your motivation [Restores 60% SP][Cannot be used\nduring battle]",
         "effects": [
             {
                 "code": 12,
@@ -285,7 +285,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "Replenishes enough energy to blow away the fatigue of the\nday [Recovers 80% SP] [Cannot be used during battle]",
+        "description": "Replenishes enough energy to blow away the fatigue of the day [Recovers 80% SP]\n[Cannot be used during battle]",
         "effects": [
             {
                 "code": 12,
@@ -318,7 +318,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "A globally loved energy drink [Restores 100% SP] [Cannot be\nused during combat]",
+        "description": "A globally loved energy drink [Restores 100% SP] [Cannot be used during combat]",
         "effects": [
             {
                 "code": 12,
@@ -533,7 +533,7 @@
             "type": 0,
             "variance": 7
         },
-        "description": "Recover from the darkness state [Can only be used during\nbattle]",
+        "description": "Recover from the darkness state [Can only be used during battle]",
         "effects": [
             {
                 "code": 22,
@@ -566,7 +566,7 @@
             "type": 0,
             "variance": 7
         },
-        "description": "Recover from poison status [Deadly poison status cannot be\ncured] [Can only be used during battle]",
+        "description": "Recover from poison status [Deadly poison status cannot be cured] [Can only be\nused during battle]",
         "effects": [
             {
                 "code": 22,
@@ -658,7 +658,7 @@
             "type": 0,
             "variance": 7
         },
-        "description": "It seems to be a drug that gets you high, but apparently\nthere are side effects... [Can only be used during battle]",
+        "description": "It seems to be a drug that gets you high, but apparently there are side\neffects... [Can only be used during battle]",
         "effects": [
             {
                 "code": 31,
@@ -755,7 +755,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Reading this increases lewdness [Cannot be used during\nbattle]",
+        "description": "Reading this increases lewdness [Cannot be used during battle]",
         "effects": [
             {
                 "code": 42,
@@ -794,7 +794,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Reading this increases maximum HP [Cannot be used during\nbattle]",
+        "description": "Reading this increases maximum HP [Cannot be used during battle]",
         "effects": [
             {
                 "code": 42,
@@ -833,7 +833,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Reading this increases maximum SP [Cannot be used during\nbattle]",
+        "description": "Reading this increases maximum SP [Cannot be used during battle]",
         "effects": [
             {
                 "code": 42,
@@ -872,7 +872,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Reading it increases your attack power [Cannot be used\nduring battle]",
+        "description": "Reading it increases your attack power [Cannot be used during battle]",
         "effects": [
             {
                 "code": 42,
@@ -911,7 +911,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Reading it increases defense power [Cannot be used during\nbattle]",
+        "description": "Reading it increases defense power [Cannot be used during battle]",
         "effects": [
             {
                 "code": 42,
@@ -989,7 +989,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Reading this increases Sacred Heart power [Cannot be used\nduring battle]",
+        "description": "Reading this increases Sacred Heart power [Cannot be used during battle]",
         "effects": [
             {
                 "code": 42,
@@ -1028,7 +1028,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "Resistance increases by reading [Cannot be used during\ncombat]",
+        "description": "Resistance increases by reading [Cannot be used during combat]",
         "effects": [
             {
                 "code": 42,
@@ -1119,7 +1119,7 @@
             "type": 0,
             "variance": 4
         },
-        "description": "Safe and secure contraception If you're doing it with\nsomeone you love...",
+        "description": "Safe and secure contraception If you're doing it with someone you love...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 256,
@@ -1171,7 +1171,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Popular with kids, cherry flavor [Restores 200 HP] [Cannot\nbe used during battle]",
+        "description": "Popular with kids, cherry flavor [Restores 200 HP] [Cannot be used during\nbattle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 138,
@@ -1197,7 +1197,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Fluffy texture is the best [Heals 500 HP] [Cannot be used\nduring battle]",
+        "description": "Fluffy texture is the best [Heals 500 HP] [Cannot be used during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 98,
@@ -1223,7 +1223,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Crunchy with a milk flavor [Restores 800 HP] [Cannot be used\nduring battle]",
+        "description": "Crunchy with a milk flavor [Restores 800 HP] [Cannot be used during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 101,
@@ -1249,7 +1249,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Fluffy Cotton Candy [Restores 1200 HP] [Cannot be used\nduring battle]",
+        "description": "Fluffy Cotton Candy [Restores 1200 HP] [Cannot be used during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 148,
@@ -1275,7 +1275,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "A sweet bun filled to the brim with red bean paste [Restores\n1800 HP] [Cannot be used during battle]",
+        "description": "A sweet bun filled to the brim with red bean paste [Restores 1800 HP] [Cannot be\nused during battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 159,
@@ -1301,7 +1301,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A cake made with plenty of cream cheese [Restores 40% HP]\n[Cannot be used during battle]",
+        "description": "A cake made with plenty of cream cheese [Restores 40% HP] [Cannot be used during\nbattle]",
         "effects": [
             {
                 "code": 11,
@@ -1334,7 +1334,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A hugely popular roll cake filled with fresh cream and\nstrawberries [Restores 60% HP] [Cannot be used during\nbattle]",
+        "description": "A hugely popular roll cake filled with fresh cream and strawberries [Restores\n60% HP] [Cannot be used during battle]",
         "effects": [
             {
                 "code": 11,
@@ -1367,7 +1367,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A habit-forming Italian dessert with a bitter taste.\n[Restores 80% HP] [Cannot be used during battle]",
+        "description": "A habit-forming Italian dessert with a bitter taste. [Restores 80% HP] [Cannot\nbe used during battle]",
         "effects": [
             {
                 "code": 11,
@@ -1400,7 +1400,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The light and fluffy texture, like a thin cloth woven from\nsilk, is irresistible. [Restores 100% HP] [Cannot be used\nduring battle]",
+        "description": "The light and fluffy texture, like a thin cloth woven from silk, is\nirresistible. [Restores 100% HP] [Cannot be used during battle]",
         "effects": [
             {
                 "code": 11,
@@ -2473,7 +2473,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A parcel filled with naughty items Could it be that using it\nwill yield naughty items?",
+        "description": "A parcel filled with naughty items Could it be that using it will yield naughty\nitems?",
         "effects": [
             {
                 "code": 44,
@@ -2506,7 +2506,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It seems to be the legendary mirror that sealed the ancient\nmonster, the great octopus of the Hakkai.",
+        "description": "It seems to be the legendary mirror that sealed the ancient monster, the great\noctopus of the Hakkai.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
@@ -2532,7 +2532,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Key to the combatant quarters in the south of the Grudas\ndistrict",
+        "description": "Key to the combatant quarters in the south of the Grudas district",
         "effects": [],
         "hitType": 0,
         "iconIndex": 291,
@@ -2558,7 +2558,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Key to the combatant quarters in the north of the Grudas\ndistrict",
+        "description": "Key to the combatant quarters in the north of the Grudas district",
         "effects": [],
         "hitType": 0,
         "iconIndex": 291,
@@ -2636,7 +2636,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Emergency escape key for the Saionji Pharmaceutical\nunderground facility Created for combatants serving Domudra\nto use in case of emergencies.",
+        "description": "Emergency escape key for the Saionji Pharmaceutical underground facility Created\nfor combatants serving Domudra to use in case of emergencies.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 291,
@@ -2714,7 +2714,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A key with the Earth drawn on the head [Can open a blue\ndoor]",
+        "description": "A key with the Earth drawn on the head [Can open a blue door]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 291,
@@ -2792,7 +2792,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "Croquettes likely cooked by Eetdarg They're emitting a\nstrange odor and are definitely inedible.",
+        "description": "Croquettes likely cooked by Eetdarg They're emitting a strange odor and are\ndefinitely inedible.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 121,
@@ -2870,7 +2870,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Small but surprisingly heavy coins. Collecting them might\nbring something good.",
+        "description": "Small but surprisingly heavy coins. Collecting them might bring something good.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
@@ -2922,7 +2922,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fearsome medicine that lowers your level with a single sip\n[Cannot be used during battle and is not consumed]",
+        "description": "A fearsome medicine that lowers your level with a single sip [Cannot be used\nduring battle and is not consumed]",
         "effects": [
             {
                 "code": 44,
@@ -2955,7 +2955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Miracle water that maxes out holy power [Can only be used\nduring battle]",
+        "description": "Miracle water that maxes out holy power [Can only be used during battle]",
         "effects": [
             {
                 "code": 13,
@@ -2988,7 +2988,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deadly poison. Use results in instant death... [Can only be\nused during battle, does not deplete]",
+        "description": "Deadly poison. Use results in instant death... [Can only be used during battle,\ndoes not deplete]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 295,
@@ -3014,7 +3014,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A tome written about despair, reading it makes the enemy\nmuch stronger [Can only be used during battle, not consumed]",
+        "description": "A tome written about despair, reading it makes the enemy much stronger [Can only\nbe used during battle, not consumed]",
         "effects": [
             {
                 "code": 31,
@@ -3089,7 +3089,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A book written about being cornered from all sides. Reading\nit drains one's physical strength. [Can only be used during\nbattle and is not consumed]",
+        "description": "A book written about being cornered from all sides. Reading it drains one's\nphysical strength. [Can only be used during battle and is not consumed]",
         "effects": [
             {
                 "code": 32,
@@ -3176,7 +3176,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Poison Potion - Suffer enough to reduce health by half [Can\nonly be used in battle, not consumed]",
+        "description": "Poison Potion - Suffer enough to reduce health by half [Can only be used in\nbattle, not consumed]",
         "effects": [
             {
                 "code": 11,
@@ -3209,7 +3209,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Laxative medicine, suffer until your stamina is reduced to\n3/4. [Can only be used during battle, not consumed]",
+        "description": "Laxative medicine, suffer until your stamina is reduced to 3/4. [Can only be\nused during battle, not consumed]",
         "effects": [
             {
                 "code": 11,
@@ -3301,7 +3301,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The master key to the Sky High apartment in the pleasure\ndistrict.",
+        "description": "The master key to the Sky High apartment in the pleasure district.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 291,
@@ -3561,7 +3561,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Entry permit to the Bunny Girl Cabaret in the pleasure\ndistrict Proof of recognition as a staff member of Agarth.",
+        "description": "Entry permit to the Bunny Girl Cabaret in the pleasure district Proof of\nrecognition as a staff member of Agarth.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 297,
@@ -3613,7 +3613,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a niche erotic magazine specializing in POV photos. It\nwas popular, but it seems to have been discontinued after\nthis issue for some reason.",
+        "description": "It's a niche erotic magazine specializing in POV photos. It was popular, but it\nseems to have been discontinued after this issue for some reason.",
         "effects": [
             {
                 "code": 44,
@@ -3646,7 +3646,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A photo that perfectly captures under Yui's skirt. It looks\nlike a picture taken with a Polaroid camera.",
+        "description": "A photo that perfectly captures under Yui's skirt. It looks like a picture taken\nwith a Polaroid camera.",
         "effects": [
             {
                 "code": 44,
@@ -3679,7 +3679,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A high-end brand bag Inside, there's a women's long wallet\nand a makeup pouch.",
+        "description": "A high-end brand bag Inside, there's a women's long wallet and a makeup pouch.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 290,
@@ -3705,7 +3705,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Can illuminate the area ahead in the dark [Manually\nswitchable ON/OFF]",
+        "description": "Can illuminate the area ahead in the dark [Manually switchable ON/OFF]",
         "effects": [
             {
                 "code": 44,
@@ -3816,7 +3816,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A photo that perfectly captures Yui's panties. It seems like\na photo that was printed out from a PC.",
+        "description": "A photo that perfectly captures Yui's panties. It seems like a photo that was\nprinted out from a PC.",
         "effects": [
             {
                 "code": 44,
@@ -3875,7 +3875,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The card key for the Combatant Headquarters Announcement\nRoom. Can it be used to issue an emergency deployment\nannouncement to all combatants?",
+        "description": "The card key for the Combatant Headquarters Announcement Room. Can it be used to\nissue an emergency deployment announcement to all combatants?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 297,
@@ -3901,7 +3901,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A super tiny video camera about 1 centimeter in size [Item\nfor sale only] As long as you have a receiving antenna, you\ncan transmit video and audio in real time.",
+        "description": "A super tiny video camera about 1 centimeter in size [Item for sale only] As\nlong as you have a receiving antenna, you can transmit video and audio in real\ntime.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 170,
@@ -3960,7 +3960,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A photo that perfectly captures under Yui's skirt. It seems\nlike a photo that was printed out from a PC.",
+        "description": "A photo that perfectly captures under Yui's skirt. It seems like a photo that\nwas printed out from a PC.",
         "effects": [
             {
                 "code": 44,
@@ -4071,7 +4071,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A high-quality lotion that has received a seal of approval\nat enthusiast conventions. It actually has some surprising\nuses...",
+        "description": "A high-quality lotion that has received a seal of approval at enthusiast\nconventions. It actually has some surprising uses...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 240,
@@ -4123,7 +4123,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The bloomers of a female student from Shoto Academy. They\nhaven't been washed for several days, so the smell of sweat\nand stains is intense.",
+        "description": "The bloomers of a female student from Shoto Academy. They haven't been washed\nfor several days, so the smell of sweat and stains is intense.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 240,
@@ -4741,7 +4741,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The moment of changing clothes was vividly etched into\n\\n[6]'s memory.",
+        "description": "The moment of changing clothes was vividly etched into \\n[6]'s memory.",
         "effects": [
             {
                 "code": 44,
@@ -4807,7 +4807,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories of eating croquettes from the meat shop with \\n[6],\njust the two of us.",
+        "description": "Memories of eating croquettes from the meat shop with \\n[6], just the two of us.",
         "effects": [
             {
                 "code": 44,
@@ -4840,7 +4840,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The memory of when I bragged to \\n[6] about my newly bought\nswimsuit.",
+        "description": "The memory of when I bragged to \\n[6] about my newly bought swimsuit.",
         "effects": [
             {
                 "code": 44,
@@ -5173,7 +5173,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lipstick-shaped tear gas spray. One spray can repel a\nmolester with its tear gas effect.",
+        "description": "A lipstick-shaped tear gas spray. One spray can repel a molester with its tear\ngas effect.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 224,
@@ -5329,7 +5329,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rotor to be clamped on the nipples An [H item] that\nbecomes addictive with just the right amount of nipple\nstimulation.",
+        "description": "A rotor to be clamped on the nipples An [H item] that becomes addictive with\njust the right amount of nipple stimulation.",
         "effects": [
             {
                 "code": 44,
@@ -5362,7 +5362,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A hand-held vibrator that is pressed against the genitals,\nan excellent item that can be used for 20 hours with just\none small battery [H-item].",
+        "description": "A hand-held vibrator that is pressed against the genitals, an excellent item\nthat can be used for 20 hours with just one small battery [H-item].",
         "effects": [
             {
                 "code": 44,
@@ -5395,7 +5395,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An anal stick perfected through numerous improvements for\nanal fetishists, with a bumpy section made of a special\nmaterial [H-item].",
+        "description": "An anal stick perfected through numerous improvements for anal fetishists, with\na bumpy section made of a special material [H-item].",
         "effects": [
             {
                 "code": 44,
@@ -5506,7 +5506,7 @@
             "type": 0,
             "variance": 15
         },
-        "description": "A drug that can suppress sexual desire, capable of reducing\nthe lewdness level to the minimum [Cannot be used during\nbattle]",
+        "description": "A drug that can suppress sexual desire, capable of reducing the lewdness level\nto the minimum [Cannot be used during battle]",
         "effects": [
             {
                 "code": 44,
@@ -5962,7 +5962,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rare ore that can sometimes be obtained from Elementals\n[Maximum possession: 1] [Information exchange material]",
+        "description": "A rare ore that can sometimes be obtained from Elementals [Maximum possession:\n1] [Information exchange material]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 272,
@@ -6014,7 +6014,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A claw that can sometimes be obtained from the Followbone\n[Maximum possession: 1] [Material for information exchange]",
+        "description": "A claw that can sometimes be obtained from the Followbone [Maximum possession:\n1] [Material for information exchange]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 272,
@@ -6040,7 +6040,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rare eye that can sometimes be obtained from Geronde\n[Maximum possession of 1] [Information exchange material]",
+        "description": "A rare eye that can sometimes be obtained from Geronde [Maximum possession of 1]\n[Information exchange material]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 272,
@@ -6066,7 +6066,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A chain that can rarely be obtained from Assan [Maximum\npossession of 1] [Material for information exchange]",
+        "description": "A chain that can rarely be obtained from Assan [Maximum possession of 1]\n[Material for information exchange]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 272,
@@ -6092,7 +6092,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A core that is rarely obtained from Grudon [Maximum of 1 can\nbe held] [Material for information exchange]",
+        "description": "A core that is rarely obtained from Grudon [Maximum of 1 can be held] [Material\nfor information exchange]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 272,
@@ -6118,7 +6118,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fang that can be rarely obtained from Gohrai [Maximum\npossession limit: 1] [Material for information exchange]",
+        "description": "A fang that can be rarely obtained from Gohrai [Maximum possession limit: 1]\n[Material for information exchange]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 272,

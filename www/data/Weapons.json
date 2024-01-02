@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 8,
-        "description": "A beautiful, translucent red-pink [Attack Power +13]\n[Attribute: Flame]",
+        "description": "A beautiful, translucent red-pink [Attack Power +13] [Attribute:\nFlame]",
         "etypeId": 1,
         "traits": [
             {
@@ -107,7 +107,7 @@
     {
         "id": 4,
         "animationId": 6,
-        "description": "Bright olive green is the charm [Attack Power +17] [Speed\n+3] [Attribute: Wind]",
+        "description": "Bright olive green is the charm [Attack Power +17] [Speed +3]\n[Attribute: Wind]",
         "etypeId": 1,
         "traits": [
             {
@@ -140,7 +140,7 @@
     {
         "id": 5,
         "animationId": 10,
-        "description": "Ancient Nature's Artistic Amber Hue [Attack Power +25] [Max\nHP +5%] [Attribute: Thunder]",
+        "description": "Ancient Nature's Artistic Amber Hue [Attack Power +25] [Max HP +5%]\n[Attribute: Thunder]",
         "etypeId": 1,
         "traits": [
             {
@@ -178,7 +178,7 @@
     {
         "id": 6,
         "animationId": 6,
-        "description": "The deep violet color soothes the heart [Attack Power +25]\n[Max HP +7%]",
+        "description": "The deep violet color soothes the heart [Attack Power +25] [Max HP\n+7%]",
         "etypeId": 1,
         "traits": [
             {
@@ -216,7 +216,7 @@
     {
         "id": 7,
         "animationId": 8,
-        "description": "Blazing red, a mark of passion and zeal [Attack Power +30]\n[Defense Power +2] [Max HP +7%] [Attribute: Flame]",
+        "description": "Blazing red, a mark of passion and zeal [Attack Power +30] [Defense\nPower +2] [Max HP +7%] [Attribute: Flame]",
         "etypeId": 1,
         "traits": [
             {
@@ -254,7 +254,7 @@
     {
         "id": 8,
         "animationId": 6,
-        "description": "The Jewel of the Caribbean Sea with a beautiful ocean\npattern [Attack Power +40] [Defense Power +3] [Max HP +8%]",
+        "description": "The Jewel of the Caribbean Sea with a beautiful ocean pattern [Attack\nPower +40] [Defense Power +3] [Max HP +8%]",
         "etypeId": 1,
         "traits": [
             {
@@ -292,7 +292,7 @@
     {
         "id": 9,
         "animationId": 9,
-        "description": "Named after the moon goddess [Attack Power +42] [Holy Heart\nPower +3] [Max HP +8%] [Attribute: Wind]",
+        "description": "Named after the moon goddess [Attack Power +42] [Holy Heart Power +3]\n[Max HP +8%] [Attribute: Wind]",
         "etypeId": 1,
         "traits": [
             {
@@ -330,7 +330,7 @@
     {
         "id": 10,
         "animationId": 6,
-        "description": "A rare gemstone bearing the name of a shaman [Attack Power\n+55] [Defense Power +5] [Max HP +10%]",
+        "description": "A rare gemstone bearing the name of a shaman [Attack Power +55]\n[Defense Power +5] [Max HP +10%]",
         "etypeId": 1,
         "traits": [
             {
@@ -368,7 +368,7 @@
     {
         "id": 11,
         "animationId": 10,
-        "description": "Emits a fierce light like the eyes of a tiger [Attack Power\n+58] [Holy Heart Power +5] [Max HP +10%] [Attribute:\nThunder]",
+        "description": "Emits a fierce light like the eyes of a tiger [Attack Power +58] [Holy\nHeart Power +5] [Max HP +10%] [Attribute: Thunder]",
         "etypeId": 1,
         "traits": [
             {
@@ -406,7 +406,7 @@
     {
         "id": 12,
         "animationId": 6,
-        "description": "The sacred stone that brings happiness [Attack Power +70]\n[Defense Power +8] [Max HP +10%]",
+        "description": "The sacred stone that brings happiness [Attack Power +70] [Defense\nPower +8] [Max HP +10%]",
         "etypeId": 1,
         "traits": [
             {
@@ -444,7 +444,7 @@
     {
         "id": 13,
         "animationId": 6,
-        "description": "Emitting a beautiful glow like the aurora [Attack Power +75]\n[Holy Heart Power +8] [Max HP +12%]",
+        "description": "Emitting a beautiful glow like the aurora [Attack Power +75] [Holy\nHeart Power +8] [Max HP +12%]",
         "etypeId": 1,
         "traits": [
             {
@@ -482,7 +482,7 @@
     {
         "id": 14,
         "animationId": 6,
-        "description": "It is said that the light brings true love [Attack Power\n+88] [Defense Power +10] [Max HP +12%]",
+        "description": "It is said that the light brings true love [Attack Power +88] [Defense\nPower +10] [Max HP +12%]",
         "etypeId": 1,
         "traits": [
             {
@@ -520,7 +520,7 @@
     {
         "id": 15,
         "animationId": 8,
-        "description": "Opal emitting a sharp light like the eyes of a dragon\n[Attack Power +90] [Holy Heart Power +10] [Max HP +15%]\n[Attribute: Flame]",
+        "description": "Opal emitting a sharp light like the eyes of a dragon [Attack Power\n+90] [Holy Heart Power +10] [Max HP +15%] [Attribute: Flame]",
         "etypeId": 1,
         "traits": [
             {
@@ -558,7 +558,7 @@
     {
         "id": 16,
         "animationId": 6,
-        "description": "Meteorite's Green Color [Attack Power +100] [Defense Power\n+13] [Max HP +15%]",
+        "description": "Meteorite's Green Color [Attack Power +100] [Defense Power +13] [Max\nHP +15%]",
         "etypeId": 1,
         "traits": [
             {
@@ -596,7 +596,7 @@
     {
         "id": 17,
         "animationId": 9,
-        "description": "A shining gem endowed with both intelligence and charisma\n[Attack Power +108] [Holy Heart Power +13] [Max HP +17%]\n[Attribute: Wind]",
+        "description": "A shining gem endowed with both intelligence and charisma [Attack\nPower +108] [Holy Heart Power +13] [Max HP +17%] [Attribute: Wind]",
         "etypeId": 1,
         "traits": [
             {
@@ -634,7 +634,7 @@
     {
         "id": 18,
         "animationId": 6,
-        "description": "A clear crystal that seems to see through everything [Attack\nPower +122] [Defense Power +15] [Max HP +18%]",
+        "description": "A clear crystal that seems to see through everything [Attack Power\n+122] [Defense Power +15] [Max HP +18%]",
         "etypeId": 1,
         "traits": [
             {
@@ -672,7 +672,7 @@
     {
         "id": 19,
         "animationId": 10,
-        "description": "One of the four great jewels said to be loved by Cleopatra\n[Attack Power +125] [Holy Heart Power +15] [Max HP +20%]\n[Attribute: Lightning]",
+        "description": "One of the four great jewels said to be loved by Cleopatra [Attack\nPower +125] [Holy Heart Power +15] [Max HP +20%] [Attribute:\nLightning]",
         "etypeId": 1,
         "traits": [
             {
@@ -710,7 +710,7 @@
     {
         "id": 20,
         "animationId": 6,
-        "description": "A crimson gem with a hardness second only to diamond [Attack\nPower +140] [Defense Power +18] [Max HP +22%] [Attribute:\nFlame]",
+        "description": "A crimson gem with a hardness second only to diamond [Attack Power\n+140] [Defense Power +18] [Max HP +22%] [Attribute: Flame]",
         "etypeId": 1,
         "traits": [
             {
@@ -748,7 +748,7 @@
     {
         "id": 21,
         "animationId": 6,
-        "description": "That light is a unique and unparalleled brilliance, it is\nimmortal and endures through eternity. [Attack Power +150]\n[Holy Heart Power +18] [Maximum HP +25%]",
+        "description": "That light is a unique and unparalleled brilliance, it is immortal and\nendures through eternity. [Attack Power +150] [Holy Heart Power +18]\n[Maximum HP +25%]",
         "etypeId": 1,
         "traits": [
             {
@@ -819,7 +819,7 @@
     {
         "id": 23,
         "animationId": 6,
-        "description": "A rare power stone that came from space [Attack Power +180]\n[Defense Power +15] [Holy Heart Power +15] [Max HP +25%]",
+        "description": "A rare power stone that came from space [Attack Power +180] [Defense\nPower +15] [Holy Heart Power +15] [Max HP +25%]",
         "etypeId": 1,
         "traits": [
             {
