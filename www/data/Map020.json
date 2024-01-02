@@ -15727,7 +15727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ: \"What should I do? What should I do?\""
+                                "Saki: \"What should I do? What should I do?\""
                             ]
                         },
                         {
@@ -15744,7 +15744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ: \"I came to shop but it seems like I've dropped my \\C[17]bag\\c[0]\nsomewhere. My wallet was inside it too...\""
+                                "Saki: \"I came to shop but it seems like I've dropped my \\C[17]bag\\c[0]\nsomewhere. My wallet was inside it too...\""
                             ]
                         },
                         {
@@ -15761,7 +15761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキ: \"Where could I have dropped it? If I can't buy dinner, my kids\nwill starve to death.\""
+                                "Saki: \"Where could I have dropped it? If I can't buy dinner, my kids\nwill starve to death.\""
                             ]
                         },
                         {

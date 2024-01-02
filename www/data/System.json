@@ -94,7 +94,7 @@
         "startX": 0,
         "startY": 0
     },
-    "currencyUnit": "¥",
+    "currencyUnit": " Yen",
     "defeatMe": {
         "name": "Defeat2",
         "pan": 0,
@@ -1421,7 +1421,7 @@
             "magicEvasion": "%1 dispelled the magic!",
             "magicReflection": "%1 reflected the magic!",
             "meVolume": "ME Volume",
-            "obtainExp": "Gained %2 of %1!",
+            "obtainExp": "Gained %1 %2!",
             "obtainGold": "Gained %1\\G!",
             "obtainItem": "Obtained %1!",
             "obtainSkill": "Learned %1!",
