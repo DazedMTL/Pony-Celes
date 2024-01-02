@@ -42633,7 +42633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17Move the trash to the designated area."
+                                "\\C[17]Move the trash to the designated area."
                             ]
                         },
                         {
