@@ -164,7 +164,7 @@ var $plugins = [
       "■ タイトル/メニュー": "",
       "Use Title": "ON",
       "Use Menu": "ON",
-      "Menu Text": "実績",
+      "Menu Text": "Achievements",
       "■ 実績画面": "",
       "List Hidden Title": "？？？？？",
       "List Hidden Description": "(未獲得)",
@@ -776,7 +776,7 @@ var $plugins = [
     description: "簡易ボイスプラグイン",
     parameters: {
       フォルダ名: "voice",
-      オプション名称: "ボイス 音量",
+      オプション名称: "Voice Volume",
       オプション初期値: "60",
     },
   },
