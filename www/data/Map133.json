@@ -14040,7 +14040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celeste: \"What are you trying to do here?\""
+                                "Pony-Celes: \"What are you trying to do here?\""
                             ]
                         },
                         {
@@ -14131,7 +14131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Combatant: \"Po, Pony-Celeste!\""
+                                "Combatant: \"Po, Pony-Celes!\""
                             ]
                         },
                         {
@@ -14181,7 +14181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celeste: \"Were you planning to ambush me?\""
+                                "Pony-Celes: \"Were you planning to ambush me?\""
                             ]
                         },
                         {
@@ -14321,7 +14321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Celeste: \"This is the end!\""
+                                "Pony-Celes: \"This is the end!\""
                             ]
                         },
                         {
@@ -14338,7 +14338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Celeste: \"Teyaaaahhhhh--!!\""
+                                "Pony-Celes: \"Teyaaaahhhhh--!!\""
                             ]
                         },
                         {
@@ -14560,7 +14560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Celeste: \"An ambush, huh...\""
+                                "Pony-Celes: \"An ambush, huh...\""
                             ]
                         },
                         {
@@ -14577,7 +14577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Celeste: \"You must have known I would definitely come, so you\nwere well-prepared.\""
+                                "Pony-Celes: \"You must have known I would definitely come, so you\nwere well-prepared.\""
                             ]
                         },
                         {
@@ -14594,7 +14594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Celeste: \"Besides, the individual strength of the combatants is\nmore than I imagined.\""
+                                "Pony-Celes: \"Besides, the individual strength of the combatants is\nmore than I imagined.\""
                             ]
                         },
                         {
@@ -14611,7 +14611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Celeste: \"I can't afford to use up my strength on guys like these\nwhen the decisive battle with Galves is coming up.\""
+                                "Pony-Celes: \"I can't afford to use up my strength on guys like these\nwhen the decisive battle with Galves is coming up.\""
                             ]
                         },
                         {
@@ -17508,7 +17508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fighter: \"Regret coming here so carelessly, Pony-Ceres!\""
+                                "Fighter: \"Regret coming here so carelessly, Pony-Celes!\""
                             ]
                         },
                         {
@@ -18495,7 +18495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Ceres: \"Ugh!\""
+                                "Pony-Celes: \"Ugh!\""
                             ]
                         },
                         {
@@ -18598,7 +18598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Ceres: \"I won't lose to something like this...!\""
+                                "Pony-Celes: \"I won't lose to something like this...!\""
                             ]
                         },
                         {
@@ -18631,7 +18631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Ceres: \"I won't lose, I tell you!\""
+                                "Pony-Celes: \"I won't lose, I tell you!\""
                             ]
                         },
                         {
@@ -18849,7 +18849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Ceres: \"This is the end for you!\""
+                                "Pony-Celes: \"This is the end for you!\""
                             ]
                         },
                         {
@@ -18866,7 +18866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Ceres: \"Take this--ahhhhh!!\""
+                                "Pony-Celes: \"Take this--ahhhhh!!\""
                             ]
                         },
                         {
@@ -19366,7 +19366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Ceres: (An ambush...)"
+                                "Pony-Celes: (An ambush...)"
                             ]
                         },
                         {
@@ -19383,7 +19383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Ceres: (They knew I would definitely come, so they prepared\nthoroughly.)"
+                                "Pony-Celes: (They knew I would definitely come, so they prepared\nthoroughly.)"
                             ]
                         },
                         {
@@ -19400,7 +19400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Ceres: (Moreover, the individual strength of these fighters is\nbeyond my expectations.)"
+                                "Pony-Celes: (Moreover, the individual strength of these fighters is\nbeyond my expectations.)"
                             ]
                         },
                         {
@@ -19417,7 +19417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony-Ceres: (And yet, I can't afford to use up my strength on guys\nlike these with the decisive battle against Galves ahead.)"
+                                "Pony-Celes: (And yet, I can't afford to use up my strength on guys\nlike these with the decisive battle against Galves ahead.)"
                             ]
                         },
                         {
