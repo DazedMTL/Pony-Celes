@@ -704,7 +704,7 @@ var $plugins = [
       Item1: "2",
       Item2title: "Location",
       Item2: "3",
-      Item3title: "Money",
+      Item3title: "¥",
       Item3: "4",
       Item4title: "",
       Item4: "0",
