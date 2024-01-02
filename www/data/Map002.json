@@ -15421,7 +15421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]his area is designed for learning actions on the map and such."
+                                "\\c[17]This area is designed for learning actions on the map and such."
                             ]
                         },
                         {
@@ -15438,7 +15438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]t might be a good idea to familiarize yourself with the controls\nin this area before heading to your destination, Shoto Academy."
+                                "\\c[17]It might be a good idea to familiarize yourself with the controls\nin this area before heading to your destination, Shoto Academy."
                             ]
                         },
                         {

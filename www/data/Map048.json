@@ -20665,7 +20665,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]t's dangerous to enter a room with traps set. There might be a\nhidden passage somewhere..."
+                                "\\C[17]It's dangerous to enter a room with traps set. There might be a\nhidden passage somewhere..."
                             ]
                         },
                         {

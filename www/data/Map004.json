@@ -15958,7 +15958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ou can now move freely."
+                                "\\C[17]You can now move freely."
                             ]
                         },
                         {
@@ -23009,7 +23009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]he wise general Domudora has released Zybogs into the sewers of\nthe Dinos and Forus districts."
+                                "\\C[17]The wise general Domudora has released Zybogs into the sewers of\nthe Dinos and Forus districts."
                             ]
                         },
                         {
@@ -23026,7 +23026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]nlike combatants, Zybogs can revive endlessly even if defeated,\nas long as there's an area change."
+                                "\\C[17]Unlike combatants, Zybogs can revive endlessly even if defeated,\nas long as there's an area change."
                             ]
                         },
                         {
@@ -28798,7 +28798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]agic: Holy Goddess\\c[0] learned!"
+                                "\\c[17]Magic: Holy Goddess\\c[0] learned!"
                             ]
                         },
                         {
@@ -30903,7 +30903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]earned Ultimate Magic: Holy Resurrection\\c[0]!"
+                                "\\c[17]Learned Ultimate Magic: Holy Resurrection\\c[0]!"
                             ]
                         },
                         {

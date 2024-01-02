@@ -42616,7 +42616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]here may be movable obstacles on the field."
+                                "\\C[17]There may be movable obstacles on the field."
                             ]
                         },
                         {
@@ -42633,7 +42633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ove the trash to the designated area."
+                                "\\C[17Move the trash to the designated area."
                             ]
                         },
                         {
@@ -43856,7 +43856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]he area you can explore has expanded. ■ Forus District West:\nEntertainment District"
+                                "\\c[17]The area you can explore has expanded. ■ Forus District West:\nEntertainment District"
                             ]
                         },
                         {

@@ -22541,7 +22541,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]o dispel Domdora's dark defense barrier, holy power is needed.\nIf only you could use a special move that erases the effects of dark\nattributes..."
+                                "\\C[17]To dispel Domdora's dark defense barrier, holy power is needed.\nIf only you could use a special move that erases the effects of dark\nattributes..."
                             ]
                         },
                         {
@@ -27328,7 +27328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]he playable area has been expanded. ■ Grudas District"
+                                "\\c[17]The playable area has been expanded. ■ Grudas District"
                             ]
                         },
                         {
