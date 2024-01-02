@@ -9383,7 +9383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah, as expected of Saionji-san. You catch on quickly.\""
+                                "\\n[6]: \"Ah, as expected of Saionji-san. You catch on quickly.\""
                             ]
                         },
                         {
@@ -9417,7 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -9434,7 +9434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Oh, the answer for the next problem is wrong.\""
+                                "\\n[6]: \"Oh, the answer for the next problem is wrong.\""
                             ]
                         },
                         {
@@ -9451,7 +9451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Look, there's a mistake in the final multiplication.\""
+                                "\\n[6]: \"Look, there's a mistake in the final multiplication.\""
                             ]
                         },
                         {
@@ -9502,7 +9502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, that's perfect!\""
+                                "\\n[6]: \"Yeah, that's perfect!\""
                             ]
                         },
                         {
@@ -9643,7 +9643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I can't do much else, but I'm glad you're pleased.\""
+                                "\\n[6]: \"I can't do much else, but I'm glad you're pleased.\""
                             ]
                         },
                         {
@@ -9728,7 +9728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, of course.\""
+                                "\\n[6]: \"Yeah, of course.\""
                             ]
                         },
                         {
@@ -9762,7 +9762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Thanks, Saionji-san! Well, I'm off.\""
+                                "\\n[6]: \"Thanks, Saionji-san! Well, I'm off.\""
                             ]
                         },
                         {

@@ -10985,7 +10985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony Celes: \"Oh no... look at the time! Ginga is going to come over\nto my house!\""
+                                "Pony Celes: \"Oh no... look at the time! \\n[6] is going to come over\nto my house!\""
                             ]
                         },
                         {
@@ -15612,7 +15612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Oh no... look at the time! Ginga is going to come over\nto my house...\""
+                                "Pony-Celes: \"Oh no... look at the time! \\n[6] is going to come over\nto my house...\""
                             ]
                         },
                         {

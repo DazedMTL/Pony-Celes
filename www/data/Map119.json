@@ -13097,7 +13097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's been a while since I had one, the croquettes from Niku\nMasa-ya.\""
+                                "\\n[6]: \"It's been a while since I had one, the croquettes from Niku\nMasa-ya.\""
                             ]
                         },
                         {
@@ -13114,7 +13114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Thank you! They were really delicious!\""
+                                "\\n[6]: \"Thank you! They were really delicious!\""
                             ]
                         },
                         {
@@ -13191,7 +13191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I'll eat two, so Ginga, you eat six, okay?\""
+                                "Yui: \"I'll eat two, so \\n[6], you eat six, okay?\""
                             ]
                         },
                         {
@@ -13217,7 +13217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"What, you bought eight of them?\""
+                                "\\n[6]: \"What, you bought eight of them?\""
                             ]
                         },
                         {
@@ -13234,7 +13234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"They're tasty, but six is a bit much...\""
+                                "\\n[6]: \"They're tasty, but six is a bit much...\""
                             ]
                         },
                         {
@@ -13293,7 +13293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Six is seriously a bit much...\""
+                                "\\n[6]: \"Six is seriously a bit much...\""
                             ]
                         },
                         {
@@ -13875,7 +13875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Eight croquettes... with friends...\""
+                                "\\n[6]: \"Eight croquettes... with friends...\""
                             ]
                         },
                         {
@@ -13909,7 +13909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"That's our current situation.\""
+                                "\\n[6]: \"That's our current situation.\""
                             ]
                         },
                         {
@@ -14021,7 +14021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -14061,7 +14061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Come on Ginga, hurry up and eat the croquettes before they get\ncold!\""
+                                "Yui: \"Come on \\n[6], hurry up and eat the croquettes before they get\ncold!\""
                             ]
                         },
                         {
@@ -14085,7 +14085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah, sorry sorry!\""
+                                "\\n[6]: \"Ah, sorry sorry!\""
                             ]
                         },
                         {
@@ -14102,7 +14102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Alright, let's eat together!\""
+                                "\\n[6]: \"Alright, let's eat together!\""
                             ]
                         },
                         {
@@ -14153,7 +14153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If Yui and I each eat four, we'll finish them all!\""
+                                "\\n[6]: \"If Yui and I each eat four, we'll finish them all!\""
                             ]
                         },
                         {
@@ -14187,7 +14187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui needs to keep her strength up too. Here! Say 'ahhh'.\""
+                                "\\n[6]: \"Yui needs to keep her strength up too. Here! Say 'ahhh'.\""
                             ]
                         },
                         {
@@ -14221,7 +14221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Come on, come on\""
+                                "\\n[6]: \"Come on, come on\""
                             ]
                         },
                         {
@@ -14414,7 +14414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Indeed!\""
+                                "\\n[6]: \"Indeed!\""
                             ]
                         },
                         {
@@ -14431,7 +14431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"And...\""
+                                "\\n[6]: \"And...\""
                             ]
                         },
                         {
@@ -14448,7 +14448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I was thinking... how nice it would be to have dinner with Yui\nevery day...\""
+                                "\\n[6]: \"I was thinking... how nice it would be to have dinner with Yui\nevery day...\""
                             ]
                         },
                         {
@@ -14516,7 +14516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah, no... I mean, it would be nice to eat Niku Masa-ya's\ncroquettes every day... just saying...\""
+                                "\\n[6]: \"Ah, no... I mean, it would be nice to eat Niku Masa-ya's\ncroquettes every day... just saying...\""
                             ]
                         },
                         {
@@ -14584,7 +14584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah, I'll take care of the dishes today.\""
+                                "\\n[6]: \"Ah, I'll take care of the dishes today.\""
                             ]
                         },
                         {

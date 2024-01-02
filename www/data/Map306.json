@@ -14206,7 +14206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Eh, that's not it... Ginga likes Saionji-san...\""
+                                "Yui: \"Eh, that's not it... \\n[6] likes Saionji-san...\""
                             ]
                         },
                         {
@@ -14223,7 +14223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"And Saionji-san likes Ginga too...\""
+                                "Yui: \"And Saionji-san likes \\n[6] too...\""
                             ]
                         },
                         {

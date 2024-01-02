@@ -13675,7 +13675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Oh, is that you, Ginga?\""
+                                "Yui: \"Oh, is that you, \\n[6]?\""
                             ]
                         },
                         {
@@ -14156,7 +14156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'm coming in!\""
+                                "\\n[6]: \"I'm coming in!\""
                             ]
                         },
                         {
@@ -14211,7 +14211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"No worries at all. It's been a while since I've been here,\nYui's house feels nostalgic.\""
+                                "\\n[6]: \"No worries at all. It's been a while since I've been here,\nYui's house feels nostalgic.\""
                             ]
                         },
                         {
@@ -14228,7 +14228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's been since kindergarten since I last stayed over. Looking\nforward to this month!\""
+                                "\\n[6]: \"It's been since kindergarten since I last stayed over. Looking\nforward to this month!\""
                             ]
                         },
                         {
@@ -14301,7 +14301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"But why is your uniform so dirty? You're drenched in sweat\ntoo...\""
+                                "\\n[6]: \"But why is your uniform so dirty? You're drenched in sweat\ntoo...\""
                             ]
                         },
                         {
@@ -14374,7 +14374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Tripping... You're not in elementary school anymore... You\nshould go take a shower.\""
+                                "\\n[6]: \"Tripping... You're not in elementary school anymore... You\nshould go take a shower.\""
                             ]
                         },
                         {
@@ -14391,7 +14391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I made dinner while you were at your lessons, so let's eat\ntogether later.\""
+                                "\\n[6]: \"I made dinner while you were at your lessons, so let's eat\ntogether later.\""
                             ]
                         },
                         {

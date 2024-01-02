@@ -15983,7 +15983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Didn't I tell you that Ginga is coming to stay for a month\nstarting today? Weren't you listening to me?\""
+                                "Yui: \"Didn't I tell you that \\n[6] is coming to stay for a month\nstarting today? Weren't you listening to me?\""
                             ]
                         },
                         {
@@ -16237,7 +16237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Now, Polka... You're going back to the basement. Ginga is in the\nnext room.\""
+                                "Yui: \"Now, Polka... You're going back to the basement. \\n[6] is in the\nnext room.\""
                             ]
                         },
                         {
@@ -16392,7 +16392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui, what's wrong? Did something happen?\""
+                                "\\n[6]: \"Yui, what's wrong? Did something happen?\""
                             ]
                         },
                         {
@@ -16948,7 +16948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah...\""
+                                "\\n[6]: \"Ah...\""
                             ]
                         },
                         {
@@ -17005,7 +17005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Oh, I heard a loud voice...\""
+                                "\\n[6]: \"Oh, I heard a loud voice...\""
                             ]
                         },
                         {
@@ -17359,7 +17359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"So-sorry!\""
+                                "\\n[6]: \"So-sorry!\""
                             ]
                         },
                         {
@@ -17427,7 +17427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Seriously, because Polka shouted so loudly, Ginga saw me in an\nembarrassing state...\""
+                                "Yui: \"Seriously, because Polka shouted so loudly, \\n[6] saw me in an\nembarrassing state...\""
                             ]
                         },
                         {
@@ -17509,7 +17509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"So that was Ginga... He's quite a good-looking guy.\""
+                                "Polka: \"So that was \\n[6]... He's quite a good-looking guy.\""
                             ]
                         },
                         {
@@ -17606,7 +17606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Hey Polka, don't say weird things! Ginga is just a childhood\nfriend, it's not like that at all...\""
+                                "Yui: \"Hey Polka, don't say weird things! \\n[6] is just a childhood\nfriend, it's not like that at all...\""
                             ]
                         },
                         {

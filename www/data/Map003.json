@@ -15486,7 +15486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga is absent from school today due to yesterday's fatigue. Let's\nleave him be."
+                                "\\n[6] is absent from school today due to yesterday's fatigue. Let's\nleave him be."
                             ]
                         },
                         {
@@ -17033,7 +17033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Good morning... Ginga\""
+                                "Yui: \"Good morning... \\n[6]\""
                             ]
                         },
                         {
@@ -17084,7 +17084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Good morning... Yui\""
+                                "\\n[6]: \"Good morning... Yui\""
                             ]
                         },
                         {
@@ -17108,7 +17108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Did you manage to sleep well after that?\""
+                                "\\n[6]: \"Did you manage to sleep well after that?\""
                             ]
                         },
                         {
@@ -17156,7 +17156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Somehow, even though it's a usual morning, I get embarrassed\nwhen I meet you, Ginga\""
+                                "Yui: \"Somehow, even though it's a usual morning, I get embarrassed\nwhen I meet you, \\n[6]\""
                             ]
                         },
                         {
@@ -17180,7 +17180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah!\""
+                                "\\n[6]: \"Ah!\""
                             ]
                         },
                         {
@@ -17197,7 +17197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"That's exactly what I was about to say!\""
+                                "\\n[6]: \"That's exactly what I was about to say!\""
                             ]
                         },
                         {
@@ -17289,7 +17289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Well then, shall we have breakfast?\""
+                                "\\n[6]: \"Well then, shall we have breakfast?\""
                             ]
                         },
                         {
@@ -17691,7 +17691,7 @@
         },
         {
             "id": 10,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -18037,7 +18037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga! Are you awake?\""
+                                "Yui: \"\\n[6]! Are you awake?\""
                             ]
                         },
                         {

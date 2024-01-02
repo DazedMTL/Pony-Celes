@@ -13474,7 +13474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"The town is the same as always...\""
+                                "\\n[6]: \"The town is the same as always...\""
                             ]
                         },
                         {
@@ -13491,7 +13491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I wonder if Yui was able to beat him...\""
+                                "\\n[6]: \"I wonder if Yui was able to beat him...\""
                             ]
                         },
                         {
@@ -14242,7 +14242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's locked...\""
+                                "\\n[6]: \"It's locked...\""
                             ]
                         },
                         {
@@ -14259,7 +14259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Where is Yui?\""
+                                "\\n[6]: \"Where is Yui?\""
                             ]
                         },
                         {
@@ -14276,7 +14276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...Could it be the school!?\""
+                                "\\n[6]: \"...Could it be the school!?\""
                             ]
                         },
                         {
@@ -14293,7 +14293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I guess I have no choice but to go there.\""
+                                "\\n[6]: \"I guess I have no choice but to go there.\""
                             ]
                         },
                         {
@@ -14546,7 +14546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -14563,7 +14563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If I remember correctly, it was right here...\""
+                                "\\n[6]: \"If I remember correctly, it was right here...\""
                             ]
                         },
                         {

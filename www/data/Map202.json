@@ -12079,7 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's look for Ginga."
+                                "Let's look for \\n[6]."
                             ]
                         },
                         {
@@ -12145,7 +12145,7 @@
         },
         {
             "id": 2,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -13629,7 +13629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga!!\""
+                                "Yui: \"\\n[6]!!\""
                             ]
                         },
                         {
@@ -13877,7 +13877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga, Ginga! Why did this...\""
+                                "Yui: \"\\n[6], \\n[6]! Why did this...\""
                             ]
                         },
                         {
@@ -13913,7 +13913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui carried Ginga to the room and stayed by his side until dawn."
+                                "Yui carried \\n[6] to the room and stayed by his side until dawn."
                             ]
                         },
                         {
@@ -14056,7 +14056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's look for Ginga."
+                                "Let's look for \\n[6]."
                             ]
                         },
                         {

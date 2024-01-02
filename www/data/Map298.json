@@ -6429,7 +6429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'm in a hurry, so I'll have to decline.\""
+                                "\\n[6]: \"I'm in a hurry, so I'll have to decline.\""
                             ]
                         },
                         {

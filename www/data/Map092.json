@@ -32305,7 +32305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Spider-G, face me! I'll be your opponent!\""
+                                "\\n[6]: \"Spider-G, face me! I'll be your opponent!\""
                             ]
                         },
                         {
@@ -32393,7 +32393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Now's your chance, run away!\""
+                                "\\n[6]: \"Now's your chance, run away!\""
                             ]
                         },
                         {
@@ -32441,7 +32441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'll be fine, so hurry and get away!\""
+                                "\\n[6]: \"I'll be fine, so hurry and get away!\""
                             ]
                         },
                         {
@@ -33241,7 +33241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ugh, aaaaargh...\""
+                                "\\n[6]: \"Ugh, aaaaargh...\""
                             ]
                         },
                         {
@@ -33258,7 +33258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...Ah... Yui...\""
+                                "\\n[6]: \"...Ah... Yui...\""
                             ]
                         },
                         {
@@ -33440,7 +33440,7 @@
         },
         {
             "id": 35,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {

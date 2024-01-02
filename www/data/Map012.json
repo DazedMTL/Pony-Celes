@@ -15697,7 +15697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Plus, Ginga will surely be happy if I bring home croquettes from\nNikumasa-ya!\""
+                                "Yui: \"Plus, \\n[6] will surely be happy if I bring home croquettes from\nNikumasa-ya!\""
                             ]
                         },
                         {
@@ -15714,7 +15714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I'm looking forward to it. Ginga's happy face!\""
+                                "Yui: \"I'm looking forward to it. \\n[6]'s happy face!\""
                             ]
                         },
                         {

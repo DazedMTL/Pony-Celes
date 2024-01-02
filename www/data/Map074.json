@@ -24990,7 +24990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Female Student A: \"Hey-hey, did you hear? A Zydarg appeared in\nYotsugoya. And I heard that our second-year student, Ginga-kun, was\nattacked.\""
+                                "Female Student A: \"Hey-hey, did you hear? A Zydarg appeared in\nYotsugoya. And I heard that our second-year student, \\n[6]-kun, was\nattacked.\""
                             ]
                         },
                         {
@@ -25152,7 +25152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Female Student A: \"Hey-hey, did you hear? They say a Zygard appeared\nat Yotsugoya. And that our second-year Ginga-kun was attacked.\""
+                                "Female Student A: \"Hey-hey, did you hear? They say a Zygard appeared\nat Yotsugoya. And that our second-year \\n[6]-kun was attacked.\""
                             ]
                         },
                         {

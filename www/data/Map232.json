@@ -15619,7 +15619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karen: \"You're not planning to go rescue Ginga-kun, are you?\""
+                                "Karen: \"You're not planning to go rescue \\n[6]-kun, are you?\""
                             ]
                         },
                         {
@@ -15924,7 +15924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: (Why is it always Ginga who gets targeted...)"
+                                "Yui: (Why is it always \\n[6] who gets targeted...)"
                             ]
                         },
                         {
@@ -15972,7 +15972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: (Because I got Ginga involved...)"
+                                "Yui: (Because I got \\n[6] involved...)"
                             ]
                         },
                         {

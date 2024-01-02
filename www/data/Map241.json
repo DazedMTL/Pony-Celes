@@ -15148,7 +15148,7 @@
         },
         {
             "id": 2,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -16509,7 +16509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Polka, Ginga...\""
+                                "Pony-Celes: \"Polka, \\n[6]...\""
                             ]
                         },
                         {
@@ -17905,7 +17905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"But what about Ginga and Polka...\""
+                                "Pony-Celes: \"But what about \\n[6] and Polka...\""
                             ]
                         },
                         {
@@ -19864,7 +19864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"But what about Ginga and Polka...?\""
+                                "Pony-Celes: \"But what about \\n[6] and Polka...?\""
                             ]
                         },
                         {

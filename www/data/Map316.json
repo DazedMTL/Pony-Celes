@@ -15037,7 +15037,7 @@
         null,
         {
             "id": 1,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -15546,7 +15546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It can't be helped. For now, let's you and I fight Zaidar-G\ntogether.\""
+                                "\\n[6]: \"It can't be helped. For now, let's you and I fight Zaidar-G\ntogether.\""
                             ]
                         },
                         {
@@ -15596,7 +15596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga, thank you so much.\""
+                                "Yui: \"\\n[6], thank you so much.\""
                             ]
                         },
                         {
@@ -15669,7 +15669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"But when I thought of you, Ginga, strength just started flowing\nout from all over my body.\""
+                                "Yui: \"But when I thought of you, \\n[6], strength just started flowing\nout from all over my body.\""
                             ]
                         },
                         {
@@ -15719,7 +15719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"The source of the sacred power, is it love...?\""
+                                "\\n[6]: \"The source of the sacred power, is it love...?\""
                             ]
                         },
                         {
@@ -15852,7 +15852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui...\""
+                                "\\n[6]: \"Yui...\""
                             ]
                         },
                         {
@@ -15869,7 +15869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga...\""
+                                "Yui: \"\\n[6]...\""
                             ]
                         },
                         {

@@ -30069,7 +30069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Hey, Yui. Good morning!\""
+                                "\\n[6]: \"Hey, Yui. Good morning!\""
                             ]
                         },
                         {
@@ -30162,7 +30162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I mean, Ginga... you could have woken me up this morning.\""
+                                "Yui: \"I mean, \\n[6]... you could have woken me up this morning.\""
                             ]
                         },
                         {
@@ -30203,7 +30203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I knocked on the door, but when there was no response from\nyou... I thought it might be bad to just enter, especially after what\nhappened yesterday...\""
+                                "\\n[6]: \"I knocked on the door, but when there was no response from\nyou... I thought it might be bad to just enter, especially after what\nhappened yesterday...\""
                             ]
                         },
                         {
@@ -30342,7 +30342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"The teachers are having an emergency meeting.\""
+                                "\\n[6]: \"The teachers are having an emergency meeting.\""
                             ]
                         },
                         {
@@ -30359,7 +30359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"You know, it was on the news yesterday. A Zaidrag appeared in\nthe Urban district.\""
+                                "\\n[6]: \"You know, it was on the news yesterday. A Zaidrag appeared in\nthe Urban district.\""
                             ]
                         },
                         {
@@ -30376,7 +30376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"They're making an emergency evacuation plan because there's a\npossibility it could appear in our Dinos district too.\""
+                                "\\n[6]: \"They're making an emergency evacuation plan because there's a\npossibility it could appear in our Dinos district too.\""
                             ]
                         },
                         {
@@ -30393,7 +30393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"So... school was suddenly called off.\""
+                                "\\n[6]: \"So... school was suddenly called off.\""
                             ]
                         },
                         {
@@ -30471,7 +30471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Hm? Something wrong?\""
+                                "\\n[6]: \"Hm? Something wrong?\""
                             ]
                         },
                         {
@@ -31885,7 +31885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Now, now, calm down both of you...\""
+                                "\\n[6]: \"Now, now, calm down both of you...\""
                             ]
                         },
                         {
@@ -32113,7 +32113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"That's right! Just as Ginga said. What was I getting so worked\nup about...\""
+                                "Yui: \"That's right! Just as \\n[6] said. What was I getting so worked\nup about...\""
                             ]
                         },
                         {
@@ -32760,7 +32760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Enough already, both of you...\""
+                                "\\n[6]: \"Enough already, both of you...\""
                             ]
                         },
                         {
@@ -32777,7 +32777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Sheesh...\""
+                                "\\n[6]: \"Sheesh...\""
                             ]
                         },
                         {
@@ -32893,7 +32893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"That does sound fun!\""
+                                "\\n[6]: \"That does sound fun!\""
                             ]
                         },
                         {
@@ -32926,7 +32926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"...Ginga\""
+                                "Yui: \"...\\n[6]\""
                             ]
                         },
                         {
@@ -32990,7 +32990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"But sorry, I'll have to pass today. I've got plans to go eat\ncake with Yui.\""
+                                "\\n[6]: \"But sorry, I'll have to pass today. I've got plans to go eat\ncake with Yui.\""
                             ]
                         },
                         {
@@ -33070,7 +33070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Sorry... I'm going with Yui today!\""
+                                "\\n[6]: \"Sorry... I'm going with Yui today!\""
                             ]
                         },
                         {
@@ -33546,7 +33546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Just thought of it now.\""
+                                "\\n[6]: \"Just thought of it now.\""
                             ]
                         },
                         {
@@ -33611,7 +33611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, I'd have more fun eating cake with Yui.\""
+                                "\\n[6]: \"Yeah, I'd have more fun eating cake with Yui.\""
                             ]
                         },
                         {
@@ -33628,7 +33628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Look, you always eat cake so deliciously. It's soothing to\nwatch...\""
+                                "\\n[6]: \"Look, you always eat cake so deliciously. It's soothing to\nwatch...\""
                             ]
                         },
                         {
@@ -33645,7 +33645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Being with you is just fun.\""
+                                "\\n[6]: \"Being with you is just fun.\""
                             ]
                         },
                         {
@@ -33685,7 +33685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga...\""
+                                "Yui: \"\\n[6]...\""
                             ]
                         },
                         {
@@ -33709,7 +33709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"How about it? It's a bit far, but let's go eat cake at La\nForêt inside the Yotsukoya Department Store.\""
+                                "\\n[6]: \"How about it? It's a bit far, but let's go eat cake at La\nForêt inside the Yotsukoya Department Store.\""
                             ]
                         },
                         {
@@ -33893,7 +33893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Huh... Polka?\""
+                                "\\n[6]: \"Huh... Polka?\""
                             ]
                         },
                         {
@@ -33933,7 +33933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Sorry... Ginga.\""
+                                "Yui: \"Sorry... \\n[6].\""
                             ]
                         },
                         {
@@ -33991,7 +33991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I see... But since we're here, I'll buy the cake and take it\nhome. Your favorite shortcake!\""
+                                "\\n[6]: \"I see... But since we're here, I'll buy the cake and take it\nhome. Your favorite shortcake!\""
                             ]
                         },
                         {
@@ -34008,7 +34008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'll be back before dinner, so look forward to it.\""
+                                "\\n[6]: \"I'll be back before dinner, so look forward to it.\""
                             ]
                         },
                         {
@@ -34048,7 +34048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Yeah... Thanks, Ginga!\""
+                                "Yui: \"Yeah... Thanks, \\n[6]!\""
                             ]
                         },
                         {
@@ -34411,7 +34411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui (Geez! What's with Polka. Just when things were going well with\nGinga...)"
+                                "Yui (Geez! What's with Polka. Just when things were going well with\n\\n[6]...)"
                             ]
                         },
                         {
@@ -34636,7 +34636,7 @@
         },
         {
             "id": 26,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -37995,7 +37995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2nd Year Final Exam conducted on ● month ● day 1st place: Takano\nTsubame 2nd place: Amasawa Ginga 3rd place: Moritou Hikari ~ ~ ...\n80th place: Morisaki Yui 81st place: Kito Waruo 82nd place: Fukumura\nYasuo"
+                                "2nd Year Final Exam conducted on ● month ● day 1st place: Takano\nTsubame 2nd place: Amasawa \\n[6] 3rd place: Moritou Hikari ~ ~ ...\n80th place: Morisaki Yui 81st place: Kito Waruo 82nd place: Fukumura\nYasuo"
                             ]
                         },
                         {
@@ -38081,7 +38081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2nd Year Final Exam conducted on ● month ● day 1st place: Takano\nTsubame 2nd place: Amasawa Ginga 3rd place: Moritou Hikari ~ ~ ...\n80th place: Morisaki Yui 81st place: Kito Waruo 82nd place: Fukumura\nYasuo"
+                                "2nd Year Final Exam conducted on ● month ● day 1st place: Takano\nTsubame 2nd place: Amasawa \\n[6] 3rd place: Moritou Hikari ~ ~ ...\n80th place: Morisaki Yui 81st place: Kito Waruo 82nd place: Fukumura\nYasuo"
                             ]
                         },
                         {

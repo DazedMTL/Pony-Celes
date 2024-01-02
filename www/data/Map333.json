@@ -15203,7 +15203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui's late...\""
+                                "\\n[6]: \"Yui's late...\""
                             ]
                         },
                         {
@@ -15220,7 +15220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Class should be over by now...\""
+                                "\\n[6]: \"Class should be over by now...\""
                             ]
                         },
                         {
@@ -15334,7 +15334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui! You're back!\""
+                                "\\n[6]: \"Yui! You're back!\""
                             ]
                         },
                         {
@@ -15417,7 +15417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Come on in, the door's unlocked.\""
+                                "\\n[6]: \"Come on in, the door's unlocked.\""
                             ]
                         },
                         {
@@ -15738,7 +15738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Huh!? What the...?\""
+                                "\\n[6]: \"Huh!? What the...?\""
                             ]
                         },
                         {
@@ -15786,7 +15786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Combatant!? What are you doing here?\""
+                                "\\n[6]: \"Combatant!? What are you doing here?\""
                             ]
                         },
                         {
@@ -15820,7 +15820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"How do you know that!?\""
+                                "\\n[6]: \"How do you know that!?\""
                             ]
                         },
                         {
@@ -16066,7 +16066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...ugh, ah!\""
+                                "\\n[6]: \"...ugh, ah!\""
                             ]
                         },
                         {
@@ -16278,7 +16278,7 @@
         null,
         {
             "id": 6,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {

@@ -13607,7 +13607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I like Ginga. So, I'm sorry...\""
+                                "Yui: \"I like \\n[6]. So, I'm sorry...\""
                             ]
                         },
                         {
@@ -13898,7 +13898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Takumi showed her a photo of Karen and Ginga kissing."
+                                "Takumi showed her a photo of Karen and \\n[6] kissing."
                             ]
                         },
                         {
@@ -14344,8 +14344,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I still believe in Ginga!",
-                                    "I can't believe Ginga would do something like this"
+                                    "I still believe in \\n[6]!",
+                                    "I can't believe \\n[6] would do something like this"
                                 ],
                                 -1,
                                 -1,
@@ -14358,7 +14358,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "それでもGingaを信じる！"
+                                "それでも\\n[6]を信じる！"
                             ]
                         },
                         {
@@ -14446,7 +14446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"There must be some reason. I want to believe in Ginga...\""
+                                "Yui: \"There must be some reason. I want to believe in \\n[6]...\""
                             ]
                         },
                         {
@@ -14670,7 +14670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"Ginga definitely went to scout the Urban District.\""
+                                "Yui: \"\\n[6] definitely went to scout the Urban District.\""
                             ]
                         },
                         {
@@ -14762,7 +14762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"Knowing this means you must have met Ginga.\""
+                                "Yui: \"Knowing this means you must have met \\n[6].\""
                             ]
                         },
                         {
@@ -14779,7 +14779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"But Ginga would never tell you about this. It's like telling you\nI'm Pony Celes!\""
+                                "Yui: \"But \\n[6] would never tell you about this. It's like telling you\nI'm Pony Celes!\""
                             ]
                         },
                         {
@@ -14796,7 +14796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"You did something to Ginga!\""
+                                "Yui: \"You did something to \\n[6]!\""
                             ]
                         },
                         {
@@ -15440,7 +15440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"Now, tell me what you did to Ginga!\""
+                                "Yui: \"Now, tell me what you did to \\n[6]!\""
                             ]
                         },
                         {
@@ -15474,7 +15474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yui: \"Do you want things to get worse for you? Come on, get up! Where\nis Ginga?\""
+                                "Yui: \"Do you want things to get worse for you? Come on, get up! Where\nis \\n[6]?\""
                             ]
                         },
                         {
@@ -16550,7 +16550,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Gingaがこんな事するなんて"
+                                "\\n[6]がこんな事するなんて"
                             ]
                         },
                         {

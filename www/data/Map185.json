@@ -15242,7 +15242,7 @@
         null,
         {
             "id": 5,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -15533,7 +15533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"What's with the cool face saying welcome back. What are you\nplanning by dragging Ginga into this?\""
+                                "Yui: \"What's with the cool face saying welcome back. What are you\nplanning by dragging \\n[6] into this?\""
                             ]
                         },
                         {
@@ -15698,7 +15698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"That's why I asked Ginga, the one you trust the most.\""
+                                "Polka: \"That's why I asked \\n[6], the one you trust the most.\""
                             ]
                         },
                         {
@@ -15772,7 +15772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"But Ginga doesn't have the power of Pony-Celes... the sacred\npower.\""
+                                "Yui: \"But \\n[6] doesn't have the power of Pony-Celes... the sacred\npower.\""
                             ]
                         },
                         {
@@ -15887,7 +15887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Ginga is your precious person, and you are Ginga's...\nirreplaceable to each other.\""
+                                "Polka: \"\\n[6] is your precious person, and you are \\n[6]'s...\nirreplaceable to each other.\""
                             ]
                         },
                         {
@@ -16876,7 +16876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Looks like he's entered deep sleep time.\""
+                                "\\n[6]: \"Looks like he's entered deep sleep time.\""
                             ]
                         },
                         {
@@ -16991,7 +16991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If he eats a lot, he gets hit with sleepiness more than\nothers. Given the tremendous amount of food he's had recently, he\nmight not wake up for a few days.\""
+                                "\\n[6]: \"If he eats a lot, he gets hit with sleepiness more than\nothers. Given the tremendous amount of food he's had recently, he\nmight not wake up for a few days.\""
                             ]
                         },
                         {
@@ -17058,7 +17058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, seems like it.\""
+                                "\\n[6]: \"Yeah, seems like it.\""
                             ]
                         },
                         {
@@ -17117,7 +17117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"He's been incessantly begging me to cook for him...\""
+                                "\\n[6]: \"He's been incessantly begging me to cook for him...\""
                             ]
                         },
                         {
@@ -17222,7 +17222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I mean, you're telling me this because...?\""
+                                "\\n[6]: \"I mean, you're telling me this because...?\""
                             ]
                         },
                         {
@@ -17712,7 +17712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Now, now, calm down... Polka must have his reasons...\""
+                                "\\n[6]: \"Now, now, calm down... Polka must have his reasons...\""
                             ]
                         },
                         {

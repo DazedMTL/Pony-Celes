@@ -15452,7 +15452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celes: (At this rate, even Ginga...)"
+                                "Pony Celes: (At this rate, even \\n[6]...)"
                             ]
                         },
                         {
@@ -16772,7 +16772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony Celes: \"Ginga, are you ready in your heart?\""
+                                "Pony Celes: \"\\n[6], are you ready in your heart?\""
                             ]
                         },
                         {
@@ -16789,7 +16789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Of course! Together, we'll seal him away forever!\""
+                                "\\n[6]: \"Of course! Together, we'll seal him away forever!\""
                             ]
                         },
                         {
@@ -17057,7 +17057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony Celes & Ginga: \"Ultimate Magic!\""
+                                "Pony Celes & \\n[6]: \"Ultimate Magic!\""
                             ]
                         },
                         {
@@ -17158,7 +17158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony Celes & Ginga: \"Holy Resurrection!!\""
+                                "Pony Celes & \\n[6]: \"Holy Resurrection!!\""
                             ]
                         },
                         {
@@ -17737,7 +17737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga!\""
+                                "Yui: \"\\n[6]!\""
                             ]
                         },
                         {
@@ -17761,7 +17761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...uh...huh\""
+                                "\\n[6]: \"...uh...huh\""
                             ]
                         },
                         {
@@ -17794,7 +17794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Hang in there! Ginga!\""
+                                "Yui: \"Hang in there! \\n[6]!\""
                             ]
                         },
                         {
@@ -17818,7 +17818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...Yui...\""
+                                "\\n[6]: \"...Yui...\""
                             ]
                         },
                         {
@@ -17990,7 +17990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'm alive...\""
+                                "\\n[6]: \"I'm alive...\""
                             ]
                         },
                         {
@@ -18014,7 +18014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui is safe too... thank goodness! I'm really glad!\""
+                                "\\n[6]: \"Yui is safe too... thank goodness! I'm really glad!\""
                             ]
                         },
                         {
@@ -18038,7 +18038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Just like Ginga said. We both survived.\""
+                                "Yui: \"Just like \\n[6] said. We both survived.\""
                             ]
                         },
                         {
@@ -18095,7 +18095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...Dagnor?\""
+                                "\\n[6]: \"...Dagnor?\""
                             ]
                         },
                         {
@@ -18174,7 +18174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Now, at last, peace will come...\""
+                                "\\n[6]: \"Now, at last, peace will come...\""
                             ]
                         },
                         {
@@ -18198,7 +18198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's amazing. Yui, you're the hero who saved the world for\neveryone.\""
+                                "\\n[6]: \"It's amazing. Yui, you're the hero who saved the world for\neveryone.\""
                             ]
                         },
                         {
@@ -18260,7 +18260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga, look at me.\""
+                                "Yui: \"\\n[6], look at me.\""
                             ]
                         },
                         {
@@ -18308,7 +18308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...?\""
+                                "\\n[6]: \"...?\""
                             ]
                         },
                         {
@@ -18476,7 +18476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"My hero is Ginga.\""
+                                "Yui: \"My hero is \\n[6].\""
                             ]
                         },
                         {
@@ -18500,7 +18500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Because Ginga was with me, I was able to keep going without\ngiving up.\""
+                                "Yui: \"Because \\n[6] was with me, I was able to keep going without\ngiving up.\""
                             ]
                         },
                         {
@@ -18517,7 +18517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui...\""
+                                "\\n[6]: \"Yui...\""
                             ]
                         },
                         {
@@ -18674,7 +18674,7 @@
         },
         {
             "id": 6,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -19820,7 +19820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celes: (At this rate, even Ginga...)"
+                                "Pony Celes: (At this rate, even \\n[6]...)"
                             ]
                         },
                         {
@@ -21009,7 +21009,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celest: (At this rate, even Ginga...)"
+                                "Pony Celest: (At this rate, even \\n[6]...)"
                             ]
                         },
                         {
@@ -22198,7 +22198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celest: (If it continues like this, even Ginga...)"
+                                "Pony Celest: (If it continues like this, even \\n[6]...)"
                             ]
                         },
                         {
@@ -23387,7 +23387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celes: (If it continues like this, even Ginga...)"
+                                "Pony Celes: (If it continues like this, even \\n[6]...)"
                             ]
                         },
                         {
@@ -24576,7 +24576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celest: (If it continues like this, even Ginga...)"
+                                "Pony Celest: (If it continues like this, even \\n[6]...)"
                             ]
                         },
                         {
@@ -25765,7 +25765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pony Celes: (At this rate, even Ginga...)"
+                                "Pony Celes: (At this rate, even \\n[6]...)"
                             ]
                         },
                         {

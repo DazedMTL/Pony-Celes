@@ -15658,7 +15658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui!\""
+                                "\\n[6]: \"Yui!\""
                             ]
                         },
                         {
@@ -15706,7 +15706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui, hang in there.\""
+                                "\\n[6]: \"Yui, hang in there.\""
                             ]
                         },
                         {
@@ -15730,7 +15730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The voice calling me... It's Ginga's voice..."
+                                "The voice calling me... It's \\n[6]'s voice..."
                             ]
                         },
                         {
@@ -15852,7 +15852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...Yui\""
+                                "\\n[6]: \"...Yui\""
                             ]
                         },
                         {
@@ -15911,7 +15911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui!\""
+                                "\\n[6]: \"Yui!\""
                             ]
                         },
                         {
@@ -16148,7 +16148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"...Ginga, Polka...\""
+                                "Yui: \"...\\n[6], Polka...\""
                             ]
                         },
                         {
@@ -16216,7 +16216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, we were saved by Saionji-san.\""
+                                "\\n[6]: \"Yeah, we were saved by Saionji-san.\""
                             ]
                         },
                         {
@@ -16345,7 +16345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...Yui, you've done enough. You fought against Zydag all by\nyourself. Now it's time to rest and return to a normal life.\""
+                                "\\n[6]: \"...Yui, you've done enough. You fought against Zydag all by\nyourself. Now it's time to rest and return to a normal life.\""
                             ]
                         },
                         {
@@ -16579,7 +16579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Stop it! I won't let Yui go through that again--\""
+                                "\\n[6]: \"Stop it! I won't let Yui go through that again--\""
                             ]
                         },
                         {
@@ -16783,7 +16783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's a promise between me and her. That's why Polka can't\nteach the spell to Yui.\""
+                                "\\n[6]: \"It's a promise between me and her. That's why Polka can't\nteach the spell to Yui.\""
                             ]
                         },
                         {
@@ -16817,7 +16817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Ginga...\""
+                                "Polka: \"\\n[6]...\""
                             ]
                         },
                         {
@@ -16834,7 +16834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Polka, I'll tell her.\""
+                                "\\n[6]: \"Polka, I'll tell her.\""
                             ]
                         },
                         {
@@ -17161,7 +17161,7 @@
         null,
         {
             "id": 26,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {

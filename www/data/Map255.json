@@ -25669,7 +25669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Today is a date with Ginga♪ I'm so excited~!\""
+                                "Yui: \"Today is a date with \\n[6]♪ I'm so excited~!\""
                             ]
                         },
                         {
@@ -25826,7 +25826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Yui-chan, don't get too carried away! If we don't hurry, we'll\nbe late to meet up with Ginga.\""
+                                "Polka: \"Yui-chan, don't get too carried away! If we don't hurry, we'll\nbe late to meet up with \\n[6].\""
                             ]
                         },
                         {
@@ -25860,7 +25860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"You don't want to be disliked by your beloved Ginga, do you?\""
+                                "Polka: \"You don't want to be disliked by your beloved \\n[6], do you?\""
                             ]
                         },
                         {
@@ -26178,7 +26178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Then, maybe I should go too~ It's been a while since I've seen\nGinga.\""
+                                "Polka: \"Then, maybe I should go too~ It's been a while since I've seen\n\\n[6].\""
                             ]
                         },
                         {

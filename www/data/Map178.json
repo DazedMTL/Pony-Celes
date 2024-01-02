@@ -13696,7 +13696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...!! Ah, sorry, sorry! I heard Yui was on a diet, so I ate it\nall.\""
+                                "\\n[6]: \"...!! Ah, sorry, sorry! I heard Yui was on a diet, so I ate it\nall.\""
                             ]
                         },
                         {
@@ -13755,7 +13755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -13772,7 +13772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Oh, but more importantly. Looking forward to the pool\ntomorrow!\""
+                                "\\n[6]: \"Oh, but more importantly. Looking forward to the pool\ntomorrow!\""
                             ]
                         },
                         {
@@ -13906,7 +13906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's nice. That swimsuit is cute!\""
+                                "\\n[6]: \"It's nice. That swimsuit is cute!\""
                             ]
                         },
                         {
@@ -13957,7 +13957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, it definitely suits you, Yui!\""
+                                "\\n[6]: \"Yeah, it definitely suits you, Yui!\""
                             ]
                         },
                         {
@@ -14099,7 +14099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's not 'like' a date. It is a date...\""
+                                "\\n[6]: \"It's not 'like' a date. It is a date...\""
                             ]
                         },
                         {
@@ -14258,7 +14258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah!\""
+                                "\\n[6]: \"Yeah!\""
                             ]
                         },
                         {
@@ -14307,7 +14307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah, dinner! I'll go buy something from the convenience store.\nSince I emptied the fridge, today's on me.\""
+                                "\\n[6]: \"Ah, dinner! I'll go buy something from the convenience store.\nSince I emptied the fridge, today's on me.\""
                             ]
                         },
                         {
@@ -14691,7 +14691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"A pool date with Ginga, huh? I'm so happy♪\""
+                                "Yui: \"A pool date with \\n[6], huh? I'm so happy♪\""
                             ]
                         },
                         {

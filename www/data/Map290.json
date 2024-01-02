@@ -12211,7 +12211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"This image...\""
+                                "\\n[6]: \"This image...\""
                             ]
                         },
                         {
@@ -12228,7 +12228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Could it be... Yui!?\""
+                                "\\n[6]: \"Could it be... Yui!?\""
                             ]
                         },
                         {
@@ -12245,7 +12245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Besides, isn't this place Yui's living room...\""
+                                "\\n[6]: \"Besides, isn't this place Yui's living room...\""
                             ]
                         },
                         {
@@ -12262,7 +12262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Why would such an image be...\""
+                                "\\n[6]: \"Why would such an image be...\""
                             ]
                         },
                         {

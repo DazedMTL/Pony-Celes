@@ -15100,7 +15100,7 @@
         null,
         {
             "id": 5,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -15239,7 +15239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Finally, we can talk just the two of us, Ginga.\""
+                                "Polka: \"Finally, we can talk just the two of us, \\n[6].\""
                             ]
                         },
                         {
@@ -15256,7 +15256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"The doll is talking? What's this?\""
+                                "\\n[6]: \"The doll is talking? What's this?\""
                             ]
                         },
                         {
@@ -15341,7 +15341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -15375,7 +15375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...I had my doubts, but I couldn't be certain.\""
+                                "\\n[6]: \"...I had my doubts, but I couldn't be certain.\""
                             ]
                         },
                         {
@@ -15392,7 +15392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"But--\""
+                                "\\n[6]: \"But--\""
                             ]
                         },
                         {
@@ -15409,7 +15409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Why did you make Yui into Pony-Celes! To give her such a\ndangerous role...\""
+                                "\\n[6]: \"Why did you make Yui into Pony-Celes! To give her such a\ndangerous role...\""
                             ]
                         },
                         {
@@ -15460,7 +15460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Even so...\""
+                                "\\n[6]: \"Even so...\""
                             ]
                         },
                         {
@@ -15511,7 +15511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"She would definitely oppose involving you, Ginga.\""
+                                "Polka: \"She would definitely oppose involving you, \\n[6].\""
                             ]
                         },
                         {
@@ -15552,7 +15552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -15569,7 +15569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'm not convinced, but I guess I have no choice but to\nlisten...\""
+                                "\\n[6]: \"I'm not convinced, but I guess I have no choice but to\nlisten...\""
                             ]
                         },
                         {
@@ -15586,7 +15586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Thank you, Ginga. Then, I'll put it simply.\""
+                                "Polka: \"Thank you, \\n[6]. Then, I'll put it simply.\""
                             ]
                         },
                         {
@@ -15644,7 +15644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"We're supposed to fight Zaidrag, and you're going to sleep?\nThat's too convenient for you!\""
+                                "\\n[6]: \"We're supposed to fight Zaidrag, and you're going to sleep?\nThat's too convenient for you!\""
                             ]
                         },
                         {
@@ -15719,7 +15719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If that magic is completed, can we definitely seal Dargnoa?\""
+                                "\\n[6]: \"If that magic is completed, can we definitely seal Dargnoa?\""
                             ]
                         },
                         {
@@ -15753,7 +15753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Then, Polka, you will...\""
+                                "\\n[6]: \"Then, Polka, you will...\""
                             ]
                         },
                         {
@@ -15838,7 +15838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -15855,7 +15855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Understood... I'll support Yui. I'll definitely protect her.\""
+                                "\\n[6]: \"Understood... I'll support Yui. I'll definitely protect her.\""
                             ]
                         },
                         {
@@ -15872,7 +15872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"So promise me, no matter what happens, never teach her that\nmagic.\""
+                                "\\n[6]: \"So promise me, no matter what happens, never teach her that\nmagic.\""
                             ]
                         },
                         {
@@ -15889,7 +15889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"That's my condition.\""
+                                "\\n[6]: \"That's my condition.\""
                             ]
                         },
                         {
@@ -15940,7 +15940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Peace at the cost of Polka's life... Sorry. But I want Yui to\nlive. I don't want her to die.\""
+                                "\\n[6]: \"Peace at the cost of Polka's life... Sorry. But I want Yui to\nlive. I don't want her to die.\""
                             ]
                         },
                         {
@@ -15974,7 +15974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"It's about time for me to go to sleep. I'm counting on you,\nGinga.\""
+                                "Polka: \"It's about time for me to go to sleep. I'm counting on you,\n\\n[6].\""
                             ]
                         },
                         {
@@ -16008,7 +16008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Understood...\""
+                                "\\n[6]: \"Understood...\""
                             ]
                         },
                         {

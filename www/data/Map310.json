@@ -11608,7 +11608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"What's wrong?\""
+                                "\\n[6]: \"What's wrong?\""
                             ]
                         },
                         {
@@ -11690,7 +11690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"You don't say...\""
+                                "\\n[6]: \"You don't say...\""
                             ]
                         },
                         {

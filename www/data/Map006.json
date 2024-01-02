@@ -16928,7 +16928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"I'm so glad I was able to meet both Yui-chan and Ginga.\""
+                                "Polka: \"I'm so glad I was able to meet both Yui-chan and \\n[6].\""
                             ]
                         },
                         {
@@ -17596,7 +17596,7 @@
         },
         {
             "id": 9,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -17638,7 +17638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui, what about the makeup exam? If you don't hurry, you'll\nreally be held back...\""
+                                "\\n[6]: \"Yui, what about the makeup exam? If you don't hurry, you'll\nreally be held back...\""
                             ]
                         },
                         {
@@ -18338,7 +18338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga is in danger!\""
+                                "Yui: \"\\n[6] is in danger!\""
                             ]
                         },
                         {
@@ -19591,7 +19591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Is Ginga safe...\""
+                                "Yui: \"Is \\n[6] safe...\""
                             ]
                         },
                         {

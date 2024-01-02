@@ -31648,7 +31648,7 @@
         },
         {
             "id": 32,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -31920,7 +31920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yes!\""
+                                "\\n[6]: \"Yes!\""
                             ]
                         },
                         {
@@ -32104,7 +32104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes gripped Ginga's hand tightly."
+                                "Pony-Celes gripped \\n[6]'s hand tightly."
                             ]
                         },
                         {
@@ -32152,7 +32152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Of course.\""
+                                "\\n[6]: \"Of course.\""
                             ]
                         },
                         {
@@ -32240,7 +32240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Is something wrong?\""
+                                "\\n[6]: \"Is something wrong?\""
                             ]
                         },
                         {

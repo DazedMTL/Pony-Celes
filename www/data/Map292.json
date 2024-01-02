@@ -13249,7 +13249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I met Samejima here and...\""
+                                "\\n[6]: \"I met Samejima here and...\""
                             ]
                         },
                         {
@@ -13266,7 +13266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ugh, I can't remember anything more...\""
+                                "\\n[6]: \"Ugh, I can't remember anything more...\""
                             ]
                         },
                         {
@@ -13290,7 +13290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Anyway, I guess I have no choice but to go to school...\""
+                                "\\n[6]: \"Anyway, I guess I have no choice but to go to school...\""
                             ]
                         },
                         {
@@ -14563,7 +14563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's locked...\""
+                                "\\n[6]: \"It's locked...\""
                             ]
                         },
                         {
@@ -14580,7 +14580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Where is Yui?\""
+                                "\\n[6]: \"Where is Yui?\""
                             ]
                         },
                         {

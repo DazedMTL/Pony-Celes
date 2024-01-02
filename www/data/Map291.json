@@ -13283,7 +13283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I swear, Yui and I will stop Zaidar-G together!\""
+                                "\\n[6]: \"I swear, Yui and I will stop Zaidar-G together!\""
                             ]
                         },
                         {
@@ -13630,7 +13630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haruhiko: \"You're Ginga, right?\""
+                                "Haruhiko: \"You're \\n[6], right?\""
                             ]
                         },
                         {
@@ -13656,7 +13656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yes, but who are you...?\""
+                                "\\n[6]: \"Yes, but who are you...?\""
                             ]
                         },
                         {
@@ -14050,7 +14050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Eh, Samejima?\""
+                                "\\n[6]: \"Eh, Samejima?\""
                             ]
                         },
                         {

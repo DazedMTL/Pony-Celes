@@ -18401,7 +18401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celest: \"The kidnapping of Ginga was your doing, wasn't it!\""
+                                "Pony-Celest: \"The kidnapping of \\n[6] was your doing, wasn't it!\""
                             ]
                         },
                         {
@@ -18442,7 +18442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Strategist Domdora: \"Ginga... Who is that? I don't know them.\""
+                                "Strategist Domdora: \"\\n[6]... Who is that? I don't know them.\""
                             ]
                         },
                         {
@@ -18562,7 +18562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celest: \"I'll defeat you and rescue Ginga!\""
+                                "Pony-Celest: \"I'll defeat you and rescue \\n[6]!\""
                             ]
                         },
                         {

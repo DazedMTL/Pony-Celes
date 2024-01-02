@@ -13312,7 +13312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga's cooking was really delicious.\""
+                                "Yui: \"\\n[6]'s cooking was really delicious.\""
                             ]
                         },
                         {
@@ -13387,7 +13387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Eh, Yui's cooking...\""
+                                "\\n[6]: \"Eh, Yui's cooking...\""
                             ]
                         },
                         {
@@ -13462,7 +13462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"No, it's nothing...\" (But I've had it before, and it was a\ndisaster...)"
+                                "\\n[6]: \"No, it's nothing...\" (But I've had it before, and it was a\ndisaster...)"
                             ]
                         },
                         {
@@ -13799,7 +13799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Zaidarg...\""
+                                "\\n[6]: \"Zaidarg...\""
                             ]
                         },
                         {
@@ -13816,7 +13816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"So it appeared in the Urban District today. We never know when\nit might show up in our district, so be careful on your way home from\nschool, Yui.\""
+                                "\\n[6]: \"So it appeared in the Urban District today. We never know when\nit might show up in our district, so be careful on your way home from\nschool, Yui.\""
                             ]
                         },
                         {
@@ -13976,7 +13976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"What are you saying? This is an opponent not even the police\ncan handle. You absolutely must not get close!\""
+                                "\\n[6]: \"What are you saying? This is an opponent not even the police\ncan handle. You absolutely must not get close!\""
                             ]
                         },
                         {
@@ -14067,7 +14067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Do you really understand...?\""
+                                "\\n[6]: \"Do you really understand...?\""
                             ]
                         },
                         {
@@ -14091,7 +14091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"But still, who exactly is Pony Celes?\""
+                                "\\n[6]: \"But still, who exactly is Pony Celes?\""
                             ]
                         },
                         {
@@ -14108,7 +14108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Always saving the city from Zaidarg. I think they're probably\nabout our age, but they're really amazing.\""
+                                "\\n[6]: \"Always saving the city from Zaidarg. I think they're probably\nabout our age, but they're really amazing.\""
                             ]
                         },
                         {
@@ -14207,7 +14207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"What's that supposed to mean? It sounds like you're talking\nabout yourself...\""
+                                "\\n[6]: \"What's that supposed to mean? It sounds like you're talking\nabout yourself...\""
                             ]
                         },
                         {
@@ -14224,7 +14224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui, make sure you study hard so you don't get any failing\ngrades. I'll always help you with math if you need it.\""
+                                "\\n[6]: \"Yui, make sure you study hard so you don't get any failing\ngrades. I'll always help you with math if you need it.\""
                             ]
                         },
                         {

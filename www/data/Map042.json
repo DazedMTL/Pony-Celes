@@ -17656,7 +17656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If we lose to him, it won't just be the Urban District at\nstake. All of Japan will be in danger...\""
+                                "\\n[6]: \"If we lose to him, it won't just be the Urban District at\nstake. All of Japan will be in danger...\""
                             ]
                         },
                         {
@@ -17673,7 +17673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"That's why we need to calm down and think of a strategy.\""
+                                "\\n[6]: \"That's why we need to calm down and think of a strategy.\""
                             ]
                         },
                         {
@@ -17690,7 +17690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga...\""
+                                "Yui: \"\\n[6]...\""
                             ]
                         },
                         {
@@ -17707,7 +17707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Rely on me. We promised to fight together, didn't we?\""
+                                "\\n[6]: \"Rely on me. We promised to fight together, didn't we?\""
                             ]
                         },
                         {
@@ -17724,7 +17724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I won't let Yui go alone. If we die, we die together!\""
+                                "\\n[6]: \"I won't let Yui go alone. If we die, we die together!\""
                             ]
                         },
                         {
@@ -17748,7 +17748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Thank you... Ginga.\""
+                                "Yui: \"Thank you... \\n[6].\""
                             ]
                         },
                         {
@@ -17867,7 +17867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: (Ginga, what should I do...)"
+                                "Pony-Celes: (\\n[6], what should I do...)"
                             ]
                         },
                         {
@@ -17876,7 +17876,7 @@
                             "parameters": [
                                 [
                                     "Face Garubes on your own!",
-                                    "Trust Ginga and wait for help"
+                                    "Trust \\n[6] and wait for help"
                                 ],
                                 1,
                                 -1,
@@ -17911,7 +17911,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Gingaを信じて助けを待つ"
+                                "\\n[6]を信じて助けを待つ"
                             ]
                         },
                         {
@@ -18016,7 +18016,7 @@
         },
         {
             "id": 20,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {
@@ -20145,7 +20145,7 @@
         },
         {
             "id": 23,
-            "name": "Gingaを待つルート",
+            "name": "\\n[6]を待つルート",
             "note": "",
             "pages": [
                 {
@@ -20194,7 +20194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes (I can't rely on Ginga!)"
+                                "Pony-Celes (I can't rely on \\n[6]!)"
                             ]
                         },
                         {
@@ -21346,7 +21346,7 @@
         },
         {
             "id": 24,
-            "name": "Gingaを待つルート",
+            "name": "\\n[6]を待つルート",
             "note": "",
             "pages": [
                 {
@@ -21431,7 +21431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"We made a promise! I'm sure Ginga will come to save\nme!\""
+                                "Pony-Celes: \"We made a promise! I'm sure \\n[6] will come to save\nme!\""
                             ]
                         },
                         {
@@ -21455,7 +21455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui believed in Ginga and waited for him until just before sunset,\nhoping."
+                                "Yui believed in \\n[6] and waited for him until just before sunset,\nhoping."
                             ]
                         },
                         {
@@ -22001,7 +22001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Ginga!!\""
+                                "Pony-Celes: \"\\n[6]!!\""
                             ]
                         },
                         {
@@ -22064,7 +22064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Sorry to keep you waiting, Yui!\""
+                                "\\n[6]: \"Sorry to keep you waiting, Yui!\""
                             ]
                         },
                         {
@@ -22173,7 +22173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"What do you mean 'sorry to keep you waiting'?! I was\nworried! You dummy, Ginga, dummy!!\""
+                                "Pony-Celes: \"What do you mean 'sorry to keep you waiting'?! I was\nworried! You dummy, \\n[6], dummy!!\""
                             ]
                         },
                         {
@@ -22228,7 +22228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Hey, that hurts, Yui!\""
+                                "\\n[6]: \"Hey, that hurts, Yui!\""
                             ]
                         },
                         {
@@ -22276,7 +22276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"But thank you! You really waited for me because you believed\nin me, didn't you?\""
+                                "\\n[6]: \"But thank you! You really waited for me because you believed\nin me, didn't you?\""
                             ]
                         },
                         {
@@ -22307,7 +22307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Ginga, it's okay to rely on you, right...?\""
+                                "Pony-Celes: \"\\n[6], it's okay to rely on you, right...?\""
                             ]
                         },
                         {
@@ -22338,7 +22338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"No, that's not it! I want to rely on Ginga. Just having\nyou here gives me courage.\""
+                                "Pony-Celes: \"No, that's not it! I want to rely on \\n[6]. Just having\nyou here gives me courage.\""
                             ]
                         },
                         {
@@ -22362,7 +22362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I've also gained courage from Yui to get this far.\""
+                                "\\n[6]: \"I've also gained courage from Yui to get this far.\""
                             ]
                         },
                         {
@@ -22379,7 +22379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"We're even then.\""
+                                "\\n[6]: \"We're even then.\""
                             ]
                         },
                         {
@@ -22403,7 +22403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Look, this is the crucial moment. Lift your head up!\""
+                                "\\n[6]: \"Look, this is the crucial moment. Lift your head up!\""
                             ]
                         },
                         {
@@ -22420,7 +22420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Everyone will worry if the invincible Pony-Celes makes such\na face.\""
+                                "\\n[6]: \"Everyone will worry if the invincible Pony-Celes makes such\na face.\""
                             ]
                         },
                         {
@@ -22437,7 +22437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Besides, a sad face doesn't suit you, Yui.\""
+                                "\\n[6]: \"Besides, a sad face doesn't suit you, Yui.\""
                             ]
                         },
                         {
@@ -22454,7 +22454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Stay as my beloved Yui, the one I always know.\""
+                                "\\n[6]: \"Stay as my beloved Yui, the one I always know.\""
                             ]
                         },
                         {
@@ -22487,7 +22487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Ginga...\""
+                                "Pony-Celes: \"\\n[6]...\""
                             ]
                         },
                         {
@@ -22558,7 +22558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Now that Ginga has come for me, I don't feel like\nlosing to Garves at all!\""
+                                "Pony-Celes: \"Now that \\n[6] has come for me, I don't feel like\nlosing to Garves at all!\""
                             ]
                         },
                         {
@@ -22599,7 +22599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"What's that? They all mean the same thing, haha!\""
+                                "\\n[6]: \"What's that? They all mean the same thing, haha!\""
                             ]
                         },
                         {
@@ -22672,7 +22672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"That's so like Yui.\""
+                                "\\n[6]: \"That's so like Yui.\""
                             ]
                         },
                         {
@@ -22696,7 +22696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Alright! It's about time.\""
+                                "\\n[6]: \"Alright! It's about time.\""
                             ]
                         },
                         {
@@ -22794,7 +22794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"When I lead the combatants away, take that as a signal to go\ntowards Garves.\""
+                                "\\n[6]: \"When I lead the combatants away, take that as a signal to go\ntowards Garves.\""
                             ]
                         },
                         {
@@ -22858,7 +22858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pony-Celes: \"Ginga, let's definitely win!\""
+                                "Pony-Celes: \"\\n[6], let's definitely win!\""
                             ]
                         },
                         {
@@ -22875,7 +22875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Of course!\""
+                                "\\n[6]: \"Of course!\""
                             ]
                         },
                         {
@@ -23415,7 +23415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Combatant (Ginga): \"I've found Pony-Celes!\""
+                                "Combatant (\\n[6]): \"I've found Pony-Celes!\""
                             ]
                         },
                         {
@@ -23844,7 +23844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Combatant (Ginga): \"Over here! Pony-Celes is hiding just ahead!\""
+                                "Combatant (\\n[6]): \"Over here! Pony-Celes is hiding just ahead!\""
                             ]
                         },
                         {

@@ -17724,7 +17724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karen: \"Help me, Morisaki! It's Ginga-kun!\""
+                                "Karen: \"Help me, Morisaki! It's \\n[6]-kun!\""
                             ]
                         },
                         {
@@ -17741,7 +17741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Eh, Ginga?\""
+                                "Yui: \"Eh, \\n[6]?\""
                             ]
                         },
                         {
@@ -17758,7 +17758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karen: \"Just look at this! In front of my house, Ginga-kun was by a\nZaida-G...\""
+                                "Karen: \"Just look at this! In front of my house, \\n[6]-kun was by a\nZaida-G...\""
                             ]
                         },
                         {

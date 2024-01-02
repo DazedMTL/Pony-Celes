@@ -4414,7 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"So this is the red-light district...\""
+                                "\\n[6]: \"So this is the red-light district...\""
                             ]
                         },
                         {
@@ -4431,7 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui is in a place like this...\""
+                                "\\n[6]: \"Yui is in a place like this...\""
                             ]
                         },
                         {
@@ -6518,7 +6518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I'm in a hurry, so I'll have to decline.\""
+                                "\\n[6]: \"I'm in a hurry, so I'll have to decline.\""
                             ]
                         },
                         {

@@ -5828,7 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karen: \"The one captured by the security camera, this is Ginga-kun,\nisn't it...\""
+                                "Karen: \"The one captured by the security camera, this is \\n[6]-kun,\nisn't it...\""
                             ]
                         },
                         {
@@ -6305,7 +6305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Why would Zaidah-G be after Ginga...?\""
+                                "Yui: \"Why would Zaidah-G be after \\n[6]...?\""
                             ]
                         },
                         {
@@ -6526,7 +6526,7 @@
         },
         {
             "id": 3,
-            "name": "Ginga",
+            "name": "\\n[6]",
             "note": "",
             "pages": [
                 {

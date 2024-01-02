@@ -31142,7 +31142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2nd Year Final Exam conducted on ● Month ● Day 1st Place: Takano\nTsubame 2nd Place: Amasawa Ginga 3rd Place: Moritou Hikari ~ ~ ...\n80th Place: Morisaki Yui 81st Place: Kito Waruo 82nd Place: Fukumura\nYasuo"
+                                "2nd Year Final Exam conducted on ● Month ● Day 1st Place: Takano\nTsubame 2nd Place: Amasawa \\n[6] 3rd Place: Moritou Hikari ~ ~ ...\n80th Place: Morisaki Yui 81st Place: Kito Waruo 82nd Place: Fukumura\nYasuo"
                             ]
                         },
                         {
@@ -31693,7 +31693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2nd Year Final Exam Results Conducted on ● Month ● Day 1st Place:\nTakano Tsubame 2nd Place: Amasawa Ginga 3rd Place: Moritou Hikari ~ ~\n... 80th Place: Morisaki Yui 81st Place: Kito Waruo 82nd Place:\nFukumura Yasuo"
+                                "2nd Year Final Exam Results Conducted on ● Month ● Day 1st Place:\nTakano Tsubame 2nd Place: Amasawa \\n[6] 3rd Place: Moritou Hikari ~ ~\n... 80th Place: Morisaki Yui 81st Place: Kito Waruo 82nd Place:\nFukumura Yasuo"
                             ]
                         },
                         {

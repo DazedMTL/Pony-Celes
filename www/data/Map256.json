@@ -25645,7 +25645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Today is a date with Ginga♪ I'm so excited~!\""
+                                "Yui: \"Today is a date with \\n[6]♪ I'm so excited~!\""
                             ]
                         },
                         {
@@ -25802,7 +25802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Yui-chan, don't get too carried away! If we don't hurry, we'll\nbe late to meet up with Ginga.\""
+                                "Polka: \"Yui-chan, don't get too carried away! If we don't hurry, we'll\nbe late to meet up with \\n[6].\""
                             ]
                         },
                         {
@@ -25836,7 +25836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"You don't want to be disliked by your beloved Ginga, do you?\""
+                                "Polka: \"You don't want to be disliked by your beloved \\n[6], do you?\""
                             ]
                         },
                         {
@@ -26137,7 +26137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Yeah. Ginga said it's hot today, so let's go to the pool.\""
+                                "Yui: \"Yeah. \\n[6] said it's hot today, so let's go to the pool.\""
                             ]
                         },
                         {
@@ -26154,7 +26154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Polka: \"Then, maybe I should go too~. I haven't seen Ginga in a while,\nand I want to see him in his swimsuit~\""
+                                "Polka: \"Then, maybe I should go too~. I haven't seen \\n[6] in a while,\nand I want to see him in his swimsuit~\""
                             ]
                         },
                         {

@@ -6807,7 +6807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"(But, I do want Ginga to say I'm wearing cute underwear...)\""
+                                "Yui: \"(But, I do want \\n[6] to say I'm wearing cute underwear...)\""
                             ]
                         },
                         {
@@ -6824,7 +6824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"(That means I want to show them to Ginga...)\""
+                                "Yui: \"(That means I want to show them to \\n[6]...)\""
                             ]
                         },
                         {

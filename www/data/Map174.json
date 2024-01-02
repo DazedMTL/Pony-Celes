@@ -13091,7 +13091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga, you're really good at cooking. This omelette is sweet and\njust to my liking. Mmm, it's the best!\""
+                                "Yui: \"\\n[6], you're really good at cooking. This omelette is sweet and\njust to my liking. Mmm, it's the best!\""
                             ]
                         },
                         {
@@ -13142,7 +13142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Haha, I'm glad you like it.\""
+                                "\\n[6]: \"Haha, I'm glad you like it.\""
                             ]
                         },
                         {
@@ -13159,7 +13159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"But Yui, you sure eat a lot.\""
+                                "\\n[6]: \"But Yui, you sure eat a lot.\""
                             ]
                         },
                         {
@@ -13192,7 +13192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Just yesterday, you said two croquettes would be enough, but\nyou ended up eating four.\""
+                                "\\n[6]: \"Just yesterday, you said two croquettes would be enough, but\nyou ended up eating four.\""
                             ]
                         },
                         {
@@ -13268,7 +13268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Haha, let's just go with that!\""
+                                "\\n[6]: \"Haha, let's just go with that!\""
                             ]
                         },
                         {
@@ -13351,7 +13351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"A pool, huh! Sounds good, let's go!\""
+                                "\\n[6]: \"A pool, huh! Sounds good, let's go!\""
                             ]
                         },
                         {
@@ -13402,7 +13402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Gained weight? I haven't noticed that at all...\""
+                                "\\n[6]: \"Gained weight? I haven't noticed that at all...\""
                             ]
                         },
                         {
@@ -13436,7 +13436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -13789,7 +13789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Actually, you might have gained a little weight...\""
+                                "\\n[6]: \"Actually, you might have gained a little weight...\""
                             ]
                         },
                         {
@@ -13857,7 +13857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Isn't it because you've been eating a lot even though you\nhaven't been doing club activities recently?\""
+                                "\\n[6]: \"Isn't it because you've been eating a lot even though you\nhaven't been doing club activities recently?\""
                             ]
                         },
                         {
@@ -13890,7 +13890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Maybe that's why you gained weight?\""
+                                "\\n[6]: \"Maybe that's why you gained weight?\""
                             ]
                         },
                         {
@@ -13992,7 +13992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"And maybe you gained even more weight from eating too many\ncroquettes...\""
+                                "\\n[6]: \"And maybe you gained even more weight from eating too many\ncroquettes...\""
                             ]
                         },
                         {
@@ -14068,7 +14068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga, you're usually so kind, but sometimes you say such\ninsensitive things!\""
+                                "Yui: \"\\n[6], you're usually so kind, but sometimes you say such\ninsensitive things!\""
                             ]
                         },
                         {
@@ -14094,7 +14094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Whoa, my bad... sorry, sorry.\""
+                                "\\n[6]: \"Whoa, my bad... sorry, sorry.\""
                             ]
                         },
                         {
@@ -14495,7 +14495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"...\""
+                                "\\n[6]: \"...\""
                             ]
                         },
                         {
@@ -14521,7 +14521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui, you're not thinking of...\""
+                                "\\n[6]: \"Yui, you're not thinking of...\""
                             ]
                         },
                         {
@@ -14620,7 +14620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"So I won't be told by the insensitive Ginga that I've gained\nweight.\""
+                                "Yui: \"So I won't be told by the insensitive \\n[6] that I've gained\nweight.\""
                             ]
                         },
                         {
@@ -14644,7 +14644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I'll say it again, so I won't be told by the insensitive Ginga\nthat I've gained weight!\""
+                                "Yui: \"I'll say it again, so I won't be told by the insensitive \\n[6]\nthat I've gained weight!\""
                             ]
                         },
                         {
@@ -14670,7 +14670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Oh, okay...\" (That face... Yui makes that face when she's\nreally angry...)"
+                                "\\n[6]: \"Oh, okay...\" (That face... Yui makes that face when she's\nreally angry...)"
                             ]
                         },
                         {
@@ -14713,7 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Oh, I'll be cheering you on... Well, I have cram school, so\nI'll be off now~~!\""
+                                "\\n[6]: \"Oh, I'll be cheering you on... Well, I have cram school, so\nI'll be off now~~!\""
                             ]
                         },
                         {

@@ -4741,7 +4741,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The moment of changing clothes was vividly etched into\nGinga's memory.",
+        "description": "The moment of changing clothes was vividly etched into\n\\n[6]'s memory.",
         "effects": [
             {
                 "code": 44,
@@ -4754,7 +4754,7 @@
         "iconIndex": 288,
         "itypeId": 2,
         "name": "Amasawa's Memory",
-        "note": "itemMaxNum:1\n【\\i[288]Gingaの記憶】を手に入れた！",
+        "note": "itemMaxNum:1\n【\\i[288]\\n[6]の記憶】を手に入れた！",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -4774,7 +4774,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The sweet memory of the first time I held Ginga's hand.",
+        "description": "The sweet memory of the first time I held \\n[6]'s hand.",
         "effects": [
             {
                 "code": 44,
@@ -4807,7 +4807,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories of eating croquettes from the meat shop with Ginga,\njust the two of us.",
+        "description": "Memories of eating croquettes from the meat shop with \\n[6],\njust the two of us.",
         "effects": [
             {
                 "code": 44,
@@ -4840,7 +4840,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The memory of when I bragged to Ginga about my newly bought\nswimsuit.",
+        "description": "The memory of when I bragged to \\n[6] about my newly bought\nswimsuit.",
         "effects": [
             {
                 "code": 44,
@@ -4873,7 +4873,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories of playing with Ginga at the pool",
+        "description": "Memories of playing with \\n[6] at the pool",
         "effects": [
             {
                 "code": 44,
@@ -4906,7 +4906,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories of embracing with Ginga",
+        "description": "Memories of embracing with \\n[6]",
         "effects": [
             {
                 "code": 44,

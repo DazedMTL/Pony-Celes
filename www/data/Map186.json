@@ -13165,7 +13165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's fluffy and cooked just the way I like it, really\ndelicious♪\""
+                                "\\n[6]: \"It's fluffy and cooked just the way I like it, really\ndelicious♪\""
                             ]
                         },
                         {
@@ -13198,7 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I can't beat the tamagoyaki you make, Ginga, but I've gotten\npretty good, haven't I?\""
+                                "Yui: \"I can't beat the tamagoyaki you make, \\n[6], but I've gotten\npretty good, haven't I?\""
                             ]
                         },
                         {
@@ -13215,7 +13215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"When you first stayed over, I wondered how it would go, but\nI'm honestly surprised at how quickly you've improved.\""
+                                "\\n[6]: \"When you first stayed over, I wondered how it would go, but\nI'm honestly surprised at how quickly you've improved.\""
                             ]
                         },
                         {
@@ -13232,7 +13232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It might even be tastier than the ones I make.\""
+                                "\\n[6]: \"It might even be tastier than the ones I make.\""
                             ]
                         },
                         {
@@ -13266,7 +13266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah!\""
+                                "\\n[6]: \"Yeah!\""
                             ]
                         },
                         {
@@ -14156,7 +14156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"No, wait!\""
+                                "\\n[6]: \"No, wait!\""
                             ]
                         },
                         {
@@ -14271,7 +14271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"It's a trap.\""
+                                "\\n[6]: \"It's a trap.\""
                             ]
                         },
                         {
@@ -14288,7 +14288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"You can't fall for their provocation!\""
+                                "\\n[6]: \"You can't fall for their provocation!\""
                             ]
                         },
                         {
@@ -14345,7 +14345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"I can't just stand by and watch this. Are you really okay with\nthis, Ginga!?\""
+                                "Yui: \"I can't just stand by and watch this. Are you really okay with\nthis, \\n[6]!?\""
                             ]
                         },
                         {
@@ -14369,7 +14369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Of course not!\""
+                                "\\n[6]: \"Of course not!\""
                             ]
                         },
                         {
@@ -14410,7 +14410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"As much as it's tough to say...\""
+                                "\\n[6]: \"As much as it's tough to say...\""
                             ]
                         },
                         {
@@ -14427,7 +14427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I can't believe that Yui, who has lost her cool due to\nprovocation, can win against that massive army.\""
+                                "\\n[6]: \"I can't believe that Yui, who has lost her cool due to\nprovocation, can win against that massive army.\""
                             ]
                         },
                         {
@@ -14444,7 +14444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If we lose to him, it won't just be the Urban District at\nstake. The whole of Japan is in danger.\""
+                                "\\n[6]: \"If we lose to him, it won't just be the Urban District at\nstake. The whole of Japan is in danger.\""
                             ]
                         },
                         {
@@ -14461,7 +14461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"So let's calm down once and think of a strategy.\""
+                                "\\n[6]: \"So let's calm down once and think of a strategy.\""
                             ]
                         },
                         {
@@ -14494,7 +14494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga...\""
+                                "Yui: \"\\n[6]...\""
                             ]
                         },
                         {
@@ -14523,7 +14523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Rely on me. We promised to fight together, didn't we?\""
+                                "\\n[6]: \"Rely on me. We promised to fight together, didn't we?\""
                             ]
                         },
                         {
@@ -14540,7 +14540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I won't let Yui go alone. If we're going to die, we'll do it\ntogether!\""
+                                "\\n[6]: \"I won't let Yui go alone. If we're going to die, we'll do it\ntogether!\""
                             ]
                         },
                         {
@@ -14708,7 +14708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Thanks, Ginga.\""
+                                "Yui: \"Thanks, \\n[6].\""
                             ]
                         },
                         {
@@ -14783,7 +14783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Then...\""
+                                "\\n[6]: \"Then...\""
                             ]
                         },
                         {
@@ -14824,7 +14824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Alright! So, to take on that massive army...\""
+                                "\\n[6]: \"Alright! So, to take on that massive army...\""
                             ]
                         },
                         {
@@ -14962,7 +14962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"And how about this idea?\""
+                                "\\n[6]: \"And how about this idea?\""
                             ]
                         },
                         {
@@ -15132,7 +15132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"I borrowed it from a combatant you defeated. Thought it might\ncome in handy later.\""
+                                "\\n[6]: \"I borrowed it from a combatant you defeated. Thought it might\ncome in handy later.\""
                             ]
                         },
                         {
@@ -15149,7 +15149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"...As expected of Ginga.\""
+                                "Yui: \"...As expected of \\n[6].\""
                             ]
                         },
                         {
@@ -15166,7 +15166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"If this works, Yui can bring it to a one-on-one fight with\nGalves.\""
+                                "\\n[6]: \"If this works, Yui can bring it to a one-on-one fight with\nGalves.\""
                             ]
                         },
                         {
@@ -15232,7 +15232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yeah, I believe in you!\""
+                                "\\n[6]: \"Yeah, I believe in you!\""
                             ]
                         },
                         {
@@ -15249,7 +15249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Then, I'll head to the Urban District first.\""
+                                "\\n[6]: \"Then, I'll head to the Urban District first.\""
                             ]
                         },
                         {
@@ -15266,7 +15266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"We have to understand the local geography to ensure the\nsuccess of the plan.\""
+                                "\\n[6]: \"We have to understand the local geography to ensure the\nsuccess of the plan.\""
                             ]
                         },
                         {
@@ -15283,7 +15283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Yui, you stay at home and rest up from the Octodog fight as\nmuch as possible.\""
+                                "\\n[6]: \"Yui, you stay at home and rest up from the Octodog fight as\nmuch as possible.\""
                             ]
                         },
                         {
@@ -15300,7 +15300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"We'll execute the plan as soon as I get back.\""
+                                "\\n[6]: \"We'll execute the plan as soon as I get back.\""
                             ]
                         },
                         {
@@ -15333,7 +15333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga... don't push yourself too hard.\""
+                                "Yui: \"\\n[6]... don't push yourself too hard.\""
                             ]
                         },
                         {
@@ -15367,7 +15367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Ah, I know!\""
+                                "\\n[6]: \"Ah, I know!\""
                             ]
                         },
                         {
@@ -15678,7 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga...\""
+                                "Yui: \"\\n[6]...\""
                             ]
                         },
                         {
@@ -15728,7 +15728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Could something have happened to Ginga!?\""
+                                "Yui: \"Could something have happened to \\n[6]!?\""
                             ]
                         },
                         {

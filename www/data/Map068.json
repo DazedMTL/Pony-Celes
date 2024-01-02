@@ -16592,7 +16592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yui: \"Ginga's room is over there. Mom said you can use the room\nhowever you like.\""
+                                "Yui: \"\\n[6]'s room is over there. Mom said you can use the room\nhowever you like.\""
                             ]
                         },
                         {
@@ -16643,7 +16643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ginga: \"Thanks! Well, good night!\""
+                                "\\n[6]: \"Thanks! Well, good night!\""
                             ]
                         },
                         {
