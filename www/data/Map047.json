@@ -22103,7 +22103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Domdora defeat scene A? (Selecting 【No】\nwill transition to the title screen.)"
+                                "\\c[27]Do you wish to view the Domdora defeat scene A? (Selecting 【No】\nwill transition to the title screen.)"
                             ]
                         },
                         {

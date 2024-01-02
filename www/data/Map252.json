@@ -15829,7 +15829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Dark Lord Dargnoa defeat scene B?\n(Selecting \"No\" will transition to the title screen.)"
+                                "\\c[27]Do you wish to view the Dark Lord Dargnoa defeat scene B?\n(Selecting \"No\" will transition to the title screen.)"
                             ]
                         },
                         {
@@ -20197,7 +20197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Dark Lord Dargnoa defeat scene B? (If you\nchoose \"No\", the game will return to the title screen.)"
+                                "\\c[27]Do you wish to view the Dark Lord Dargnoa defeat scene B? (If you\nchoose \"No\", the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -21386,7 +21386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view Dark Lord Dargnoa's defeat scene B? (If you\nselect \"No\", the game will return to the title screen.)"
+                                "\\c[27]Do you wish to view Dark Lord Dargnoa's defeat scene B? (If you\nselect \"No\", the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -22575,7 +22575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ould you like to view the Dark Lord Dagnor defeat scene B? (If\nyou choose \"No\", the game will return to the title screen.)"
+                                "\\c[27]Would you like to view the Dark Lord Dagnor defeat scene B? (If\nyou choose \"No\", the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -23764,7 +23764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Dark Lord Dargnoa defeat scene B? (If you\nchoose 【No】, the game will return to the title screen.)"
+                                "\\c[27]Do you wish to view the Dark Lord Dargnoa defeat scene B? (If you\nchoose 【No】, the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -24953,7 +24953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Dark Lord Dargnoa defeat scene B?\n(Selecting \"No\" will transition to the title screen.)"
+                                "\\c[27]Do you wish to view the Dark Lord Dargnoa defeat scene B?\n(Selecting \"No\" will transition to the title screen.)"
                             ]
                         },
                         {
@@ -26142,7 +26142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Dark Lord Dargnoa defeat scene B? (If you\nchoose \"No\", the game will return to the title screen.)"
+                                "\\c[27]Do you wish to view the Dark Lord Dargnoa defeat scene B? (If you\nchoose \"No\", the game will return to the title screen.)"
                             ]
                         },
                         {

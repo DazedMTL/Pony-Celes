@@ -29499,7 +29499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ould you like to see Warlord Garves Battle Defeat Scene A? (If\nyou choose 【No】, the game will transition to the title screen.)"
+                                "\\c[27]Would you like to see Warlord Garves Battle Defeat Scene A? (If\nyou choose 【No】, the game will transition to the title screen.)"
                             ]
                         },
                         {
@@ -29575,7 +29575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ould you like to see Warlord Garves Battle Defeat Scene B? (If\nyou choose 【No】, the game will transition to the title screen.)"
+                                "\\c[27]Would you like to see Warlord Garves Battle Defeat Scene B? (If\nyou choose 【No】, the game will transition to the title screen.)"
                             ]
                         },
                         {

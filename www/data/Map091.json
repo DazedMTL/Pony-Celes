@@ -44281,7 +44281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]o you want to see the Spider-G defeat scene B? (If you choose\n\"No\", the game will return to the title screen.)"
+                                "\\c[27]Do you want to see the Spider-G defeat scene B? (If you choose\n\"No\", the game will return to the title screen.)"
                             ]
                         },
                         {

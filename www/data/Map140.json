@@ -25376,7 +25376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you want to see the Conspirator Karin defeat scene A? (If you\nchoose 【No】, the game will return to the title screen.)"
+                                "\\c[27]Do you want to see the Conspirator Karin defeat scene A? (If you\nchoose 【No】, the game will return to the title screen.)"
                             ]
                         },
                         {
@@ -37705,7 +37705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ould you like to view the defeat scene A for Strategist Karin?\n(If you choose \"No\", you will be taken to the title screen.)"
+                                "\\c[27]Would you like to view the defeat scene A for Strategist Karin?\n(If you choose \"No\", you will be taken to the title screen.)"
                             ]
                         },
                         {

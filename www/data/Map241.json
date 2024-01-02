@@ -23350,7 +23350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]o you wish to view the Dark King Dargnoa defeat scene A?\\c[23]\n(If you choose \"No\", the defeat event will be skipped and the story\nwill proceed.)"
+                                "\\c[27]Do you wish to view the Dark King Dargnoa defeat scene A?\\c[23]\n(If you choose \"No\", the defeat event will be skipped and the story\nwill proceed.)"
                             ]
                         },
                         {
