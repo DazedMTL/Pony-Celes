@@ -115,7 +115,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "A sour and sweet, lightly carbonated drink [Restores 15 SP] [Cannot be used\nduring battle]",
+        "description": "A sour and sweet, lightly carbonated drink [Restores 150 SP] [Cannot be used\nduring battle]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 296,
