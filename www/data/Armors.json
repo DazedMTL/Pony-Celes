@@ -1,2488 +1,2488 @@
 [
-  null,
-  {
-    "id": 1,
-    "atypeId": 1,
-    "description": "安価なブロンズで作られた指輪\n［防御力＋５］［抵抗力＋５］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "ブロンズリング",
-    "note": "１章\n１章のダンジョン内",
-    "params": [
-      0,
-      0,
-      0,
-      5,
-      0,
-      5,
-      0,
-      0
-    ],
-    "price": 600
-  },
-  {
-    "id": 2,
-    "atypeId": 1,
-    "description": "銀細工が施されたシンプルで定番の指輪\n［防御力＋１０］［抵抗力＋７］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "シルバーリング",
-    "note": "１章",
-    "params": [
-      0,
-      0,
-      0,
-      10,
-      0,
-      7,
-      0,
-      0
-    ],
-    "price": 900
-  },
-  {
-    "id": 3,
-    "atypeId": 1,
-    "description": "チタン製の頑丈な指輪　デザイン性は皆無\n［防御力＋１２］［抵抗力＋１０］［最大ＨＰ＋５０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "チタンリング",
-    "note": "２章",
-    "params": [
-      50,
-      0,
-      0,
-      12,
-      0,
-      10,
-      0,
-      0
-    ],
-    "price": 1400
-  },
-  {
-    "id": 4,
-    "atypeId": 1,
-    "description": "真紅に燃える炎のデザイン\n［防御力＋１５］［抵抗力＋１８］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "紅の指輪",
-    "note": "２章",
-    "params": [
-      0,
-      0,
-      0,
-      15,
-      0,
-      18,
-      0,
-      0
-    ],
-    "price": 2600
-  },
-  {
-    "id": 5,
-    "atypeId": 1,
-    "description": "奇妙な螺旋模様が刻まれた指輪\n［防御力＋１８］［抵抗力＋２０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "螺旋の指輪",
-    "note": "３章",
-    "params": [
-      0,
-      0,
-      0,
-      18,
-      0,
-      20,
-      0,
-      0
-    ],
-    "price": 2400
-  },
-  {
-    "id": 6,
-    "atypeId": 1,
-    "description": "不屈の魂が宿るといわれている指輪\n［防御力＋２２］［抵抗力＋１６］［最大ＨＰ＋１００］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "不屈の指輪",
-    "note": "３章",
-    "params": [
-      100,
-      0,
-      0,
-      22,
-      0,
-      16,
-      0,
-      0
-    ],
-    "price": 3800
-  },
-  {
-    "id": 7,
-    "atypeId": 1,
-    "description": "恐怖を背にした者だけに活路が見いだされる\n［防御力＋５］［抵抗力＋５］［攻撃力＋２０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "背水の指輪",
-    "note": "４章",
-    "params": [
-      0,
-      0,
-      20,
-      5,
-      0,
-      5,
-      0,
-      0
-    ],
-    "price": 6600
-  },
-  {
-    "id": 8,
-    "atypeId": 1,
-    "description": "水晶で作られた綺麗な指輪\n［防御力＋２７］［抵抗力＋３２］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "クリスタルリング",
-    "note": "４章",
-    "params": [
-      0,
-      0,
-      0,
-      27,
-      0,
-      32,
-      0,
-      0
-    ],
-    "price": 7400
-  },
-  {
-    "id": 9,
-    "atypeId": 1,
-    "description": "珊瑚の欠片があしらわれた指輪\n［防御力＋３８］［抵抗力＋４３］［最大ＨＰ＋２００］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "珊瑚の指輪",
-    "note": "５章",
-    "params": [
-      200,
-      0,
-      0,
-      38,
-      0,
-      43,
-      0,
-      0
-    ],
-    "price": 9000
-  },
-  {
-    "id": 10,
-    "atypeId": 1,
-    "description": "ホワイトオパールで作られた真っ白な指輪\n［防御力＋５３］［抵抗力＋４８］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "ホワイトリング",
-    "note": "５章",
-    "params": [
-      0,
-      0,
-      0,
-      53,
-      0,
-      48,
-      0,
-      0
-    ],
-    "price": 10000
-  },
-  {
-    "id": 11,
-    "atypeId": 1,
-    "description": "指輪の内側に砂時計の絵が刻まれている\n［防御力＋７３］［抵抗力＋８０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "時の指輪",
-    "note": "６章",
-    "params": [
-      0,
-      0,
-      0,
-      73,
-      0,
-      80,
-      0,
-      0
-    ],
-    "price": 12200
-  },
-  {
-    "id": 12,
-    "atypeId": 1,
-    "description": "新素材タンタルで作られた個性派の指輪\n［防御力＋８０］［抵抗力＋７２］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "ブラックリング",
-    "note": "６章",
-    "params": [
-      0,
-      0,
-      0,
-      80,
-      0,
-      72,
-      0,
-      0
-    ],
-    "price": 13000
-  },
-  {
-    "id": 13,
-    "atypeId": 1,
-    "description": "聖者が身に着けていた魔除けの指輪\n［防御力＋９８］［抵抗力＋１０８］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "聖者の指輪",
-    "note": "７章",
-    "params": [
-      0,
-      0,
-      0,
-      98,
-      0,
-      108,
-      0,
-      0
-    ],
-    "price": 16400
-  },
-  {
-    "id": 14,
-    "atypeId": 1,
-    "description": "レアメタル、ゴールドで作られた高価な指輪\n［防御力＋１２０］［抵抗力＋１０８］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "ゴールドリング",
-    "note": "７章",
-    "params": [
-      0,
-      0,
-      0,
-      120,
-      0,
-      108,
-      0,
-      0
-    ],
-    "price": 20000
-  },
-  {
-    "id": 15,
-    "atypeId": 1,
-    "description": "星屑のようにキラキラ輝く宝石が散りばめられた指輪\n［防御力＋１３５］［抵抗力＋１６０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "星屑の指輪",
-    "note": "８章",
-    "params": [
-      0,
-      0,
-      0,
-      135,
-      0,
-      160,
-      0,
-      0
-    ],
-    "price": 24500
-  },
-  {
-    "id": 16,
-    "atypeId": 1,
-    "description": "レアメタル、プラチナで作られた非常に高価な指輪　\n［防御力＋１７０］［抵抗力＋１５０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "プラチナリング",
-    "note": "８章",
-    "params": [
-      0,
-      0,
-      0,
-      170,
-      0,
-      150,
-      0,
-      0
-    ],
-    "price": 32000
-  },
-  {
-    "id": 17,
-    "atypeId": 1,
-    "description": "身に付ける者を邪から守ると伝えられている希少な指輪\n［防御力＋２００］［抵抗力＋２２０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "ガードリング",
-    "note": "９章",
-    "params": [
-      0,
-      0,
-      0,
-      200,
-      0,
-      200,
-      0,
-      0
-    ],
-    "price": 46000
-  },
-  {
-    "id": 18,
-    "atypeId": 1,
-    "description": "双子の天使が装飾された指輪\n［防御力＋２２０］［抵抗力＋２２０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "天使の指輪",
-    "note": "９章",
-    "params": [
-      0,
-      0,
-      0,
-      220,
-      0,
-      220,
-      0,
-      0
-    ],
-    "price": 55000
-  },
-  {
-    "id": 19,
-    "atypeId": 1,
-    "description": "身に着ける者に女神の加護があると言い伝えれている指輪\n［防御力＋２５０］［抵抗力＋２５０］",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "★女神の指輪★",
-    "note": "※小さなコイン完全クリア　リング",
-    "params": [
-      0,
-      0,
-      0,
-      250,
-      0,
-      250,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 20,
-    "atypeId": 1,
-    "description": "章が進むと入荷するかも……",
-    "etypeId": 3,
-    "traits": [],
-    "iconIndex": 194,
-    "name": "未入荷",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 999999
-  },
-  {
-    "id": 21,
-    "atypeId": 1,
-    "description": "銀細工が施されたシンプルで定番のピアス\n［聖心力＋５］",
-    "etypeId": 2,
-    "traits": [],
-    "iconIndex": 219,
-    "name": "シルバーピアス",
-    "note": "【\\i[219]シルバーピアス】を手に入れた！\n１章\n１章のダンジョン内\n２章のダンジョン内",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      5,
-      0,
-      0,
-      0
-    ],
-    "price": 600
-  },
-  {
-    "id": 22,
-    "atypeId": 1,
-    "description": "星模様の細工が施されたピアス\n［聖心力＋１２］",
-    "etypeId": 2,
-    "traits": [],
-    "iconIndex": 219,
-    "name": "スターピアス",
-    "note": "１章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      12,
-      0,
-      0,
-      0
-    ],
-    "price": 900
-  },
-  {
-    "id": 23,
-    "atypeId": 1,
-    "description": "丸く歪んだ自然なラインが温かみを出している\n［聖心力＋１８］",
-    "etypeId": 2,
-    "traits": [],
-    "iconIndex": 219,
-    "name": "ラウンドピアス",
-    "note": "２章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      18,
-      0,
-      0,
-      0
-    ],
-    "price": 1500
-  },
-  {
-    "id": 24,
-    "atypeId": 1,
-    "description": "月の欠片をあしらったピアス\n［聖心力＋２４］［最大ＳＰ＋３％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.03
-      }
-    ],
-    "iconIndex": 219,
-    "name": "ムーンイヤリング",
-    "note": "２章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      24,
-      0,
-      0,
-      0
-    ],
-    "price": 2200
-  },
-  {
-    "id": 25,
-    "atypeId": 1,
-    "description": "隕石から作られたイヤリング\n［聖心力＋３８］［抵抗力＋３］［最大ＳＰ＋５％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.05
-      }
-    ],
-    "iconIndex": 219,
-    "name": "コメットイヤリング",
-    "note": "３章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      38,
-      3,
-      0,
-      0
-    ],
-    "price": 3800
-  },
-  {
-    "id": 26,
-    "atypeId": 1,
-    "description": "雷のマークが施されたピアス\n［聖心力＋４２］［攻撃力＋３］［最大ＳＰ＋５％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.05
-      }
-    ],
-    "iconIndex": 219,
-    "name": "サンダーピアス",
-    "note": "３章",
-    "params": [
-      0,
-      0,
-      3,
-      0,
-      42,
-      0,
-      0,
-      0
-    ],
-    "price": 4200
-  },
-  {
-    "id": 27,
-    "atypeId": 1,
-    "description": "琥珀であしらわれたピアス\n［聖心力＋５２］［抵抗力＋５］［最大ＳＰ＋８％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.08
-      }
-    ],
-    "iconIndex": 219,
-    "name": "琥珀のピアス",
-    "note": "４章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      52,
-      5,
-      0,
-      0
-    ],
-    "price": 7200
-  },
-  {
-    "id": 28,
-    "atypeId": 1,
-    "description": "太陽柄の模様が施された耳飾り\n［聖心力＋５６］［攻撃力＋５］［最大ＳＰ＋８％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.08
-      }
-    ],
-    "iconIndex": 219,
-    "name": "太陽の耳飾り",
-    "note": "４章",
-    "params": [
-      0,
-      0,
-      5,
-      0,
-      56,
-      0,
-      0,
-      0
-    ],
-    "price": 7800
-  },
-  {
-    "id": 29,
-    "atypeId": 1,
-    "description": "身に着ける者の力を引き出すと伝わるイヤリング\n［聖心力＋７３］［抵抗力＋８］［最大ＳＰ＋１０％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.1
-      }
-    ],
-    "iconIndex": 219,
-    "name": "フォースイヤリング",
-    "note": "５章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      73,
-      8,
-      0,
-      0
-    ],
-    "price": 9600
-  },
-  {
-    "id": 30,
-    "atypeId": 1,
-    "description": "綺麗な星模様があしらわれたイヤリング\n［聖心力＋７９］［攻撃力＋８］［最大ＳＰ＋１０％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.1
-      }
-    ],
-    "iconIndex": 219,
-    "name": "星のイヤリング",
-    "note": "５章",
-    "params": [
-      0,
-      0,
-      8,
-      0,
-      79,
-      0,
-      0,
-      0
-    ],
-    "price": 10600
-  },
-  {
-    "id": 31,
-    "atypeId": 1,
-    "description": "闇夜の如く漆黒のピアス\n［聖心力＋９２］［抵抗力＋１０］［最大ＳＰ＋１２％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.12
-      }
-    ],
-    "iconIndex": 219,
-    "name": "ナイトピアス",
-    "note": "６章",
-    "params": [
-      0,
-      0,
-      0,
-      10,
-      92,
-      0,
-      0,
-      0
-    ],
-    "price": 12000
-  },
-  {
-    "id": 32,
-    "atypeId": 1,
-    "description": "翼の模様が刻まれたピアス\n［聖心力＋９９］［攻撃力＋１０］［最大ＳＰ＋１２％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.12
-      }
-    ],
-    "iconIndex": 219,
-    "name": "ウイングピアス",
-    "note": "６章",
-    "params": [
-      0,
-      0,
-      10,
-      0,
-      99,
-      0,
-      0,
-      0
-    ],
-    "price": 13000
-  },
-  {
-    "id": 33,
-    "atypeId": 1,
-    "description": "希少鉱ミスリルで作られたピアス\n［聖心力＋１１０］［抵抗力＋１３］［最大ＳＰ＋１４％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.14
-      }
-    ],
-    "iconIndex": 219,
-    "name": "ミスリルピアス",
-    "note": "７章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      110,
-      13,
-      0,
-      0
-    ],
-    "price": 16000
-  },
-  {
-    "id": 34,
-    "atypeId": 1,
-    "description": "涙の形をした光り輝くイヤリング\n［聖心力＋１１４］［攻撃力＋１３］［最大ＳＰ＋１４％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.14
-      }
-    ],
-    "iconIndex": 219,
-    "name": "ティアーズイヤリング",
-    "note": "７章",
-    "params": [
-      0,
-      0,
-      13,
-      0,
-      114,
-      0,
-      0,
-      0
-    ],
-    "price": 16800
-  },
-  {
-    "id": 35,
-    "atypeId": 1,
-    "description": "神秘の力を授かると言い伝えられている耳飾り\n［聖心力＋１２２］［抵抗力＋１５］［最大ＳＰ＋１６％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.16
-      }
-    ],
-    "iconIndex": 219,
-    "name": "神秘の耳飾り",
-    "note": "８章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      122,
-      15,
-      0,
-      0
-    ],
-    "price": 20000
-  },
-  {
-    "id": 36,
-    "atypeId": 1,
-    "description": "七色に輝くイヤリング　\n［聖心力＋１２５］［攻撃力＋１５］［最大ＳＰ＋１６％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.16
-      }
-    ],
-    "iconIndex": 219,
-    "name": "レインボーイヤリング",
-    "note": "８章",
-    "params": [
-      0,
-      0,
-      15,
-      0,
-      125,
-      0,
-      0,
-      0
-    ],
-    "price": 21000
-  },
-  {
-    "id": 37,
-    "atypeId": 1,
-    "description": "双子の天使が装飾された耳飾り\n［聖心力＋１４０］［抵抗力＋１８］［最大ＳＰ＋１８％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.18
-      }
-    ],
-    "iconIndex": 219,
-    "name": "天使の耳飾り",
-    "note": "９章",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      140,
-      18,
-      0,
-      0
-    ],
-    "price": 28000
-  },
-  {
-    "id": 38,
-    "atypeId": 1,
-    "description": "闇を薙ぎ払うかの如く強く光り輝く耳飾り\n［聖心力＋１５０］［攻撃力＋１８］［最大ＳＰ＋２０％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.2
-      }
-    ],
-    "iconIndex": 219,
-    "name": "閃光の耳飾り",
-    "note": "９章",
-    "params": [
-      0,
-      0,
-      18,
-      0,
-      150,
-      0,
-      0,
-      0
-    ],
-    "price": 34000
-  },
-  {
-    "id": 39,
-    "atypeId": 1,
-    "description": "清き心を持つ者だけに神聖なる力が与えられる\n［聖心力＋１８０］［攻撃力＋２０］［最大ＳＰ＋２０％］",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.2
-      }
-    ],
-    "iconIndex": 219,
-    "name": "★ホーリーピアス★",
-    "note": "※ピエル全て発見報酬報酬ピアス",
-    "params": [
-      0,
-      0,
-      20,
-      0,
-      180,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 40,
-    "atypeId": 1,
-    "description": "章が進むと入荷するかも……",
-    "etypeId": 2,
-    "traits": [],
-    "iconIndex": 219,
-    "name": "未入荷",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 999999
-  },
-  {
-    "id": 41,
-    "atypeId": 1,
-    "description": "誕生日に\\N[6]からプレゼントされたリボン［追加外装］\n［スピード＋１０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "赤色のリボン",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      10,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 42,
-    "atypeId": 1,
-    "description": "柔道を志す者のための心得。［追加外装］\n装備する事により柔道家相手の試合を有利に戦える。",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "柔道の心得",
-    "note": "【\\i[220]柔道の心得】を手に入れた！",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 43,
-    "atypeId": 1,
-    "description": "有名な神社のお守り［追加外装］\n［最大ＨＰ＋１００］［スピード＋１０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "健康祈願のお守り",
-    "note": "",
-    "params": [
-      100,
-      0,
-      0,
-      0,
-      0,
-      0,
-      10,
-      0
-    ],
-    "price": 550
-  },
-  {
-    "id": 44,
-    "atypeId": 1,
-    "description": "花柄の刺繍が施されたシュシュ［追加外装］\n［最大ＳＰ＋２０］［スピード＋５］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "花柄のシュシュ",
-    "note": "【\\i[220]花柄のシュシュ】を手に入れた！\n大門駅のコインロッカー",
-    "params": [
-      0,
-      20,
-      0,
-      0,
-      0,
-      0,
-      5,
-      0
-    ],
-    "price": 600
-  },
-  {
-    "id": 45,
-    "atypeId": 1,
-    "description": "先芯入りの作業靴　［追加外装］\n［防御力＋５］［地形ダメージ無効］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 8,
-        "value": 0
-      }
-    ],
-    "iconIndex": 220,
-    "name": "安全靴",
-    "note": "２章のダンジョン内から出た肉マサ屋内",
-    "params": [
-      0,
-      0,
-      0,
-      5,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 550
-  },
-  {
-    "id": 46,
-    "atypeId": 1,
-    "description": "陸上選手用の運動靴［追加外装］\n［防御力＋５］［スピード＋１５］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "陸上シューズ",
-    "note": "【\\i[220]陸上シューズ】を手に入れた！",
-    "params": [
-      0,
-      0,
-      0,
-      5,
-      0,
-      0,
-      15,
-      0
-    ],
-    "price": 700
-  },
-  {
-    "id": 47,
-    "atypeId": 1,
-    "description": "ありふれた市販のサングラス［追加外装］\n［防御力＋５］［暗闇無効］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 14,
-        "dataId": 5,
-        "value": 1
-      }
-    ],
-    "iconIndex": 220,
-    "name": "サングラス",
-    "note": "【\\i[224]サングラス】を手に入れた！",
-    "params": [
-      0,
-      0,
-      0,
-      5,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 1000
-  },
-  {
-    "id": 48,
-    "atypeId": 1,
-    "description": "少しエッチな黒の網タイツ［追加外装］\n［防御力＋２］［淫乱度＋６］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 288,
-    "name": "網タイツ",
-    "note": "【\\i[288]網タイツ】を手に入れた！",
-    "params": [
-      0,
-      0,
-      0,
-      2,
-      0,
-      0,
-      0,
-      6
-    ],
-    "price": 1200
-  },
-  {
-    "id": 49,
-    "atypeId": 1,
-    "description": "細菌をしっかり防ぐ事の出来る医療用マスク　［追加外装］\n［防御力＋２］［毒無効］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 14,
-        "dataId": 4,
-        "value": 1
-      }
-    ],
-    "iconIndex": 220,
-    "name": "防疫マスク",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      2,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 550
-  },
-  {
-    "id": 50,
-    "atypeId": 1,
-    "description": "湘東学園の体操着　ブルマとセット［追加外装］\n［防御力＋８］［スピード＋１８］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "体操着",
-    "note": "３章から",
-    "params": [
-      0,
-      0,
-      0,
-      8,
-      0,
-      0,
-      18,
-      0
-    ],
-    "price": 1800
-  },
-  {
-    "id": 51,
-    "atypeId": 1,
-    "description": "ピンク色の可愛らしいシュシュ　［追加外装］\n［防御力＋１０］［スピード＋５］［最大ＨＰ＋５％ＵＰ］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 0,
-        "value": 1.05
-      }
-    ],
-    "iconIndex": 220,
-    "name": "サクラ柄のシュシュ",
-    "note": "小さなコインの報酬",
-    "params": [
-      0,
-      0,
-      0,
-      10,
-      0,
-      0,
-      5,
-      0
-    ],
-    "price": 2500
-  },
-  {
-    "id": 52,
-    "atypeId": 1,
-    "description": "シルクで出来た高級スカーフ［追加外装］\n［聖心力＋１０］［抵抗力＋１０］［スピード＋１０］［麻痺無効］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 14,
-        "dataId": 33,
-        "value": 1
-      }
-    ],
-    "iconIndex": 220,
-    "name": "シルクのスカーフ",
-    "note": "小さなコインの報酬",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      10,
-      10,
-      10,
-      0
-    ],
-    "price": 3800
-  },
-  {
-    "id": 53,
-    "atypeId": 1,
-    "description": "正義印のバッジ［追加外装］\n［防御力＋５］［スピード＋１０］［ターン終了時、聖力をわずかに回復］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 9,
-        "value": 0.01
-      }
-    ],
-    "iconIndex": 220,
-    "name": "正義バッジ",
-    "note": "小さなコインの報酬",
-    "params": [
-      0,
-      0,
-      0,
-      5,
-      0,
-      0,
-      10,
-      0
-    ],
-    "price": 5500
-  },
-  {
-    "id": 54,
-    "atypeId": 1,
-    "description": "大人のエロい女性が履いていそうな真っ赤なハイヒール［追加外装］\n［攻撃力＋１０］［スピード＋１０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 160,
-    "name": "真っ赤なハイヒール",
-    "note": "３章から(蒼星の鍵で大門駅前の亀田家別宅)",
-    "params": [
-      0,
-      0,
-      10,
-      0,
-      0,
-      0,
-      10,
-      0
-    ],
-    "price": 2800
-  },
-  {
-    "id": 55,
-    "atypeId": 1,
-    "description": "有名ブランド、ナイキンの人気シューズ［追加外装］\n［防御力＋１０］［スピード＋２０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "エアーマックス",
-    "note": "３章から",
-    "params": [
-      0,
-      0,
-      0,
-      10,
-      0,
-      0,
-      20,
-      0
-    ],
-    "price": 2800
-  },
-  {
-    "id": 56,
-    "atypeId": 1,
-    "description": "聖なる力が宿る護符［追加外装］\n［スピード＋１０］［ターン終了時、聖力をわずかに回復］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 9,
-        "value": 0.01
-      }
-    ],
-    "iconIndex": 220,
-    "name": "聖なる護符",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      10,
-      0
-    ],
-    "price": 5000
-  },
-  {
-    "id": 57,
-    "atypeId": 1,
-    "description": "想い人の写真をヘッドに忍ばせたペンダント［追加外装］\n［攻撃力＋１０］［防御力＋１０］［抵抗力＋１０］［スピード＋１０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 199,
-    "name": "ロケットペンダント",
-    "note": "",
-    "params": [
-      0,
-      0,
-      10,
-      10,
-      0,
-      10,
-      10,
-      0
-    ],
-    "price": 4800
-  },
-  {
-    "id": 58,
-    "atypeId": 1,
-    "description": "超人気ブランド、ガレックスの高級腕時計［追加外装］\n［攻撃力＋２５］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 224,
-    "name": "ガレックスの腕時計",
-    "note": "",
-    "params": [
-      0,
-      0,
-      25,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 12500
-  },
-  {
-    "id": 59,
-    "atypeId": 1,
-    "description": "コットンで編みこまれた温かいマフラー［追加外装］\n［防御力＋１５］［抵抗力＋１５］［スピード＋２０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "コットンマフラー",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      15,
-      0,
-      15,
-      20,
-      0
-    ],
-    "price": 7700
-  },
-  {
-    "id": 60,
-    "atypeId": 1,
-    "description": "しっかり命を守る特殊ベスト　［追加外装］\n［防御力＋２５］［スピードー５］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 220,
-    "name": "防弾チョッキ",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      25,
-      0,
-      0,
-      -5,
-      0
-    ],
-    "price": 11000
-  },
-  {
-    "id": 61,
-    "atypeId": 1,
-    "description": "女の子の必須アイテム　身だしなみは何より大事［追加外装］\n［防御力ー１５］［抵抗力ー１５］［聖心力＋２０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 160,
-    "name": "お化粧ポーチ",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      -15,
-      20,
-      -15,
-      0,
-      0
-    ],
-    "price": 3800
-  },
-  {
-    "id": 62,
-    "atypeId": 1,
-    "description": "伝説のアイドル姫宮が着ていたセーラー服［追加外装］\n［毒、麻痺無効］［ターン終了時、ＨＰとＳＰと聖力をわずかに回復］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 8,
-        "value": 0.01
-      },
-      {
-        "code": 22,
-        "dataId": 7,
-        "value": 0.01
-      },
-      {
-        "code": 22,
-        "dataId": 9,
-        "value": 0.01
-      },
-      {
-        "code": 14,
-        "dataId": 4,
-        "value": 1
-      },
-      {
-        "code": 14,
-        "dataId": 33,
-        "value": 1
-      }
-    ],
-    "iconIndex": 256,
-    "name": "★伝説のセーラー服★",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 63,
-    "atypeId": 1,
-    "description": "持っているだけで御利益があると言われている石［追加外装］\n［抵抗力＋１８］［スピード＋１８］［取得経験値＋２０％］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 9,
-        "value": 1.2
-      }
-    ],
-    "iconIndex": 160,
-    "name": "パワーストーン",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      18,
-      18,
-      0
-    ],
-    "price": 13500
-  },
-  {
-    "id": 64,
-    "atypeId": 1,
-    "description": "べっ甲で作られた高級な数珠［追加外装］\n［聖心力＋１０］［最大ＳＰ＋５０］［ＳＰの消費を僅かに軽減する］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 4,
-        "value": 0.9
-      }
-    ],
-    "iconIndex": 160,
-    "name": "べっ甲の数珠",
-    "note": "",
-    "params": [
-      0,
-      50,
-      0,
-      0,
-      10,
-      0,
-      0,
-      0
-    ],
-    "price": 21000
-  },
-  {
-    "id": 65,
-    "atypeId": 1,
-    "description": "女の子向けに作られた可愛くておしゃれなベルト［追加外装］\n［防御力＋２０］［抵抗力＋２０］［スピード＋２０］［麻痺無効］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 14,
-        "dataId": 33,
-        "value": 1
-      }
-    ],
-    "iconIndex": 160,
-    "name": "ガールズベルト",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      20,
-      20,
-      0,
-      20,
-      0
-    ],
-    "price": 14600
-  },
-  {
-    "id": 66,
-    "atypeId": 1,
-    "description": "水晶をあしらわれた美しく輝くティアラ［追加外装］\n［抵抗力＋２５］［スピード＋３０］［稀に２回行動が発生する］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 61,
-        "dataId": 0,
-        "value": 0.1
-      }
-    ],
-    "iconIndex": 160,
-    "name": "クリスタルティアラ",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      25,
-      30,
-      0
-    ],
-    "price": 23500
-  },
-  {
-    "id": 67,
-    "atypeId": 1,
-    "description": "サクラ色の可愛いアンクレット［追加外装］\n［防御力＋１０］［スピード＋３５］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 160,
-    "name": "ピンクアンクレット",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      10,
-      0,
-      0,
-      35,
-      0
-    ],
-    "price": 4500
-  },
-  {
-    "id": 68,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 69,
-    "atypeId": 1,
-    "description": "十字のヘッドから眩い光を放つペンダント［追加外装］\n［防御力＋２０］［抵抗力＋２０］［聖心力＋２０］［最大ＳＰ＋１０％］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 21,
-        "dataId": 1,
-        "value": 1.1
-      }
-    ],
-    "iconIndex": 213,
-    "name": "★聖光ペンダント★",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      20,
-      20,
-      20,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 70,
-    "atypeId": 1,
-    "description": "めったに見かけない四葉のクローバー　［追加外装］\n［回復効果＋１５％］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 2,
-        "value": 1.15
-      }
-    ],
-    "iconIndex": 256,
-    "name": "四葉のクローバー",
-    "note": "敵のレアドロ",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 20000
-  },
-  {
-    "id": 71,
-    "atypeId": 1,
-    "description": "１００万分の１の確率で発見される希少な五葉のクローバー［追加外装］　\n［回復効果＋２０％］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 2,
-        "value": 1.2
-      }
-    ],
-    "iconIndex": 256,
-    "name": "五葉のクローバー",
-    "note": "敵のレアドロ",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 40000
-  },
-  {
-    "id": 72,
-    "atypeId": 1,
-    "description": "１６００万分の１で発見される超希少な六葉のクローバー［追加外装］\n［回復効果＋２５％］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 23,
-        "dataId": 2,
-        "value": 1.25
-      }
-    ],
-    "iconIndex": 256,
-    "name": "六葉のクローバー",
-    "note": "敵のレアドロ",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 60000
-  },
-  {
-    "id": 73,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 74,
-    "atypeId": 1,
-    "description": "とある少女が身に付けていた髪紐。白い染みが付着している。\n［攻撃力＋１０］［防御力＋３０］［抵抗力＋３０］［スピード＋３０］",
-    "etypeId": 4,
-    "traits": [],
-    "iconIndex": 240,
-    "name": "京華堂の髪紐",
-    "note": "【\\i[240]京華堂の髪紐】を手に入れた！",
-    "params": [
-      0,
-      0,
-      10,
-      30,
-      0,
-      30,
-      30,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 75,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 76,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 77,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 78,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 79,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 80,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 81,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 82,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 83,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 84,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 85,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 86,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 87,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 88,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 89,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 90,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 91,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 92,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 93,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 94,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 95,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 96,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 97,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 98,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 99,
-    "atypeId": 1,
-    "description": "身に着けているだけで幸せが訪れる［\\C[17]イージーモード専用追加外装\\C[0]］\n［敵からの取得経験値２倍］［敵からの獲得金額２倍］",
-    "etypeId": 4,
-    "traits": [
-      {
-        "code": 64,
-        "dataId": 4,
-        "value": 1
-      },
-      {
-        "code": 23,
-        "dataId": 9,
-        "value": 2
-      }
-    ],
-    "iconIndex": 220,
-    "name": "幸せのお守り",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 0
-  },
-  {
-    "id": 100,
-    "atypeId": 0,
-    "description": "未入荷の商品",
-    "etypeId": 2,
-    "traits": [
-      {
-        "code": 22,
-        "dataId": 1,
-        "value": 0
-      }
-    ],
-    "iconIndex": 224,
-    "name": "未入荷",
-    "note": "",
-    "params": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    "price": 999999
-  }
+    null,
+    {
+        "id": 1,
+        "atypeId": 1,
+        "description": "安価なブロンズで作られた指輪\n［防御力＋５］［抵抗力＋５］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "ブロンズリング",
+        "note": "１章\n１章のダンジョン内",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 600
+    },
+    {
+        "id": 2,
+        "atypeId": 1,
+        "description": "銀細工が施されたシンプルで定番の指輪\n［防御力＋１０］［抵抗力＋７］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "シルバーリング",
+        "note": "１章",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 900
+    },
+    {
+        "id": 3,
+        "atypeId": 1,
+        "description": "チタン製の頑丈な指輪　デザイン性は皆無\n［防御力＋１２］［抵抗力＋１０］［最大ＨＰ＋５０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "チタンリング",
+        "note": "２章",
+        "params": [
+            50,
+            0,
+            0,
+            12,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 1400
+    },
+    {
+        "id": 4,
+        "atypeId": 1,
+        "description": "真紅に燃える炎のデザイン\n［防御力＋１５］［抵抗力＋１８］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "紅の指輪",
+        "note": "２章",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            18,
+            0,
+            0
+        ],
+        "price": 2600
+    },
+    {
+        "id": 5,
+        "atypeId": 1,
+        "description": "奇妙な螺旋模様が刻まれた指輪\n［防御力＋１８］［抵抗力＋２０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "螺旋の指輪",
+        "note": "３章",
+        "params": [
+            0,
+            0,
+            0,
+            18,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 2400
+    },
+    {
+        "id": 6,
+        "atypeId": 1,
+        "description": "不屈の魂が宿るといわれている指輪\n［防御力＋２２］［抵抗力＋１６］［最大ＨＰ＋１００］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "不屈の指輪",
+        "note": "３章",
+        "params": [
+            100,
+            0,
+            0,
+            22,
+            0,
+            16,
+            0,
+            0
+        ],
+        "price": 3800
+    },
+    {
+        "id": 7,
+        "atypeId": 1,
+        "description": "恐怖を背にした者だけに活路が見いだされる\n［防御力＋５］［抵抗力＋５］［攻撃力＋２０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "背水の指輪",
+        "note": "４章",
+        "params": [
+            0,
+            0,
+            20,
+            5,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 6600
+    },
+    {
+        "id": 8,
+        "atypeId": 1,
+        "description": "水晶で作られた綺麗な指輪\n［防御力＋２７］［抵抗力＋３２］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "クリスタルリング",
+        "note": "４章",
+        "params": [
+            0,
+            0,
+            0,
+            27,
+            0,
+            32,
+            0,
+            0
+        ],
+        "price": 7400
+    },
+    {
+        "id": 9,
+        "atypeId": 1,
+        "description": "珊瑚の欠片があしらわれた指輪\n［防御力＋３８］［抵抗力＋４３］［最大ＨＰ＋２００］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "珊瑚の指輪",
+        "note": "５章",
+        "params": [
+            200,
+            0,
+            0,
+            38,
+            0,
+            43,
+            0,
+            0
+        ],
+        "price": 9000
+    },
+    {
+        "id": 10,
+        "atypeId": 1,
+        "description": "ホワイトオパールで作られた真っ白な指輪\n［防御力＋５３］［抵抗力＋４８］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "ホワイトリング",
+        "note": "５章",
+        "params": [
+            0,
+            0,
+            0,
+            53,
+            0,
+            48,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 11,
+        "atypeId": 1,
+        "description": "指輪の内側に砂時計の絵が刻まれている\n［防御力＋７３］［抵抗力＋８０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "時の指輪",
+        "note": "６章",
+        "params": [
+            0,
+            0,
+            0,
+            73,
+            0,
+            80,
+            0,
+            0
+        ],
+        "price": 12200
+    },
+    {
+        "id": 12,
+        "atypeId": 1,
+        "description": "新素材タンタルで作られた個性派の指輪\n［防御力＋８０］［抵抗力＋７２］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "ブラックリング",
+        "note": "６章",
+        "params": [
+            0,
+            0,
+            0,
+            80,
+            0,
+            72,
+            0,
+            0
+        ],
+        "price": 13000
+    },
+    {
+        "id": 13,
+        "atypeId": 1,
+        "description": "聖者が身に着けていた魔除けの指輪\n［防御力＋９８］［抵抗力＋１０８］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "聖者の指輪",
+        "note": "７章",
+        "params": [
+            0,
+            0,
+            0,
+            98,
+            0,
+            108,
+            0,
+            0
+        ],
+        "price": 16400
+    },
+    {
+        "id": 14,
+        "atypeId": 1,
+        "description": "レアメタル、ゴールドで作られた高価な指輪\n［防御力＋１２０］［抵抗力＋１０８］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "ゴールドリング",
+        "note": "７章",
+        "params": [
+            0,
+            0,
+            0,
+            120,
+            0,
+            108,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 15,
+        "atypeId": 1,
+        "description": "星屑のようにキラキラ輝く宝石が散りばめられた指輪\n［防御力＋１３５］［抵抗力＋１６０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "星屑の指輪",
+        "note": "８章",
+        "params": [
+            0,
+            0,
+            0,
+            135,
+            0,
+            160,
+            0,
+            0
+        ],
+        "price": 24500
+    },
+    {
+        "id": 16,
+        "atypeId": 1,
+        "description": "レアメタル、プラチナで作られた非常に高価な指輪　\n［防御力＋１７０］［抵抗力＋１５０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "プラチナリング",
+        "note": "８章",
+        "params": [
+            0,
+            0,
+            0,
+            170,
+            0,
+            150,
+            0,
+            0
+        ],
+        "price": 32000
+    },
+    {
+        "id": 17,
+        "atypeId": 1,
+        "description": "身に付ける者を邪から守ると伝えられている希少な指輪\n［防御力＋２００］［抵抗力＋２２０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "ガードリング",
+        "note": "９章",
+        "params": [
+            0,
+            0,
+            0,
+            200,
+            0,
+            200,
+            0,
+            0
+        ],
+        "price": 46000
+    },
+    {
+        "id": 18,
+        "atypeId": 1,
+        "description": "双子の天使が装飾された指輪\n［防御力＋２２０］［抵抗力＋２２０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "天使の指輪",
+        "note": "９章",
+        "params": [
+            0,
+            0,
+            0,
+            220,
+            0,
+            220,
+            0,
+            0
+        ],
+        "price": 55000
+    },
+    {
+        "id": 19,
+        "atypeId": 1,
+        "description": "身に着ける者に女神の加護があると言い伝えれている指輪\n［防御力＋２５０］［抵抗力＋２５０］",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "★女神の指輪★",
+        "note": "※小さなコイン完全クリア　リング",
+        "params": [
+            0,
+            0,
+            0,
+            250,
+            0,
+            250,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 1,
+        "description": "章が進むと入荷するかも……",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 194,
+        "name": "未入荷",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999
+    },
+    {
+        "id": 21,
+        "atypeId": 1,
+        "description": "銀細工が施されたシンプルで定番のピアス\n［聖心力＋５］",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 219,
+        "name": "シルバーピアス",
+        "note": "【\\i[219]シルバーピアス】を手に入れた！\n１章\n１章のダンジョン内\n２章のダンジョン内",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "price": 600
+    },
+    {
+        "id": 22,
+        "atypeId": 1,
+        "description": "星模様の細工が施されたピアス\n［聖心力＋１２］",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 219,
+        "name": "スターピアス",
+        "note": "１章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            12,
+            0,
+            0,
+            0
+        ],
+        "price": 900
+    },
+    {
+        "id": 23,
+        "atypeId": 1,
+        "description": "丸く歪んだ自然なラインが温かみを出している\n［聖心力＋１８］",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 219,
+        "name": "ラウンドピアス",
+        "note": "２章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            18,
+            0,
+            0,
+            0
+        ],
+        "price": 1500
+    },
+    {
+        "id": 24,
+        "atypeId": 1,
+        "description": "月の欠片をあしらったピアス\n［聖心力＋２４］［最大ＳＰ＋３％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.03
+            }
+        ],
+        "iconIndex": 219,
+        "name": "ムーンイヤリング",
+        "note": "２章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            24,
+            0,
+            0,
+            0
+        ],
+        "price": 2200
+    },
+    {
+        "id": 25,
+        "atypeId": 1,
+        "description": "隕石から作られたイヤリング\n［聖心力＋３８］［抵抗力＋３］［最大ＳＰ＋５％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.05
+            }
+        ],
+        "iconIndex": 219,
+        "name": "コメットイヤリング",
+        "note": "３章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            38,
+            3,
+            0,
+            0
+        ],
+        "price": 3800
+    },
+    {
+        "id": 26,
+        "atypeId": 1,
+        "description": "雷のマークが施されたピアス\n［聖心力＋４２］［攻撃力＋３］［最大ＳＰ＋５％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.05
+            }
+        ],
+        "iconIndex": 219,
+        "name": "サンダーピアス",
+        "note": "３章",
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            42,
+            0,
+            0,
+            0
+        ],
+        "price": 4200
+    },
+    {
+        "id": 27,
+        "atypeId": 1,
+        "description": "琥珀であしらわれたピアス\n［聖心力＋５２］［抵抗力＋５］［最大ＳＰ＋８％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.08
+            }
+        ],
+        "iconIndex": 219,
+        "name": "琥珀のピアス",
+        "note": "４章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            52,
+            5,
+            0,
+            0
+        ],
+        "price": 7200
+    },
+    {
+        "id": 28,
+        "atypeId": 1,
+        "description": "太陽柄の模様が施された耳飾り\n［聖心力＋５６］［攻撃力＋５］［最大ＳＰ＋８％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.08
+            }
+        ],
+        "iconIndex": 219,
+        "name": "太陽の耳飾り",
+        "note": "４章",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            56,
+            0,
+            0,
+            0
+        ],
+        "price": 7800
+    },
+    {
+        "id": 29,
+        "atypeId": 1,
+        "description": "身に着ける者の力を引き出すと伝わるイヤリング\n［聖心力＋７３］［抵抗力＋８］［最大ＳＰ＋１０％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 219,
+        "name": "フォースイヤリング",
+        "note": "５章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            73,
+            8,
+            0,
+            0
+        ],
+        "price": 9600
+    },
+    {
+        "id": 30,
+        "atypeId": 1,
+        "description": "綺麗な星模様があしらわれたイヤリング\n［聖心力＋７９］［攻撃力＋８］［最大ＳＰ＋１０％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 219,
+        "name": "星のイヤリング",
+        "note": "５章",
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            79,
+            0,
+            0,
+            0
+        ],
+        "price": 10600
+    },
+    {
+        "id": 31,
+        "atypeId": 1,
+        "description": "闇夜の如く漆黒のピアス\n［聖心力＋９２］［抵抗力＋１０］［最大ＳＰ＋１２％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.12
+            }
+        ],
+        "iconIndex": 219,
+        "name": "ナイトピアス",
+        "note": "６章",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            92,
+            0,
+            0,
+            0
+        ],
+        "price": 12000
+    },
+    {
+        "id": 32,
+        "atypeId": 1,
+        "description": "翼の模様が刻まれたピアス\n［聖心力＋９９］［攻撃力＋１０］［最大ＳＰ＋１２％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.12
+            }
+        ],
+        "iconIndex": 219,
+        "name": "ウイングピアス",
+        "note": "６章",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            99,
+            0,
+            0,
+            0
+        ],
+        "price": 13000
+    },
+    {
+        "id": 33,
+        "atypeId": 1,
+        "description": "希少鉱ミスリルで作られたピアス\n［聖心力＋１１０］［抵抗力＋１３］［最大ＳＰ＋１４％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.14
+            }
+        ],
+        "iconIndex": 219,
+        "name": "ミスリルピアス",
+        "note": "７章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            110,
+            13,
+            0,
+            0
+        ],
+        "price": 16000
+    },
+    {
+        "id": 34,
+        "atypeId": 1,
+        "description": "涙の形をした光り輝くイヤリング\n［聖心力＋１１４］［攻撃力＋１３］［最大ＳＰ＋１４％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.14
+            }
+        ],
+        "iconIndex": 219,
+        "name": "ティアーズイヤリング",
+        "note": "７章",
+        "params": [
+            0,
+            0,
+            13,
+            0,
+            114,
+            0,
+            0,
+            0
+        ],
+        "price": 16800
+    },
+    {
+        "id": 35,
+        "atypeId": 1,
+        "description": "神秘の力を授かると言い伝えられている耳飾り\n［聖心力＋１２２］［抵抗力＋１５］［最大ＳＰ＋１６％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.16
+            }
+        ],
+        "iconIndex": 219,
+        "name": "神秘の耳飾り",
+        "note": "８章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            122,
+            15,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 36,
+        "atypeId": 1,
+        "description": "七色に輝くイヤリング　\n［聖心力＋１２５］［攻撃力＋１５］［最大ＳＰ＋１６％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.16
+            }
+        ],
+        "iconIndex": 219,
+        "name": "レインボーイヤリング",
+        "note": "８章",
+        "params": [
+            0,
+            0,
+            15,
+            0,
+            125,
+            0,
+            0,
+            0
+        ],
+        "price": 21000
+    },
+    {
+        "id": 37,
+        "atypeId": 1,
+        "description": "双子の天使が装飾された耳飾り\n［聖心力＋１４０］［抵抗力＋１８］［最大ＳＰ＋１８％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.18
+            }
+        ],
+        "iconIndex": 219,
+        "name": "天使の耳飾り",
+        "note": "９章",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            140,
+            18,
+            0,
+            0
+        ],
+        "price": 28000
+    },
+    {
+        "id": 38,
+        "atypeId": 1,
+        "description": "闇を薙ぎ払うかの如く強く光り輝く耳飾り\n［聖心力＋１５０］［攻撃力＋１８］［最大ＳＰ＋２０％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 219,
+        "name": "閃光の耳飾り",
+        "note": "９章",
+        "params": [
+            0,
+            0,
+            18,
+            0,
+            150,
+            0,
+            0,
+            0
+        ],
+        "price": 34000
+    },
+    {
+        "id": 39,
+        "atypeId": 1,
+        "description": "清き心を持つ者だけに神聖なる力が与えられる\n［聖心力＋１８０］［攻撃力＋２０］［最大ＳＰ＋２０％］",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 219,
+        "name": "★ホーリーピアス★",
+        "note": "※ピエル全て発見報酬報酬ピアス",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            180,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 40,
+        "atypeId": 1,
+        "description": "章が進むと入荷するかも……",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 219,
+        "name": "未入荷",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999
+    },
+    {
+        "id": 41,
+        "atypeId": 1,
+        "description": "誕生日に\\N[6]からプレゼントされたリボン［追加外装］\n［スピード＋１０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "赤色のリボン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 42,
+        "atypeId": 1,
+        "description": "柔道を志す者のための心得。［追加外装］\n装備する事により柔道家相手の試合を有利に戦える。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "柔道の心得",
+        "note": "【\\i[220]柔道の心得】を手に入れた！",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 43,
+        "atypeId": 1,
+        "description": "有名な神社のお守り［追加外装］\n［最大ＨＰ＋１００］［スピード＋１０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "健康祈願のお守り",
+        "note": "",
+        "params": [
+            100,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 550
+    },
+    {
+        "id": 44,
+        "atypeId": 1,
+        "description": "花柄の刺繍が施されたシュシュ［追加外装］\n［最大ＳＰ＋２０］［スピード＋５］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "花柄のシュシュ",
+        "note": "【\\i[220]花柄のシュシュ】を手に入れた！\n大門駅のコインロッカー",
+        "params": [
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "price": 600
+    },
+    {
+        "id": 45,
+        "atypeId": 1,
+        "description": "先芯入りの作業靴　［追加外装］\n［防御力＋５］［地形ダメージ無効］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 8,
+                "value": 0
+            }
+        ],
+        "iconIndex": 220,
+        "name": "安全靴",
+        "note": "２章のダンジョン内から出た肉マサ屋内",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 550
+    },
+    {
+        "id": 46,
+        "atypeId": 1,
+        "description": "陸上選手用の運動靴［追加外装］\n［防御力＋５］［スピード＋１５］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "陸上シューズ",
+        "note": "【\\i[220]陸上シューズ】を手に入れた！",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            15,
+            0
+        ],
+        "price": 700
+    },
+    {
+        "id": 47,
+        "atypeId": 1,
+        "description": "ありふれた市販のサングラス［追加外装］\n［防御力＋５］［暗闇無効］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 220,
+        "name": "サングラス",
+        "note": "【\\i[224]サングラス】を手に入れた！",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 48,
+        "atypeId": 1,
+        "description": "少しエッチな黒の網タイツ［追加外装］\n［防御力＋２］［淫乱度＋６］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 288,
+        "name": "網タイツ",
+        "note": "【\\i[288]網タイツ】を手に入れた！",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            6
+        ],
+        "price": 1200
+    },
+    {
+        "id": 49,
+        "atypeId": 1,
+        "description": "細菌をしっかり防ぐ事の出来る医療用マスク　［追加外装］\n［防御力＋２］［毒無効］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 220,
+        "name": "防疫マスク",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 550
+    },
+    {
+        "id": 50,
+        "atypeId": 1,
+        "description": "湘東学園の体操着　ブルマとセット［追加外装］\n［防御力＋８］［スピード＋１８］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "体操着",
+        "note": "３章から",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            18,
+            0
+        ],
+        "price": 1800
+    },
+    {
+        "id": 51,
+        "atypeId": 1,
+        "description": "ピンク色の可愛らしいシュシュ　［追加外装］\n［防御力＋１０］［スピード＋５］［最大ＨＰ＋５％ＵＰ］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.05
+            }
+        ],
+        "iconIndex": 220,
+        "name": "サクラ柄のシュシュ",
+        "note": "小さなコインの報酬",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            5,
+            0
+        ],
+        "price": 2500
+    },
+    {
+        "id": 52,
+        "atypeId": 1,
+        "description": "シルクで出来た高級スカーフ［追加外装］\n［聖心力＋１０］［抵抗力＋１０］［スピード＋１０］［麻痺無効］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 33,
+                "value": 1
+            }
+        ],
+        "iconIndex": 220,
+        "name": "シルクのスカーフ",
+        "note": "小さなコインの報酬",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            10,
+            10,
+            0
+        ],
+        "price": 3800
+    },
+    {
+        "id": 53,
+        "atypeId": 1,
+        "description": "正義印のバッジ［追加外装］\n［防御力＋５］［スピード＋１０］［ターン終了時、聖力をわずかに回復］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 9,
+                "value": 0.01
+            }
+        ],
+        "iconIndex": 220,
+        "name": "正義バッジ",
+        "note": "小さなコインの報酬",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 5500
+    },
+    {
+        "id": 54,
+        "atypeId": 1,
+        "description": "大人のエロい女性が履いていそうな真っ赤なハイヒール［追加外装］\n［攻撃力＋１０］［スピード＋１０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 160,
+        "name": "真っ赤なハイヒール",
+        "note": "３章から(蒼星の鍵で大門駅前の亀田家別宅)",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 2800
+    },
+    {
+        "id": 55,
+        "atypeId": 1,
+        "description": "有名ブランド、ナイキンの人気シューズ［追加外装］\n［防御力＋１０］［スピード＋２０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "エアーマックス",
+        "note": "３章から",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            20,
+            0
+        ],
+        "price": 2800
+    },
+    {
+        "id": 56,
+        "atypeId": 1,
+        "description": "聖なる力が宿る護符［追加外装］\n［スピード＋１０］［ターン終了時、聖力をわずかに回復］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 9,
+                "value": 0.01
+            }
+        ],
+        "iconIndex": 220,
+        "name": "聖なる護符",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 57,
+        "atypeId": 1,
+        "description": "想い人の写真をヘッドに忍ばせたペンダント［追加外装］\n［攻撃力＋１０］［防御力＋１０］［抵抗力＋１０］［スピード＋１０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 199,
+        "name": "ロケットペンダント",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            10,
+            0,
+            10,
+            10,
+            0
+        ],
+        "price": 4800
+    },
+    {
+        "id": 58,
+        "atypeId": 1,
+        "description": "超人気ブランド、ガレックスの高級腕時計［追加外装］\n［攻撃力＋２５］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 224,
+        "name": "ガレックスの腕時計",
+        "note": "",
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 12500
+    },
+    {
+        "id": 59,
+        "atypeId": 1,
+        "description": "コットンで編みこまれた温かいマフラー［追加外装］\n［防御力＋１５］［抵抗力＋１５］［スピード＋２０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "コットンマフラー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            15,
+            20,
+            0
+        ],
+        "price": 7700
+    },
+    {
+        "id": 60,
+        "atypeId": 1,
+        "description": "しっかり命を守る特殊ベスト　［追加外装］\n［防御力＋２５］［スピードー５］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 220,
+        "name": "防弾チョッキ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            0,
+            0,
+            -5,
+            0
+        ],
+        "price": 11000
+    },
+    {
+        "id": 61,
+        "atypeId": 1,
+        "description": "女の子の必須アイテム　身だしなみは何より大事［追加外装］\n［防御力ー１５］［抵抗力ー１５］［聖心力＋２０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 160,
+        "name": "お化粧ポーチ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            -15,
+            20,
+            -15,
+            0,
+            0
+        ],
+        "price": 3800
+    },
+    {
+        "id": 62,
+        "atypeId": 1,
+        "description": "伝説のアイドル姫宮が着ていたセーラー服［追加外装］\n［毒、麻痺無効］［ターン終了時、ＨＰとＳＰと聖力をわずかに回復］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.01
+            },
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.01
+            },
+            {
+                "code": 22,
+                "dataId": 9,
+                "value": 0.01
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 33,
+                "value": 1
+            }
+        ],
+        "iconIndex": 256,
+        "name": "★伝説のセーラー服★",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 63,
+        "atypeId": 1,
+        "description": "持っているだけで御利益があると言われている石［追加外装］\n［抵抗力＋１８］［スピード＋１８］［取得経験値＋２０％］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 160,
+        "name": "パワーストーン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            18,
+            18,
+            0
+        ],
+        "price": 13500
+    },
+    {
+        "id": 64,
+        "atypeId": 1,
+        "description": "べっ甲で作られた高級な数珠［追加外装］\n［聖心力＋１０］［最大ＳＰ＋５０］［ＳＰの消費を僅かに軽減する］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 4,
+                "value": 0.9
+            }
+        ],
+        "iconIndex": 160,
+        "name": "べっ甲の数珠",
+        "note": "",
+        "params": [
+            0,
+            50,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 21000
+    },
+    {
+        "id": 65,
+        "atypeId": 1,
+        "description": "女の子向けに作られた可愛くておしゃれなベルト［追加外装］\n［防御力＋２０］［抵抗力＋２０］［スピード＋２０］［麻痺無効］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 33,
+                "value": 1
+            }
+        ],
+        "iconIndex": 160,
+        "name": "ガールズベルト",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            20,
+            0,
+            20,
+            0
+        ],
+        "price": 14600
+    },
+    {
+        "id": 66,
+        "atypeId": 1,
+        "description": "水晶をあしらわれた美しく輝くティアラ［追加外装］\n［抵抗力＋２５］［スピード＋３０］［稀に２回行動が発生する］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 160,
+        "name": "クリスタルティアラ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            25,
+            30,
+            0
+        ],
+        "price": 23500
+    },
+    {
+        "id": 67,
+        "atypeId": 1,
+        "description": "サクラ色の可愛いアンクレット［追加外装］\n［防御力＋１０］［スピード＋３５］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 160,
+        "name": "ピンクアンクレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            35,
+            0
+        ],
+        "price": 4500
+    },
+    {
+        "id": 68,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 69,
+        "atypeId": 1,
+        "description": "十字のヘッドから眩い光を放つペンダント［追加外装］\n［防御力＋２０］［抵抗力＋２０］［聖心力＋２０］［最大ＳＰ＋１０％］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 213,
+        "name": "★聖光ペンダント★",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            20,
+            20,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 70,
+        "atypeId": 1,
+        "description": "めったに見かけない四葉のクローバー　［追加外装］\n［回復効果＋１５％］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 2,
+                "value": 1.15
+            }
+        ],
+        "iconIndex": 256,
+        "name": "四葉のクローバー",
+        "note": "敵のレアドロ",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 71,
+        "atypeId": 1,
+        "description": "１００万分の１の確率で発見される希少な五葉のクローバー［追加外装］　\n［回復効果＋２０％］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 2,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 256,
+        "name": "五葉のクローバー",
+        "note": "敵のレアドロ",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 40000
+    },
+    {
+        "id": 72,
+        "atypeId": 1,
+        "description": "１６００万分の１で発見される超希少な六葉のクローバー［追加外装］\n［回復効果＋２５％］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 2,
+                "value": 1.25
+            }
+        ],
+        "iconIndex": 256,
+        "name": "六葉のクローバー",
+        "note": "敵のレアドロ",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 60000
+    },
+    {
+        "id": 73,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 74,
+        "atypeId": 1,
+        "description": "とある少女が身に付けていた髪紐。白い染みが付着している。\n［攻撃力＋１０］［防御力＋３０］［抵抗力＋３０］［スピード＋３０］",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 240,
+        "name": "京華堂の髪紐",
+        "note": "【\\i[240]京華堂の髪紐】を手に入れた！",
+        "params": [
+            0,
+            0,
+            10,
+            30,
+            0,
+            30,
+            30,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 75,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 76,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 77,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 78,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 79,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 80,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 81,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 82,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 83,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 84,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 85,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 86,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 87,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 88,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 89,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 90,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 91,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 92,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 93,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 94,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 95,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 96,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 97,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 98,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 99,
+        "atypeId": 1,
+        "description": "身に着けているだけで幸せが訪れる［\\C[17]イージーモード専用追加外装\\C[0]］\n［敵からの取得経験値２倍］［敵からの獲得金額２倍］",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 64,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 2
+            }
+        ],
+        "iconIndex": 220,
+        "name": "幸せのお守り",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 100,
+        "atypeId": 0,
+        "description": "未入荷の商品",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 224,
+        "name": "未入荷",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 999999
+    }
 ]
