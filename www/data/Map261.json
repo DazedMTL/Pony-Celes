@@ -54223,7 +54223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員: \"This is the infirmary for those who've been knocked out by Pony-\nless.\""
+                                "Combatant: \"This is the infirmary for those who've been knocked out by\nPony Celes.\""
                             ]
                         },
                         {
@@ -54240,7 +54240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員: \"The number of patients has been increasing lately...\""
+                                "Combatant: \"The number of patients has been increasing lately...\""
                             ]
                         },
                         {
@@ -55611,7 +55611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員: \"You need something, right? Come on in.\""
+                                "Combatant: \"You need something, right? Come on in.\""
                             ]
                         },
                         {
@@ -57939,7 +57939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘員: \"Make sure you work hard here so you don't get transferred to the\nhideout.\""
+                                "Minion: \"Make sure you work hard here so you don't get transferred to\nthe hideout.\""
                             ]
                         },
                         {
