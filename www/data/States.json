@@ -382,7 +382,7 @@
         "name": "Double Action",
         "note": "",
         "overlay": 0,
-        "priority": 60,
+        "priority": 80,
         "removeAtBattleEnd": true,
         "removeByDamage": false,
         "removeByRestriction": false,

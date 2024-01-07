@@ -2140,7 +2140,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "Create an illusion of oneself, allowing for three actions over the course of\nthree turns.",
+        "description": "Create an illusion of oneself, allowing for double actions over the course of\nthree turns.",
         "effects": [
             {
                 "code": 21,
