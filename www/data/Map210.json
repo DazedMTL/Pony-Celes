@@ -13500,6 +13500,20 @@
                             ]
                         },
                         {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "SetPosLight 13 19 8 2 30"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "SetPosLight 25 19 8 2 30"
+                            ]
+                        },
+                        {
                             "code": 111,
                             "indent": 0,
                             "parameters": [

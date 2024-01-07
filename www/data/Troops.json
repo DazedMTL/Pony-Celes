@@ -19197,100 +19197,6 @@
             },
             {
                 "conditions": {
-                    "actorHp": 0,
-                    "actorId": 1,
-                    "actorValid": true,
-                    "enemyHp": 50,
-                    "enemyIndex": 0,
-                    "enemyValid": false,
-                    "switchId": 1,
-                    "switchValid": false,
-                    "turnA": 0,
-                    "turnB": 0,
-                    "turnEnding": false,
-                    "turnValid": false
-                },
-                "list": [
-                    {
-                        "code": 356,
-                        "indent": 0,
-                        "parameters": [
-                            "CPM_HIDE 1"
-                        ]
-                    },
-                    {
-                        "code": 250,
-                        "indent": 0,
-                        "parameters": [
-                            {
-                                "name": "se_s1_013",
-                                "volume": 90,
-                                "pitch": 100,
-                                "pan": 0
-                            }
-                        ]
-                    },
-                    {
-                        "code": 231,
-                        "indent": 0,
-                        "parameters": [
-                            1,
-                            "戦闘立ち絵_04",
-                            0,
-                            0,
-                            0,
-                            0,
-                            100,
-                            100,
-                            255,
-                            0
-                        ]
-                    },
-                    {
-                        "code": 232,
-                        "indent": 0,
-                        "parameters": [
-                            1,
-                            0,
-                            0,
-                            0,
-                            5,
-                            0,
-                            100,
-                            100,
-                            0,
-                            0,
-                            60,
-                            false
-                        ]
-                    },
-                    {
-                        "code": 242,
-                        "indent": 0,
-                        "parameters": [
-                            2
-                        ]
-                    },
-                    {
-                        "code": 313,
-                        "indent": 0,
-                        "parameters": [
-                            0,
-                            1,
-                            1,
-                            3
-                        ]
-                    },
-                    {
-                        "code": 0,
-                        "indent": 0,
-                        "parameters": []
-                    }
-                ],
-                "span": 0
-            },
-            {
-                "conditions": {
                     "actorHp": 50,
                     "actorId": 1,
                     "actorValid": false,
@@ -20510,6 +20416,314 @@
                     }
                 ],
                 "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 20,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 7,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Sword4",
+                                "volume": 85,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            20,
+                            "11_OP戦闘中カットイン_O",
+                            0,
+                            0,
+                            -800,
+                            0,
+                            100,
+                            100,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            20,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "サイミンダーグ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「このままなぶり殺すのもいいが……」"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "サイミンダーグ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「ふふふっ、面白い事を思いついたぞ」"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            19
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Sword4",
+                                "volume": 85,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            "11_OP戦闘中カットイン_M",
+                            0,
+                            0,
+                            800,
+                            0,
+                            100,
+                            100,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "SV_ボイスの演奏 kakeai_s6A_048"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ポニーセレス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「これ以上なにをする気……！？」"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "サイミンダーグ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「催眠術をバカにした罰だ、たっぷりと痴態を晒させてやろう」"
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Sword4",
+                                "volume": 85,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            0,
+                            0,
+                            0,
+                            800,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            false
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            20,
+                            0,
+                            0,
+                            0,
+                            -800,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            20
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            21
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            1,
+                            19
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            215
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
             }
         ]
     },
@@ -20570,100 +20784,6 @@
                             0,
                             0,
                             30
-                        ]
-                    },
-                    {
-                        "code": 0,
-                        "indent": 0,
-                        "parameters": []
-                    }
-                ],
-                "span": 0
-            },
-            {
-                "conditions": {
-                    "actorHp": 0,
-                    "actorId": 1,
-                    "actorValid": true,
-                    "enemyHp": 50,
-                    "enemyIndex": 0,
-                    "enemyValid": false,
-                    "switchId": 1,
-                    "switchValid": false,
-                    "turnA": 0,
-                    "turnB": 0,
-                    "turnEnding": false,
-                    "turnValid": false
-                },
-                "list": [
-                    {
-                        "code": 356,
-                        "indent": 0,
-                        "parameters": [
-                            "CPM_HIDE 1"
-                        ]
-                    },
-                    {
-                        "code": 250,
-                        "indent": 0,
-                        "parameters": [
-                            {
-                                "name": "se_s1_013",
-                                "volume": 90,
-                                "pitch": 100,
-                                "pan": 0
-                            }
-                        ]
-                    },
-                    {
-                        "code": 231,
-                        "indent": 0,
-                        "parameters": [
-                            1,
-                            "戦闘立ち絵_04",
-                            0,
-                            0,
-                            0,
-                            0,
-                            100,
-                            100,
-                            255,
-                            0
-                        ]
-                    },
-                    {
-                        "code": 232,
-                        "indent": 0,
-                        "parameters": [
-                            1,
-                            0,
-                            0,
-                            0,
-                            5,
-                            0,
-                            100,
-                            100,
-                            0,
-                            0,
-                            60,
-                            false
-                        ]
-                    },
-                    {
-                        "code": 242,
-                        "indent": 0,
-                        "parameters": [
-                            2
-                        ]
-                    },
-                    {
-                        "code": 313,
-                        "indent": 0,
-                        "parameters": [
-                            0,
-                            1,
-                            1,
-                            3
                         ]
                     },
                     {
@@ -21951,6 +22071,290 @@
                     "turnB": 0,
                     "turnEnding": true,
                     "turnValid": true
+                },
+                "list": [
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Sword4",
+                                "volume": 85,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            20,
+                            "11_OP戦闘中カットイン_O",
+                            0,
+                            0,
+                            -800,
+                            0,
+                            100,
+                            100,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            20,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "サイミンダーグ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「もう十分遊んだ。そろそろ頃合いだな」"
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            0,
+                            19
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Sword4",
+                                "volume": 85,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 231,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            "11_OP戦闘中カットイン_M",
+                            0,
+                            0,
+                            800,
+                            0,
+                            100,
+                            100,
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 356,
+                        "indent": 0,
+                        "parameters": [
+                            "SV_ボイスの演奏 kakeai_s6A_057"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "ポニーセレス"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「頃合い？ どういうこと！？」"
+                        ]
+                    },
+                    {
+                        "code": 101,
+                        "indent": 0,
+                        "parameters": [
+                            "",
+                            0,
+                            0,
+                            2
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "サイミンダーグ"
+                        ]
+                    },
+                    {
+                        "code": 401,
+                        "indent": 0,
+                        "parameters": [
+                            "「催眠術の本当の恐ろしさを見せてやると言っているのだ」"
+                        ]
+                    },
+                    {
+                        "code": 250,
+                        "indent": 0,
+                        "parameters": [
+                            {
+                                "name": "Sword4",
+                                "volume": 85,
+                                "pitch": 100,
+                                "pan": 0
+                            }
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            21,
+                            0,
+                            0,
+                            0,
+                            800,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            false
+                        ]
+                    },
+                    {
+                        "code": 232,
+                        "indent": 0,
+                        "parameters": [
+                            20,
+                            0,
+                            0,
+                            0,
+                            -800,
+                            0,
+                            100,
+                            100,
+                            255,
+                            0,
+                            10,
+                            true
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            20
+                        ]
+                    },
+                    {
+                        "code": 235,
+                        "indent": 0,
+                        "parameters": [
+                            21
+                        ]
+                    },
+                    {
+                        "code": 313,
+                        "indent": 0,
+                        "parameters": [
+                            0,
+                            0,
+                            1,
+                            19
+                        ]
+                    },
+                    {
+                        "code": 117,
+                        "indent": 0,
+                        "parameters": [
+                            215
+                        ]
+                    },
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            },
+            {
+                "conditions": {
+                    "actorHp": 20,
+                    "actorId": 1,
+                    "actorValid": true,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 9,
+                    "turnB": 0,
+                    "turnEnding": true,
+                    "turnValid": false
                 },
                 "list": [
                     {

@@ -101,7 +101,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "editMapId": 26,
+    "editMapId": 59,
     "elements": [
         "",
         "物理",
@@ -127,7 +127,7 @@
         "アクセサリー(指)",
         "追加外装"
     ],
-    "gameTitle": "",
+    "gameTitle": "聖光閃姫ポニーセレス_Ver1.01",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
@@ -147,7 +147,7 @@
         true
     ],
     "optDisplayTp": true,
-    "optDrawTitle": true,
+    "optDrawTitle": false,
     "optExtraExp": false,
     "optFloorDeath": false,
     "optFollowers": true,
@@ -1993,7 +1993,7 @@
         "",
         "デバック"
     ],
-    "versionId": 6591998,
+    "versionId": 17517624,
     "victoryMe": {
         "name": "ni_s1_008",
         "pan": 0,
